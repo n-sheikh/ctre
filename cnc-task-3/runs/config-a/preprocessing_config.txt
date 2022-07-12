@@ -1,0 +1,2 @@
+collate_fn_name: LLMCollateFn
+llm_name: bert-base-uncased
