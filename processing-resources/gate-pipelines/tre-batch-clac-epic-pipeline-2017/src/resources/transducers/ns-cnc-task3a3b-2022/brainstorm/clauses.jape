@@ -1,0 +1,49 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: Annotations to facilitate Brainstorming
+* Development Notes:
+* 	Annotates: VP, PP, NP, ADJP and ADVP
+* Use Notes:
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: Brainstorm
+Input: SyntaxTreeNode
+Options: control = all
+
+Rule: S
+(
+ {SyntaxTreeNode.cat == "S"}
+):sent -->
+{
+   gate.AnnotationSet sentAnnSet = (gate.AnnotationSet)bindings.get("sent");
+   gate.Annotation sentAnn = sentAnnSet.iterator().next();
+   gate.AnnotationSet overlappingAnns  = gate.Utils.getCoveringAnnotations(inputAS, sentAnn, "SyntaxTreeNode");
+   int counter = -1;
+   for(Annotation stnAnn: overlappingAnns){
+   	String cat = (String) stnAnn.getFeatures().get("cat");
+   	System.out.println(cat);
+   	if ( cat.equals("S")){
+   		counter++;
+   	}
+   }
+   gate.FeatureMap features = Factory.newFeatureMap();
+   features.put("embedding_level", counter);
+      outputAS.add(sentAnnSet.firstNode(), sentAnnSet.lastNode() ,"SENT", features);
+}
+
+Rule: SBAR
+(
+ {SyntaxTreeNode.cat == "SBAR"}
+):subordinatedClause -->
+{
+   gate.AnnotationSet subClsAnnSet = (gate.AnnotationSet)bindings.get("subordinatedClause");
+   gate.Annotation subClsAnn = subClsAnnSet.iterator().next();
+   outputAS.add(subClsAnnSet.firstNode(), subClsAnnSet.lastNode() ,"SUBC", Factory.newFeatureMap());  
+}
+
+

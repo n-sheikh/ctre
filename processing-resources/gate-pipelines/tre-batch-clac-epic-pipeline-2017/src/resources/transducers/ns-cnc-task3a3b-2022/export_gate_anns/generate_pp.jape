@@ -1,0 +1,32 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: PP
+* Development Notes:
+* Use Notes: PP - Brainstorm
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: AnnotatePPAnn
+Input: SyntaxTreeNode
+Options: control = all
+
+Rule: PP
+(
+ {SyntaxTreeNode.cat == "PP"}
+):prepPhaseAnn -->
+{
+   gate.AnnotationSet prepPhraseAnnSet = (gate.AnnotationSet)bindings.get("prepPhaseAnn");
+   gate.Annotation prepPhraseAnn = prepPhraseAnnSet.iterator().next();
+   List<Annotation> prepPhaseTokenAnnList = gate.Utils.inDocumentOrder(gate.Utils.getContainedAnnotations(inputAS, prepPhraseAnn, "Token"));
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   if(prepPhaseTokenAnnList.get(0).getFeatures().get("category").equals("IN")){
+   	features.put("IN", prepPhaseTokenAnnList.get(0).getFeatures().get("string"));	
+   }else{
+   	features.put("IN", "");
+   }
+   outputAS.add(prepPhraseAnn.getStartNode(), prepPhraseAnn.getEndNode(), "pp_ann", features);
+}

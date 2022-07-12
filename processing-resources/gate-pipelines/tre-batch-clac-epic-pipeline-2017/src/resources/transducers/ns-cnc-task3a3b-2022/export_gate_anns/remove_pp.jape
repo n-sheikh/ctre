@@ -1,0 +1,25 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: PP
+* Development Notes:
+* Use Notes: PP - Brainstorm
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: RemovePPAnn
+Input: pp_ann
+Options: control = all
+
+Rule: RemovePPAnn
+(
+ {pp_ann}
+):ppAnn -->
+{
+   gate.AnnotationSet ppAnnSet = (gate.AnnotationSet)bindings.get("ppAnn");
+   gate.Annotation ppAnn = ppAnnSet.iterator().next();
+   inputAS.remove(ppAnn);   
+}

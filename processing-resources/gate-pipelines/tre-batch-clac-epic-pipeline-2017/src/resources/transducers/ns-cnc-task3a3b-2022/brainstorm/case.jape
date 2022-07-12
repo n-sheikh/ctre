@@ -1,0 +1,33 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: Annotations to facilitate Brainstorming
+* Development Notes:
+* 	Annotates: VP, PP, NP, ADJP and ADVP
+* Use Notes:
+*/
+
+Imports:{
+   import static gate.Utils.*;
+   import java.util.HashMap;
+   import java.util.TreeMap;
+}
+
+Phase: Brainstorm
+Input: Dependency
+Options: control = all
+
+Rule: Dependency
+(
+ {Dependency.kind == "case"}
+):dep -->
+{
+   gate.AnnotationSet depAnnSet = (gate.AnnotationSet)bindings.get("dep");
+   gate.Annotation depAnn = depAnnSet.iterator().next();
+   ArrayList<Integer> args = (ArrayList<Integer>)depAnn.getFeatures().get("args");
+   for(Integer arg : args){
+   	gate.Annotation argAnn = inputAS.get(arg);
+   	System.out.println(argAnn.getFeatures().get("string"));
+   }
+}
+

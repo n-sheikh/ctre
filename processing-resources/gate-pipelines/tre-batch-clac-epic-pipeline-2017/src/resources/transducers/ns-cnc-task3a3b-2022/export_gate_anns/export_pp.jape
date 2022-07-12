@@ -1,0 +1,35 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: PP
+* Development Notes:
+* Use Notes: PP - Brainstorm
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: ExportPPAnn
+Input: export_ann
+Options: control = all
+
+Rule: ExportPPAnn
+(
+ {export_ann}
+):exportAnn -->
+{
+   gate.AnnotationSet exportAnnSet = (gate.AnnotationSet)bindings.get("exportAnn");
+   gate.Annotation exportAnn = exportAnnSet.iterator().next();
+   gate.AnnotationSet prepPhraseAnnSet = (gate.AnnotationSet)gate.Utils.getCoveringAnnotations(inputAS, exportAnn, "pp_ann");
+   if (prepPhraseAnnSet.size() != 0){
+	   Map map = new HashMap();
+	   for (gate.Annotation prepPhraseAnn : prepPhraseAnnSet){
+	      map.put((Integer)gate.Utils.length(prepPhraseAnn), (String)prepPhraseAnn.getFeatures().get("IN"));
+	   }
+	   SortedSet<Integer> keys = new TreeSet<>(map.keySet());
+	   exportAnn.getFeatures().put("inScopeOfPP",map.get(keys.first()));
+    }else{	
+    	exportAnn.getFeatures().put("inScopeOfPP", 0);
+    }	   
+}

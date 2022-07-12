@@ -1,0 +1,68 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: Annotations to facilitate Brainstorming
+* Development Notes:
+* 	Annotates: VP, PP, NP, ADJP and ADVP
+* Use Notes:
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: Brainstorm
+Input: SyntaxTreeNode
+Options: control = all
+
+Rule: VP
+(
+ {SyntaxTreeNode.cat == "VP"}
+):verbPhrase -->
+{
+   gate.AnnotationSet vPAnnSet = (gate.AnnotationSet)bindings.get("verbPhrase");
+   gate.Annotation vPAnn = vPAnnSet.iterator().next();
+   outputAS.add(vPAnnSet.firstNode(), vPAnnSet.lastNode() ,"VP", Factory.newFeatureMap());  
+}
+
+Rule: PP
+(
+ {SyntaxTreeNode.cat == "PP"}
+):prepositionalPhrase -->
+{
+   gate.AnnotationSet pPAnnSet = (gate.AnnotationSet)bindings.get("prepositionalPhrase");
+   gate.Annotation pPAnn = pPAnnSet.iterator().next();
+   outputAS.add(pPAnnSet.firstNode(), pPAnnSet.lastNode() ,"PP", Factory.newFeatureMap());  
+}
+
+Rule: NP
+(
+ {SyntaxTreeNode.cat == "NP"}
+):nounPhrase -->
+{
+   gate.AnnotationSet nPAnnSet = (gate.AnnotationSet)bindings.get("nounPhrase");
+   gate.Annotation nPAnn = nPAnnSet.iterator().next();
+   outputAS.add(nPAnnSet.firstNode(), nPAnnSet.lastNode() ,"NP", Factory.newFeatureMap());  
+}
+
+Rule: ADJP
+(
+ {SyntaxTreeNode.cat == "ADJP"}
+):adjectivePhrase -->
+{
+   gate.AnnotationSet adjPAnnSet = (gate.AnnotationSet)bindings.get("adjectivePhrase");
+   gate.Annotation adjPAnn = adjPAnnSet.iterator().next();
+   outputAS.add(adjPAnnSet.firstNode(), adjPAnnSet.lastNode() ,"ADJP", Factory.newFeatureMap());  
+}
+
+Rule: ADVP
+(
+ {SyntaxTreeNode.cat == "ADVP"}
+):adverbPhrase -->
+{
+   gate.AnnotationSet advPAnnSet = (gate.AnnotationSet)bindings.get("adverbPhrase");
+   gate.Annotation advPAnn = advPAnnSet.iterator().next();
+   outputAS.add(advPAnnSet.firstNode(), advPAnnSet.lastNode() ,"ADVP", Factory.newFeatureMap());  
+}
+
+

@@ -1,0 +1,42 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: Annotations to facilitate Brainstorming
+* Development Notes:
+* 	Annotates: VP, PP, NP, ADJP and ADVP
+* Use Notes:
+*/
+
+Imports:{
+   import static gate.Utils.*;
+   import java.util.HashMap;
+   import java.util.TreeMap;
+}
+
+Phase: Brainstorm
+Input: outputToken
+Options: control = all
+
+Rule: Token
+(
+ {outputToken}
+):token -->
+{
+   gate.AnnotationSet tokenAnnSet = (gate.AnnotationSet)bindings.get("token");
+   gate.Annotation tokenAnn = tokenAnnSet.iterator().next();
+   gate.AnnotationSet syntaxTreeNodeAnnSet = (gate.AnnotationSet)gate.Utils.getCoveringAnnotations(inputAS, tokenAnn, "SyntaxTreeNode");
+   Map map = new HashMap();
+   for (gate.Annotation syntaxTreeNodeAnn : syntaxTreeNodeAnnSet){
+   	map.put((Integer)gate.Utils.length(syntaxTreeNodeAnn), (String)syntaxTreeNodeAnn.getFeatures().get("cat"));
+   }
+   SortedSet<Integer> keys = new TreeSet<>(map.keySet());
+   String path = "";
+   for (int key: keys) {
+   	path = path + "(" + map.get(key) + ")";
+   }
+   tokenAnn.getFeatures().put("pathToRoot", path);  
+}
+
+
+
+
