@@ -6,13 +6,12 @@ import sys
 
 
 class LLMModule(nn.Module):
-    def __init__(self, llm, pooling='attn', classes=2, hdo=0.1, ado=0.1):
+    def __init__(self, llm, pooling='attn', classes=2, hdo=0.5, ado=0.5):
         super().__init__()
         self.pooling = pooling
         config = BertConfig(hidden_dropout_prob=hdo,
                             attention_probs_dropout_prob=ado)
         self.llm = BertModel.from_pretrained(llm, config=config)
-        self.mi_rim =
         self.w_attn = nn.Linear(AutoConfig.from_pretrained(llm).hidden_size, 1)
         self.classifier = nn.Linear(
             AutoConfig.from_pretrained(llm).hidden_size,
@@ -34,8 +33,3 @@ class LLMModule(nn.Module):
             clf_in = (torch.sum(llm_token_emb, 0) / float(llm_token_emb.size()[0])).reshape(1, -1)
         clf_out = self.classifier(clf_in)
         return clf_out
-
-
-class MiRIMs(nn.Module):
-    def __init__(self):
-        super().__init__()
