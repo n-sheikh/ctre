@@ -1,5 +1,0 @@
-collate_fn_name: LLMCollateFn
-llm_name: bert-base-uncased
-connl_folder_path: /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3/script-development/data/CoNNL-Output
-max_nos_tokens: 84
-token_sep: True

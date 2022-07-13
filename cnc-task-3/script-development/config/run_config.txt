@@ -1,3 +1,4 @@
+experiment_identifier: llm-baseline-[bert|sbert]
 run_identifier: bert-base-uncased-lr-[0.0005|0.00001|0.000001]
 max_epochs: 3
 loss_functions: cross-entropy-loss
@@ -7,4 +8,4 @@ optimizers: adam
 llm_name: bert-base-uncased
 hidden_dropout_prob: 0.1
 attention_probs_dropout_prob: 0.1
-pooling_strategy: mean
+pooling_strategy: cls

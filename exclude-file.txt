@@ -1,0 +1,10 @@
+event-storyline
+literature
+resources
+processing-resources/gate-pipelines
+cnc-task-3/data/ann-gate-xml-files
+cnc-task-3/data/gs-gate-xml-files
+cnc-task-3/preprocessing-scripts
+cnc-task-3/task-github
+.git
+.gitattributes

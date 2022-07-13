@@ -82,9 +82,9 @@ def generate_misclassified_matrix_csv_ds(encountered, matrix):
 
 
 def generate_misclassified_sample_tracking_csvs(all_misclassified_samples, all_encountered_samples, data_config):
-    with open(data_config.output_folder_path + f'results_report/all_misclassified_samples.pkl', 'wb') as f:
+    with open(data_config.output_folder_path + f'results_report/misclassified_samples_tracking/all_misclassified_samples.pkl', 'wb') as f:
         pkl.dump(all_misclassified_samples, f)
-    with open(data_config.output_folder_path + f'results_report/all_encountered_samples.pkl', 'wb') as f:
+    with open(data_config.output_folder_path + f'results_report/misclassified_samples_tracking/all_encountered_samples.pkl', 'wb') as f:
         pkl.dump(all_encountered_samples, f)
     for key in all_misclassified_samples.keys():
         enc_false_positives, fp_matrix, enc_false_negatives, fn_matrix = construct_misclassified_matrix(
@@ -92,11 +92,11 @@ def generate_misclassified_sample_tracking_csvs(all_misclassified_samples, all_e
         csv_ds_false_positives = generate_misclassified_matrix_csv_ds(enc_false_positives, fp_matrix)
         csv_ds_false_negatives = generate_misclassified_matrix_csv_ds(enc_false_negatives, fn_matrix)
         with open(data_config.output_folder_path +
-                  f'results_report/{key}/false_positives.csv', 'w') as f:
+                  f'results_report/misclassified_samples_tracking/{key}/false_positives.csv', 'w') as f:
             csvwriter = csv.writer(f)
             csvwriter.writerows(csv_ds_false_positives)
         with open(data_config.output_folder_path +
-                  f'results_report/{key}/false_negatives.csv', 'w') as f:
+                  f'results_report/misclassified_samples_tracking/{key}/false_negatives.csv', 'w') as f:
             csvwriter = csv.writer(f)
             csvwriter.writerows(csv_ds_false_negatives)
 
@@ -137,25 +137,25 @@ def generate_fold_plts(fold_metrics, fold_id, data_config):
         plt.title(f"{metric} across epochs for {fold_id} across epochs")
         plt.ylabel(f'{metric}')
         plt.xlabel('Epochs')
-        path = data_config.output_folder_path + f'results_report/{fold_id}/{metric}.jpg'
+        path = data_config.output_folder_path + f'results_report/metrics/{fold_id}/{metric}.jpg'
         plt.savefig(path)
 
 
 def generate_metrics_tables_plts(metrics, data_config):
-    with open(data_config.output_folder_path + f'results_report/all_metrics.pkl', 'wb') as f:
+    with open(data_config.output_folder_path + f'results_report/metrics/all_metrics.pkl', 'wb') as f:
         pkl.dump(metrics, f)
     for fold_id in metrics.keys():
         generate_fold_plts(metrics[fold_id], fold_id, data_config)
         dfs = generate_fold_dfs(metrics[fold_id])
         for metric in dfs.keys():
-            with open(data_config.output_folder_path + f'results_report/{fold_id}/{metric}.tex', 'w') as f:
+            with open(data_config.output_folder_path + f'results_report/metrics/{fold_id}/{metric}.tex', 'w') as f:
                 f.write(dfs[metric].to_latex())
 
 
 def generate_graphics_path(data_config):
     graphics_path = ''
     for i in range(data_config.nos_folds):
-       graphics_path = graphics_path + f"\\graphicspath{{ {{./fold_{i}/}} }}\n"
+       graphics_path = graphics_path + f"\\graphicspath{{ {{./metrics/fold_{i}/}} }}\n"
     return graphics_path
 
 
@@ -195,7 +195,7 @@ def generate_fold_results(fold_id, data_config):
     for metric in metric_types:
         subsection_title = metric.replace("_", "\_")
         fold_results = fold_results + f'\\subsection{{{subsection_title}}}\n'
-        with open(data_config.output_folder_path + f'results_report/{fold_id}/{metric}.tex', 'r') as f:
+        with open(data_config.output_folder_path + f'results_report/metrics/{fold_id}/{metric}.tex', 'r') as f:
             fold_results = fold_results + f.read() + '\n'
         fold_results = fold_results + f'\\begin{{figure}}[H]\n' \
                                       f'\\includegraphics[scale = 0.75]{{{fold_id}/{metric}}}\n' \
@@ -217,6 +217,6 @@ def generate_metrics_report(run_config_dict, run_config, data_config_dict, data_
     for i in range(data_config.nos_folds):
         doc_string = doc_string + generate_fold_results(f'fold_{i}', data_config)
     doc_string = doc_string + '\\end{document}\n'
-    with open(data_config.output_folder_path + f'results_report/metrics_report.tex', 'w') as f:
+    with open(data_config.output_folder_path + f'results_report/metrics/metrics_report.tex', 'w') as f:
         f.write(doc_string)
 

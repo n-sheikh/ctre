@@ -1,6 +1,6 @@
 data_utility_cls: cnc_utilities
 dataset_cls: CNCTask3aDataset
-nos_of_folds: 5
-trn_data_path: /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3/script-development/data/CSV-Output/
+nos_of_folds: 3
+trn_data_path: /cnc-task-3/script-development/data/CSV-Output/
 tst_data_path: /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3/data/csv-gold-standard/development-data/
-base_output_folder_path: /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3/script-development/output/
+base_output_folder_path: /cnc-task-3/script-development/output/

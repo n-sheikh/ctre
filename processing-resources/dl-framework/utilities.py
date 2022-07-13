@@ -119,8 +119,12 @@ def generate_output_folder_structure(run_config, data_config, preprocessing_conf
     results_report_path = data_config.output_folder_path + 'results_report/'
     os.mkdir(results_report_path)
     os.mkdir(results_report_path + 'misclassified_samples_tracking')
+    for i in range(data_config.nos_folds):
+        os.mkdir(results_report_path + f'misclassified_samples_tracking/fold_{i}')
     os.mkdir(results_report_path + 'metrics')
-    os.mkdir(results_report_path + 'train_test_indices')
+    for i in range(data_config.nos_folds):
+        os.mkdir(results_report_path + f'metrics/fold_{i}')
+    os.mkdir(data_config.output_folder_path + 'train_test_indices')
 
 
 def generate_folds(data_config):
