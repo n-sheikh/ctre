@@ -1,0 +1,2 @@
+experiment_identifier: mirims
+run_identifier: mirim-baseline-lr-[0.0005|0.00001|0.000001]

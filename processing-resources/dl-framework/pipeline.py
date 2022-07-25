@@ -67,14 +67,15 @@ def train_test_fold(hparam_id, hparam, fold_id, trn_dl, val_dl, collate_fn, run_
     loss_functions = {'cross-entropy-loss': nn.CrossEntropyLoss()}
     # model_folder_path = config.output_folder_path + config.run_identifier + f'/{hparam_id}/models'
     classified_folder_path = data_config.output_folder_path + f'{hparam_id}/results/classified_samples'
-    model = models.LLMModule(run_config.llm_name, pooling=hparam['pooling_strategy']).to(run_config.device)
+    model = getattr(models, run_config.model_name)(hparam).to(run_config.device)
+    #model = models.LLM(run_config.llm_name, pooling=hparam['pooling_strategy']).to(run_config.device)
     model.train()
     loss_function = loss_functions[hparam['loss_function']]
     optimizer = optimizers[hparam['optimizer']](model.parameters(), lr=hparam['learning_rate'])
     fold_metrics = {'train_loss': [], 'test_loss': [], 'accuracy_score': [], 'precision_score': [],
                     'recall_score': [], 'f1_score': [], 'matthews_corrcoef': []}
     print(f"Fold {fold_id}", flush=True)
-    for epoch_id in range(run_config.max_epochs):
+    for epoch_id in range(hparam["max_epochs"]):
         print(f"Epoch {epoch_id}: Training", flush=True)
         epoch_train_loss = train(loss_function, optimizer, model, trn_dl, run_config)
         print(f"Train Loss for epoch {epoch_id}: {epoch_train_loss}", flush=True)

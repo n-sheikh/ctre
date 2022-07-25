@@ -15,8 +15,7 @@ class RunConfig:
     config_file_path: str
     experiment_identifier: str
     run_identifier: str
-    max_epochs: int
-    llm_name: str
+    model_name: str
     hparams: list
     device: object
 
@@ -49,36 +48,12 @@ def generate_config_dict(config_file_path):
     return config_dict
 
 
-def generate_hyperparameter_sets(run_config_dict):
-    lf = run_config_dict['loss_functions'].split(',')
-    lr = [float(lr.strip()) for lr in run_config_dict['learning_rates'].split(',')]
-    bs = [int(bs.strip()) for bs in run_config_dict['batch_sizes'].split(',')]
-    op = [op.strip() for op in run_config_dict['optimizers'].split(',')]
-    hdo = [float(lr.strip()) for lr in run_config_dict['hidden_dropout_prob'].split(',')]
-    ado = [float(lr.strip()) for lr in run_config_dict['attention_probs_dropout_prob'].split(',')]
-    plg = [op.strip() for op in run_config_dict['pooling_strategy'].split(',')]
-    hparams = []
-    for loss_function, learning_rate, batch_size, optimizer, hidden_dropout_prob, attention_probs_dropout_prob, pooling_strategy in \
-            itertools.product(lf, lr, bs, op, hdo, ado, plg):
-        hparams.append({
-            'loss_function': loss_function,
-            'learning_rate': learning_rate,
-            'batch_size': batch_size,
-            'optimizer': optimizer,
-            'hidden_dropout_prob': hidden_dropout_prob,
-            'attention_probs_dropout_prob': attention_probs_dropout_prob,
-            'pooling_strategy': pooling_strategy
-        })
-    return hparams
-
-
-def run_config_from_config_dict(config_dict, hparams):
+def run_config_from_config_dict(config_dict, model_dict, hparams):
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     return RunConfig(config_dict['config_file_path'],
                      config_dict['experiment_identifier'],
                      config_dict['run_identifier'],
-                     int(config_dict['max_epochs']),
-                     config_dict['llm_name'],
+                     model_dict['model'],
                      hparams,
                      device)
 

@@ -83,9 +83,9 @@ class MI_RIM(torch.nn.Module):
         query = self.inter_query_layer(hiddens)
         key = self.inter_key_layer(hiddens)
         value = self.inter_val_layer(hiddens)
-        att_scores = torch.softmax(torch.matmul(query.squeeze(), torch.transpose(key.squeeze(), 0, 1)), dim=1)
+        att_scores = torch.softmax(torch.matmul(query.view(self.num_mechanisms,-1), torch.transpose(key.view(self.num_mechanisms,-1), 0, 1)), dim=1)
         att_scores = torch.bmm(mask, att_scores.view(self.num_mechanisms, 1, -1))
-        new_hiddens = torch.matmul(att_scores.squeeze(), value.squeeze()).view(self.num_mechanisms, 1, -1)
+        new_hiddens = torch.matmul(att_scores.view(self.num_mechanisms,-1), value.view(self.num_mechanisms,-1)).view(self.num_mechanisms, 1, -1)
         return new_hiddens
 
     def forward(self, inputs):

@@ -29,7 +29,7 @@ def identify_misclassified_sample_ids_across_fpe(data_config, run_config):
         all_misclassified_samples[f'fold_{i}'] = {}
         for j in range(len(run_config.hparams)):
             all_misclassified_samples[f'fold_{i}'][f'hparam_config_id_{j}'] = []
-            for k in range(run_config.max_epochs):
+            for k in range(run_config.hparams[j]['max_epochs']):
                 path = output_folder_path + f'/{j}/results/classified_samples/fold_{i}_epoch_{k}.csv'
                 all_misclassified_samples[f'fold_{i}'][f'hparam_config_id_{j}'].append(
                     load_misclassified_samples_from_file(path))
