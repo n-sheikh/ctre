@@ -1,34 +1,68 @@
-Fasting	0	0	0	0	0	
-Jagan	0	0	0	0	0	
-denied	0	0	1	0	0	
-mulakats	0	0	0	0	0	
-27th	0	0	0	0	0	
-August	0	0	0	0	0	
-2013	0	0	0	0	0	
-11	0	0	0	0	0	
-:	0	0	0	0	0	
-23	0	0	0	0	0	
-AM	0	0	0	0	0	
-The	0	0	0	0	0	
-indefinite	1	0	0	0	0	
-fast	0	0	0	0	0	
-of	0	0	0	0	0	
-YSR	0	0	0	0	0	
-Congress	0	0	0	0	0	
-chief	0	0	0	0	0	
-YS	0	0	0	0	0	
-Jaganmohan	0	0	0	0	0	
-Reddy	0	0	0	0	0	
-in	0	0	0	0	0	
-protest	1	0	0	0	0	
-against	1	0	1	0	0	
-state	0	0	0	0	0	
-division	1	0	0	0	0	
-continued	0	0	0	0	0	
-on	0	0	0	0	0	
-the	0	0	0	0	0	
-second	0	0	0	0	0	
-day	0	0	0	0	0	
-on	0	0	0	0	0	
-Monday	0	0	0	0	0	
-.	0	0	0	0	0	
+Fasting	0	0	0	0	0	NNP	0	
+Fasting	0	0	0	0	0	NNP	0	
+Jagan	0	0	0	0	0	NNP	0	
+Jagan	0	0	0	0	0	NNP	0	
+denied	0	0	0	0	0	VBD	implicit_negative	
+denied	0	0	0	0	0	VBD	implicit_negative	
+mulakats	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+mulakats	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+27th	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
+27th	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
+August	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
+August	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
+2013	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+2013	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+11	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+11	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+23	0	0	0	0	date	CD	0	
+23	0	0	0	0	date	CD	0	
+AM	0	0	0	0	date	VBG	0	
+AM	0	0	0	0	date	VBG	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+indefinite	0	0	0	0	0	JJ	0	
+indefinite	0	0	0	0	0	JJ	0	
+fast	0	0	0	0	0	NN	0	
+fast	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+YSR	0	0	0	0	person	NNP	0	
+YSR	0	0	0	0	person	NNP	0	
+Congress	0	0	0	0	person	NNP	0	
+Congress	0	0	0	0	person	NNP	0	
+chief	0	0	0	0	0	JJ	0	
+chief	0	0	0	0	0	JJ	0	
+YS	0	0	0	0	person	NNP	0	
+YS	0	0	0	0	person	NNP	0	
+Jaganmohan	0	0	0	0	person	NNP	0	
+Jaganmohan	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+state	0	0	0	0	0	NN	0	
+state	0	0	0	0	0	NN	0	
+division	0	0	0	0	0	NN	0	
+division	0	0	0	0	0	NN	0	
+continued	0	0	0	0	0	VBD	0	
+continued	0	0	0	0	0	VBD	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+second	0	0	0	0	0	JJ	0	
+second	0	0	0	0	0	JJ	0	
+day	0	0	0	0	0	NN	0	
+day	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Monday	0	0	0	0	date	NNP	0	
+Monday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

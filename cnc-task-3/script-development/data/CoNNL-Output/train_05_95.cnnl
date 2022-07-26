@@ -1,26 +1,52 @@
-The	0	0	0	0	0	
-number	0	0	0	0	0	
-four	0	0	0	0	0	
-shaft	0	0	0	0	0	
-was	0	0	0	0	0	
-closed	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-night	0	0	0	0	0	
-when	0	0	0	0	0	
-violence	0	0	0	0	0	
-erupted	0	0	0	0	0	
-at	0	0	0	0	0	
-a	0	0	0	0	0	
-meeting	0	0	0	0	0	
-attended	0	0	0	0	0	
-by	0	0	0	0	0	
-about	0	0	0	0	0	
-750	0	0	0	0	0	
-people	0	0	0	0	0	
-,	0	0	0	0	0	
-leading	0	0	0	0	0	
-to	0	0	0	0	0	
-the	0	0	0	0	0	
-deaths	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+number	khooTrig	0	0	0	0	NN	0	
+number	khooTrig	0	0	0	0	NN	0	
+four	0	0	0	0	0	CD	0	
+four	0	0	0	0	0	CD	0	
+shaft	0	0	0	0	0	NN	0	
+shaft	0	0	0	0	0	NN	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+closed	khooTrig	0	0	0	0	VBN	0	
+closed	khooTrig	0	0	0	0	VBN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+night	0	0	0	0	0	NN	0	
+night	0	0	0	0	0	NN	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+erupted	0	0	0	0	0	VBD	0	
+erupted	0	0	0	0	0	VBD	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+meeting	0	0	0	0	0	NN	0	
+meeting	0	0	0	0	0	NN	0	
+attended	0	0	0	0	0	VBN	0	
+attended	0	0	0	0	0	VBN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	RB	0	
+about	0	0	0	0	0	RB	0	
+750	0	0	0	0	0	CD	0	
+750	0	0	0	0	0	CD	0	
+people	0	0	0	0	0	NNS	0	
+people	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+leading	0	0	0	0	0	VBG	0	
+leading	0	0	0	0	0	VBG	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+deaths	0	0	0	0	0	NNS	0	
+deaths	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

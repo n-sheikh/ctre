@@ -1,45 +1,90 @@
-ANDHRA	0	0	0	0	0	
-PRADESH	0	0	0	0	0	
-Work	0	0	0	0	0	
-in	0	0	0	0	0	
-banks	0	0	0	0	0	
-,	0	0	0	0	0	
-insurance	0	0	0	0	0	
-firms	0	0	0	0	0	
-hit	0	0	0	0	0	
-August	0	0	0	0	0	
-21	0	0	0	0	0	
-,	0	0	0	0	0	
-2008	0	0	0	0	0	
-00	0	0	0	0	0	
-:	0	0	0	0	0	
-00	0	0	0	0	0	
-IST	0	0	0	0	0	
-Back	0	0	0	0	0	
-to	0	0	0	0	0	
-old	0	0	0	0	0	
-days	0	0	0	0	0	
-:	0	0	0	0	0	
-A	0	0	0	0	0	
-horse-drawn	0	0	0	0	0	
-cart	0	0	0	0	0	
-comes	0	0	0	0	0	
-in	0	0	0	0	0	
-handy	1	0	0	0	0	
-for	0	0	0	0	0	
-passengers	0	0	0	0	0	
-as	0	0	0	0	0	
-autos	0	0	0	0	0	
-went	0	0	0	0	0	
-off	0	0	0	0	0	
-the	0	0	0	0	0	
-road	0	0	0	0	0	
-during	0	0	0	0	0	
-the	0	0	0	0	0	
-general	0	0	0	0	0	
-strike	0	0	0	0	0	
-in	0	0	0	0	0	
-Kurnool	0	0	0	0	0	
-on	0	0	0	0	0	
-Wednesday	0	0	0	0	0	
-.	0	0	0	0	0	
+ANDHRA	0	0	0	0	0	NNP	0	
+ANDHRA	0	0	0	0	0	NNP	0	
+PRADESH	0	0	0	0	0	NNP	0	
+PRADESH	0	0	0	0	0	NNP	0	
+Work	0	0	0	0	0	NNP	0	
+Work	0	0	0	0	0	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+banks	khooTrig	0	0	0	0	NNS	0	
+banks	khooTrig	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+insurance	0	0	0	0	0	NN	0	
+insurance	0	0	0	0	0	NN	0	
+firms	khooTrig	0	0	0	0	NNS	0	
+firms	khooTrig	0	0	0	0	NNS	0	
+hit	0	0	0	0	0	VBD	0	
+hit	0	0	0	0	0	VBD	0	
+August	0	0	0	0	date	NNP	0	
+August	0	0	0	0	date	NNP	0	
+21	0	0	0	0	date	CD	0	
+21	0	0	0	0	date	CD	0	
+,	0	0	0	0	date	,	0	
+,	0	0	0	0	date	,	0	
+2008	0	0	0	0	date	CD	0	
+2008	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+00	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+IST	0	0	0	0	person	NN	0	
+IST	0	0	0	0	person	NN	0	
+Back	khooTrig	0	0	0	0	RB	0	
+Back	khooTrig	0	0	0	0	RB	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+old	0	0	0	0	0	JJ	0	
+old	0	0	0	0	0	JJ	0	
+days	0	0	0	0	0	NNS	0	
+days	0	0	0	0	0	NNS	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+A	0	0	0	0	0	DT	0	
+A	0	0	0	0	0	DT	0	
+horse-drawn	0	0	0	0	0	JJ	0	
+horse-drawn	0	0	0	0	0	JJ	0	
+cart	0	0	0	0	0	NN	0	
+cart	0	0	0	0	0	NN	0	
+comes	0	0	0	0	0	VBZ	0	
+comes	0	0	0	0	0	VBZ	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+handy	0	0	0	0	person	JJ	0	
+handy	0	0	0	0	person	JJ	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+passengers	0	0	0	0	0	NNS	0	
+passengers	0	0	0	0	0	NNS	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+autos	0	0	0	0	0	NNS	0	
+autos	0	0	0	0	0	NNS	0	
+went	0	0	0	0	0	VBD	0	
+went	0	0	0	0	0	VBD	0	
+off	khooTrig	0	0	0	0	RP	0	
+off	khooTrig	0	0	0	0	RP	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+road	0	0	0	0	0	NN	0	
+road	0	0	0	0	0	NN	0	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+general	0	0	0	0	0	JJ	0	
+general	0	0	0	0	0	JJ	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Kurnool	0	0	0	0	0	NNP	0	
+Kurnool	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Wednesday	0	0	0	0	date	NNP	0	
+Wednesday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

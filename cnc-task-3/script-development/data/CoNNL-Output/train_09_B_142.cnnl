@@ -1,36 +1,72 @@
-The	0	0	0	0	0	
-meeting	0	0	0	0	0	
-discussed	0	0	0	0	0	
-strategies	0	0	0	0	0	
-to	0	0	0	0	0	
-intensify	0	0	0	0	0	
-the	0	0	0	0	0	
-agitation	1	0	0	0	0	
-against	1	0	1	0	0	
-the	0	0	0	0	0	
-Posco	0	0	0	0	0	
-project	0	0	0	0	0	
-and	0	0	0	0	0	
-counter	0	0	0	0	0	
-police	0	0	0	0	0	
-action	0	0	0	0	0	
-during	0	0	0	0	0	
-construction	0	0	0	0	0	
-of	0	0	0	0	0	
-coastal	0	0	0	0	0	
-road	0	0	0	0	0	
-following	0	0	0	0	0	
-the	0	0	0	0	0	
-decision	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-State	0	0	0	0	0	
-Government	0	0	0	0	0	
-to	0	0	0	0	0	
-resume	0	0	0	0	0	
-work	0	0	0	0	0	
-from	0	0	0	0	0	
-early	0	0	0	0	0	
-next	0	0	0	0	0	
-month	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+meeting	0	0	0	0	0	NN	0	
+meeting	0	0	0	0	0	NN	0	
+discussed	0	0	0	0	0	VBD	0	
+discussed	0	0	0	0	0	VBD	0	
+strategies	0	0	0	0	0	NNS	0	
+strategies	0	0	0	0	0	NNS	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+intensify	khooTrig	0	0	0	0	VB	0	
+intensify	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+agitation	0	0	0	0	0	NN	0	
+agitation	0	0	0	0	0	NN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Posco	0	0	0	0	0	NNP	0	
+Posco	0	0	0	0	0	NNP	0	
+project	khooTrig	0	0	0	0	NN	0	
+project	khooTrig	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+counter	0	0	0	0	0	VB	0	
+counter	0	0	0	0	0	VB	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+action	0	0	0	0	0	NN	0	
+action	0	0	0	0	0	NN	0	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+construction	0	0	0	0	0	NN	0	
+construction	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+coastal	0	0	0	0	0	JJ	0	
+coastal	0	0	0	0	0	JJ	0	
+road	0	0	0	0	0	NN	0	
+road	0	0	0	0	0	NN	0	
+following	0	0	0	0	0	VBG	0	
+following	0	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+decision	0	0	0	0	0	NN	0	
+decision	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+State	0	0	0	0	0	NNP	0	
+State	0	0	0	0	0	NNP	0	
+Government	0	0	0	0	0	NNP	0	
+Government	0	0	0	0	0	NNP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+resume	0	0	0	0	0	VB	0	
+resume	0	0	0	0	0	VB	0	
+work	0	0	0	0	0	NN	0	
+work	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+early	0	0	0	0	date	JJ	0	
+early	0	0	0	0	date	JJ	0	
+next	0	0	0	0	date	JJ	0	
+next	0	0	0	0	date	JJ	0	
+month	0	0	0	0	date	NN	0	
+month	0	0	0	0	date	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

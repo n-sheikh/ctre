@@ -1,15 +1,30 @@
-“	0	0	0	0	0	
-Amid	0	0	0	0	0	
-stone-throwing	0	0	0	0	0	
-,	0	0	0	0	0	
-some	0	0	0	0	0	
-rounds	0	0	0	0	0	
-were	0	0	0	0	0	
-fired	0	0	0	0	0	
-at	0	0	0	0	0	
-the	0	0	0	0	0	
-convoy	0	0	0	0	0	
-going	0	0	0	0	0	
-to	0	0	0	0	0	
-Kupwara	0	0	0	0	0	
-.	0	0	0	0	0	
+“	0	0	0	0	0	CD	0	
+“	0	0	0	0	0	CD	0	
+Amid	0	0	0	0	0	IN	0	
+Amid	0	0	0	0	0	IN	0	
+stone-throwing	0	0	0	0	0	NN	0	
+stone-throwing	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+some	0	0	0	0	0	DT	0	
+some	0	0	0	0	0	DT	0	
+rounds	khooTrig	0	0	0	0	NNS	0	
+rounds	khooTrig	0	0	0	0	NNS	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+fired	0	0	0	0	0	VBN	0	
+fired	0	0	0	0	0	VBN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+convoy	0	0	0	0	0	NN	0	
+convoy	0	0	0	0	0	NN	0	
+going	0	0	0	0	0	VBG	0	
+going	0	0	0	0	0	VBG	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+Kupwara	0	0	0	0	0	NNP	0	
+Kupwara	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

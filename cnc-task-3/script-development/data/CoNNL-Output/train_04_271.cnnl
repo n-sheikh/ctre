@@ -1,56 +1,112 @@
-Ambur	0	0	0	0	0	
-Violence	0	0	0	0	0	
-Targeted	0	0	0	0	0	
-at	0	0	0	0	0	
-Police	0	0	0	0	0	
-,	0	0	0	0	0	
-Was	0	0	0	0	0	
-Not	0	1	0	0	0	
-Communal	0	0	0	0	0	
-:	0	0	0	0	0	
-MMK	0	0	0	0	0	
-Leader	0	0	0	0	0	
-04th	0	0	0	0	0	
-July	0	0	0	0	0	
-2015	0	0	0	0	0	
-06	0	0	0	0	0	
-:	0	0	0	0	0	
-30	0	0	0	0	0	
-AM	0	0	0	0	0	
-COIMBATORE	0	0	0	0	0	
-:	0	0	0	0	0	
-The	0	0	0	0	0	
-violence	0	0	0	0	0	
-that	0	0	0	0	0	
-broke	0	0	0	0	0	
-out	0	0	0	0	0	
-in	0	0	0	0	0	
-Ambur	0	0	0	0	0	
-condemning	0	0	0	0	0	
-the	0	0	0	0	0	
-death	1	0	0	0	0	
-of	0	0	0	0	0	
-Shameel	0	0	0	0	0	
-Ahmed	0	0	0	0	0	
-is	0	0	0	0	0	
-not	0	1	0	0	0	
-based	0	0	0	0	0	
-on	0	0	0	0	0	
-communal	0	0	0	0	0	
-grounds	0	0	0	0	0	
-,	0	0	0	0	0	
-said	0	0	0	0	0	
-Manithaneya	0	0	0	0	0	
-Makkal	0	0	0	0	0	
-Katchi	0	0	0	0	0	
-(	0	0	0	0	0	
-MMK	0	0	0	0	0	
-)	0	0	0	0	0	
-MLA	0	0	0	0	0	
-M	0	0	0	0	0	
-H	0	0	0	0	0	
-Jawahirullah	0	0	0	0	0	
-here	0	0	0	0	0	
-on	0	0	0	0	0	
-Friday	0	0	0	0	0	
-.	0	0	0	0	0	
+Ambur	0	0	0	0	0	NNP	0	
+Ambur	0	0	0	0	0	NNP	0	
+Violence	0	0	0	0	0	NNP	0	
+Violence	0	0	0	0	0	NNP	0	
+Targeted	0	0	0	0	0	NNP	0	
+Targeted	0	0	0	0	0	NNP	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Police	0	0	0	0	0	NNP	0	
+Police	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Was	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+Was	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+Not	0	0	in_explicit_neg_trig_domain	0	0	RB	explicit_negative	
+Not	0	0	in_explicit_neg_trig_domain	0	0	RB	explicit_negative	
+Communal	0	0	null	0	0	NNP	0	
+Communal	0	0	null	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+MMK	0	0	0	0	person	NNP	0	
+MMK	0	0	0	0	person	NNP	0	
+Leader	0	0	0	0	person	NNP	0	
+Leader	0	0	0	0	person	NNP	0	
+04th	0	0	0	0	date	JJ	0	
+04th	0	0	0	0	date	JJ	0	
+July	0	0	0	0	date	NNP	0	
+July	0	0	0	0	date	NNP	0	
+2015	0	0	0	0	date	CD	0	
+2015	0	0	0	0	date	CD	0	
+06	0	0	0	0	date	NNS	0	
+06	0	0	0	0	date	NNS	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+30	0	0	0	0	date	CD	0	
+30	0	0	0	0	date	CD	0	
+AM	0	0	0	0	date	NNP	0	
+AM	0	0	0	0	date	NNP	0	
+COIMBATORE	0	0	0	0	0	NNP	0	
+COIMBATORE	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+that	0	0	0	0	0	WDT	0	
+that	0	0	0	0	0	WDT	0	
+broke	0	0	0	0	0	VBD	0	
+broke	0	0	0	0	0	VBD	0	
+out	khooTrig	0	0	0	0	RP	0	
+out	khooTrig	0	0	0	0	RP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Ambur	0	0	0	0	0	NNP	0	
+Ambur	0	0	0	0	0	NNP	0	
+condemning	0	0	0	0	0	VBG	0	
+condemning	0	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+death	0	0	0	0	0	NN	0	
+death	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Shameel	0	0	0	0	person	NNP	0	
+Shameel	0	0	0	0	person	NNP	0	
+Ahmed	0	0	0	0	person	NNP	0	
+Ahmed	0	0	0	0	person	NNP	0	
+is	0	0	0	0	0	VBZ	0	
+is	0	0	0	0	0	VBZ	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+based	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+based	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+on	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+on	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+communal	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+communal	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+grounds	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+grounds	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+Manithaneya	0	0	0	0	person	NNP	0	
+Manithaneya	0	0	0	0	person	NNP	0	
+Makkal	0	0	0	0	person	NNP	0	
+Makkal	0	0	0	0	person	NNP	0	
+Katchi	0	0	0	0	0	NNP	0	
+Katchi	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+MMK	0	0	0	0	person	NNP	0	
+MMK	0	0	0	0	person	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+MLA	0	0	0	0	person	VBD	0	
+MLA	0	0	0	0	person	VBD	0	
+M	0	0	0	0	person	NNP	0	
+M	0	0	0	0	person	NNP	0	
+H	0	0	0	0	person	NNP	0	
+H	0	0	0	0	person	NNP	0	
+Jawahirullah	0	0	0	0	person	NNP	0	
+Jawahirullah	0	0	0	0	person	NNP	0	
+here	0	0	0	0	0	RB	0	
+here	0	0	0	0	0	RB	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Friday	0	0	0	0	date	NNP	0	
+Friday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

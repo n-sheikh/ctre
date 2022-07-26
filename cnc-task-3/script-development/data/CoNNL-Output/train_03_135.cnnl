@@ -1,15 +1,30 @@
-The	0	0	0	0	0	
-fast	0	0	0	0	0	
-of	0	0	0	0	0	
-BJP	0	0	0	0	0	
-leaders	0	0	0	0	0	
-was	0	0	0	0	0	
-inaugurated	0	0	0	0	0	
-by	0	0	0	0	0	
-NSS	0	0	0	0	0	
-Taluk	0	0	0	0	0	
-Union	0	0	0	0	0	
-president	0	0	0	0	0	
-Sangeeth	0	0	0	0	0	
-Kumar	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+fast	0	0	0	0	0	NN	0	
+fast	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+BJP	0	0	0	0	0	JJ	0	
+BJP	0	0	0	0	0	JJ	0	
+leaders	0	0	0	0	0	NNS	0	
+leaders	0	0	0	0	0	NNS	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+inaugurated	khooTrig	0	0	0	0	VBN	0	
+inaugurated	khooTrig	0	0	0	0	VBN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+NSS	0	0	0	0	0	NNP	0	
+NSS	0	0	0	0	0	NNP	0	
+Taluk	0	0	0	0	0	NNP	0	
+Taluk	0	0	0	0	0	NNP	0	
+Union	0	0	0	0	0	NNP	0	
+Union	0	0	0	0	0	NNP	0	
+president	0	0	0	0	0	NN	0	
+president	0	0	0	0	0	NN	0	
+Sangeeth	0	0	0	0	person	NNP	0	
+Sangeeth	0	0	0	0	person	NNP	0	
+Kumar	0	0	0	0	person	NNP	0	
+Kumar	0	0	0	0	person	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

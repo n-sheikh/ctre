@@ -1,37 +1,74 @@
-An	0	0	0	0	0	
-employee	0	0	0	0	0	
-who	0	0	0	0	0	
-wished	0	0	0	0	0	
-to	0	0	0	0	0	
-remain	0	0	0	0	0	
-unnamed	0	0	0	0	0	
-also	0	0	0	0	0	
-told	0	0	0	0	0	
-Express	0	0	0	0	0	
-that	0	0	0	0	0	
-around	0	0	0	0	1	
-seven	0	0	0	0	0	
-management	0	0	0	0	0	
-personnel	0	0	0	0	0	
-inside	0	0	0	0	0	
-the	0	0	0	0	0	
-plant	0	0	0	0	0	
-,	0	0	0	0	0	
-including	0	0	0	0	0	
-five	0	0	0	0	0	
-foreign	0	0	0	0	0	
-nationals	0	0	0	0	0	
-,	0	0	0	0	0	
-were	0	0	0	0	0	
-forcibly	0	0	0	0	0	
-prevented	0	0	1	0	0	
-from	0	0	0	0	0	
-leaving	0	0	0	0	0	
-the	0	0	0	0	0	
-plant	0	0	0	0	0	
-all	0	0	0	0	0	
-night	0	0	0	0	0	
-by	0	0	0	0	0	
-the	0	0	0	0	0	
-protesters	0	0	0	0	0	
-.	0	0	0	0	0	
+An	0	0	0	0	0	DT	0	
+An	0	0	0	0	0	DT	0	
+employee	0	0	0	0	0	NN	0	
+employee	0	0	0	0	0	NN	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+wished	0	0	0	0	0	VBD	0	
+wished	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+remain	0	0	0	0	0	VB	0	
+remain	0	0	0	0	0	VB	0	
+unnamed	0	0	0	0	0	JJ	0	
+unnamed	0	0	0	0	0	JJ	0	
+also	0	0	0	0	0	RB	0	
+also	0	0	0	0	0	RB	0	
+told	0	0	0	0	0	VBD	0	
+told	0	0	0	0	0	VBD	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+around	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
+around	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
+seven	0	0	in_implicit_neg_trig_domain	0	0	CD	0	
+seven	0	0	in_implicit_neg_trig_domain	0	0	CD	0	
+management	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+management	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+personnel	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+personnel	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+inside	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+inside	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+plant	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+plant	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+including	0	0	in_implicit_neg_trig_domain	0	0	VBG	0	
+including	0	0	in_implicit_neg_trig_domain	0	0	VBG	0	
+five	0	0	in_implicit_neg_trig_domain	0	0	CD	0	
+five	0	0	in_implicit_neg_trig_domain	0	0	CD	0	
+foreign	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+foreign	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+nationals	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+nationals	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+were	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
+were	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
+forcibly	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
+forcibly	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
+prevented	0	0	0	0	0	VBN	implicit_negative	
+prevented	0	0	0	0	0	VBN	implicit_negative	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+leaving	0	0	0	0	0	VBG	0	
+leaving	0	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+plant	0	0	0	0	0	NN	0	
+plant	0	0	0	0	0	NN	0	
+all	0	0	0	0	0	DT	0	
+all	0	0	0	0	0	DT	0	
+night	0	0	0	0	0	NN	0	
+night	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+protesters	0	0	0	0	0	NNS	0	
+protesters	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

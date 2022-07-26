@@ -1,47 +1,94 @@
-KRISHNAGIRI	0	0	0	0	0	
-/	0	0	0	0	0	
-DHARMAPURI	0	0	0	0	0	
-:	0	0	0	0	0	
-Water	0	0	0	0	0	
-supply	0	0	0	0	0	
-disrupted	0	0	0	0	0	
-,	0	0	0	0	0	
-villagers	0	0	0	0	0	
-block	1	0	1	0	0	
-road	0	0	0	0	0	
-September	0	0	0	0	0	
-04	0	0	0	0	0	
-,	0	0	0	0	0	
-2014	0	0	0	0	0	
-00	0	0	0	0	0	
-:	0	0	0	0	0	
-00	0	0	0	0	0	
-IST	0	0	0	0	0	
-Officials	0	0	0	0	0	
-promise	0	0	0	0	0	
-to	0	0	0	0	0	
-supply	0	0	0	0	0	
-water	0	0	0	0	0	
-in	0	0	0	0	0	
-tankers	0	0	0	0	0	
-Women	0	0	0	0	0	
-took	0	0	0	0	0	
-to	0	0	0	0	0	
-streets	0	0	0	0	0	
-carrying	0	0	0	0	0	
-pots	0	0	0	0	0	
-in	0	0	0	0	0	
-protest	1	0	0	0	0	
-against	1	0	1	0	0	
-erratic	1	0	0	0	0	
-supply	0	0	0	0	0	
-of	0	0	0	0	0	
-drinking	0	0	0	0	0	
-water	0	0	0	0	0	
-at	0	0	0	0	0	
-Kelamagalam	0	0	0	0	0	
-in	0	0	0	0	0	
-Udhanapalli	0	0	0	0	0	
-on	0	0	0	0	0	
-Wednesday	0	0	0	0	0	
-.	0	0	0	0	0	
+KRISHNAGIRI	0	0	0	0	0	NNP	0	
+KRISHNAGIRI	0	0	0	0	0	NNP	0	
+/	0	0	0	0	0	NNP	0	
+/	0	0	0	0	0	NNP	0	
+DHARMAPURI	0	0	0	0	0	NNP	0	
+DHARMAPURI	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Water	0	0	0	0	location	NNP	0	
+Water	0	0	0	0	location	NNP	0	
+supply	0	0	0	0	0	NN	0	
+supply	0	0	0	0	0	NN	0	
+disrupted	khooTrig	0	0	0	0	VBD	0	
+disrupted	khooTrig	0	0	0	0	VBD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+villagers	0	0	0	0	0	JJ	0	
+villagers	0	0	0	0	0	JJ	0	
+block	mcmTrig	0	0	0	0	NN	implicit_negative	
+block	mcmTrig	0	0	0	0	NN	implicit_negative	
+road	0	0	0	0	0	NN	0	
+road	0	0	0	0	0	NN	0	
+September	0	0	0	0	date	NNP	0	
+September	0	0	0	0	date	NNP	0	
+04	0	0	0	0	date	CD	0	
+04	0	0	0	0	date	CD	0	
+,	0	0	0	0	date	,	0	
+,	0	0	0	0	date	,	0	
+2014	0	0	0	0	date	CD	0	
+2014	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+00	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+IST	0	0	0	0	person	NNP	0	
+IST	0	0	0	0	person	NNP	0	
+Officials	0	0	0	0	person	NNS	0	
+Officials	0	0	0	0	person	NNS	0	
+promise	0	0	0	0	0	VBP	0	
+promise	0	0	0	0	0	VBP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+supply	0	0	0	0	0	VB	0	
+supply	0	0	0	0	0	VB	0	
+water	0	0	0	0	0	NN	0	
+water	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+tankers	0	0	0	0	0	NNS	0	
+tankers	0	0	0	0	0	NNS	0	
+Women	0	0	0	0	0	NNP	0	
+Women	0	0	0	0	0	NNP	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+streets	0	0	0	0	0	NNS	0	
+streets	0	0	0	0	0	NNS	0	
+carrying	0	0	0	0	0	VBG	0	
+carrying	0	0	0	0	0	VBG	0	
+pots	khooTrig	0	0	0	0	NNS	0	
+pots	khooTrig	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+erratic	0	0	0	0	0	JJ	0	
+erratic	0	0	0	0	0	JJ	0	
+supply	0	0	0	0	0	NN	0	
+supply	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+drinking	0	0	0	0	0	NN	0	
+drinking	0	0	0	0	0	NN	0	
+water	0	0	0	0	0	NN	0	
+water	0	0	0	0	0	NN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Kelamagalam	0	0	0	0	0	NNP	0	
+Kelamagalam	0	0	0	0	0	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Udhanapalli	0	0	0	0	0	NNP	0	
+Udhanapalli	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Wednesday	0	0	0	0	date	NNP	0	
+Wednesday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

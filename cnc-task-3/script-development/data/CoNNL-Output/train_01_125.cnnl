@@ -1,38 +1,76 @@
-Modi	0	0	0	0	0	
-visited	0	0	0	0	0	
-the	0	0	0	0	0	
-homes	0	0	0	0	0	
-of	0	0	0	0	0	
-all	0	0	0	0	0	
-the	0	0	0	0	0	
-six	0	0	0	0	0	
-victims	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-serial	0	0	0	0	0	
-blasts	0	0	0	0	0	
-which	0	0	0	0	0	
-rocked	0	0	0	0	0	
-Patna	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-Gandhi	0	0	0	0	0	
-Maidan	0	0	0	0	0	
-and	0	0	0	0	0	
-other	0	0	0	0	0	
-parts	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-city	0	0	0	0	0	
-during	0	0	0	0	0	
-his	0	0	0	0	0	
-visit	0	0	0	0	0	
-to	0	0	0	0	0	
-address	0	0	0	0	0	
-the	0	0	0	0	0	
-Hunkar	0	0	0	0	0	
-Rally	0	0	0	0	0	
-on	0	0	0	0	0	
-October	0	0	0	0	0	
-27	0	0	0	0	0	
-.	0	0	0	0	0	
+Modi	0	0	0	0	0	NNP	0	
+Modi	0	0	0	0	0	NNP	0	
+visited	0	0	0	0	0	VBD	0	
+visited	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+homes	0	0	0	0	0	NNS	0	
+homes	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+all	0	0	0	0	0	PDT	0	
+all	0	0	0	0	0	PDT	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+six	0	0	0	0	0	CD	0	
+six	0	0	0	0	0	CD	0	
+victims	0	0	0	0	0	NNS	0	
+victims	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+serial	0	0	0	0	0	JJ	0	
+serial	0	0	0	0	0	JJ	0	
+blasts	0	0	0	0	0	NNS	0	
+blasts	0	0	0	0	0	NNS	0	
+which	0	0	0	0	0	WDT	0	
+which	0	0	0	0	0	WDT	0	
+rocked	khooTrig	0	0	0	0	VBD	0	
+rocked	khooTrig	0	0	0	0	VBD	0	
+Patna	0	0	0	0	location	NNP	0	
+Patna	0	0	0	0	location	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	VBZ	0	
+s	0	0	0	0	0	VBZ	0	
+Gandhi	0	0	0	0	0	NNP	0	
+Gandhi	0	0	0	0	0	NNP	0	
+Maidan	0	0	0	0	0	NNP	0	
+Maidan	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+other	0	0	0	0	0	JJ	0	
+other	0	0	0	0	0	JJ	0	
+parts	khooTrig	0	0	0	0	NNS	0	
+parts	khooTrig	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+city	0	0	0	0	0	NN	0	
+city	0	0	0	0	0	NN	0	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+visit	0	0	0	0	0	NN	0	
+visit	0	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+address	mcmTrig	0	0	0	0	VB	0	
+address	mcmTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Hunkar	0	0	0	0	0	NNP	0	
+Hunkar	0	0	0	0	0	NNP	0	
+Rally	khooTrig	0	0	0	0	NNP	0	
+Rally	khooTrig	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+October	0	0	0	0	date	NNP	0	
+October	0	0	0	0	date	NNP	0	
+27	0	0	0	0	date	CD	0	
+27	0	0	0	0	date	CD	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

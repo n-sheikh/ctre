@@ -1,18 +1,36 @@
-On	0	0	0	0	0	
-August	0	0	0	0	0	
-8	0	0	0	0	0	
-,	0	0	0	0	0	
-about	0	0	0	0	0	
-15	0	0	0	0	0	
-armed	0	0	0	0	0	
-goons	0	0	0	0	0	
-beat	0	0	0	0	0	
-me	0	0	0	0	0	
-and	0	0	0	0	0	
-my	0	0	0	0	0	
-wife	0	0	0	0	0	
-mercilessly	0	0	0	0	0	
-at	0	0	0	0	0	
-my	0	0	0	0	0	
-home	0	0	0	0	0	
-.	0	0	0	0	0	
+On	0	0	0	0	0	IN	0	
+On	0	0	0	0	0	IN	0	
+August	0	0	0	0	date	NNP	0	
+August	0	0	0	0	date	NNP	0	
+8	0	0	0	0	date	CD	0	
+8	0	0	0	0	date	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+about	0	0	0	0	0	RB	0	
+about	0	0	0	0	0	RB	0	
+15	0	0	0	0	0	CD	0	
+15	0	0	0	0	0	CD	0	
+armed	0	0	0	0	0	JJ	0	
+armed	0	0	0	0	0	JJ	0	
+goons	0	0	0	0	0	NNS	0	
+goons	0	0	0	0	0	NNS	0	
+beat	0	0	0	0	0	VBP	0	
+beat	0	0	0	0	0	VBP	0	
+me	0	0	0	0	0	PRP	0	
+me	0	0	0	0	0	PRP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+my	0	0	0	0	0	PRP$	0	
+my	0	0	0	0	0	PRP$	0	
+wife	0	0	0	0	0	NN	0	
+wife	0	0	0	0	0	NN	0	
+mercilessly	0	0	0	0	0	VBP	0	
+mercilessly	0	0	0	0	0	VBP	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+my	0	0	0	0	0	PRP$	0	
+my	0	0	0	0	0	PRP$	0	
+home	0	0	0	0	0	NN	0	
+home	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

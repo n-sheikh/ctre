@@ -1,18 +1,36 @@
-On	0	0	0	0	0	
-getting	0	0	0	0	0	
-the	0	0	0	0	0	
-news	0	0	0	0	0	
-about	0	0	0	0	0	
-Mr	0	0	0	0	0	
-.	0	0	0	0	0	
-Hazare	0	0	0	0	0	
-breaking	0	0	0	0	0	
-his	0	0	0	0	0	
-fast	1	0	0	0	0	
-,	0	0	0	0	0	
-they	0	0	0	0	0	
-too	1	0	0	0	0	
-ended	0	0	0	0	0	
-their	0	0	0	0	0	
-dharna	0	0	0	0	0	
-.	0	0	0	0	0	
+On	0	0	0	0	0	IN	0	
+On	0	0	0	0	0	IN	0	
+getting	khooTrig	0	0	0	0	VBG	0	
+getting	khooTrig	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+news	0	0	0	0	0	NN	0	
+news	0	0	0	0	0	NN	0	
+about	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	IN	0	
+Mr	0	0	0	0	person	NNP	0	
+Mr	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Hazare	0	0	0	0	person	NNP	0	
+Hazare	0	0	0	0	person	NNP	0	
+breaking	0	0	0	0	0	VBG	0	
+breaking	0	0	0	0	0	VBG	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+fast	0	0	0	0	0	JJ	0	
+fast	0	0	0	0	0	JJ	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+too	0	0	0	0	0	RB	0	
+too	0	0	0	0	0	RB	0	
+ended	khooTrig	0	0	0	0	VBD	0	
+ended	khooTrig	0	0	0	0	VBD	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+dharna	0	0	0	0	0	NN	0	
+dharna	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

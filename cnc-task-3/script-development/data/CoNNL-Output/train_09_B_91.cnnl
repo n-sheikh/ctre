@@ -1,54 +1,108 @@
-The	0	0	0	0	0	
-CPI	0	0	0	0	0	
-(	0	0	0	0	0	
-M	0	0	0	0	0	
-)	0	0	0	0	0	
-leader	0	0	0	0	0	
-said	0	0	0	0	0	
-that	0	0	0	0	0	
-while	0	0	0	0	0	
-CPI	0	0	0	0	0	
-(	0	0	0	0	0	
-M	0	0	0	0	0	
-)	0	0	0	0	0	
-workers	0	0	0	0	0	
-were	0	0	0	0	0	
-the	0	0	0	0	0	
-victims	0	0	0	0	0	
-of	0	0	0	0	0	
-RSS	0	0	0	0	0	
-attacks	0	0	0	0	0	
-at	0	0	0	0	0	
-Thalassery	0	0	0	0	0	
-and	0	0	0	0	0	
-Malampuzha	0	0	0	0	0	
-,	0	0	0	0	0	
-the	0	0	0	0	0	
-UDF	0	0	0	0	0	
-was	0	0	0	0	0	
-organising	0	0	0	0	0	
-a	0	0	0	0	0	
-Shanthi	0	0	0	0	0	
-Yatra	0	0	0	0	0	
-(	0	0	0	0	0	
-a	0	0	0	0	0	
-foot	0	0	0	0	0	
-march	0	0	0	0	0	
-for	0	0	0	0	0	
-peace	1	0	0	0	0	
-by	0	0	0	0	0	
-the	0	0	0	0	0	
-Congress	0	0	0	0	0	
-)	0	0	0	0	0	
-to	0	0	0	0	0	
-target	0	0	0	0	0	
-the	0	0	0	0	0	
-CPI	0	0	0	0	0	
-(	0	0	0	0	0	
-M	0	0	0	0	0	
-)	0	0	0	0	0	
-as	0	0	0	0	0	
-perpetrators	0	0	0	0	0	
-of	0	0	0	0	0	
-violence	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+CPI	0	0	0	0	0	NN	0	
+CPI	0	0	0	0	0	NN	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+M	0	0	0	0	0	NNP	0	
+M	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+while	0	0	0	0	0	IN	0	
+while	0	0	0	0	0	IN	0	
+CPI	0	0	0	0	0	JJ	0	
+CPI	0	0	0	0	0	JJ	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+M	0	0	0	0	0	NNP	0	
+M	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+workers	0	0	0	0	0	NNS	0	
+workers	0	0	0	0	0	NNS	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+victims	0	0	0	0	0	NNS	0	
+victims	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+RSS	0	0	0	0	0	NNP	0	
+RSS	0	0	0	0	0	NNP	0	
+attacks	0	0	0	0	0	NNS	0	
+attacks	0	0	0	0	0	NNS	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Thalassery	0	0	0	0	0	NNP	0	
+Thalassery	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Malampuzha	0	0	0	0	0	NNP	0	
+Malampuzha	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+UDF	0	0	0	0	0	NNP	0	
+UDF	0	0	0	0	0	NNP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+organising	0	0	0	0	0	VBG	0	
+organising	0	0	0	0	0	VBG	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+Shanthi	0	0	0	0	person	NNP	0	
+Shanthi	0	0	0	0	person	NNP	0	
+Yatra	0	0	0	0	person	NNP	0	
+Yatra	0	0	0	0	person	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+foot	0	0	0	0	0	NN	0	
+foot	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+peace	0	0	0	0	0	NN	0	
+peace	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Congress	0	0	0	0	0	NNP	0	
+Congress	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+target	mcmTrig	0	0	0	0	VB	0	
+target	mcmTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+CPI	0	0	0	0	0	NNP	0	
+CPI	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+M	0	0	0	0	0	NNP	0	
+M	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+perpetrators	0	0	0	0	0	NNS	0	
+perpetrators	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

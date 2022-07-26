@@ -1,48 +1,96 @@
-Engg	0	0	0	0	0	
-students	0	0	0	0	0	
-demand	1	0	0	0	0	
-uniform	1	0	0	0	0	
-rule	0	0	0	0	0	
-on	0	0	0	0	0	
-ATKT	0	0	0	0	0	
-Posted	0	0	0	0	0	
-:	0	0	0	0	0	
-Fri	0	0	0	0	0	
-Jan	0	0	0	0	0	
-15	0	0	0	0	0	
-1999	0	0	0	0	0	
-IST	0	0	0	0	0	
-MUMBAI	0	0	0	0	0	
-,	0	0	0	0	0	
-JANUARY	0	0	0	0	0	
-14	0	0	0	0	0	
-:	0	0	0	0	0	
-Engineering	0	0	0	0	0	
-students	0	0	0	0	0	
-held	0	0	0	0	0	
-a	0	0	0	0	0	
-demonstration	0	0	0	0	0	
-at	0	0	0	0	0	
-the	0	0	0	0	0	
-University	0	0	0	0	0	
-of	0	0	0	0	0	
-Mumbai	0	0	0	0	0	
-campus	0	0	0	0	0	
-at	0	0	0	0	0	
-Fort	0	0	0	0	0	
-on	0	0	0	0	0	
-Wednesday	0	0	0	0	0	
-,	0	0	0	0	0	
-demanding	0	0	0	0	0	
-that	0	0	0	0	0	
-they	0	0	0	0	0	
-be	0	0	0	0	0	
-allowed	0	0	0	0	0	
-to	0	0	0	0	0	
-keep	0	0	0	0	0	
-term	0	0	0	0	0	
-grant	0	0	0	0	0	
-for	0	0	0	0	0	
-the	0	0	0	0	0	
-year	0	0	0	0	0	
-.	0	0	0	0	0	
+Engg	0	0	0	0	0	VBG	0	
+Engg	0	0	0	0	0	VBG	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+demand	0	0	0	0	0	VBP	0	
+demand	0	0	0	0	0	VBP	0	
+uniform	0	0	0	0	0	JJ	0	
+uniform	0	0	0	0	0	JJ	0	
+rule	0	0	0	0	0	NN	0	
+rule	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+ATKT	0	0	0	0	0	NNP	0	
+ATKT	0	0	0	0	0	NNP	0	
+Posted	0	0	0	0	0	NNP	0	
+Posted	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Fri	0	0	0	0	date	NNP	0	
+Fri	0	0	0	0	date	NNP	0	
+Jan	0	0	0	0	date	NNP	0	
+Jan	0	0	0	0	date	NNP	0	
+15	0	0	0	0	date	CD	0	
+15	0	0	0	0	date	CD	0	
+1999	0	0	0	0	date	CD	0	
+1999	0	0	0	0	date	CD	0	
+IST	0	0	0	0	person	NNP	0	
+IST	0	0	0	0	person	NNP	0	
+MUMBAI	0	0	0	0	0	NNP	0	
+MUMBAI	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+JANUARY	0	0	0	0	date	NNP	0	
+JANUARY	0	0	0	0	date	NNP	0	
+14	0	0	0	0	date	CD	0	
+14	0	0	0	0	date	CD	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Engineering	0	0	0	0	0	NNP	0	
+Engineering	0	0	0	0	0	NNP	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+held	0	0	0	0	0	VBD	0	
+held	0	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+demonstration	0	0	0	0	0	NN	0	
+demonstration	0	0	0	0	0	NN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+University	0	0	0	0	0	NNP	0	
+University	0	0	0	0	0	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Mumbai	0	0	0	0	0	NNP	0	
+Mumbai	0	0	0	0	0	NNP	0	
+campus	0	0	0	0	0	NN	0	
+campus	0	0	0	0	0	NN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Fort	0	0	0	0	0	NNP	0	
+Fort	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Wednesday	0	0	0	0	date	NNP	0	
+Wednesday	0	0	0	0	date	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+demanding	0	0	0	0	0	VBG	0	
+demanding	0	0	0	0	0	VBG	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+be	0	0	0	0	0	VB	0	
+be	0	0	0	0	0	VB	0	
+allowed	0	0	0	0	0	VBN	0	
+allowed	0	0	0	0	0	VBN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+keep	0	0	0	0	0	VB	0	
+keep	0	0	0	0	0	VB	0	
+term	0	0	0	0	0	NN	0	
+term	0	0	0	0	0	NN	0	
+grant	0	0	0	0	0	NN	0	
+grant	0	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+year	0	0	0	0	0	NN	0	
+year	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,5 +1,5 @@
 loss_functions: cross-entropy-loss
-learning_rates: 0.00005, 0.00001, 0.000005
+learning_rates: 0.00001, 0.000005, 0.000001
 batch_sizes: 1
 optimizers: adam
 max_epochs: 3

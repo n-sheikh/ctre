@@ -1,22 +1,44 @@
-The	0	0	0	0	0	
-African	0	0	0	0	0	
-nationals	0	0	0	0	0	
-had	0	0	0	0	0	
-sustained	0	0	0	0	0	
-minor	1	0	0	0	0	
-injuries	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-attack	1	0	0	0	0	
-that	0	0	0	0	0	
-took	0	0	0	0	0	
-place	0	0	0	0	0	
-in	0	0	0	0	0	
-South	0	0	0	0	0	
-Delhi	0	0	0	0	0	
-'s	0	0	0	0	0	
-Mehrauli	0	0	0	0	0	
-area	0	0	0	0	0	
-on	0	0	0	0	0	
-Friday	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+African	0	0	0	0	0	JJ	0	
+African	0	0	0	0	0	JJ	0	
+nationals	0	0	0	0	0	NNS	0	
+nationals	0	0	0	0	0	NNS	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+sustained	mcmTrig	0	0	0	0	VBN	0	
+sustained	mcmTrig	0	0	0	0	VBN	0	
+minor	0	0	0	0	0	JJ	0	
+minor	0	0	0	0	0	JJ	0	
+injuries	0	0	0	0	0	NNS	0	
+injuries	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+attack	0	0	0	0	0	NN	0	
+attack	0	0	0	0	0	NN	0	
+that	0	0	0	0	0	WDT	0	
+that	0	0	0	0	0	WDT	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+place	0	0	0	0	0	NN	0	
+place	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+South	0	0	0	0	location	NNP	0	
+South	0	0	0	0	location	NNP	0	
+Delhi	0	0	0	0	location	NNP	0	
+Delhi	0	0	0	0	location	NNP	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+Mehrauli	0	0	0	0	0	NNP	0	
+Mehrauli	0	0	0	0	0	NNP	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Friday	0	0	0	0	date	NNP	0	
+Friday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,35 +1,70 @@
-Speaking	0	0	0	0	0	
-to	0	0	0	0	0	
-mediapersons	0	0	0	0	0	
-after	0	0	0	0	0	
-the	0	0	0	0	0	
-meeting	0	0	0	0	0	
-,	0	0	0	0	0	
-Pandian	0	0	0	0	0	
-said	0	0	0	0	0	
-he	0	0	0	0	0	
-and	0	0	0	0	0	
-Nallakannu	0	0	0	0	0	
-had	0	0	0	0	0	
-requested	0	0	0	0	0	
-the	0	0	0	0	0	
-CM	0	0	0	0	0	
-to	0	0	0	0	0	
-withdraw	0	0	0	0	0	
-cases	0	0	0	0	0	
-registered	0	0	0	0	0	
-against	1	0	1	0	0	
-those	0	0	0	0	0	
-protesting	0	0	0	0	0	
-against	1	0	1	0	0	
-KKNPP	0	0	0	0	0	
-as	0	0	0	0	0	
-they	0	0	0	0	0	
-had	0	0	0	0	0	
-staged	0	0	0	0	0	
-demonstrations	0	0	0	0	0	
-in	0	0	0	0	0	
-a	0	0	0	0	0	
-peaceful	1	0	0	0	0	
-manner	0	0	0	0	0	
-.	0	0	0	0	0	
+Speaking	0	0	0	0	0	VBG	0	
+Speaking	0	0	0	0	0	VBG	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+mediapersons	0	0	0	0	0	NNS	0	
+mediapersons	0	0	0	0	0	NNS	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+meeting	0	0	0	0	0	NN	0	
+meeting	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Pandian	0	0	0	0	person	NNP	0	
+Pandian	0	0	0	0	person	NNP	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Nallakannu	0	0	0	0	0	NNP	0	
+Nallakannu	0	0	0	0	0	NNP	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+requested	0	0	0	0	0	VBN	0	
+requested	0	0	0	0	0	VBN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+CM	0	0	0	0	0	NNP	0	
+CM	0	0	0	0	0	NNP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+withdraw	khooTrig	0	0	0	0	VB	0	
+withdraw	khooTrig	0	0	0	0	VB	0	
+cases	0	0	0	0	0	NNS	0	
+cases	0	0	0	0	0	NNS	0	
+registered	0	0	0	0	0	VBN	0	
+registered	0	0	0	0	0	VBN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+those	0	0	0	0	0	DT	0	
+those	0	0	0	0	0	DT	0	
+protesting	0	0	0	0	0	VBG	0	
+protesting	0	0	0	0	0	VBG	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+KKNPP	0	0	0	0	0	NNP	0	
+KKNPP	0	0	0	0	0	NNP	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+demonstrations	0	0	0	0	0	NNS	0	
+demonstrations	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+peaceful	0	0	0	0	0	JJ	0	
+peaceful	0	0	0	0	0	JJ	0	
+manner	0	0	0	0	0	NN	0	
+manner	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

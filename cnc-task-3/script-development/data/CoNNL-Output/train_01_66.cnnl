@@ -1,21 +1,42 @@
-Meanwhile	0	0	0	0	0	
-,	0	0	0	0	0	
-a	0	0	0	0	0	
-peace	1	0	0	0	0	
-rally	0	0	0	0	0	
-,	0	0	0	0	0	
-taken	0	0	0	0	0	
-out	0	0	0	0	0	
-on	0	0	0	0	0	
-behalf	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Sarvodaya	0	0	0	0	0	
-movement	0	0	0	0	0	
-from	0	0	0	0	0	
-Chennai	0	0	0	0	0	
-,	0	0	0	0	0	
-reached	0	0	0	0	0	
-Kamarajar	0	0	0	0	0	
-district	0	0	0	0	0	
-.	0	0	0	0	0	
+Meanwhile	0	0	0	0	0	RB	0	
+Meanwhile	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+peace	0	0	0	0	0	NN	0	
+peace	0	0	0	0	0	NN	0	
+rally	khooTrig	0	0	0	0	NN	0	
+rally	khooTrig	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+taken	0	0	0	0	0	VBN	0	
+taken	0	0	0	0	0	VBN	0	
+out	khooTrig	0	0	0	0	IN	0	
+out	khooTrig	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+behalf	0	0	0	0	0	NN	0	
+behalf	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Sarvodaya	0	0	0	0	0	NNP	0	
+Sarvodaya	0	0	0	0	0	NNP	0	
+movement	0	0	0	0	0	NN	0	
+movement	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+Chennai	0	0	0	0	location	NNP	0	
+Chennai	0	0	0	0	location	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+reached	0	0	0	0	0	VBD	0	
+reached	0	0	0	0	0	VBD	0	
+Kamarajar	0	0	0	0	0	NNP	0	
+Kamarajar	0	0	0	0	0	NNP	0	
+district	0	0	0	0	0	NN	0	
+district	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

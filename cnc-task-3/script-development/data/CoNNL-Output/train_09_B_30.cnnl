@@ -1,64 +1,128 @@
-KADAPA	0	0	0	0	0	
-:	0	0	0	0	0	
-Panchayat	0	0	0	0	0	
-workers	0	0	0	0	0	
-on	0	0	0	0	0	
-hunger	0	0	0	0	0	
-strike	0	0	0	0	0	
-September	0	0	0	0	0	
-05	0	0	0	0	0	
-,	0	0	0	0	0	
-2010	0	0	0	0	0	
-00	0	0	0	0	0	
-:	0	0	0	0	0	
-00	0	0	0	0	0	
-IST	0	0	0	0	0	
-Gram	0	0	0	0	0	
-Panchayat	0	0	0	0	0	
-Employees	0	0	0	0	0	
-'	0	0	0	0	0	
-and	0	0	0	0	0	
-Workers	0	0	0	0	0	
-'	0	0	0	0	0	
-Union	0	0	0	0	0	
-members	0	0	0	0	0	
-launched	0	0	0	0	0	
-relay	0	0	0	0	0	
-hunger	0	0	0	0	0	
-strike	0	0	0	0	0	
-in	0	0	0	0	0	
-front	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Collectorate	0	0	0	0	0	
-on	0	0	0	0	0	
-Saturday	0	0	0	0	0	
-demanding	0	0	0	0	0	
-implementation	0	0	0	0	0	
-of	0	0	0	0	0	
-G	0	0	0	0	0	
-.	0	0	0	0	0	
-O	0	0	0	0	0	
-.	0	0	0	0	0	
-No	0	1	0	0	0	
-.	0	0	0	0	0	
-39	0	0	0	0	0	
-to	0	0	0	0	0	
-upgrade	1	0	0	0	0	
-the	0	0	0	0	0	
-posts	0	0	0	0	0	
-of	0	0	0	0	0	
-village	0	0	0	0	0	
-servants	0	0	0	0	0	
-as	0	0	0	0	0	
-Village	0	0	0	0	0	
-Revenue	0	0	0	0	0	
-Officers	0	0	0	0	0	
-and	0	0	0	0	0	
-promote	0	0	0	0	0	
-eligible	1	0	0	0	0	
-ones	0	0	0	0	0	
-as	0	0	0	0	0	
-Panchayat	0	0	0	0	0	
-Secretaries	0	0	0	0	0	
-.	0	0	0	0	0	
+KADAPA	0	0	0	0	0	NNP	0	
+KADAPA	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Panchayat	0	0	0	0	person	NNP	0	
+Panchayat	0	0	0	0	person	NNP	0	
+workers	0	0	0	0	0	NNS	0	
+workers	0	0	0	0	0	NNS	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+hunger	0	0	0	0	0	NN	0	
+hunger	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+September	0	0	0	0	date	NNP	0	
+September	0	0	0	0	date	NNP	0	
+05	0	0	0	0	date	CD	0	
+05	0	0	0	0	date	CD	0	
+,	0	0	0	0	date	,	0	
+,	0	0	0	0	date	,	0	
+2010	0	0	0	0	date	CD	0	
+2010	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+00	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+00	0	0	0	0	date	NNP	0	
+00	0	0	0	0	date	NNP	0	
+IST	0	0	0	0	person	NNP	0	
+IST	0	0	0	0	person	NNP	0	
+Gram	0	0	0	0	person	NNP	0	
+Gram	0	0	0	0	person	NNP	0	
+Panchayat	0	0	0	0	person	NNP	0	
+Panchayat	0	0	0	0	person	NNP	0	
+Employees	0	0	0	0	0	NNP	0	
+Employees	0	0	0	0	0	NNP	0	
+'	0	0	0	0	0	POS	0	
+'	0	0	0	0	0	POS	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Workers	0	0	0	0	0	NNP	0	
+Workers	0	0	0	0	0	NNP	0	
+'	0	0	0	0	0	POS	0	
+'	0	0	0	0	0	POS	0	
+Union	0	0	0	0	0	NNP	0	
+Union	0	0	0	0	0	NNP	0	
+members	0	0	0	0	0	NNS	0	
+members	0	0	0	0	0	NNS	0	
+launched	khooTrig	0	0	0	0	VBD	0	
+launched	khooTrig	0	0	0	0	VBD	0	
+relay	khooTrig	0	0	0	0	JJ	0	
+relay	khooTrig	0	0	0	0	JJ	0	
+hunger	0	0	0	0	0	NN	0	
+hunger	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+front	0	0	0	0	0	NN	0	
+front	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Collectorate	0	0	0	0	0	NNP	0	
+Collectorate	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Saturday	0	0	0	0	date	NNP	0	
+Saturday	0	0	0	0	date	NNP	0	
+demanding	0	0	0	0	0	VBG	0	
+demanding	0	0	0	0	0	VBG	0	
+implementation	0	0	0	0	0	NN	0	
+implementation	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+G	0	0	0	0	person	NNP	0	
+G	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+O	0	0	0	0	person	NNP	0	
+O	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+No	0	0	0	0	person	NNP	explicit_negative	
+No	0	0	0	0	person	NNP	explicit_negative	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	
+39	0	0	0	0	0	CD	0	
+39	0	0	0	0	0	CD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+upgrade	khooTrig	0	0	0	0	VB	0	
+upgrade	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+posts	0	0	0	0	0	NNS	0	
+posts	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+village	0	0	0	0	0	NN	0	
+village	0	0	0	0	0	NN	0	
+servants	0	0	0	0	0	NNS	0	
+servants	0	0	0	0	0	NNS	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+Village	0	0	0	0	0	NNP	0	
+Village	0	0	0	0	0	NNP	0	
+Revenue	0	0	0	0	0	NNP	0	
+Revenue	0	0	0	0	0	NNP	0	
+Officers	0	0	0	0	0	NNP	0	
+Officers	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+promote	mcmTrig	0	0	0	0	VB	0	
+promote	mcmTrig	0	0	0	0	VB	0	
+eligible	0	0	0	0	0	JJ	0	
+eligible	0	0	0	0	0	JJ	0	
+ones	0	0	0	0	0	NNS	0	
+ones	0	0	0	0	0	NNS	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+Panchayat	0	0	0	0	person	NNP	0	
+Panchayat	0	0	0	0	person	NNP	0	
+Secretaries	0	0	0	0	0	NNP	0	
+Secretaries	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

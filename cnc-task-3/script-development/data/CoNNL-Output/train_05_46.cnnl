@@ -1,37 +1,74 @@
-The	0	0	0	0	0	
-Minister	0	0	0	0	0	
-had	0	0	0	0	0	
-earlier	0	0	0	0	0	
-met	0	0	0	0	0	
-the	0	0	0	0	0	
-people	0	0	0	0	0	
-who	0	0	0	0	0	
-had	0	0	0	0	0	
-staged	0	0	0	0	0	
-the	0	0	0	0	0	
-bizarre	1	0	0	0	0	
-protest	1	0	0	0	0	
-in	0	0	0	0	0	
-front	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Savanur	0	0	0	0	0	
-municipality	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-and	0	0	0	0	0	
-assured	0	0	0	0	0	
-them	0	0	0	0	0	
-that	0	0	0	0	0	
-they	0	0	0	0	0	
-would	1	0	0	1	0	
-n't	0	1	0	0	0	
-be	0	0	0	0	0	
-forced	0	0	0	0	0	
-to	0	0	0	0	0	
-move	1	0	0	0	0	
-out	0	0	0	0	0	
-of	0	0	0	0	0	
-their	0	0	0	0	0	
-houses	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+Minister	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+earlier	0	0	0	0	0	RB	0	
+earlier	0	0	0	0	0	RB	0	
+met	0	0	0	0	0	VBN	0	
+met	0	0	0	0	0	VBN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+people	0	0	0	0	0	NNS	0	
+people	0	0	0	0	0	NNS	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+bizarre	0	0	0	0	0	JJ	0	
+bizarre	0	0	0	0	0	JJ	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+front	0	0	0	0	0	NN	0	
+front	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Savanur	0	0	0	0	0	NNP	0	
+Savanur	0	0	0	0	0	NNP	0	
+municipality	0	0	0	0	0	NN	0	
+municipality	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+assured	khooTrig	0	0	0	0	VBN	0	
+assured	khooTrig	0	0	0	0	VBN	0	
+them	0	0	0	0	0	PRP	0	
+them	0	0	0	0	0	PRP	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
+they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
+would	0	0	0	1	0	MD	modal	
+would	0	0	0	1	0	MD	modal	
+n't	0	1	in_modal_trig_domain	0	0	RB	explicit_negative	
+n't	0	1	in_modal_trig_domain	0	0	RB	explicit_negative	
+be	0	1	null	0	0	VB	0	
+be	0	1	null	0	0	VB	0	
+forced	khooTrig	1	null	0	0	VBN	0	
+forced	khooTrig	1	null	0	0	VBN	0	
+to	0	1	null	0	0	TO	0	
+to	0	1	null	0	0	TO	0	
+move	khooTrig	1	null	0	0	VB	0	
+move	khooTrig	1	null	0	0	VB	0	
+out	khooTrig	1	null	0	0	RP	0	
+out	khooTrig	1	null	0	0	RP	0	
+of	0	1	null	0	0	IN	0	
+of	0	1	null	0	0	IN	0	
+their	0	1	null	0	0	PRP$	0	
+their	0	1	null	0	0	PRP$	0	
+houses	0	1	null	0	0	NNS	0	
+houses	0	1	null	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

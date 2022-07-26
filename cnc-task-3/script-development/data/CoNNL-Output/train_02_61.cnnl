@@ -1,7 +1,14 @@
-Shiv	0	0	0	0	0	
-Sena	0	0	0	0	0	
-is	0	0	0	0	0	
-backing	0	0	0	0	0	
-their	0	0	0	0	0	
-strike	0	0	0	0	0	
-.	0	0	0	0	0	
+Shiv	0	0	0	0	0	NNP	0	
+Shiv	0	0	0	0	0	NNP	0	
+Sena	0	0	0	0	0	NNP	0	
+Sena	0	0	0	0	0	NNP	0	
+is	0	0	0	0	0	VBZ	0	
+is	0	0	0	0	0	VBZ	0	
+backing	khooTrig	0	0	0	0	VBG	0	
+backing	khooTrig	0	0	0	0	VBG	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

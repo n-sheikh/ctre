@@ -1,42 +1,84 @@
-"	0	0	0	0	0	
-The	0	0	0	0	0	
-Maoists	0	0	0	0	0	
-stopped	0	0	0	0	0	
-a	0	0	0	0	0	
-bus	0	0	0	0	0	
-and	0	0	0	0	0	
-identified	0	0	0	0	0	
-five	0	0	0	0	0	
-jawans	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Chhattisgarh	0	0	0	0	0	
-Armed	0	0	0	0	0	
-Forces	0	0	0	0	0	
-(	0	0	0	0	0	
-CAF	0	0	0	0	0	
-)	0	0	0	0	0	
-(	0	0	0	0	0	
-the	0	0	0	0	0	
-state	0	0	0	0	0	
-armed	0	0	0	0	0	
-police	0	0	0	0	0	
-)	0	0	0	0	0	
-and	0	0	0	0	0	
-took	0	0	0	0	0	
-them	0	0	0	0	0	
-away	0	0	0	0	0	
-,	0	0	0	0	0	
-"	0	0	0	0	0	
-Inspector	0	0	0	0	0	
-General	0	0	0	0	0	
-of	0	0	0	0	0	
-Police	0	0	0	0	0	
-(	0	0	0	0	0	
-Bastar	0	0	0	0	0	
-)	0	0	0	0	0	
-TJ	0	0	0	0	0	
-Longkumer	0	0	0	0	0	
-told	0	0	0	0	0	
-reporters	0	0	0	0	0	
-.	0	0	0	0	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+Maoists	0	0	0	0	0	NNPS	0	
+Maoists	0	0	0	0	0	NNPS	0	
+stopped	0	0	0	0	0	VBD	0	
+stopped	0	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+bus	0	0	0	0	0	NN	0	
+bus	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+identified	0	0	0	0	0	VBD	0	
+identified	0	0	0	0	0	VBD	0	
+five	0	0	0	0	0	CD	0	
+five	0	0	0	0	0	CD	0	
+jawans	0	0	0	0	0	NNS	0	
+jawans	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Chhattisgarh	0	0	0	0	0	NNP	0	
+Chhattisgarh	0	0	0	0	0	NNP	0	
+Armed	0	0	0	0	0	NNP	0	
+Armed	0	0	0	0	0	NNP	0	
+Forces	0	0	0	0	0	NNP	0	
+Forces	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+CAF	0	0	0	0	0	NNP	0	
+CAF	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+state	0	0	0	0	0	NN	0	
+state	0	0	0	0	0	NN	0	
+armed	0	0	0	0	0	JJ	0	
+armed	0	0	0	0	0	JJ	0	
+police	0	0	0	0	0	NNS	0	
+police	0	0	0	0	0	NNS	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+them	0	0	0	0	0	PRP	0	
+them	0	0	0	0	0	PRP	0	
+away	0	0	0	0	0	RP	0	
+away	0	0	0	0	0	RP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+Inspector	0	0	0	0	person	NNP	0	
+Inspector	0	0	0	0	person	NNP	0	
+General	0	0	0	0	person	NNP	0	
+General	0	0	0	0	person	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Police	0	0	0	0	0	NNS	0	
+Police	0	0	0	0	0	NNS	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+Bastar	0	0	0	0	0	NNP	0	
+Bastar	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+TJ	0	0	0	0	person	NNP	0	
+TJ	0	0	0	0	person	NNP	0	
+Longkumer	0	0	0	0	person	NNP	0	
+Longkumer	0	0	0	0	person	NNP	0	
+told	0	0	0	0	0	VBD	0	
+told	0	0	0	0	0	VBD	0	
+reporters	0	0	0	0	0	NNS	0	
+reporters	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

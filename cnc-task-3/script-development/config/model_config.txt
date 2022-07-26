@@ -1,6 +1,11 @@
-model: LLM
+model: MiRIM
 llm_name: bert-base-uncased
 llm_hidden_dropout_prob: 0.1
 llm_attention_probs_dropout_prob: 0.1
-pooling: cls
+pooling: attn
+rnn_type: lstm
+num_mech: 1
+num_active: 1
+hidden_size: 256
+input_sizes: 768-1
 classes: 2

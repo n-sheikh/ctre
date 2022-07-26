@@ -1,22 +1,44 @@
-After	0	0	0	0	0	
-the	0	0	0	0	0	
-police	0	0	0	0	0	
-doused	0	0	0	0	0	
-the	0	0	0	0	0	
-crowd	0	0	0	0	0	
-in	0	0	0	0	0	
-pepper	0	0	0	0	0	
-spray	0	0	0	0	0	
-and	0	0	0	0	0	
-tear	0	0	0	0	0	
-gas	0	0	0	0	0	
-,	0	0	0	0	0	
-tens	0	0	0	0	0	
-of	0	0	0	0	0	
-thousands	0	0	0	0	0	
-of	0	0	0	0	0	
-residents	0	0	0	0	0	
-joined	0	0	0	0	0	
-the	0	0	0	0	0	
-action	0	0	0	0	0	
-.	0	0	0	0	0	
+After	0	0	0	0	0	IN	0	
+After	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+doused	0	0	0	0	0	VBD	0	
+doused	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+crowd	0	0	0	0	0	NN	0	
+crowd	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+pepper	0	0	0	0	0	NN	0	
+pepper	0	0	0	0	0	NN	0	
+spray	khooTrig	0	0	0	0	NN	0	
+spray	khooTrig	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+tear	0	0	0	0	0	VB	0	
+tear	0	0	0	0	0	VB	0	
+gas	khooTrig	0	0	0	0	NN	0	
+gas	khooTrig	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+tens	0	0	0	0	0	NNS	0	
+tens	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+thousands	0	0	0	0	0	NNS	0	
+thousands	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+residents	0	0	0	0	0	NNS	0	
+residents	0	0	0	0	0	NNS	0	
+joined	khooTrig	0	0	0	0	VBD	0	
+joined	khooTrig	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+action	0	0	0	0	0	NN	0	
+action	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

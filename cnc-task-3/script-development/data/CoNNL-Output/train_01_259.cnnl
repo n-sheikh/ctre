@@ -1,41 +1,82 @@
-The	0	0	0	0	0	
-stir	1	0	0	0	0	
-intensified	0	0	0	0	0	
-when	0	0	0	0	0	
-women	0	0	0	0	0	
-activists	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-voiced	0	0	0	0	0	
-their	0	0	0	0	0	
-support	1	0	0	0	0	
-for	0	0	0	0	0	
-those	0	0	0	0	0	
-women	0	0	0	0	0	
-set	0	0	0	0	0	
-to	0	0	0	0	0	
-march	0	0	0	0	0	
-towards	0	0	0	0	0	
-Shani	0	0	0	0	0	
-Shingnapur	0	0	0	0	0	
-temple	0	0	0	0	0	
-in	0	0	0	0	0	
-Maharashtra	0	0	0	0	0	
-to	0	0	0	0	0	
-break	1	0	0	0	0	
-the	0	0	0	0	0	
-centuries	0	0	0	0	0	
-old	0	0	0	0	0	
-tradition	1	0	0	0	0	
-of	0	0	0	0	0	
-not	0	1	0	0	0	
-allowing	0	0	0	0	0	
-the	0	0	0	0	0	
-feminine	0	0	0	0	0	
-gender	0	0	0	0	0	
-to	0	0	0	0	0	
-enter	0	0	0	0	0	
-the	0	0	0	0	0	
-sanctum	0	0	0	0	0	
-sanctorum	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+stir	0	0	0	0	0	NN	0	
+stir	0	0	0	0	0	NN	0	
+intensified	khooTrig	0	0	0	0	VBD	0	
+intensified	khooTrig	0	0	0	0	VBD	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+women	0	0	0	0	0	NNS	0	
+women	0	0	0	0	0	NNS	0	
+activists	0	0	0	0	0	NNS	0	
+activists	0	0	0	0	0	NNS	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+voiced	0	0	0	0	0	VBD	0	
+voiced	0	0	0	0	0	VBD	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+support	mcmTrig	0	0	0	0	NN	0	
+support	mcmTrig	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+those	0	0	0	0	0	DT	0	
+those	0	0	0	0	0	DT	0	
+women	0	0	0	0	0	NNS	0	
+women	0	0	0	0	0	NNS	0	
+set	0	0	0	0	0	VBN	0	
+set	0	0	0	0	0	VBN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+march	0	0	0	0	0	VB	0	
+march	0	0	0	0	0	VB	0	
+towards	0	0	0	0	0	IN	0	
+towards	0	0	0	0	0	IN	0	
+Shani	0	0	0	0	person	NNP	0	
+Shani	0	0	0	0	person	NNP	0	
+Shingnapur	0	0	0	0	person	NNP	0	
+Shingnapur	0	0	0	0	person	NNP	0	
+temple	0	0	0	0	0	NN	0	
+temple	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Maharashtra	0	0	0	0	location	NNP	0	
+Maharashtra	0	0	0	0	location	NNP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+break	0	0	0	0	0	VB	0	
+break	0	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+centuries	0	0	0	0	0	JJ	0	
+centuries	0	0	0	0	0	JJ	0	
+old	0	0	0	0	0	JJ	0	
+old	0	0	0	0	0	JJ	0	
+tradition	0	0	0	0	0	NN	0	
+tradition	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+allowing	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+allowing	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+feminine	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+feminine	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+gender	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+gender	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+to	0	0	in_explicit_neg_trig_domain	0	0	TO	0	
+to	0	0	in_explicit_neg_trig_domain	0	0	TO	0	
+enter	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+enter	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+sanctum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+sanctum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+sanctorum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+sanctorum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

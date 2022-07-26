@@ -1,29 +1,58 @@
-DUT	0	0	0	0	0	
-was	0	0	0	0	0	
-closed	0	0	0	0	0	
-last	0	0	0	0	0	
-week	0	0	0	0	0	
-after	0	0	0	0	0	
-about	0	0	0	0	0	
-300	0	0	0	0	0	
-students	0	0	0	0	0	
-clashed	0	0	0	0	0	
-with	0	0	0	0	0	
-police	0	0	0	0	0	
-and	0	0	0	0	0	
-campus	0	0	0	0	0	
-security	1	0	0	0	0	
-personnel	0	0	0	0	0	
-in	0	0	0	0	0	
-running	0	0	0	0	0	
-battles	0	0	0	0	0	
-on	0	0	0	0	0	
-the	0	0	0	0	0	
-institution	0	0	0	0	0	
-'s	0	0	0	0	0	
-Steve	0	0	0	0	0	
-Biko	0	0	0	0	0	
-campus	0	0	0	0	0	
-in	0	0	0	0	0	
-Durban	0	0	0	0	0	
-.	0	0	0	0	0	
+DUT	0	0	0	0	0	NNP	0	
+DUT	0	0	0	0	0	NNP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+closed	0	0	0	0	0	JJ	0	
+closed	0	0	0	0	0	JJ	0	
+last	0	0	0	0	date	JJ	0	
+last	0	0	0	0	date	JJ	0	
+week	0	0	0	0	date	NN	0	
+week	0	0	0	0	date	NN	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	RB	0	
+about	0	0	0	0	0	RB	0	
+300	0	0	0	0	0	CD	0	
+300	0	0	0	0	0	CD	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+clashed	khooTrig	0	0	0	0	VBD	0	
+clashed	khooTrig	0	0	0	0	VBD	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+campus	0	0	0	0	0	NN	0	
+campus	0	0	0	0	0	NN	0	
+security	0	0	0	0	0	NN	0	
+security	0	0	0	0	0	NN	0	
+personnel	0	0	0	0	0	NNS	0	
+personnel	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+running	khooTrig	0	0	0	0	VBG	0	
+running	khooTrig	0	0	0	0	VBG	0	
+battles	0	0	0	0	0	NNS	0	
+battles	0	0	0	0	0	NNS	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+institution	0	0	0	0	0	NN	0	
+institution	0	0	0	0	0	NN	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+Steve	0	0	0	0	person	NNP	0	
+Steve	0	0	0	0	person	NNP	0	
+Biko	0	0	0	0	person	NNP	0	
+Biko	0	0	0	0	person	NNP	0	
+campus	0	0	0	0	0	NN	0	
+campus	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Durban	0	0	0	0	location	NNP	0	
+Durban	0	0	0	0	location	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

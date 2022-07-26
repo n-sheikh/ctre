@@ -1,20 +1,40 @@
-Almost	0	0	0	0	1	
-all	0	0	0	0	0	
-the	0	0	0	0	0	
-organisations	0	0	0	0	0	
-associated	0	0	0	0	0	
-with	0	0	0	0	0	
-doctors	0	0	0	0	0	
-and	0	0	0	0	0	
-PG	0	0	0	0	0	
-students	0	0	0	0	0	
-have	0	0	0	0	0	
-expressed	0	0	0	0	0	
-their	0	0	0	0	0	
-solidarity	1	0	0	0	0	
-with	0	0	0	0	0	
-the	0	0	0	0	0	
-ongoing	0	0	0	0	0	
-hunger	0	0	0	0	0	
-strike	0	0	0	0	0	
-.	0	0	0	0	0	
+Almost	0	0	0	0	0	RB	0	
+Almost	0	0	0	0	0	RB	0	
+all	0	0	0	0	0	DT	0	
+all	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+organisations	0	0	0	0	0	NNS	0	
+organisations	0	0	0	0	0	NNS	0	
+associated	0	0	0	0	0	VBN	0	
+associated	0	0	0	0	0	VBN	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+doctors	khooTrig	0	0	0	0	NNS	0	
+doctors	khooTrig	0	0	0	0	NNS	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+PG	0	0	0	0	0	NNP	0	
+PG	0	0	0	0	0	NNP	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+have	0	0	0	0	0	VBP	0	
+have	0	0	0	0	0	VBP	0	
+expressed	khooTrig	0	0	0	0	VBN	0	
+expressed	khooTrig	0	0	0	0	VBN	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+solidarity	0	0	0	0	0	NN	0	
+solidarity	0	0	0	0	0	NN	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+ongoing	0	0	0	0	0	JJ	0	
+ongoing	0	0	0	0	0	JJ	0	
+hunger	0	0	0	0	0	NN	0	
+hunger	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

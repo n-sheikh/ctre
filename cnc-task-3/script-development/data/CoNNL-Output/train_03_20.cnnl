@@ -1,47 +1,94 @@
-B	0	0	0	0	0	
-.	0	0	0	0	0	
-V	0	0	0	0	0	
-.	0	0	0	0	0	
-Kakkillaya	0	0	0	0	0	
-,	0	0	0	0	0	
-former	0	0	0	0	0	
-MLA	0	0	0	0	0	
-and	0	0	0	0	0	
-a	0	0	0	0	0	
-senior	0	0	0	0	0	
-party	0	0	0	0	0	
-leader	0	0	0	0	0	
-and	0	0	0	0	0	
-freedom	1	0	0	0	0	
-fighter	0	0	0	0	0	
-,	0	0	0	0	0	
-who	0	0	0	0	0	
-addressed	0	0	0	0	0	
-the	0	0	0	0	0	
-gathering	0	0	0	0	0	
-,	0	0	0	0	0	
-said	0	0	0	0	0	
-the	0	0	0	0	0	
-Government	0	0	0	0	0	
-should	1	0	0	1	0	
-release	0	0	0	0	0	
-the	0	0	0	0	0	
-student	0	0	0	0	0	
-,	0	0	0	0	0	
-along	0	0	0	0	0	
-with	0	0	0	0	0	
-his	0	0	0	0	0	
-father	0	0	0	0	0	
-,	0	0	0	0	0	
-Linganna	0	0	0	0	0	
-Malekudiya	0	0	0	0	0	
-,	0	0	0	0	0	
-immediately	1	0	0	0	0	
-and	0	0	0	0	0	
-ensure	1	0	0	0	0	
-that	0	0	0	0	0	
-his	0	0	0	0	0	
-education	0	0	0	0	0	
-was	0	0	0	0	0	
-continued	0	0	0	0	0	
-.	0	0	0	0	0	
+B	0	0	0	0	0	NNP	0	
+B	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	
+V	0	0	0	0	0	NNP	0	
+V	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	
+Kakkillaya	0	0	0	0	0	NNP	0	
+Kakkillaya	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+former	0	0	0	0	0	JJ	0	
+former	0	0	0	0	0	JJ	0	
+MLA	0	0	0	0	person	NNS	0	
+MLA	0	0	0	0	person	NNS	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+senior	0	0	0	0	0	JJ	0	
+senior	0	0	0	0	0	JJ	0	
+party	0	0	0	0	0	NN	0	
+party	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+freedom	0	0	0	0	0	NN	0	
+freedom	0	0	0	0	0	NN	0	
+fighter	0	0	0	0	0	NN	0	
+fighter	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+addressed	mcmTrig	0	0	0	0	VBD	0	
+addressed	mcmTrig	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+gathering	0	0	0	0	0	NN	0	
+gathering	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Government	0	0	0	0	0	NN	0	
+Government	0	0	0	0	0	NN	0	
+should	0	0	0	1	0	MD	modal	
+should	0	0	0	1	0	MD	modal	
+release	khooTrig	1	in_modal_trig_domain	0	0	VB	0	
+release	khooTrig	1	in_modal_trig_domain	0	0	VB	0	
+the	0	1	in_modal_trig_domain	0	0	DT	0	
+the	0	1	in_modal_trig_domain	0	0	DT	0	
+student	0	1	in_modal_trig_domain	0	0	NN	0	
+student	0	1	in_modal_trig_domain	0	0	NN	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+along	0	1	in_modal_trig_domain	0	0	RB	0	
+along	0	1	in_modal_trig_domain	0	0	RB	0	
+with	0	1	in_modal_trig_domain	0	0	IN	0	
+with	0	1	in_modal_trig_domain	0	0	IN	0	
+his	0	1	in_modal_trig_domain	0	0	PRP$	0	
+his	0	1	in_modal_trig_domain	0	0	PRP$	0	
+father	0	1	in_modal_trig_domain	0	0	NN	0	
+father	0	1	in_modal_trig_domain	0	0	NN	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+Linganna	0	1	in_modal_trig_domain	0	0	NNP	0	
+Linganna	0	1	in_modal_trig_domain	0	0	NNP	0	
+Malekudiya	0	1	in_modal_trig_domain	0	0	NNP	0	
+Malekudiya	0	1	in_modal_trig_domain	0	0	NNP	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+immediately	0	1	in_modal_trig_domain	0	0	RB	0	
+immediately	0	1	in_modal_trig_domain	0	0	RB	0	
+and	0	1	in_modal_trig_domain	0	0	CC	0	
+and	0	1	in_modal_trig_domain	0	0	CC	0	
+ensure	0	1	in_modal_trig_domain	0	0	VB	0	
+ensure	0	1	in_modal_trig_domain	0	0	VB	0	
+that	0	1	in_modal_trig_domain	0	0	IN	0	
+that	0	1	in_modal_trig_domain	0	0	IN	0	
+his	0	1	in_modal_trig_domain	0	0	PRP$	0	
+his	0	1	in_modal_trig_domain	0	0	PRP$	0	
+education	0	1	in_modal_trig_domain	0	0	NN	0	
+education	0	1	in_modal_trig_domain	0	0	NN	0	
+was	0	1	in_modal_trig_domain	0	0	VBD	0	
+was	0	1	in_modal_trig_domain	0	0	VBD	0	
+continued	0	1	in_modal_trig_domain	0	0	VBN	0	
+continued	0	1	in_modal_trig_domain	0	0	VBN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,21 +1,42 @@
-Ending	0	0	0	0	0	
-the	0	0	0	0	0	
-deadlock	1	0	0	0	0	
-The	0	0	0	0	0	
-Union	0	0	0	0	0	
-government	0	0	0	0	0	
-even	0	0	0	0	0	
-sought	0	0	0	0	0	
-Attorney	0	0	0	0	0	
-General	0	0	0	0	0	
-Mukul	0	0	0	0	0	
-Rohatgi	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-opinion	1	0	0	0	0	
-to	0	0	0	0	0	
-end	0	0	0	0	0	
-the	0	0	0	0	0	
-economic	0	0	0	0	0	
-blockade	0	0	0	0	0	
-.	0	0	0	0	0	
+Ending	khooTrig	0	0	0	0	VBG	0	
+Ending	khooTrig	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+deadlock	0	0	0	0	0	NN	0	
+deadlock	0	0	0	0	0	NN	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+Union	0	0	0	0	0	NNP	0	
+Union	0	0	0	0	0	NNP	0	
+government	0	0	0	0	0	NN	0	
+government	0	0	0	0	0	NN	0	
+even	0	0	0	0	0	RB	0	
+even	0	0	0	0	0	RB	0	
+sought	0	0	0	0	0	VBD	0	
+sought	0	0	0	0	0	VBD	0	
+Attorney	0	0	0	0	0	NNP	0	
+Attorney	0	0	0	0	0	NNP	0	
+General	0	0	0	0	person	NNP	0	
+General	0	0	0	0	person	NNP	0	
+Mukul	0	0	0	0	person	NNP	0	
+Mukul	0	0	0	0	person	NNP	0	
+Rohatgi	0	0	0	0	person	NNP	0	
+Rohatgi	0	0	0	0	person	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	VBZ	0	
+s	0	0	0	0	0	VBZ	0	
+opinion	0	0	0	0	0	NN	0	
+opinion	0	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+end	khooTrig	0	0	0	0	VB	0	
+end	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+economic	0	0	0	0	0	JJ	0	
+economic	0	0	0	0	0	JJ	0	
+blockade	0	0	0	0	0	NN	0	
+blockade	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

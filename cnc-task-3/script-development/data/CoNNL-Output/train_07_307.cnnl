@@ -1,40 +1,80 @@
-While	0	0	0	0	0	
-the	0	0	0	0	0	
-spark	0	0	0	0	0	
-for	0	0	0	0	0	
-the	0	0	0	0	0	
-current	0	0	0	0	0	
-wave	0	0	0	0	0	
-of	0	0	0	0	0	
-protests	1	0	0	0	0	
-was	0	0	0	0	0	
-an	0	0	0	0	0	
-attempt	0	0	0	0	0	
-by	0	0	0	0	0	
-chief	0	0	0	0	0	
-executive	0	0	0	0	0	
-Carrie	0	0	0	0	0	
-Lam	0	0	0	0	0	
-to	0	0	0	0	0	
-pass	0	0	0	0	0	
-the	0	0	0	0	0	
-Beijing-backed	0	0	0	0	0	
-extradition	0	0	0	0	0	
-law	0	0	0	0	0	
-,	0	0	0	0	0	
-the	0	0	0	0	0	
-demonstrations	0	0	0	0	0	
-have	0	0	0	0	0	
-morphed	0	0	0	0	0	
-into	0	0	0	0	0	
-a	0	0	0	0	0	
-wider	0	0	0	0	0	
-movement	0	0	0	0	0	
-against	1	0	1	0	0	
-Lam	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-administration	0	0	0	0	0	
-and	0	0	0	0	0	
-Beijing	0	0	0	0	0	
-.	0	0	0	0	0	
+While	0	0	0	0	0	IN	0	
+While	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+spark	0	0	0	0	0	NN	0	
+spark	0	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+current	0	0	0	0	0	JJ	0	
+current	0	0	0	0	0	JJ	0	
+wave	0	0	0	0	0	NN	0	
+wave	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+protests	0	0	0	0	0	NNS	0	
+protests	0	0	0	0	0	NNS	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+attempt	0	0	0	0	0	NN	0	
+attempt	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+chief	0	0	0	0	0	JJ	0	
+chief	0	0	0	0	0	JJ	0	
+executive	0	0	0	0	0	NN	0	
+executive	0	0	0	0	0	NN	0	
+Carrie	0	0	0	0	person	NNP	0	
+Carrie	0	0	0	0	person	NNP	0	
+Lam	0	0	0	0	person	NNP	0	
+Lam	0	0	0	0	person	NNP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+pass	0	0	0	0	0	VB	0	
+pass	0	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Beijing-backed	0	0	0	0	0	JJ	0	
+Beijing-backed	0	0	0	0	0	JJ	0	
+extradition	0	0	0	0	0	NN	0	
+extradition	0	0	0	0	0	NN	0	
+law	0	0	0	0	0	NN	0	
+law	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+demonstrations	0	0	0	0	0	NNS	0	
+demonstrations	0	0	0	0	0	NNS	0	
+have	0	0	0	0	0	VBP	0	
+have	0	0	0	0	0	VBP	0	
+morphed	0	0	0	0	0	VBN	0	
+morphed	0	0	0	0	0	VBN	0	
+into	0	0	0	0	0	IN	0	
+into	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+wider	0	0	0	0	0	JJR	0	
+wider	0	0	0	0	0	JJR	0	
+movement	0	0	0	0	0	NN	0	
+movement	0	0	0	0	0	NN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+Lam	0	0	0	0	person	NNP	0	
+Lam	0	0	0	0	person	NNP	0	
+’	0	0	0	0	0	JJ	0	
+’	0	0	0	0	0	JJ	0	
+s	0	0	0	0	0	JJ	0	
+s	0	0	0	0	0	JJ	0	
+administration	0	0	0	0	0	NN	0	
+administration	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Beijing	0	0	0	0	location	NNP	0	
+Beijing	0	0	0	0	location	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,24 +1,48 @@
-Protesters	0	0	0	0	0	
-distributed	0	0	0	0	0	
-protective	1	0	0	0	0	
-gear	0	0	0	0	0	
-such	1	0	0	0	0	
-as	0	0	0	0	0	
-face	0	0	0	0	0	
-masks	0	0	0	0	0	
-,	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-event	0	0	0	0	0	
-of	0	0	0	0	0	
-clashes	0	0	0	0	0	
-with	0	0	0	0	0	
-police	0	0	0	0	0	
-,	0	0	0	0	0	
-who	0	0	0	0	0	
-have	0	0	0	0	0	
-used	0	0	0	0	0	
-teargas	0	0	0	0	0	
-on	0	0	0	0	0	
-demonstrators	0	0	0	0	0	
-.	0	0	0	0	0	
+Protesters	0	0	0	0	0	NNS	0	
+Protesters	0	0	0	0	0	NNS	0	
+distributed	0	0	0	0	0	VBD	0	
+distributed	0	0	0	0	0	VBD	0	
+protective	0	0	0	0	0	JJ	0	
+protective	0	0	0	0	0	JJ	0	
+gear	0	0	0	0	0	NN	0	
+gear	0	0	0	0	0	NN	0	
+such	0	0	0	0	0	JJ	0	
+such	0	0	0	0	0	JJ	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+face	0	0	0	0	0	NN	0	
+face	0	0	0	0	0	NN	0	
+masks	0	0	0	0	0	NNS	0	
+masks	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+event	0	0	0	0	0	NN	0	
+event	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+clashes	khooTrig	0	0	0	0	NNS	0	
+clashes	khooTrig	0	0	0	0	NNS	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+have	0	0	0	0	0	VBP	0	
+have	0	0	0	0	0	VBP	0	
+used	0	0	0	0	0	VBN	0	
+used	0	0	0	0	0	VBN	0	
+teargas	0	0	0	0	0	NNS	0	
+teargas	0	0	0	0	0	NNS	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+demonstrators	0	0	0	0	0	NNS	0	
+demonstrators	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

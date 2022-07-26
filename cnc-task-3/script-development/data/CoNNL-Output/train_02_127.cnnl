@@ -1,30 +1,60 @@
-It	0	0	0	0	0	
-was	0	0	0	0	0	
-the	0	0	0	0	0	
-second	0	0	0	0	0	
-demonstration	0	0	0	0	0	
-in	0	0	0	0	0	
-Kunming	0	0	0	0	0	
-about	0	0	0	0	0	
-the	0	0	0	0	0	
-controversial	1	0	0	0	0	
-project	0	0	0	0	0	
-this	0	0	0	0	0	
-month	0	0	0	0	0	
-,	0	0	0	0	0	
-after	0	0	0	0	0	
-more	0	0	0	0	1	
-than	0	0	0	0	0	
-1	0	0	0	0	0	
-,	0	0	0	0	0	
-000	0	0	0	0	0	
-protesters	0	0	0	0	0	
-took	0	0	0	0	0	
-part	0	0	0	0	0	
-in	0	0	0	0	0	
-a	0	0	0	0	0	
-rally	0	0	0	0	0	
-on	0	0	0	0	0	
-May	0	0	0	0	0	
-4	0	0	0	0	0	
-.	0	0	0	0	0	
+It	0	0	0	0	0	PRP	0	
+It	0	0	0	0	0	PRP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+second	0	0	0	0	0	JJ	0	
+second	0	0	0	0	0	JJ	0	
+demonstration	0	0	0	0	0	NN	0	
+demonstration	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Kunming	0	0	0	0	location	NNP	0	
+Kunming	0	0	0	0	location	NNP	0	
+about	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+controversial	0	0	0	0	0	JJ	0	
+controversial	0	0	0	0	0	JJ	0	
+project	khooTrig	0	0	0	0	NN	0	
+project	khooTrig	0	0	0	0	NN	0	
+this	0	0	0	0	date	DT	0	
+this	0	0	0	0	date	DT	0	
+month	0	0	0	0	date	NN	0	
+month	0	0	0	0	date	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+more	0	0	0	0	0	JJR	0	
+more	0	0	0	0	0	JJR	0	
+than	0	0	0	0	0	IN	0	
+than	0	0	0	0	0	IN	0	
+1	0	0	0	0	0	CD	0	
+1	0	0	0	0	0	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+000	0	0	0	0	0	CD	0	
+000	0	0	0	0	0	CD	0	
+protesters	0	0	0	0	0	NNS	0	
+protesters	0	0	0	0	0	NNS	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+part	khooTrig	0	0	0	0	NN	0	
+part	khooTrig	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+rally	khooTrig	0	0	0	0	NN	0	
+rally	khooTrig	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+May	0	0	0	0	date	NNP	0	
+May	0	0	0	0	date	NNP	0	
+4	0	0	0	0	date	CD	0	
+4	0	0	0	0	date	CD	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,36 +1,72 @@
-"	0	0	0	0	0	
-We	0	0	0	0	0	
-'d	0	0	0	1	0	
-often	0	0	0	0	1	
-come	0	0	0	0	0	
-to	0	0	0	0	0	
-an	0	0	0	0	0	
-understanding	1	0	0	0	0	
-with	0	0	0	0	0	
-protesters	0	0	0	0	0	
-willing	1	0	0	0	0	
-to	0	0	0	0	0	
-open	0	0	0	0	0	
-up	0	0	0	0	0	
-a	0	0	0	0	0	
-part	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-road	0	0	0	0	0	
-,	0	0	0	0	0	
-only	0	0	0	0	0	
-to	0	0	0	0	0	
-have	0	0	0	0	0	
-it	0	0	0	0	0	
-blocked	0	0	1	0	0	
-again	0	0	0	0	0	
-by	0	0	0	0	0	
-other	0	0	0	0	0	
-protesters	0	0	0	0	0	
-who	0	0	0	0	0	
-disagreed	0	0	0	0	0	
-,	0	0	0	0	0	
-"	0	0	0	0	0	
-she	0	0	0	0	0	
-said	0	0	0	0	0	
-.	0	0	0	0	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+We	0	0	0	0	0	PRP	0	
+We	0	0	0	0	0	PRP	0	
+'d	0	0	0	1	0	MD	modal	
+'d	0	0	0	1	0	MD	modal	
+often	0	1	in_modal_trig_domain	0	0	RB	0	
+often	0	1	in_modal_trig_domain	0	0	RB	0	
+come	0	1	in_modal_trig_domain	0	0	VB	0	
+come	0	1	in_modal_trig_domain	0	0	VB	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+an	0	1	in_modal_trig_domain	0	0	DT	0	
+an	0	1	in_modal_trig_domain	0	0	DT	0	
+understanding	0	1	in_modal_trig_domain	0	0	NN	0	
+understanding	0	1	in_modal_trig_domain	0	0	NN	0	
+with	0	1	in_modal_trig_domain	0	0	IN	0	
+with	0	1	in_modal_trig_domain	0	0	IN	0	
+protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
+protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
+willing	0	1	in_modal_trig_domain	0	0	JJ	0	
+willing	0	1	in_modal_trig_domain	0	0	JJ	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+open	0	1	in_modal_trig_domain	0	0	VB	0	
+open	0	1	in_modal_trig_domain	0	0	VB	0	
+up	khooTrig	1	in_modal_trig_domain	0	0	RP	0	
+up	khooTrig	1	in_modal_trig_domain	0	0	RP	0	
+a	0	1	in_modal_trig_domain	0	0	DT	0	
+a	0	1	in_modal_trig_domain	0	0	DT	0	
+part	khooTrig	1	in_modal_trig_domain	0	0	NN	0	
+part	khooTrig	1	in_modal_trig_domain	0	0	NN	0	
+of	0	1	in_modal_trig_domain	0	0	IN	0	
+of	0	1	in_modal_trig_domain	0	0	IN	0	
+the	0	1	in_modal_trig_domain	0	0	DT	0	
+the	0	1	in_modal_trig_domain	0	0	DT	0	
+road	0	1	in_modal_trig_domain	0	0	NN	0	
+road	0	1	in_modal_trig_domain	0	0	NN	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+,	0	1	in_modal_trig_domain	0	0	,	0	
+only	0	1	in_modal_trig_domain	0	0	RB	0	
+only	0	1	in_modal_trig_domain	0	0	RB	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+to	0	1	in_modal_trig_domain	0	0	TO	0	
+have	0	1	in_modal_trig_domain	0	0	VB	0	
+have	0	1	in_modal_trig_domain	0	0	VB	0	
+it	0	1	null	0	0	PRP	0	
+it	0	1	null	0	0	PRP	0	
+blocked	mcmTrig	1	in_modal_trig_domain	0	0	VBN	implicit_negative	
+blocked	mcmTrig	1	in_modal_trig_domain	0	0	VBN	implicit_negative	
+again	0	1	in_modal_trig_domain	0	0	RB	0	
+again	0	1	in_modal_trig_domain	0	0	RB	0	
+by	0	1	in_modal_trig_domain	0	0	IN	0	
+by	0	1	in_modal_trig_domain	0	0	IN	0	
+other	0	1	in_modal_trig_domain	0	0	JJ	0	
+other	0	1	in_modal_trig_domain	0	0	JJ	0	
+protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
+protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
+who	0	1	in_modal_trig_domain	0	0	WP	0	
+who	0	1	in_modal_trig_domain	0	0	WP	0	
+disagreed	0	1	in_modal_trig_domain	0	0	VBD	0	
+disagreed	0	1	in_modal_trig_domain	0	0	VBD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+she	0	0	0	0	0	PRP	0	
+she	0	0	0	0	0	PRP	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

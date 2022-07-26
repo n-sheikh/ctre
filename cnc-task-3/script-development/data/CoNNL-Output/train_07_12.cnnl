@@ -1,42 +1,84 @@
-James	0	0	0	0	0	
-Leibold	0	0	0	0	0	
-,	0	0	0	0	0	
-a	0	0	0	0	0	
-Xinjiang	0	0	0	0	0	
-expert	0	0	0	0	0	
-from	0	0	0	0	0	
-Australia	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-La	0	0	0	0	0	
-Trobe	0	0	0	0	0	
-university	0	0	0	0	0	
-,	0	0	0	0	0	
-said	0	0	0	0	0	
-that	0	0	0	0	0	
-ever	0	0	0	0	0	
-since	0	0	0	0	0	
-deadly	1	0	0	0	0	
-ethnic	0	0	0	0	0	
-rioting	0	0	0	0	0	
-in	0	0	0	0	0	
-2009	0	0	0	0	0	
-authorities	0	0	0	0	0	
-had	0	0	0	0	0	
-gradually	0	0	0	0	0	
-been	0	0	0	0	0	
-transforming	0	0	0	0	0	
-the	0	0	0	0	0	
-region	0	0	0	0	0	
-into	0	0	0	0	0	
-a	0	0	0	0	0	
-police	0	0	0	0	0	
-state	0	0	0	0	0	
-in	0	0	0	0	0	
-a	0	0	0	0	0	
-bid	0	0	0	0	0	
-to	0	0	0	0	0	
-halt	0	0	0	0	0	
-the	0	0	0	0	0	
-killing	0	0	0	0	0	
-.	0	0	0	0	0	
+James	0	0	0	0	person	NNP	0	
+James	0	0	0	0	person	NNP	0	
+Leibold	0	0	0	0	person	NNP	0	
+Leibold	0	0	0	0	person	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+Xinjiang	0	0	0	0	location	NNP	0	
+Xinjiang	0	0	0	0	location	NNP	0	
+expert	0	0	0	0	0	NN	0	
+expert	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+Australia	0	0	0	0	location	NNP	0	
+Australia	0	0	0	0	location	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	NNP	0	
+La	0	0	0	0	0	NNP	0	
+La	0	0	0	0	0	NNP	0	
+Trobe	0	0	0	0	0	NNP	0	
+Trobe	0	0	0	0	0	NNP	0	
+university	0	0	0	0	0	NN	0	
+university	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+ever	0	0	0	0	0	RB	0	
+ever	0	0	0	0	0	RB	0	
+since	0	0	0	0	0	IN	0	
+since	0	0	0	0	0	IN	0	
+deadly	0	0	0	0	0	JJ	0	
+deadly	0	0	0	0	0	JJ	0	
+ethnic	0	0	0	0	0	JJ	0	
+ethnic	0	0	0	0	0	JJ	0	
+rioting	0	0	0	0	0	NN	0	
+rioting	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+2009	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+authorities	0	0	0	0	0	NNS	0	
+authorities	0	0	0	0	0	NNS	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+gradually	0	0	0	0	0	RB	0	
+gradually	0	0	0	0	0	RB	0	
+been	0	0	0	0	0	VBN	0	
+been	0	0	0	0	0	VBN	0	
+transforming	khooTrig	0	0	0	0	VBG	0	
+transforming	khooTrig	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+region	0	0	0	0	0	NN	0	
+region	0	0	0	0	0	NN	0	
+into	0	0	0	0	0	IN	0	
+into	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+state	0	0	0	0	0	NN	0	
+state	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+bid	0	0	0	0	0	NN	0	
+bid	0	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+halt	khooTrig	0	0	0	0	VB	0	
+halt	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+killing	0	0	0	0	0	NN	0	
+killing	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

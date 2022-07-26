@@ -1,54 +1,108 @@
-Denied	0	0	0	0	0	
-Aid	0	0	0	0	0	
-,	0	0	0	0	0	
-Dalit	0	0	0	0	0	
-Boy	0	0	0	0	0	
-tries	0	0	0	0	0	
-to	0	0	0	0	0	
-End	0	0	0	0	0	
-Life	0	0	0	0	0	
-19th	0	0	0	0	0	
-June	0	0	0	0	0	
-2014	0	0	0	0	0	
-07	0	0	0	0	0	
-:	0	0	0	0	0	
-22	0	0	0	0	0	
-AM	0	0	0	0	0	
-MADURAI	0	0	0	0	0	
-:	0	0	0	0	0	
-Distressed	0	0	0	0	0	
-after	0	0	0	0	0	
-allegedly	0	0	0	0	0	
-being	0	0	0	0	0	
-denied	0	0	1	0	0	
-a	0	0	0	0	0	
-scholarship	0	0	0	0	0	
-by	0	0	0	0	0	
-his	0	0	0	0	0	
-school	0	0	0	0	0	
-,	0	0	0	0	0	
-a	0	0	0	0	0	
-Class	0	0	0	0	0	
-XII	0	0	0	0	0	
-Dalit	0	0	0	0	0	
-dropout	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Government	0	0	0	0	0	
-Higher	0	0	0	0	0	
-Secondary	0	0	0	0	0	
-School	0	0	0	0	0	
-in	0	0	0	0	0	
-Allinagaram	0	0	0	0	0	
-,	0	0	0	0	0	
-in	0	0	0	0	0	
-Theni	0	0	0	0	0	
-district	0	0	0	0	0	
-,	0	0	0	0	0	
-tied	0	0	0	0	0	
-to	0	0	0	0	0	
-immolate	0	0	0	0	0	
-himself	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-.	0	0	0	0	0	
+Denied	0	0	0	0	0	NNP	0	
+Denied	0	0	0	0	0	NNP	0	
+Aid	0	0	0	0	0	NNP	0	
+Aid	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Dalit	0	0	0	0	person	NNP	0	
+Dalit	0	0	0	0	person	NNP	0	
+Boy	0	0	0	0	0	NNP	0	
+Boy	0	0	0	0	0	NNP	0	
+tries	0	0	0	0	0	VBZ	0	
+tries	0	0	0	0	0	VBZ	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+End	khooTrig	0	0	0	0	VB	0	
+End	khooTrig	0	0	0	0	VB	0	
+Life	0	0	0	0	0	NNP	0	
+Life	0	0	0	0	0	NNP	0	
+19th	0	0	0	0	date	JJ	0	
+19th	0	0	0	0	date	JJ	0	
+June	0	0	0	0	date	NNP	0	
+June	0	0	0	0	date	NNP	0	
+2014	0	0	0	0	date	CD	0	
+2014	0	0	0	0	date	CD	0	
+07	0	0	0	0	date	CD	0	
+07	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+22	0	0	0	0	date	CD	0	
+22	0	0	0	0	date	CD	0	
+AM	0	0	0	0	date	NNP	0	
+AM	0	0	0	0	date	NNP	0	
+MADURAI	0	0	0	0	0	NNP	0	
+MADURAI	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Distressed	khooTrig	0	0	0	0	VBD	0	
+Distressed	khooTrig	0	0	0	0	VBD	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+allegedly	0	0	0	0	0	RB	0	
+allegedly	0	0	0	0	0	RB	0	
+being	0	0	0	0	0	VBG	0	
+being	0	0	0	0	0	VBG	0	
+denied	0	0	0	0	0	VBN	implicit_negative	
+denied	0	0	0	0	0	VBN	implicit_negative	
+a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+scholarship	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+scholarship	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+by	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+by	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+his	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
+his	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
+school	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+school	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
+a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+Class	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Class	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+XII	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+XII	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Dalit	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Dalit	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+dropout	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+dropout	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+of	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+of	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+Government	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Government	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Higher	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Higher	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Secondary	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Secondary	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+School	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+School	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+in	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+in	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+Allinagaram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Allinagaram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Theni	0	0	0	0	0	NNP	0	
+Theni	0	0	0	0	0	NNP	0	
+district	0	0	0	0	0	NN	0	
+district	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+tied	0	0	0	0	0	VBD	0	
+tied	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+immolate	0	0	0	0	0	VB	0	
+immolate	0	0	0	0	0	VB	0	
+himself	0	0	0	0	0	PRP	0	
+himself	0	0	0	0	0	PRP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

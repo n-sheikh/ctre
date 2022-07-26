@@ -1,25 +1,50 @@
-Later	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-day	0	0	0	0	0	
-,	0	0	0	0	0	
-vans	0	0	0	0	0	
-transporting	0	0	0	0	0	
-the	0	0	0	0	0	
-students	0	0	0	0	0	
-to	0	0	0	0	0	
-the	0	0	0	0	0	
-Tiruchi	0	0	0	0	0	
-airport	0	0	0	0	0	
-from	0	0	0	0	0	
-Thanjavur	0	0	0	0	0	
-were	0	0	0	0	0	
-pelted	0	0	0	0	0	
-with	0	0	0	0	0	
-stones	0	0	0	0	0	
-resulting	0	0	0	0	0	
-in	0	0	0	0	0	
-damage	1	0	0	0	0	
-to	0	0	0	0	0	
-windshields	0	0	0	0	0	
-.	0	0	0	0	0	
+Later	0	0	0	0	0	RB	0	
+Later	0	0	0	0	0	RB	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+day	0	0	0	0	0	NN	0	
+day	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+vans	0	0	0	0	0	NNS	0	
+vans	0	0	0	0	0	NNS	0	
+transporting	khooTrig	0	0	0	0	VBG	0	
+transporting	khooTrig	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Tiruchi	0	0	0	0	0	NNP	0	
+Tiruchi	0	0	0	0	0	NNP	0	
+airport	0	0	0	0	0	NN	0	
+airport	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+Thanjavur	0	0	0	0	0	NNP	0	
+Thanjavur	0	0	0	0	0	NNP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+pelted	0	0	0	0	0	VBN	0	
+pelted	0	0	0	0	0	VBN	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+stones	0	0	0	0	0	NNS	0	
+stones	0	0	0	0	0	NNS	0	
+resulting	mcmTrig	0	0	0	0	VBG	0	
+resulting	mcmTrig	0	0	0	0	VBG	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+damage	khooTrig	0	0	0	0	NN	0	
+damage	khooTrig	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+windshields	0	0	0	0	0	NNS	0	
+windshields	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

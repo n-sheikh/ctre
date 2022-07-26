@@ -1,24 +1,48 @@
-Professors	0	0	0	0	0	
-,	0	0	0	0	0	
-students	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-college	0	0	0	0	0	
-,	0	0	0	0	0	
-NGO	0	0	0	0	0	
-volunteers	0	0	0	0	0	
-,	0	0	0	0	0	
-Government	0	0	0	0	0	
-employees	0	0	0	0	0	
-and	0	0	0	0	0	
-women	0	0	0	0	0	
-from	0	0	0	0	0	
-all	0	0	0	0	0	
-walks	0	0	0	0	0	
-of	0	0	0	0	0	
-life	0	0	0	0	0	
-participated	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-programme	0	0	0	0	0	
-.	0	0	0	0	0	
+Professors	0	0	0	0	0	NNP	0	
+Professors	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+students	0	0	0	0	0	NNS	0	
+students	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+college	0	0	0	0	0	NN	0	
+college	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+NGO	0	0	0	0	0	NN	0	
+NGO	0	0	0	0	0	NN	0	
+volunteers	0	0	0	0	0	NNS	0	
+volunteers	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Government	0	0	0	0	0	NNP	0	
+Government	0	0	0	0	0	NNP	0	
+employees	0	0	0	0	0	NNS	0	
+employees	0	0	0	0	0	NNS	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+women	0	0	0	0	0	NNS	0	
+women	0	0	0	0	0	NNS	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+all	0	0	0	0	0	DT	0	
+all	0	0	0	0	0	DT	0	
+walks	0	0	0	0	0	NN	0	
+walks	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+life	0	0	0	0	0	NN	0	
+life	0	0	0	0	0	NN	0	
+participated	mcmTrig	0	0	0	0	VBD	0	
+participated	mcmTrig	0	0	0	0	VBD	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+programme	0	0	0	0	0	NN	0	
+programme	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

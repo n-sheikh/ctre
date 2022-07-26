@@ -1,55 +1,110 @@
-SIT	0	0	0	0	0	
-fails	0	0	1	0	0	
-to	0	0	0	0	0	
-serve	0	0	0	0	0	
-notice	0	0	0	0	0	
-on	0	0	0	0	0	
-Mani	0	0	0	0	0	
-14th	0	0	0	0	0	
-November	0	0	0	0	0	
-2012	0	0	0	0	0	
-10	0	0	0	0	0	
-:	0	0	0	0	0	
-43	0	0	0	0	0	
-AM	0	0	0	0	0	
-The	0	0	0	0	0	
-Special	1	0	0	0	0	
-Investigation	0	0	0	0	0	
-Team	0	0	0	0	0	
-(	0	0	0	0	0	
-SIT	0	0	0	0	0	
-)	0	0	0	0	0	
-,	0	0	0	0	0	
-probing	0	0	0	0	0	
-the	0	0	0	0	0	
-murder	1	0	0	0	0	
-of	0	0	0	0	0	
-Youth	0	0	0	0	0	
-Congress	0	0	0	0	0	
-leader	0	0	0	0	0	
-Anchery	0	0	0	0	0	
-Baby	1	0	0	0	0	
-,	0	0	0	0	0	
-failed	0	0	1	0	0	
-to	0	0	0	0	0	
-serve	0	0	0	0	0	
-notice	0	0	0	0	0	
-for	0	0	0	0	0	
-polygraph	0	0	0	0	0	
-test	0	0	0	0	0	
-on	0	0	0	0	0	
-former	0	0	0	0	0	
-CPM	0	0	0	0	0	
-Idukki	0	0	0	0	0	
-secretary	0	0	0	0	0	
-M	0	0	0	0	0	
-M	0	0	0	0	0	
-Mani	0	0	0	0	0	
-and	0	0	0	0	0	
-another	0	0	0	0	0	
-accused	0	0	0	0	0	
-Kynakari	0	0	0	0	0	
-Kuttan	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-.	0	0	0	0	0	
+SIT	0	0	0	0	0	NNP	0	
+SIT	0	0	0	0	0	NNP	0	
+fails	0	0	0	0	0	VBZ	implicit_negative	
+fails	0	0	0	0	0	VBZ	implicit_negative	
+to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
+to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
+serve	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
+serve	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
+notice	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+notice	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+on	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+on	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+Mani	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Mani	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+14th	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
+14th	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
+November	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
+November	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
+2012	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+2012	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+10	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+10	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+43	0	0	0	0	date	CD	0	
+43	0	0	0	0	date	CD	0	
+AM	0	0	0	0	date	RB	0	
+AM	0	0	0	0	date	RB	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+Special	0	0	0	0	0	JJ	0	
+Special	0	0	0	0	0	JJ	0	
+Investigation	0	0	0	0	0	NNP	0	
+Investigation	0	0	0	0	0	NNP	0	
+Team	0	0	0	0	0	NNP	0	
+Team	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+SIT	0	0	0	0	0	NNP	0	
+SIT	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+probing	0	0	0	0	0	VBG	0	
+probing	0	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+murder	khooTrig	0	0	0	0	NN	0	
+murder	khooTrig	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Youth	0	0	0	0	0	NNP	0	
+Youth	0	0	0	0	0	NNP	0	
+Congress	0	0	0	0	0	NNP	0	
+Congress	0	0	0	0	0	NNP	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+Anchery	0	0	0	0	0	NNP	0	
+Anchery	0	0	0	0	0	NNP	0	
+Baby	0	0	0	0	0	NNP	0	
+Baby	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+failed	0	0	0	0	0	VBD	implicit_negative	
+failed	0	0	0	0	0	VBD	implicit_negative	
+to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
+to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
+serve	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
+serve	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
+notice	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+notice	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+for	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+for	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+polygraph	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+polygraph	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+test	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+test	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+on	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+on	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+former	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+former	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+CPM	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+CPM	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Idukki	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Idukki	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+secretary	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+secretary	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+M	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+M	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+M	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+M	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Mani	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Mani	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+another	0	0	0	0	0	DT	0	
+another	0	0	0	0	0	DT	0	
+accused	0	0	0	0	0	VBD	0	
+accused	0	0	0	0	0	VBD	0	
+Kynakari	0	0	0	0	0	NNP	0	
+Kynakari	0	0	0	0	0	NNP	0	
+Kuttan	0	0	0	0	0	NNP	0	
+Kuttan	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,29 +1,58 @@
-Referring	0	0	0	0	0	
-to	0	0	0	0	0	
-today	0	0	0	0	0	
-'s	0	0	0	0	0	
-Congress	0	0	0	0	0	
-rally	0	0	0	0	0	
-at	0	0	0	0	0	
-the	0	0	0	0	0	
-Ramlila	0	0	0	0	0	
-Maidan	0	0	0	0	0	
-here	0	0	0	0	0	
-,	0	0	0	0	0	
-he	0	0	0	0	0	
-said	0	0	0	0	0	
-Congress	0	0	0	0	0	
-just	1	0	0	0	0	
-wants	0	0	0	0	0	
-to	0	0	0	0	0	
-show	1	0	0	0	0	
-they	0	0	0	0	0	
-have	0	0	0	0	0	
-"	0	0	0	0	0	
-some	0	0	0	0	0	
-support	1	0	0	0	0	
-"	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-country	0	0	0	0	0	
-.	0	0	0	0	0	
+Referring	0	0	0	0	0	VBG	0	
+Referring	0	0	0	0	0	VBG	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+today	0	0	0	0	date	NN	0	
+today	0	0	0	0	date	NN	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+Congress	0	0	0	0	0	NNP	0	
+Congress	0	0	0	0	0	NNP	0	
+rally	khooTrig	0	0	0	0	NN	0	
+rally	khooTrig	0	0	0	0	NN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Ramlila	0	0	0	0	0	NNP	0	
+Ramlila	0	0	0	0	0	NNP	0	
+Maidan	0	0	0	0	0	NNP	0	
+Maidan	0	0	0	0	0	NNP	0	
+here	0	0	0	0	0	RB	0	
+here	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+Congress	0	0	0	0	0	NNP	0	
+Congress	0	0	0	0	0	NNP	0	
+just	0	0	0	0	0	RB	0	
+just	0	0	0	0	0	RB	0	
+wants	0	0	0	0	0	VBZ	0	
+wants	0	0	0	0	0	VBZ	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+show	0	0	0	0	0	VB	0	
+show	0	0	0	0	0	VB	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+have	0	0	0	0	0	VBP	0	
+have	0	0	0	0	0	VBP	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+some	0	0	0	0	0	DT	0	
+some	0	0	0	0	0	DT	0	
+support	mcmTrig	0	0	0	0	NN	0	
+support	mcmTrig	0	0	0	0	NN	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+country	0	0	0	0	0	NN	0	
+country	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

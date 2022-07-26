@@ -1,10 +1,20 @@
-Over	0	0	0	0	0	
-3	0	0	0	0	0	
-,	0	0	0	0	0	
-000	0	0	0	0	0	
-were	0	0	0	0	0	
-killed	0	0	0	0	0	
-in	0	0	0	0	0	
-Delhi	0	0	0	0	0	
-alone	0	0	0	0	0	
-.	0	0	0	0	0	
+Over	0	0	0	0	0	IN	0	
+Over	0	0	0	0	0	IN	0	
+3	0	0	0	0	0	CD	0	
+3	0	0	0	0	0	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+000	0	0	0	0	0	CD	0	
+000	0	0	0	0	0	CD	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+killed	0	0	0	0	0	VBN	0	
+killed	0	0	0	0	0	VBN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Delhi	0	0	0	0	location	NNP	0	
+Delhi	0	0	0	0	location	NNP	0	
+alone	0	0	0	0	0	RB	0	
+alone	0	0	0	0	0	RB	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

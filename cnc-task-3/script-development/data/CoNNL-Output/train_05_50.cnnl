@@ -1,21 +1,42 @@
-The	0	0	0	0	0	
-activists	0	0	0	0	0	
-who	0	0	0	0	0	
-shouted	0	0	0	0	0	
-the	0	0	0	0	0	
-slogan	0	0	0	0	0	
-‘	0	0	0	0	0	
-VSDP	0	0	0	0	0	
-zindabad	0	0	0	0	0	
-’	0	0	0	0	0	
-advanced	0	0	0	0	0	
-towards	0	0	0	0	0	
-the	0	0	0	0	0	
-Chief	0	0	0	0	0	
-Minister	0	0	0	0	0	
-when	0	0	0	0	0	
-he	0	0	0	0	0	
-began	0	0	0	0	0	
-his	0	0	0	0	0	
-address	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+activists	0	0	0	0	0	NNS	0	
+activists	0	0	0	0	0	NNS	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+shouted	0	0	0	0	0	VBD	0	
+shouted	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+slogan	0	0	0	0	0	NN	0	
+slogan	0	0	0	0	0	NN	0	
+‘	0	0	0	0	0	NNP	0	
+‘	0	0	0	0	0	NNP	0	
+VSDP	0	0	0	0	0	NNP	0	
+VSDP	0	0	0	0	0	NNP	0	
+zindabad	0	0	0	0	0	VBD	0	
+zindabad	0	0	0	0	0	VBD	0	
+’	0	0	0	0	0	RB	0	
+’	0	0	0	0	0	RB	0	
+advanced	0	0	0	0	0	VBD	0	
+advanced	0	0	0	0	0	VBD	0	
+towards	0	0	0	0	0	IN	0	
+towards	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Chief	0	0	0	0	0	NNP	0	
+Chief	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+began	khooTrig	0	0	0	0	VBD	0	
+began	khooTrig	0	0	0	0	VBD	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+address	mcmTrig	0	0	0	0	NN	0	
+address	mcmTrig	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

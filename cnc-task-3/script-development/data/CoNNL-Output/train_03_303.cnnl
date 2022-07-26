@@ -1,46 +1,92 @@
-He	0	0	0	0	0	
-enrolled	0	0	0	0	0	
-at	0	0	0	0	0	
-UNISA	0	0	0	0	0	
-after	0	0	0	0	0	
-his	0	0	0	0	0	
-expulsion	0	0	0	0	0	
-from	0	0	0	0	0	
-the	0	0	0	0	0	
-University	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-North	0	0	0	0	0	
-(	0	0	0	0	0	
-Turfloop	0	0	0	0	0	
-)	0	0	0	0	0	
-for	0	0	0	0	0	
-political	0	0	0	0	0	
-activism	0	0	0	0	0	
-,	0	0	0	0	0	
-which	0	0	0	0	0	
-arose	0	0	0	0	0	
-from	0	0	0	0	0	
-the	0	0	0	0	0	
-organisation	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-pro-	0	0	0	0	0	
-Frelimo	0	0	0	0	0	
-rallies	0	0	0	0	0	
-in	0	0	0	0	0	
-1974	0	0	0	0	0	
-under	0	0	0	0	0	
-the	0	0	0	0	0	
-banner	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-then	0	0	0	0	0	
-South	0	0	0	0	0	
-African	0	0	0	0	0	
-Students	0	0	0	0	0	
-Organisation	0	0	0	0	0	
-(	0	0	0	0	0	
-SASO	0	0	0	0	0	
-)	0	0	0	0	0	
-.	0	0	0	0	0	
+He	0	0	0	0	0	PRP	0	
+He	0	0	0	0	0	PRP	0	
+enrolled	0	0	0	0	0	VBD	0	
+enrolled	0	0	0	0	0	VBD	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+UNISA	0	0	0	0	0	NNP	0	
+UNISA	0	0	0	0	0	NNP	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+expulsion	0	0	0	0	0	NN	0	
+expulsion	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+University	0	0	0	0	0	NNP	0	
+University	0	0	0	0	0	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+North	0	0	0	0	0	NNP	0	
+North	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+Turfloop	0	0	0	0	0	NNP	0	
+Turfloop	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+political	0	0	0	0	0	JJ	0	
+political	0	0	0	0	0	JJ	0	
+activism	0	0	0	0	0	NN	0	
+activism	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+which	0	0	0	0	0	WDT	0	
+which	0	0	0	0	0	WDT	0	
+arose	0	0	0	0	0	VBD	0	
+arose	0	0	0	0	0	VBD	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+organisation	0	0	0	0	0	NN	0	
+organisation	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+pro-	0	0	0	0	0	JJ	0	
+pro-	0	0	0	0	0	JJ	0	
+Frelimo	0	0	0	0	0	NNP	0	
+Frelimo	0	0	0	0	0	NNP	0	
+rallies	khooTrig	0	0	0	0	NNS	0	
+rallies	khooTrig	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+1974	0	0	0	0	date	CD	0	
+1974	0	0	0	0	date	CD	0	
+under	0	0	0	0	0	IN	0	
+under	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+banner	0	0	0	0	0	NN	0	
+banner	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+then	0	0	0	0	0	RB	0	
+then	0	0	0	0	0	RB	0	
+South	0	0	0	0	0	JJ	0	
+South	0	0	0	0	0	JJ	0	
+African	0	0	0	0	0	NNP	0	
+African	0	0	0	0	0	NNP	0	
+Students	0	0	0	0	0	NNP	0	
+Students	0	0	0	0	0	NNP	0	
+Organisation	0	0	0	0	0	NNP	0	
+Organisation	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+SASO	0	0	0	0	0	NNP	0	
+SASO	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

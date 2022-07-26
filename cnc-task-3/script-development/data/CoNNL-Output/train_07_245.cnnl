@@ -1,29 +1,58 @@
-They	0	0	0	0	0	
-also	0	0	0	0	0	
-wielded	0	0	0	0	0	
-placards	0	0	0	0	0	
-reading	0	0	0	0	0	
-:	0	0	0	0	0	
-`	0	0	0	0	0	
-`	0	0	0	0	0	
-Angie	0	0	0	0	0	
-does	0	0	0	0	0	
-n't	0	1	0	0	0	
-know	1	0	0	0	0	
-anything	0	0	0	0	0	
-'	0	0	0	0	0	
-'	0	0	0	0	0	
-,	0	0	0	0	0	
-and	0	0	0	0	0	
-`	0	0	0	0	0	
-`	0	0	0	0	0	
-Away	0	0	0	0	0	
-with	0	0	0	0	0	
-declaring	0	0	0	0	0	
-education	0	0	0	0	0	
-an	0	0	0	0	0	
-essential	1	0	0	0	0	
-service	0	0	0	0	0	
-'	0	0	0	0	0	
-'	0	0	0	0	0	
-.	0	0	0	0	0	
+They	0	0	0	0	0	PRP	0	
+They	0	0	0	0	0	PRP	0	
+also	0	0	0	0	0	RB	0	
+also	0	0	0	0	0	RB	0	
+wielded	0	0	0	0	0	VBD	0	
+wielded	0	0	0	0	0	VBD	0	
+placards	0	0	0	0	0	JJ	0	
+placards	0	0	0	0	0	JJ	0	
+reading	0	0	0	0	0	NN	0	
+reading	0	0	0	0	0	NN	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+Angie	0	0	0	0	person	NNP	0	
+Angie	0	0	0	0	person	NNP	0	
+does	0	0	0	0	0	VBZ	0	
+does	0	0	0	0	0	VBZ	0	
+n't	0	0	0	0	0	RB	explicit_negative	
+n't	0	0	0	0	0	RB	explicit_negative	
+know	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+know	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+anything	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+anything	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+Away	0	0	0	0	0	VBZ	0	
+Away	0	0	0	0	0	VBZ	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+declaring	0	0	0	0	0	VBG	0	
+declaring	0	0	0	0	0	VBG	0	
+education	0	0	0	0	0	NN	0	
+education	0	0	0	0	0	NN	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+essential	0	0	0	0	0	JJ	0	
+essential	0	0	0	0	0	JJ	0	
+service	0	0	0	0	0	NN	0	
+service	0	0	0	0	0	NN	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

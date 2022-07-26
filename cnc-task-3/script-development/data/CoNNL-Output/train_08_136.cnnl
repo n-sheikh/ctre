@@ -1,31 +1,62 @@
-The	0	0	0	0	0	
-popular	1	0	0	0	0	
-social	0	0	0	0	0	
-network	0	0	0	0	0	
-has	0	0	0	0	0	
-been	0	0	0	0	0	
-blocked	0	0	1	0	0	
-since	0	0	0	0	0	
-ethnic	0	0	0	0	0	
-riots	0	0	0	0	0	
-in	0	0	0	0	0	
-China	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-far	0	0	0	0	0	
-west	0	0	0	0	0	
-in	0	0	0	0	0	
-2009	0	0	0	0	0	
-and	0	0	0	0	0	
-Instagram	0	0	0	0	0	
-was	0	0	0	0	0	
-banned	0	0	1	0	0	
-during	0	0	0	0	0	
-pro-democracy	0	0	0	0	0	
-protests	1	0	0	0	0	
-in	0	0	0	0	0	
-Hong	0	0	0	0	0	
-Kong	0	0	0	0	0	
-in	0	0	0	0	0	
-2014	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+The	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+popular	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+popular	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+social	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+social	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
+network	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
+network	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
+has	0	0	in_implicit_neg_trig_domain	0	0	VBZ	0	
+has	0	0	in_implicit_neg_trig_domain	0	0	VBZ	0	
+been	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
+been	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
+blocked	mcmTrig	0	0	0	0	VBN	implicit_negative	
+blocked	mcmTrig	0	0	0	0	VBN	implicit_negative	
+since	0	0	0	0	0	IN	0	
+since	0	0	0	0	0	IN	0	
+ethnic	0	0	0	0	0	JJ	0	
+ethnic	0	0	0	0	0	JJ	0	
+riots	0	0	0	0	0	NNS	0	
+riots	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+China	0	0	0	0	location	NNP	0	
+China	0	0	0	0	location	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	VBZ	0	
+s	0	0	0	0	0	VBZ	0	
+far	0	0	0	0	0	RB	0	
+far	0	0	0	0	0	RB	0	
+west	0	0	0	0	0	NN	0	
+west	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+2009	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Instagram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Instagram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+was	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
+was	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
+banned	0	0	0	0	0	VBN	implicit_negative	
+banned	0	0	0	0	0	VBN	implicit_negative	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+pro-democracy	0	0	0	0	0	JJ	0	
+pro-democracy	0	0	0	0	0	JJ	0	
+protests	0	0	0	0	0	NNS	0	
+protests	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Hong	0	0	0	0	location	NNP	0	
+Hong	0	0	0	0	location	NNP	0	
+Kong	0	0	0	0	location	NNP	0	
+Kong	0	0	0	0	location	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+2014	0	0	0	0	date	CD	0	
+2014	0	0	0	0	date	CD	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

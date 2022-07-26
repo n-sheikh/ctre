@@ -1,20 +1,40 @@
-Nobody	0	1	0	0	0	
-has	0	0	0	0	0	
-claimed	0	0	0	0	0	
-responsibility	1	0	0	0	0	
-for	0	0	0	0	0	
-the	0	0	0	0	0	
-blast	1	0	0	0	0	
-that	0	0	0	0	0	
-injured	0	0	0	0	0	
-15	0	0	0	0	0	
-people	0	0	0	0	0	
-including	0	0	0	0	0	
-11	0	0	0	0	0	
-policemen	0	0	0	0	0	
-from	0	0	0	0	0	
-the	0	0	0	0	0	
-4th	0	0	0	0	0	
-KSRP	0	0	0	0	0	
-battalion	0	0	0	0	0	
-.	0	0	0	0	0	
+Nobody	0	0	0	0	0	NN	explicit_negative	
+Nobody	0	0	0	0	0	NN	explicit_negative	
+has	0	0	in_explicit_neg_trig_domain	0	0	VBZ	0	
+has	0	0	in_explicit_neg_trig_domain	0	0	VBZ	0	
+claimed	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+claimed	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+responsibility	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+responsibility	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+blast	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+blast	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+that	0	0	in_explicit_neg_trig_domain	0	0	WDT	0	
+that	0	0	in_explicit_neg_trig_domain	0	0	WDT	0	
+injured	khooTrig	0	in_explicit_neg_trig_domain	0	0	VBD	0	
+injured	khooTrig	0	in_explicit_neg_trig_domain	0	0	VBD	0	
+15	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+15	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+people	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+people	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+including	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+including	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+11	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+11	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+policemen	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+policemen	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+4th	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+4th	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+KSRP	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+KSRP	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+battalion	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+battalion	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+.	0	0	in_explicit_neg_trig_domain	0	0	.	0	
+.	0	0	in_explicit_neg_trig_domain	0	0	.	0	

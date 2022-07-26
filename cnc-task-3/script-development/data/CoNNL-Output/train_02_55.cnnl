@@ -1,20 +1,40 @@
-`	0	0	0	0	0	
-`	0	0	0	0	0	
-Residents	0	0	0	0	0	
-went	0	0	0	0	0	
-on	0	0	0	0	0	
-a	0	0	0	0	0	
-rampage	0	0	0	0	0	
-by	0	0	0	0	0	
-throwing	0	0	0	0	0	
-stones	0	0	0	0	0	
-at	0	0	0	0	0	
-Nala	0	0	0	0	0	
-Municipality	0	0	0	0	0	
-offices	0	0	0	0	0	
-,	0	0	0	0	0	
-'	0	0	0	0	0	
-'	0	0	0	0	0	
-said	0	0	0	0	0	
-Thakeng	0	0	0	0	0	
-.	0	0	0	0	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+`	0	0	0	0	0	``	0	
+Residents	0	0	0	0	0	NNS	0	
+Residents	0	0	0	0	0	NNS	0	
+went	0	0	0	0	0	VBD	0	
+went	0	0	0	0	0	VBD	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+rampage	0	0	0	0	0	NN	0	
+rampage	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+throwing	0	0	0	0	0	VBG	0	
+throwing	0	0	0	0	0	VBG	0	
+stones	0	0	0	0	0	NNS	0	
+stones	0	0	0	0	0	NNS	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Nala	0	0	0	0	0	NNP	0	
+Nala	0	0	0	0	0	NNP	0	
+Municipality	0	0	0	0	0	NNP	0	
+Municipality	0	0	0	0	0	NNP	0	
+offices	0	0	0	0	0	NNS	0	
+offices	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+'	0	0	0	0	0	''	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+Thakeng	0	0	0	0	person	NN	0	
+Thakeng	0	0	0	0	person	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

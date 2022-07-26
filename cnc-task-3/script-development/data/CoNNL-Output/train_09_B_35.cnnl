@@ -1,40 +1,80 @@
-We	0	0	0	0	0	
-have	0	0	0	0	0	
-been	0	0	0	0	0	
-together	0	0	0	0	0	
-in	0	0	0	0	0	
-each	0	0	0	0	0	
-other	0	0	0	0	0	
-'s	0	0	0	0	0	
-hour	0	0	0	0	0	
-of	0	0	0	0	0	
-grief	1	0	0	0	0	
-and	0	0	0	0	0	
-joy	1	0	0	0	0	
-,	0	0	0	0	0	
-but	0	0	0	0	0	
-to	0	0	0	0	0	
-allege	1	0	0	0	0	
-that	0	0	0	0	0	
-I	0	0	0	0	0	
-was	0	0	0	0	0	
-a	0	0	0	0	0	
-part	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-crowd	0	0	0	0	0	
-that	0	0	0	0	0	
-incited	0	0	0	0	0	
-them	0	0	0	0	0	
-to	0	0	0	0	0	
-raise	0	0	0	0	0	
-anti-	0	0	0	0	0	
-Sikh	0	0	0	0	0	
-slogans	0	0	0	0	0	
-is	0	0	0	0	0	
-a	0	0	0	0	0	
-preposterous	1	0	0	0	0	
-and	0	0	0	0	0	
-blatant	1	0	0	0	0	
-lie	1	0	0	0	0	
-.	0	0	0	0	0	
+We	0	0	0	0	0	PRP	0	
+We	0	0	0	0	0	PRP	0	
+have	0	0	0	0	0	VBP	0	
+have	0	0	0	0	0	VBP	0	
+been	0	0	0	0	0	VBN	0	
+been	0	0	0	0	0	VBN	0	
+together	0	0	0	0	0	RB	0	
+together	0	0	0	0	0	RB	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+each	0	0	0	0	0	DT	0	
+each	0	0	0	0	0	DT	0	
+other	0	0	0	0	0	JJ	0	
+other	0	0	0	0	0	JJ	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+hour	0	0	0	0	0	NN	0	
+hour	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+grief	0	0	0	0	0	NN	0	
+grief	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+joy	0	0	0	0	0	NN	0	
+joy	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+but	0	0	0	0	0	CC	0	
+but	0	0	0	0	0	CC	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+allege	0	0	0	0	0	VB	0	
+allege	0	0	0	0	0	VB	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+I	0	0	0	0	0	PRP	0	
+I	0	0	0	0	0	PRP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+part	khooTrig	0	0	0	0	NN	0	
+part	khooTrig	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+crowd	0	0	0	0	0	NN	0	
+crowd	0	0	0	0	0	NN	0	
+that	0	0	0	0	0	WDT	0	
+that	0	0	0	0	0	WDT	0	
+incited	0	0	0	0	0	VBD	0	
+incited	0	0	0	0	0	VBD	0	
+them	0	0	0	0	0	PRP	0	
+them	0	0	0	0	0	PRP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+raise	khooTrig	0	0	0	0	VB	0	
+raise	khooTrig	0	0	0	0	VB	0	
+anti-	0	0	0	0	0	JJ	0	
+anti-	0	0	0	0	0	JJ	0	
+Sikh	0	0	0	0	0	JJ	0	
+Sikh	0	0	0	0	0	JJ	0	
+slogans	0	0	0	0	0	NNS	0	
+slogans	0	0	0	0	0	NNS	0	
+is	0	0	0	0	0	VBZ	0	
+is	0	0	0	0	0	VBZ	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+preposterous	0	0	0	0	0	JJ	0	
+preposterous	0	0	0	0	0	JJ	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+blatant	0	0	0	0	0	JJ	0	
+blatant	0	0	0	0	0	JJ	0	
+lie	0	0	0	0	0	NN	0	
+lie	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,48 +1,96 @@
-JAC	0	0	0	0	0	
-convenor	0	0	0	0	0	
-M	0	0	0	0	0	
-.	0	0	0	0	0	
-Kodandaram	0	0	0	0	0	
-,	0	0	0	0	0	
-Telangana	0	0	0	0	0	
-Rashtra	0	0	0	0	0	
-Samithi	0	0	0	0	0	
-(	0	0	0	0	0	
-TRS	0	0	0	0	0	
-)	0	0	0	0	0	
-legislators	0	0	0	0	0	
-K	0	0	0	0	0	
-.	0	0	0	0	0	
-Tarakarama	0	0	0	0	0	
-Rao	0	0	0	0	0	
-,	0	0	0	0	0	
-E	0	0	0	0	0	
-.	0	0	0	0	0	
-Rajender	0	0	0	0	0	
-and	0	0	0	0	0	
-Harishwar	0	0	0	0	0	
-Reddy	0	0	0	0	0	
-were	0	0	0	0	0	
-among	0	0	0	0	0	
-dozens	0	0	0	0	0	
-of	0	0	0	0	0	
-leaders	0	0	0	0	0	
-arrested	0	0	0	0	0	
-by	0	0	0	0	0	
-the	0	0	0	0	0	
-police	0	0	0	0	0	
-for	0	0	0	0	0	
-staging	0	0	0	0	0	
-protests	1	0	0	0	0	
-on	0	0	0	0	0	
-the	0	0	0	0	0	
-highway	0	0	0	0	0	
-despite	1	0	0	0	0	
-police	0	0	0	0	0	
-not	0	1	0	0	0	
-giving	0	0	0	0	0	
-permission	0	0	0	0	0	
-for	0	0	0	0	0	
-the	0	0	0	0	0	
-same	0	0	0	0	0	
-.	0	0	0	0	0	
+JAC	0	0	0	0	0	NNP	0	
+JAC	0	0	0	0	0	NNP	0	
+convenor	0	0	0	0	0	NNP	0	
+convenor	0	0	0	0	0	NNP	0	
+M	0	0	0	0	person	NNP	0	
+M	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Kodandaram	0	0	0	0	person	NNP	0	
+Kodandaram	0	0	0	0	person	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Telangana	0	0	0	0	0	NNP	0	
+Telangana	0	0	0	0	0	NNP	0	
+Rashtra	0	0	0	0	0	NNP	0	
+Rashtra	0	0	0	0	0	NNP	0	
+Samithi	0	0	0	0	0	NNP	0	
+Samithi	0	0	0	0	0	NNP	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+TRS	0	0	0	0	0	NNP	0	
+TRS	0	0	0	0	0	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+legislators	0	0	0	0	0	NNS	0	
+legislators	0	0	0	0	0	NNS	0	
+K	0	0	0	0	person	NNP	0	
+K	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Tarakarama	0	0	0	0	person	NNP	0	
+Tarakarama	0	0	0	0	person	NNP	0	
+Rao	0	0	0	0	0	NNP	0	
+Rao	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+E	0	0	0	0	0	NNP	0	
+E	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	
+Rajender	0	0	0	0	person	NN	0	
+Rajender	0	0	0	0	person	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Harishwar	0	0	0	0	person	NNP	0	
+Harishwar	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+among	0	0	0	0	0	IN	0	
+among	0	0	0	0	0	IN	0	
+dozens	0	0	0	0	0	NNS	0	
+dozens	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+leaders	0	0	0	0	0	NNS	0	
+leaders	0	0	0	0	0	NNS	0	
+arrested	khooTrig	0	0	0	0	VBN	0	
+arrested	khooTrig	0	0	0	0	VBN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+staging	khooTrig	0	0	0	0	VBG	0	
+staging	khooTrig	0	0	0	0	VBG	0	
+protests	0	0	0	0	0	NNS	0	
+protests	0	0	0	0	0	NNS	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+highway	0	0	0	0	0	NN	0	
+highway	0	0	0	0	0	NN	0	
+despite	0	0	0	0	0	IN	0	
+despite	0	0	0	0	0	IN	0	
+police	0	0	0	0	0	NNS	0	
+police	0	0	0	0	0	NNS	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+giving	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+giving	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
+permission	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+permission	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+same	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+same	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,33 +1,66 @@
-A	0	0	0	0	0	
-guard	0	0	0	0	0	
-said	0	0	0	0	0	
-,	0	0	0	0	0	
-"	0	0	0	0	0	
-When	0	0	0	0	0	
-Jha	0	0	0	0	0	
-did	0	0	0	0	0	
-not	0	1	0	0	0	
-get	0	0	0	0	0	
-leave	0	0	0	0	0	
-till	0	0	0	0	0	
-four	0	0	0	0	0	
-hours	0	0	0	0	0	
-before	0	0	0	0	0	
-departure	0	0	0	0	0	
-of	0	0	0	0	0	
-his	0	0	0	0	0	
-train	0	0	0	0	0	
-,	0	0	0	0	0	
-he	0	0	0	0	0	
-hanged	0	0	0	0	0	
-a	0	0	0	0	0	
-poster	0	0	0	0	0	
-around	0	0	0	0	1	
-his	0	0	0	0	0	
-neck	0	0	0	0	0	
-announcing	0	0	0	0	0	
-an	0	0	0	0	0	
-indefinite	1	0	0	0	0	
-hunger	0	0	0	0	0	
-strike	0	0	0	0	0	
-.	0	0	0	0	0	
+A	0	0	0	0	0	DT	0	
+A	0	0	0	0	0	DT	0	
+guard	0	0	0	0	0	NN	0	
+guard	0	0	0	0	0	NN	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+When	0	0	0	0	0	WRB	0	
+When	0	0	0	0	0	WRB	0	
+Jha	0	0	0	0	0	NNP	0	
+Jha	0	0	0	0	0	NNP	0	
+did	0	0	0	0	0	VBD	0	
+did	0	0	0	0	0	VBD	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+get	khooTrig	0	in_explicit_neg_trig_domain	0	0	VB	0	
+get	khooTrig	0	in_explicit_neg_trig_domain	0	0	VB	0	
+leave	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+leave	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+till	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+till	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+four	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+four	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
+hours	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+hours	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
+before	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+before	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+departure	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+departure	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+of	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+of	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+his	0	0	in_explicit_neg_trig_domain	0	0	PRP$	0	
+his	0	0	in_explicit_neg_trig_domain	0	0	PRP$	0	
+train	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+train	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+hanged	khooTrig	0	0	0	0	VBD	0	
+hanged	khooTrig	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+poster	0	0	0	0	0	NN	0	
+poster	0	0	0	0	0	NN	0	
+around	0	0	0	0	0	IN	0	
+around	0	0	0	0	0	IN	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+neck	0	0	0	0	0	NN	0	
+neck	0	0	0	0	0	NN	0	
+announcing	0	0	0	0	0	VBG	0	
+announcing	0	0	0	0	0	VBG	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+indefinite	0	0	0	0	0	JJ	0	
+indefinite	0	0	0	0	0	JJ	0	
+hunger	0	0	0	0	0	NN	0	
+hunger	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

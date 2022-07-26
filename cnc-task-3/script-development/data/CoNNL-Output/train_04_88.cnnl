@@ -1,47 +1,94 @@
-While	0	0	0	0	0	
-the	0	0	0	0	0	
-Dalits	0	0	0	0	0	
-firmly	0	0	0	0	0	
-state	0	0	0	0	0	
-that	0	0	0	0	0	
-a	0	0	0	0	0	
-mob	0	0	0	0	0	
-of	0	0	0	0	0	
-their	0	0	0	0	0	
-erstwhile	0	0	0	0	0	
-Vanniyar	0	0	0	0	0	
-friends	1	0	0	0	0	
-entered	0	0	0	0	0	
-the	0	0	0	0	0	
-Dalit	0	0	0	0	0	
-area	0	0	0	0	0	
-after	0	0	0	0	0	
-disconnecting	0	0	0	0	0	
-the	0	0	0	0	0	
-power	1	0	0	0	0	
-supply	0	0	0	0	0	
-,	0	0	0	0	0	
-and	0	0	0	0	0	
-hurled	0	0	0	0	0	
-petrol	0	0	0	0	0	
-bombs	0	0	0	0	0	
-at	0	0	0	0	0	
-their	0	0	0	0	0	
-temple	0	0	0	0	0	
-car	0	0	0	0	0	
-and	0	0	0	0	0	
-torched	0	0	0	0	0	
-eight	0	0	0	0	0	
-houses	0	0	0	0	0	
-,	0	0	0	0	0	
-the	0	0	0	0	0	
-Vanniyars	0	0	0	0	0	
-claim	1	0	0	0	0	
-they	0	0	0	0	0	
-were	0	0	0	0	0	
-not	0	1	0	0	0	
-involved	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-attack	1	0	0	0	0	
-.	0	0	0	0	0	
+While	0	0	0	0	0	IN	0	
+While	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Dalits	0	0	0	0	0	NNPS	0	
+Dalits	0	0	0	0	0	NNPS	0	
+firmly	0	0	0	0	0	RB	0	
+firmly	0	0	0	0	0	RB	0	
+state	0	0	0	0	0	VBP	0	
+state	0	0	0	0	0	VBP	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+mob	0	0	0	0	0	NN	0	
+mob	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+erstwhile	0	0	0	0	0	JJ	0	
+erstwhile	0	0	0	0	0	JJ	0	
+Vanniyar	0	0	0	0	0	NNP	0	
+Vanniyar	0	0	0	0	0	NNP	0	
+friends	0	0	0	0	0	NNS	0	
+friends	0	0	0	0	0	NNS	0	
+entered	0	0	0	0	0	VBD	0	
+entered	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Dalit	0	0	0	0	person	NNP	0	
+Dalit	0	0	0	0	person	NNP	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+disconnecting	khooTrig	0	0	0	0	VBG	0	
+disconnecting	khooTrig	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+power	0	0	0	0	0	NN	0	
+power	0	0	0	0	0	NN	0	
+supply	0	0	0	0	0	NN	0	
+supply	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+hurled	khooTrig	0	0	0	0	VBN	0	
+hurled	khooTrig	0	0	0	0	VBN	0	
+petrol	0	0	0	0	0	JJ	0	
+petrol	0	0	0	0	0	JJ	0	
+bombs	0	0	0	0	0	NNS	0	
+bombs	0	0	0	0	0	NNS	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+temple	0	0	0	0	0	NN	0	
+temple	0	0	0	0	0	NN	0	
+car	0	0	0	0	0	NN	0	
+car	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+torched	0	0	0	0	0	VBD	0	
+torched	0	0	0	0	0	VBD	0	
+eight	0	0	0	0	0	CD	0	
+eight	0	0	0	0	0	CD	0	
+houses	0	0	0	0	0	NNS	0	
+houses	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Vanniyars	0	0	0	0	0	NNPS	0	
+Vanniyars	0	0	0	0	0	NNPS	0	
+claim	0	0	0	0	0	VBP	0	
+claim	0	0	0	0	0	VBP	0	
+they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
+they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+involved	mcmTrig	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+involved	mcmTrig	0	in_explicit_neg_trig_domain	0	0	VBN	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+attack	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+attack	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

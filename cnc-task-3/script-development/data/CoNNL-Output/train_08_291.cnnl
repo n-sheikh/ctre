@@ -1,37 +1,74 @@
-Sources	0	0	0	0	0	
-said	0	0	0	0	0	
-that	0	0	0	0	0	
-a	0	0	0	0	0	
-group	0	0	0	0	0	
-of	0	0	0	0	0	
-militants	0	0	0	0	0	
-hiding	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-area	0	0	0	0	0	
-saw	0	0	0	0	0	
-the	0	0	0	0	0	
-team	0	0	0	0	0	
-while	0	0	0	0	0	
-they	0	0	0	0	0	
-were	0	0	0	0	0	
-going	0	0	0	0	0	
-beyond	0	0	0	0	0	
-Watsar	0	0	0	0	0	
-towards	0	0	0	0	0	
-Simpthan	0	0	0	0	0	
-and	0	0	0	0	0	
-laid	0	0	0	0	0	
-an	0	0	0	0	0	
-ambush	1	0	0	0	0	
-on	0	0	0	0	0	
-the	0	0	0	0	0	
-Chattroo-	0	0	0	0	0	
-Simpthan	0	0	0	0	0	
-road	0	0	0	0	0	
-by	0	0	0	0	0	
-blocking	0	0	1	0	0	
-it	0	0	0	0	0	
-with	0	0	0	0	0	
-stones	0	0	0	0	0	
-.	0	0	0	0	0	
+Sources	0	0	0	0	0	NNS	0	
+Sources	0	0	0	0	0	NNS	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+group	khooTrig	0	0	0	0	NN	0	
+group	khooTrig	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+militants	0	0	0	0	0	NNS	0	
+militants	0	0	0	0	0	NNS	0	
+hiding	khooTrig	0	0	0	0	VBG	0	
+hiding	khooTrig	0	0	0	0	VBG	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+saw	0	0	0	0	0	VBD	0	
+saw	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+team	0	0	0	0	0	NN	0	
+team	0	0	0	0	0	NN	0	
+while	0	0	0	0	0	IN	0	
+while	0	0	0	0	0	IN	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+going	0	0	0	0	0	VBG	0	
+going	0	0	0	0	0	VBG	0	
+beyond	0	0	0	0	0	IN	0	
+beyond	0	0	0	0	0	IN	0	
+Watsar	0	0	0	0	0	NNP	0	
+Watsar	0	0	0	0	0	NNP	0	
+towards	0	0	0	0	0	IN	0	
+towards	0	0	0	0	0	IN	0	
+Simpthan	0	0	0	0	0	NNP	0	
+Simpthan	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+laid	0	0	0	0	0	VBN	0	
+laid	0	0	0	0	0	VBN	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+ambush	0	0	0	0	0	NN	0	
+ambush	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Chattroo-	0	0	0	0	0	NNP	0	
+Chattroo-	0	0	0	0	0	NNP	0	
+Simpthan	0	0	0	0	0	NNP	0	
+Simpthan	0	0	0	0	0	NNP	0	
+road	0	0	0	0	0	NN	0	
+road	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
+blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
+it	0	0	in_implicit_neg_trig_domain	0	0	PRP	0	
+it	0	0	in_implicit_neg_trig_domain	0	0	PRP	0	
+with	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+with	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+stones	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+stones	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

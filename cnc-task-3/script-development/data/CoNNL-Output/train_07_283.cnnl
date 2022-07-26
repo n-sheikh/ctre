@@ -1,28 +1,56 @@
-"	0	0	0	0	0	
-I	0	0	0	0	0	
-do	0	0	0	0	0	
-n't	0	1	0	0	0	
-even	0	0	0	0	0	
-recognise	0	0	0	0	0	
-Ram	0	0	0	0	0	
-Madhav	0	0	0	0	0	
-,	0	0	0	0	0	
-"	0	0	0	0	0	
-he	0	0	0	0	0	
-said	0	0	0	0	0	
-when	0	0	0	0	0	
-asked	0	0	0	0	0	
-why	0	0	0	0	0	
-the	0	0	0	0	0	
-RSS	0	0	0	0	0	
-leader	0	0	0	0	0	
-was	0	0	0	0	0	
-allowed	0	0	0	0	0	
-on	0	0	0	0	0	
-stage	0	0	0	0	0	
-during	0	0	0	0	0	
-the	0	0	0	0	0	
-Jantar	0	0	0	0	0	
-Mantar	0	0	0	0	0	
-agitation	1	0	0	0	0	
-.	0	0	0	0	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+I	0	0	0	0	0	PRP	0	
+I	0	0	0	0	0	PRP	0	
+do	0	0	0	0	0	VBP	0	
+do	0	0	0	0	0	VBP	0	
+n't	0	0	0	0	0	RB	explicit_negative	
+n't	0	0	0	0	0	RB	explicit_negative	
+even	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
+even	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
+recognise	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+recognise	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
+Ram	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
+Ram	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
+Madhav	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+Madhav	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+asked	0	0	0	0	0	VBD	0	
+asked	0	0	0	0	0	VBD	0	
+why	0	0	0	0	0	WRB	0	
+why	0	0	0	0	0	WRB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+RSS	0	0	0	0	0	NNP	0	
+RSS	0	0	0	0	0	NNP	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+allowed	0	0	0	0	0	VBN	0	
+allowed	0	0	0	0	0	VBN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+stage	khooTrig	0	0	0	0	NN	0	
+stage	khooTrig	0	0	0	0	NN	0	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Jantar	0	0	0	0	0	NNP	0	
+Jantar	0	0	0	0	0	NNP	0	
+Mantar	0	0	0	0	0	NNP	0	
+Mantar	0	0	0	0	0	NNP	0	
+agitation	0	0	0	0	0	NNS	0	
+agitation	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

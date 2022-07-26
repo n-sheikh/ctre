@@ -1,33 +1,66 @@
-Soon	0	0	0	0	0	
-after	0	0	0	0	0	
-he	0	0	0	0	0	
-addressed	0	0	0	0	0	
-the	0	0	0	0	0	
-gathering	0	0	0	0	0	
-,	0	0	0	0	0	
-District	0	0	0	0	0	
-Collector	0	0	0	0	0	
-B	0	0	0	0	0	
-.	0	0	0	0	0	
-Janardhan	0	0	0	0	0	
-Reddy	0	0	0	0	0	
-arrived	0	0	0	0	0	
-at	0	0	0	0	0	
-the	0	0	0	0	0	
-venue	0	0	0	0	0	
-and	0	0	0	0	0	
-received	0	0	0	0	0	
-the	0	0	0	0	0	
-memorandum	0	0	0	0	0	
-from	0	0	0	0	0	
-him	0	0	0	0	0	
-and	0	0	0	0	0	
-promised	0	0	0	0	0	
-to	0	0	0	0	0	
-forward	0	0	0	0	0	
-it	0	0	0	0	0	
-to	0	0	0	0	0	
-the	0	0	0	0	0	
-State	0	0	0	0	0	
-government	0	0	0	0	0	
-.	0	0	0	0	0	
+Soon	0	0	0	0	0	RB	0	
+Soon	0	0	0	0	0	RB	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+addressed	mcmTrig	0	0	0	0	VBD	0	
+addressed	mcmTrig	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+gathering	0	0	0	0	0	NN	0	
+gathering	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+District	0	0	0	0	0	NNP	0	
+District	0	0	0	0	0	NNP	0	
+Collector	0	0	0	0	0	NNP	0	
+Collector	0	0	0	0	0	NNP	0	
+B	0	0	0	0	person	NNP	0	
+B	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Janardhan	0	0	0	0	person	NNP	0	
+Janardhan	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+Reddy	0	0	0	0	person	NNP	0	
+arrived	0	0	0	0	0	VBD	0	
+arrived	0	0	0	0	0	VBD	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+venue	0	0	0	0	0	NN	0	
+venue	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+received	0	0	0	0	0	VBD	0	
+received	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+memorandum	0	0	0	0	0	NN	0	
+memorandum	0	0	0	0	0	NN	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+him	0	0	0	0	0	PRP	0	
+him	0	0	0	0	0	PRP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+promised	0	0	0	0	0	VBD	0	
+promised	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+forward	0	0	0	0	0	VB	0	
+forward	0	0	0	0	0	VB	0	
+it	0	0	0	0	0	PRP	0	
+it	0	0	0	0	0	PRP	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+State	0	0	0	0	0	NN	0	
+State	0	0	0	0	0	NN	0	
+government	0	0	0	0	0	NN	0	
+government	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

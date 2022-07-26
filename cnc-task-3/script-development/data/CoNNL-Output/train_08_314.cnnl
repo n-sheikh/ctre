@@ -1,29 +1,58 @@
-So-called	1	0	0	0	0	
-"	0	0	0	0	0	
-fidayeen	0	0	0	0	0	
-"	0	0	0	0	0	
-,	0	0	0	0	0	
-or	0	0	0	0	0	
-suicide	1	0	0	0	0	
-,	0	0	0	0	0	
-squads	0	0	0	0	0	
-of	0	0	0	0	0	
-Lashkar-e-	0	0	0	0	0	
-Toiba	0	0	0	0	0	
-militants	0	0	0	0	0	
-launched	0	0	0	0	0	
-a	0	0	0	0	0	
-series	0	0	0	0	0	
-of	0	0	0	0	0	
-attacks	0	0	0	0	0	
-in	0	0	0	0	0	
-Jammu	0	0	0	0	0	
-and	0	0	0	0	0	
-Kashmir	0	0	0	0	0	
-last	0	0	0	0	0	
-year	0	0	0	0	0	
-,	0	0	0	0	0	
-killing	0	0	0	0	0	
-many	0	0	0	0	0	
-soldiers	0	0	0	0	0	
-.	0	0	0	0	0	
+So-called	0	0	0	0	0	JJ	0	
+So-called	0	0	0	0	0	JJ	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+fidayeen	0	0	0	0	0	NNS	0	
+fidayeen	0	0	0	0	0	NNS	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+or	0	0	0	0	0	CC	0	
+or	0	0	0	0	0	CC	0	
+suicide	0	0	0	0	0	NN	0	
+suicide	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+squads	0	0	0	0	0	NNS	0	
+squads	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Lashkar-e-	0	0	0	0	0	JJ	0	
+Lashkar-e-	0	0	0	0	0	JJ	0	
+Toiba	0	0	0	0	0	NNP	0	
+Toiba	0	0	0	0	0	NNP	0	
+militants	0	0	0	0	0	NNS	0	
+militants	0	0	0	0	0	NNS	0	
+launched	khooTrig	0	0	0	0	VBD	0	
+launched	khooTrig	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+series	0	0	0	0	0	NN	0	
+series	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+attacks	0	0	0	0	0	NNS	0	
+attacks	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Jammu	0	0	0	0	0	NNP	0	
+Jammu	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Kashmir	0	0	0	0	0	NNP	0	
+Kashmir	0	0	0	0	0	NNP	0	
+last	0	0	0	0	date	JJ	0	
+last	0	0	0	0	date	JJ	0	
+year	0	0	0	0	date	NN	0	
+year	0	0	0	0	date	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+killing	0	0	0	0	0	VBG	0	
+killing	0	0	0	0	0	VBG	0	
+many	0	0	0	0	0	JJ	0	
+many	0	0	0	0	0	JJ	0	
+soldiers	0	0	0	0	0	NNS	0	
+soldiers	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

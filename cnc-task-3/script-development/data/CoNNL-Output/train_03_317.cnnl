@@ -1,41 +1,82 @@
-When	0	0	0	0	0	
-the	0	0	0	0	0	
-chief	0	0	0	0	0	
-minister	0	0	0	0	0	
-was	0	0	0	0	0	
-about	0	0	0	0	0	
-to	0	0	0	0	0	
-inaugurate	0	0	0	0	0	
-the	0	0	0	0	0	
-mela	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-afternoon	0	0	0	0	0	
-,	0	0	0	0	0	
-some	0	0	0	0	0	
-candidates	0	0	0	0	0	
-made	0	0	0	0	0	
-a	0	0	0	0	0	
-dash	0	0	0	0	0	
-towards	0	0	0	0	0	
-the	0	0	0	0	0	
-dais	0	0	0	0	0	
-,	0	0	0	0	0	
-shouting	0	0	0	0	0	
-:	0	0	0	0	0	
-“	0	0	0	0	0	
-CM	0	0	0	0	0	
-down	0	0	0	0	0	
-,	0	0	0	0	0	
-down	0	0	0	0	0	
-’	0	0	0	0	0	
-’	0	0	0	0	0	
-and	0	0	0	0	0	
-“	0	0	0	0	0	
-Government	0	0	0	0	0	
-down	0	0	0	0	0	
-,	0	0	0	0	0	
-down	0	0	0	0	0	
-’	0	0	0	0	0	
-’	0	0	0	0	0	
-.	0	0	0	0	0	
+When	0	0	0	0	0	WRB	0	
+When	0	0	0	0	0	WRB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+chief	0	0	0	0	0	JJ	0	
+chief	0	0	0	0	0	JJ	0	
+minister	0	0	0	0	0	NN	0	
+minister	0	0	0	0	0	NN	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+about	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	IN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+inaugurate	khooTrig	0	0	0	0	VB	0	
+inaugurate	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+mela	0	0	0	0	0	NN	0	
+mela	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+afternoon	0	0	0	0	0	NN	0	
+afternoon	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+some	0	0	0	0	0	DT	0	
+some	0	0	0	0	0	DT	0	
+candidates	0	0	0	0	0	NNS	0	
+candidates	0	0	0	0	0	NNS	0	
+made	khooTrig	0	0	0	0	VBD	0	
+made	khooTrig	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+dash	0	0	0	0	0	NN	0	
+dash	0	0	0	0	0	NN	0	
+towards	0	0	0	0	0	IN	0	
+towards	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+dais	0	0	0	0	0	NNS	0	
+dais	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+shouting	0	0	0	0	0	VBG	0	
+shouting	0	0	0	0	0	VBG	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+“	0	0	0	0	0	NNP	0	
+“	0	0	0	0	0	NNP	0	
+CM	0	0	0	0	0	NNP	0	
+CM	0	0	0	0	0	NNP	0	
+down	khooTrig	0	0	0	0	RB	0	
+down	khooTrig	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+down	khooTrig	0	0	0	0	IN	0	
+down	khooTrig	0	0	0	0	IN	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+“	0	0	0	0	0	NNP	0	
+“	0	0	0	0	0	NNP	0	
+Government	0	0	0	0	0	NNP	0	
+Government	0	0	0	0	0	NNP	0	
+down	khooTrig	0	0	0	0	RB	0	
+down	khooTrig	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+down	khooTrig	0	0	0	0	RB	0	
+down	khooTrig	0	0	0	0	RB	0	
+’	0	0	0	0	0	CD	0	
+’	0	0	0	0	0	CD	0	
+’	0	0	0	0	0	NNS	0	
+’	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

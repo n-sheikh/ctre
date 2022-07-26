@@ -1,39 +1,78 @@
-Taxi	0	0	0	0	0	
-protest	1	0	0	0	0	
-march	0	0	0	0	0	
-shuts	0	0	0	0	0	
-down	0	0	0	0	0	
-Rustenburg	0	0	0	0	0	
-Molaole	0	0	0	0	0	
-Montsho	0	0	0	0	0	
-RUSTENBURG	0	0	0	0	0	
-,	0	0	0	0	0	
-September	0	0	0	0	0	
-12	0	0	0	0	0	
-(	0	0	0	0	0	
-ANA	0	0	0	0	0	
-)	0	0	0	0	0	
--	0	0	0	0	0	
-Commuters	0	0	0	0	0	
-were	0	0	0	0	0	
-left	0	0	0	0	0	
-stranded	0	0	0	0	0	
-and	0	0	0	0	0	
-businesses	0	0	0	0	0	
-closed	0	0	0	0	0	
-on	0	0	0	0	0	
-Thursday	0	0	0	0	0	
-as	0	0	0	0	0	
-the	0	0	0	0	0	
-taxi	0	0	0	0	0	
-industry	0	0	0	0	0	
-embarked	0	0	0	0	0	
-on	0	0	0	0	0	
-a	0	0	0	0	0	
-protest	1	0	0	0	0	
-march	0	0	0	0	0	
-against	1	0	1	0	0	
-gender	0	0	0	0	0	
-based	0	0	0	0	0	
-violence	0	0	0	0	0	
-.	0	0	0	0	0	
+Taxi	0	0	0	0	0	NN	0	
+Taxi	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+shuts	0	0	0	0	0	VBZ	0	
+shuts	0	0	0	0	0	VBZ	0	
+down	khooTrig	0	0	0	0	RP	0	
+down	khooTrig	0	0	0	0	RP	0	
+Rustenburg	0	0	0	0	0	NNP	0	
+Rustenburg	0	0	0	0	0	NNP	0	
+Molaole	0	0	0	0	0	NNP	0	
+Molaole	0	0	0	0	0	NNP	0	
+Montsho	0	0	0	0	0	NNP	0	
+Montsho	0	0	0	0	0	NNP	0	
+RUSTENBURG	0	0	0	0	0	NNP	0	
+RUSTENBURG	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+September	0	0	0	0	date	NNP	0	
+September	0	0	0	0	date	NNP	0	
+12	0	0	0	0	date	CD	0	
+12	0	0	0	0	date	CD	0	
+(	0	0	0	0	0	(	0	
+(	0	0	0	0	0	(	0	
+ANA	0	0	0	0	person	NNP	0	
+ANA	0	0	0	0	person	NNP	0	
+)	0	0	0	0	0	)	0	
+)	0	0	0	0	0	)	0	
+-	0	0	0	0	0	:	0	
+-	0	0	0	0	0	:	0	
+Commuters	0	0	0	0	0	NNP	0	
+Commuters	0	0	0	0	0	NNP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+left	0	0	0	0	0	VBN	0	
+left	0	0	0	0	0	VBN	0	
+stranded	0	0	0	0	0	VBN	0	
+stranded	0	0	0	0	0	VBN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+businesses	0	0	0	0	0	NNS	0	
+businesses	0	0	0	0	0	NNS	0	
+closed	khooTrig	0	0	0	0	VBD	0	
+closed	khooTrig	0	0	0	0	VBD	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Thursday	0	0	0	0	date	NNP	0	
+Thursday	0	0	0	0	date	NNP	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+taxi	0	0	0	0	0	NN	0	
+taxi	0	0	0	0	0	NN	0	
+industry	0	0	0	0	0	NN	0	
+industry	0	0	0	0	0	NN	0	
+embarked	0	0	0	0	0	VBD	0	
+embarked	0	0	0	0	0	VBD	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+march	0	0	0	0	0	NN	0	
+against	0	0	0	0	0	IN	implicit_negative	
+against	0	0	0	0	0	IN	implicit_negative	
+gender	0	0	0	0	0	NN	0	
+gender	0	0	0	0	0	NN	0	
+based	0	0	0	0	0	VBN	0	
+based	0	0	0	0	0	VBN	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

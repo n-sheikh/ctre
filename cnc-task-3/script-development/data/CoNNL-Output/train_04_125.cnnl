@@ -1,20 +1,40 @@
-Activists	0	0	0	0	0	
-assemble	0	0	0	0	0	
-The	0	0	0	0	0	
-activists	0	0	0	0	0	
-assembled	0	0	0	0	0	
-in	0	0	0	0	0	
-front	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-office	0	0	0	0	0	
-to	0	0	0	0	0	
-prevent	0	0	1	0	0	
-Mr	0	0	0	0	0	
-.	0	0	0	0	0	
-Ranjth	0	0	0	0	0	
-from	0	0	0	0	0	
-entering	0	0	0	0	0	
-the	0	0	0	0	0	
-building	0	0	0	0	0	
-.	0	0	0	0	0	
+Activists	0	0	0	0	0	NNS	0	
+Activists	0	0	0	0	0	NNS	0	
+assemble	khooTrig	0	0	0	0	VBP	0	
+assemble	khooTrig	0	0	0	0	VBP	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+activists	0	0	0	0	0	NNS	0	
+activists	0	0	0	0	0	NNS	0	
+assembled	khooTrig	0	0	0	0	VBN	0	
+assembled	khooTrig	0	0	0	0	VBN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+front	0	0	0	0	0	NN	0	
+front	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+office	0	0	0	0	0	NN	0	
+office	0	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+prevent	0	0	0	0	0	VB	implicit_negative	
+prevent	0	0	0	0	0	VB	implicit_negative	
+Mr	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Mr	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+.	0	0	in_implicit_neg_trig_domain	0	person	.	0	
+.	0	0	in_implicit_neg_trig_domain	0	person	.	0	
+Ranjth	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+Ranjth	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
+from	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+from	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+entering	0	0	in_implicit_neg_trig_domain	0	0	VBG	0	
+entering	0	0	in_implicit_neg_trig_domain	0	0	VBG	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+building	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+building	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

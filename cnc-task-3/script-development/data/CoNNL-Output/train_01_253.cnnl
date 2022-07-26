@@ -1,28 +1,56 @@
-Former	0	0	0	0	0	
-Minister	0	0	0	0	0	
-P	0	0	0	0	0	
-.	0	0	0	0	0	
-Babumohan	0	0	0	0	0	
-,	0	0	0	0	0	
-who	0	0	0	0	0	
-was	0	0	0	0	0	
-in	0	0	0	0	0	
-oblivion	0	0	0	0	0	
-for	0	0	0	0	0	
-long	0	0	0	0	0	
-,	0	0	0	0	0	
-suddenly	0	0	0	0	0	
-turned	0	0	0	0	0	
-up	0	0	0	0	0	
-in	0	0	0	0	0	
-Sangareddy	0	0	0	0	0	
-and	0	0	0	0	0	
-participated	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-agitation	1	0	0	0	0	
-held	0	0	0	0	0	
-before	0	0	0	0	0	
-the	0	0	0	0	0	
-Collectorate	0	0	0	0	0	
-.	0	0	0	0	0	
+Former	0	0	0	0	0	NNP	0	
+Former	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+P	0	0	0	0	person	NNP	0	
+P	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Babumohan	0	0	0	0	person	NNP	0	
+Babumohan	0	0	0	0	person	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+oblivion	0	0	0	0	0	NN	0	
+oblivion	0	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+long	0	0	0	0	0	RB	0	
+long	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+suddenly	0	0	0	0	0	RB	0	
+suddenly	0	0	0	0	0	RB	0	
+turned	0	0	0	0	0	VBD	0	
+turned	0	0	0	0	0	VBD	0	
+up	khooTrig	0	0	0	0	RP	0	
+up	khooTrig	0	0	0	0	RP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Sangareddy	0	0	0	0	0	NNP	0	
+Sangareddy	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+participated	mcmTrig	0	0	0	0	VBD	0	
+participated	mcmTrig	0	0	0	0	VBD	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+agitation	0	0	0	0	0	NN	0	
+agitation	0	0	0	0	0	NN	0	
+held	0	0	0	0	0	VBN	0	
+held	0	0	0	0	0	VBN	0	
+before	0	0	0	0	0	IN	0	
+before	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Collectorate	0	0	0	0	0	NNP	0	
+Collectorate	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

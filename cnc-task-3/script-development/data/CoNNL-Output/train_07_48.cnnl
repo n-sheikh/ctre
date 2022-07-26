@@ -1,64 +1,128 @@
-Police	0	0	0	0	0	
-use	0	0	0	0	0	
-tear	0	0	0	0	0	
-gas	0	0	0	0	0	
-to	0	0	0	0	0	
-control	0	0	0	0	0	
-communal	0	0	0	0	0	
-clash	1	0	0	0	0	
-at	0	0	0	0	0	
-Mirzapur	0	0	0	0	0	
--	0	0	0	0	0	
-Indian	0	0	0	0	0	
-Express	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-,	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-:	0	0	0	0	0	
-Ahmedabad	0	0	0	0	0	
-,	0	0	0	0	0	
-Tue	0	0	0	0	0	
-Sep	0	0	0	0	0	
-15	0	0	0	0	0	
-2009	0	0	0	0	0	
-,	0	0	0	0	0	
-01	0	0	0	0	0	
-:	0	0	0	0	0	
-09	0	0	0	0	0	
-hrs	0	0	0	0	0	
-The	0	0	0	0	0	
-city	0	0	0	0	0	
-police	0	0	0	0	0	
-had	0	0	0	0	0	
-to	0	0	0	0	0	
-resort	0	0	0	0	0	
-to	0	0	0	0	0	
-tear	0	0	0	0	0	
-gas	0	0	0	0	0	
-shelling	0	0	0	0	0	
-after	0	0	0	0	0	
-a	0	0	0	0	0	
-communal	0	0	0	0	0	
-violence	0	0	0	0	0	
-broke	0	0	0	0	0	
-out	0	0	0	0	0	
-near	0	0	0	0	0	
-St	0	0	0	0	0	
-Xavier	0	0	0	0	0	
-'s	0	0	0	0	0	
-High	0	0	0	0	0	
-School	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-Mirzapur	0	0	0	0	0	
-area	0	0	0	0	0	
-of	0	0	0	0	0	
-Ahmedabad	0	0	0	0	0	
-late	0	0	0	0	0	
-on	0	0	0	0	0	
-Sunday	0	0	0	0	0	
-.	0	0	0	0	0	
+Police	0	0	0	0	0	NNS	0	
+Police	0	0	0	0	0	NNS	0	
+use	0	0	0	0	0	VBP	0	
+use	0	0	0	0	0	VBP	0	
+tear	0	0	0	0	0	JJ	0	
+tear	0	0	0	0	0	JJ	0	
+gas	khooTrig	0	0	0	0	NN	0	
+gas	khooTrig	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+control	mcmTrig	0	0	0	0	VB	0	
+control	mcmTrig	0	0	0	0	VB	0	
+communal	0	0	0	0	0	JJ	0	
+communal	0	0	0	0	0	JJ	0	
+clash	khooTrig	0	0	0	0	NN	0	
+clash	khooTrig	0	0	0	0	NN	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+Mirzapur	0	0	0	0	0	NNP	0	
+Mirzapur	0	0	0	0	0	NNP	0	
+-	0	0	0	0	0	:	0	
+-	0	0	0	0	0	:	0	
+Indian	0	0	0	0	0	NNP	0	
+Indian	0	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Ahmedabad	0	0	0	0	location	NNP	0	
+Ahmedabad	0	0	0	0	location	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Tue	0	0	0	0	date	NNP	0	
+Tue	0	0	0	0	date	NNP	0	
+Sep	0	0	0	0	date	NNP	0	
+Sep	0	0	0	0	date	NNP	0	
+15	0	0	0	0	date	CD	0	
+15	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+01	0	0	0	0	date	CD	0	
+01	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+09	0	0	0	0	date	CD	0	
+09	0	0	0	0	date	CD	0	
+hrs	0	0	0	0	0	NN	0	
+hrs	0	0	0	0	0	NN	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+city	0	0	0	0	0	NN	0	
+city	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+resort	0	0	0	0	0	VB	0	
+resort	0	0	0	0	0	VB	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+tear	0	0	0	0	0	VB	0	
+tear	0	0	0	0	0	VB	0	
+gas	khooTrig	0	0	0	0	NN	0	
+gas	khooTrig	0	0	0	0	NN	0	
+shelling	khooTrig	0	0	0	0	VBG	0	
+shelling	khooTrig	0	0	0	0	VBG	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+communal	0	0	0	0	0	JJ	0	
+communal	0	0	0	0	0	JJ	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+broke	0	0	0	0	0	VBD	0	
+broke	0	0	0	0	0	VBD	0	
+out	khooTrig	0	0	0	0	RP	0	
+out	khooTrig	0	0	0	0	RP	0	
+near	0	0	0	0	0	IN	0	
+near	0	0	0	0	0	IN	0	
+St	0	0	0	0	person	NNP	0	
+St	0	0	0	0	person	NNP	0	
+Xavier	0	0	0	0	person	NNP	0	
+Xavier	0	0	0	0	person	NNP	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+High	0	0	0	0	0	NNP	0	
+High	0	0	0	0	0	NNP	0	
+School	0	0	0	0	0	NNP	0	
+School	0	0	0	0	0	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Mirzapur	0	0	0	0	0	NNP	0	
+Mirzapur	0	0	0	0	0	NNP	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Ahmedabad	0	0	0	0	location	NNP	0	
+Ahmedabad	0	0	0	0	location	NNP	0	
+late	0	0	0	0	0	RB	0	
+late	0	0	0	0	0	RB	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Sunday	0	0	0	0	date	NNP	0	
+Sunday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

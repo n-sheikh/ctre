@@ -1,37 +1,74 @@
-The	0	0	0	0	0	
-gun	0	0	0	0	0	
-battle	0	0	0	0	0	
-took	0	0	0	0	0	
-place	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-deep	1	0	0	0	0	
-forests	0	0	0	0	0	
-of	0	0	0	0	0	
-Bedhkati	0	0	0	0	0	
-area	0	0	0	0	0	
-near	0	0	0	0	0	
-the	0	0	0	0	0	
-Gadchiroli-	0	0	0	0	0	
-Gondia	0	0	0	0	0	
-border	0	0	0	0	0	
-around	0	0	0	0	1	
-11	0	0	0	0	0	
-.	0	0	0	0	0	
-30	0	0	0	0	0	
-p	0	0	0	0	0	
-.	0	0	0	0	0	
-m	0	0	0	0	0	
-.	0	0	0	0	0	
-late	0	0	0	0	0	
-Monday	0	0	0	0	0	
-,	0	0	0	0	0	
-said	0	0	0	0	0	
-Gadchiroli	0	0	0	0	0	
-Superintendent	0	0	0	0	0	
-of	0	0	0	0	0	
-Police	0	0	0	0	0	
-S	0	0	0	0	0	
-.	0	0	0	0	0	
-Haque	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+gun	0	0	0	0	0	NN	0	
+gun	0	0	0	0	0	NN	0	
+battle	0	0	0	0	0	NN	0	
+battle	0	0	0	0	0	NN	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+place	0	0	0	0	0	NN	0	
+place	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+deep	0	0	0	0	0	JJ	0	
+deep	0	0	0	0	0	JJ	0	
+forests	0	0	0	0	0	NNS	0	
+forests	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Bedhkati	0	0	0	0	0	NNP	0	
+Bedhkati	0	0	0	0	0	NNP	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+near	0	0	0	0	0	IN	0	
+near	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Gadchiroli-	0	0	0	0	0	NNP	0	
+Gadchiroli-	0	0	0	0	0	NNP	0	
+Gondia	0	0	0	0	0	NNP	0	
+Gondia	0	0	0	0	0	NNP	0	
+border	0	0	0	0	0	NN	0	
+border	0	0	0	0	0	NN	0	
+around	0	0	0	0	0	IN	0	
+around	0	0	0	0	0	IN	0	
+11	0	0	0	0	date	CD	0	
+11	0	0	0	0	date	CD	0	
+.	0	0	0	0	date	.	0	
+.	0	0	0	0	date	.	0	
+30	0	0	0	0	date	CD	0	
+30	0	0	0	0	date	CD	0	
+p	0	0	0	0	date	NN	0	
+p	0	0	0	0	date	NN	0	
+.	0	0	0	0	date	.	0	
+.	0	0	0	0	date	.	0	
+m	0	0	0	0	date	NN	0	
+m	0	0	0	0	date	NN	0	
+.	0	0	0	0	date	.	0	
+.	0	0	0	0	date	.	0	
+late	0	0	0	0	date	RB	0	
+late	0	0	0	0	date	RB	0	
+Monday	0	0	0	0	date	NNP	0	
+Monday	0	0	0	0	date	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+Gadchiroli	0	0	0	0	person	NNP	0	
+Gadchiroli	0	0	0	0	person	NNP	0	
+Superintendent	0	0	0	0	0	NNP	0	
+Superintendent	0	0	0	0	0	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Police	0	0	0	0	0	NNP	0	
+Police	0	0	0	0	0	NNP	0	
+S	0	0	0	0	person	NNP	0	
+S	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Haque	0	0	0	0	person	NNP	0	
+Haque	0	0	0	0	person	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

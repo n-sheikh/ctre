@@ -1,19 +1,38 @@
-Four	0	0	0	0	0	
-jawans	0	0	0	0	0	
-were	0	0	0	0	0	
-also	0	0	0	0	0	
-injured	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-encounter	0	0	0	0	0	
-but	0	0	0	0	0	
-they	0	0	0	0	0	
-were	0	0	0	0	0	
-all	0	0	0	0	0	
-out	0	0	0	0	0	
-of	0	0	0	0	0	
-danger	1	0	0	0	0	
-,	0	0	0	0	0	
-police	0	0	0	0	0	
-said	0	0	0	0	0	
-.	0	0	0	0	0	
+Four	0	0	0	0	0	CD	0	
+Four	0	0	0	0	0	CD	0	
+jawans	0	0	0	0	0	NNS	0	
+jawans	0	0	0	0	0	NNS	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+also	0	0	0	0	0	RB	0	
+also	0	0	0	0	0	RB	0	
+injured	khooTrig	0	0	0	0	VBN	0	
+injured	khooTrig	0	0	0	0	VBN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+encounter	0	0	0	0	0	NN	0	
+encounter	0	0	0	0	0	NN	0	
+but	0	0	0	0	0	CC	0	
+but	0	0	0	0	0	CC	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+all	0	0	0	0	0	RB	0	
+all	0	0	0	0	0	RB	0	
+out	khooTrig	0	0	0	0	IN	0	
+out	khooTrig	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+danger	0	0	0	0	0	NN	0	
+danger	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+police	0	0	0	0	0	NNS	0	
+police	0	0	0	0	0	NNS	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

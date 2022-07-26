@@ -1,33 +1,66 @@
-More	0	0	0	0	1	
-than	0	0	0	0	0	
-two	0	0	0	0	0	
-weeks	0	0	0	0	0	
-after	0	0	0	0	0	
-three	0	0	0	0	0	
-Dalit	0	0	0	0	0	
-settlements	0	0	0	0	0	
-,	0	0	0	0	0	
-not	0	1	0	0	0	
-far	0	0	0	0	0	
-from	0	0	0	0	0	
-Nayakankottai	0	0	0	0	0	
-in	0	0	0	0	0	
-this	0	0	0	0	0	
-backward	1	0	0	0	0	
-district	0	0	0	0	0	
-in	0	0	0	0	0	
-north-west	0	0	0	0	0	
-Tamil	0	0	0	0	0	
-Nadu	0	0	0	0	0	
-,	0	0	0	0	0	
-were	0	0	0	0	0	
-attacked	0	0	0	0	0	
-,	0	0	0	0	0	
-the	0	0	0	0	0	
-air	0	0	0	0	0	
-is	0	0	0	0	0	
-still	1	0	0	0	0	
-thick	0	0	0	0	0	
-with	0	0	0	0	0	
-tension	1	0	0	0	0	
-.	0	0	0	0	0	
+More	0	0	0	0	0	JJR	0	
+More	0	0	0	0	0	JJR	0	
+than	0	0	0	0	0	IN	0	
+than	0	0	0	0	0	IN	0	
+two	0	0	0	0	0	CD	0	
+two	0	0	0	0	0	CD	0	
+weeks	0	0	0	0	0	NNS	0	
+weeks	0	0	0	0	0	NNS	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+three	0	0	0	0	0	CD	0	
+three	0	0	0	0	0	CD	0	
+Dalit	0	0	0	0	person	NNP	0	
+Dalit	0	0	0	0	person	NNP	0	
+settlements	0	0	0	0	0	NNS	0	
+settlements	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+far	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
+far	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
+from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+Nayakankottai	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+Nayakankottai	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+this	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+this	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
+backward	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+backward	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+district	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+district	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
+north-west	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+north-west	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+Tamil	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
+Tamil	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
+Nadu	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+Nadu	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
+,	0	0	in_explicit_neg_trig_domain	0	0	,	0	
+,	0	0	in_explicit_neg_trig_domain	0	0	,	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+attacked	0	0	0	0	0	VBN	0	
+attacked	0	0	0	0	0	VBN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+air	0	0	0	0	0	NN	0	
+air	0	0	0	0	0	NN	0	
+is	0	0	0	0	0	VBZ	0	
+is	0	0	0	0	0	VBZ	0	
+still	khooTrig	0	0	0	0	RB	0	
+still	khooTrig	0	0	0	0	RB	0	
+thick	0	0	0	0	0	JJ	0	
+thick	0	0	0	0	0	JJ	0	
+with	0	0	0	0	0	IN	0	
+with	0	0	0	0	0	IN	0	
+tension	0	0	0	0	0	NN	0	
+tension	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

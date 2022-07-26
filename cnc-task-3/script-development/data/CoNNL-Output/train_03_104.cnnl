@@ -1,58 +1,116 @@
-Leung	0	0	0	0	0	
-Chun-ying	0	0	0	0	0	
-'s	0	0	0	0	0	
-second	0	0	0	0	0	
-meet-the-public	0	0	0	0	0	
-session	0	0	0	0	0	
-,	0	0	0	0	0	
-in	0	0	0	0	0	
-Kwun	0	0	0	0	0	
-Tong	0	0	0	0	0	
-,	0	0	0	0	0	
-was	0	0	0	0	0	
-a	0	0	0	0	0	
-much	1	0	0	0	1	
-quieter	0	0	0	0	0	
-affair	0	0	0	0	0	
-than	0	0	0	0	0	
-his	0	0	0	0	0	
-first	0	0	0	0	0	
-one	0	0	0	0	0	
-last	0	0	0	0	0	
-week	0	0	0	0	0	
-,	0	0	0	0	0	
-when	0	0	0	0	0	
-he	0	0	0	0	0	
-caused	0	0	0	0	0	
-uproar	1	0	0	0	0	
-in	0	0	0	0	0	
-some	0	0	0	0	0	
-quarters	0	0	0	0	0	
-by	0	0	0	0	0	
-expressing	0	0	0	0	0	
-support	1	0	0	0	0	
-for	0	0	0	0	0	
-the	0	0	0	0	0	
-police	0	0	0	0	0	
-'s	0	0	0	0	0	
-handling	0	0	0	0	0	
-of	0	0	0	0	0	
-a	0	0	0	0	0	
-protest	1	0	0	0	0	
-in	0	0	0	0	0	
-Mong	0	0	0	0	0	
-Kok	0	0	0	0	0	
-at	0	0	0	0	0	
-which	0	0	0	0	0	
-rival	0	0	0	0	0	
-groups	0	0	0	0	0	
-clashed	0	0	0	0	0	
-over	0	0	0	0	0	
-a	0	0	0	0	0	
-teacher	0	0	0	0	0	
-'s	0	0	0	0	0	
-verbal	0	0	0	0	0	
-attack	1	0	0	0	0	
-on	0	0	0	0	0	
-officers	0	0	0	0	0	
-.	0	0	0	0	0	
+Leung	0	0	0	0	person	NNP	0	
+Leung	0	0	0	0	person	NNP	0	
+Chun-ying	0	0	0	0	0	NNP	0	
+Chun-ying	0	0	0	0	0	NNP	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+second	0	0	0	0	0	JJ	0	
+second	0	0	0	0	0	JJ	0	
+meet-the-public	0	0	0	0	0	JJ	0	
+meet-the-public	0	0	0	0	0	JJ	0	
+session	0	0	0	0	0	NN	0	
+session	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Kwun	0	0	0	0	person	NNP	0	
+Kwun	0	0	0	0	person	NNP	0	
+Tong	0	0	0	0	person	NNP	0	
+Tong	0	0	0	0	person	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+much	0	0	0	0	0	JJ	0	
+much	0	0	0	0	0	JJ	0	
+quieter	0	0	0	0	0	NN	0	
+quieter	0	0	0	0	0	NN	0	
+affair	0	0	0	0	0	NN	0	
+affair	0	0	0	0	0	NN	0	
+than	0	0	0	0	0	IN	0	
+than	0	0	0	0	0	IN	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+first	0	0	0	0	0	JJ	0	
+first	0	0	0	0	0	JJ	0	
+one	0	0	0	0	date	NN	0	
+one	0	0	0	0	date	NN	0	
+last	0	0	0	0	date	JJ	0	
+last	0	0	0	0	date	JJ	0	
+week	0	0	0	0	date	NN	0	
+week	0	0	0	0	date	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+caused	mcmTrig	0	0	0	0	VBD	0	
+caused	mcmTrig	0	0	0	0	VBD	0	
+uproar	0	0	0	0	0	NN	0	
+uproar	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+some	0	0	0	0	0	DT	0	
+some	0	0	0	0	0	DT	0	
+quarters	khooTrig	0	0	0	0	NNS	0	
+quarters	khooTrig	0	0	0	0	NNS	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+expressing	khooTrig	0	0	0	0	VBG	0	
+expressing	khooTrig	0	0	0	0	VBG	0	
+support	mcmTrig	0	0	0	0	NN	0	
+support	mcmTrig	0	0	0	0	NN	0	
+for	0	0	0	0	0	IN	0	
+for	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+police	0	0	0	0	0	NN	0	
+police	0	0	0	0	0	NN	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+handling	0	0	0	0	0	NN	0	
+handling	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Mong	0	0	0	0	0	NNP	0	
+Mong	0	0	0	0	0	NNP	0	
+Kok	0	0	0	0	0	NNP	0	
+Kok	0	0	0	0	0	NNP	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+which	0	0	0	0	0	WDT	0	
+which	0	0	0	0	0	WDT	0	
+rival	0	0	0	0	0	JJ	0	
+rival	0	0	0	0	0	JJ	0	
+groups	khooTrig	0	0	0	0	NNS	0	
+groups	khooTrig	0	0	0	0	NNS	0	
+clashed	khooTrig	0	0	0	0	VBD	0	
+clashed	khooTrig	0	0	0	0	VBD	0	
+over	0	0	0	0	0	IN	0	
+over	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+teacher	0	0	0	0	0	NN	0	
+teacher	0	0	0	0	0	NN	0	
+'s	0	0	0	0	0	POS	0	
+'s	0	0	0	0	0	POS	0	
+verbal	0	0	0	0	0	JJ	0	
+verbal	0	0	0	0	0	JJ	0	
+attack	0	0	0	0	0	NN	0	
+attack	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+officers	0	0	0	0	0	NNS	0	
+officers	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

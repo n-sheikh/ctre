@@ -1,26 +1,52 @@
-District	0	0	0	0	0	
-Collector	0	0	0	0	0	
-Gaurav	0	0	0	0	0	
-Dwivedi	0	0	0	0	0	
-and	0	0	0	0	0	
-Superintendent	0	0	0	0	0	
-of	0	0	0	0	0	
-Police	0	0	0	0	0	
-M	0	0	0	0	0	
-.	0	0	0	0	0	
-S	0	0	0	0	0	
-.	0	0	0	0	0	
-Tomar	0	0	0	0	0	
-rushed	0	0	0	0	0	
-to	0	0	0	0	0	
-the	0	0	0	0	0	
-spot	0	0	0	0	0	
-and	0	0	0	0	0	
-asked	0	0	0	0	0	
-the	0	0	0	0	0	
-labourers	0	0	0	0	0	
-to	0	0	0	0	0	
-withdraw	0	0	0	0	0	
-the	0	0	0	0	0	
-strike	0	0	0	0	0	
-.	0	0	0	0	0	
+District	0	0	0	0	0	NNP	0	
+District	0	0	0	0	0	NNP	0	
+Collector	0	0	0	0	0	NNP	0	
+Collector	0	0	0	0	0	NNP	0	
+Gaurav	0	0	0	0	0	NNP	0	
+Gaurav	0	0	0	0	0	NNP	0	
+Dwivedi	0	0	0	0	0	NNP	0	
+Dwivedi	0	0	0	0	0	NNP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+Superintendent	0	0	0	0	0	NNP	0	
+Superintendent	0	0	0	0	0	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Police	0	0	0	0	0	NNP	0	
+Police	0	0	0	0	0	NNP	0	
+M	0	0	0	0	person	NNP	0	
+M	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+S	0	0	0	0	person	NNP	0	
+S	0	0	0	0	person	NNP	0	
+.	0	0	0	0	person	.	0	
+.	0	0	0	0	person	.	0	
+Tomar	0	0	0	0	person	NNP	0	
+Tomar	0	0	0	0	person	NNP	0	
+rushed	0	0	0	0	0	VBD	0	
+rushed	0	0	0	0	0	VBD	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+spot	0	0	0	0	0	NN	0	
+spot	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+asked	0	0	0	0	0	VBD	0	
+asked	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+labourers	0	0	0	0	0	NNS	0	
+labourers	0	0	0	0	0	NNS	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+withdraw	khooTrig	0	0	0	0	VB	0	
+withdraw	khooTrig	0	0	0	0	VB	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,36 +1,72 @@
-The	0	0	0	0	0	
-parades	0	0	0	0	0	
-come	0	0	0	0	0	
-after	0	0	0	0	0	
-two	0	0	0	0	0	
-separate	0	0	0	0	0	
-eruptions	0	0	0	0	0	
-of	0	0	0	0	0	
-bloodletting	0	0	0	0	0	
-claimed	0	0	0	0	0	
-more	0	0	0	0	1	
-than	0	0	0	0	0	
-a	0	0	0	0	0	
-dozen	0	0	0	0	0	
-lives	0	0	0	0	0	
-in	0	0	0	0	0	
-Xinjiang	0	0	0	0	0	
-,	0	0	0	0	0	
-a	0	0	0	0	0	
-sprawling	0	0	0	0	0	
-border	0	0	0	0	0	
-region	0	0	0	0	0	
-which	0	0	0	0	0	
-has	0	0	0	0	0	
-been	0	0	0	0	0	
-blighted	0	0	0	0	0	
-by	0	0	0	0	0	
-repeated	0	0	0	0	0	
-outbreaks	0	0	0	0	0	
-of	0	0	0	0	0	
-ethnic	0	0	0	0	0	
-violence	0	0	0	0	0	
-and	0	0	0	0	0	
-terrorist	0	0	0	0	0	
-attacks	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+parades	khooTrig	0	0	0	0	NNS	0	
+parades	khooTrig	0	0	0	0	NNS	0	
+come	0	0	0	0	0	VBP	0	
+come	0	0	0	0	0	VBP	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+two	0	0	0	0	0	CD	0	
+two	0	0	0	0	0	CD	0	
+separate	0	0	0	0	0	JJ	0	
+separate	0	0	0	0	0	JJ	0	
+eruptions	0	0	0	0	0	NNS	0	
+eruptions	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+bloodletting	0	0	0	0	0	VBG	0	
+bloodletting	0	0	0	0	0	VBG	0	
+claimed	0	0	0	0	0	VBD	0	
+claimed	0	0	0	0	0	VBD	0	
+more	0	0	0	0	0	JJR	0	
+more	0	0	0	0	0	JJR	0	
+than	0	0	0	0	0	IN	0	
+than	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+dozen	0	0	0	0	0	NN	0	
+dozen	0	0	0	0	0	NN	0	
+lives	0	0	0	0	0	NNS	0	
+lives	0	0	0	0	0	NNS	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Xinjiang	0	0	0	0	location	NNP	0	
+Xinjiang	0	0	0	0	location	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+sprawling	0	0	0	0	0	JJ	0	
+sprawling	0	0	0	0	0	JJ	0	
+border	0	0	0	0	0	NN	0	
+border	0	0	0	0	0	NN	0	
+region	0	0	0	0	0	NN	0	
+region	0	0	0	0	0	NN	0	
+which	0	0	0	0	0	WDT	0	
+which	0	0	0	0	0	WDT	0	
+has	0	0	0	0	0	VBZ	0	
+has	0	0	0	0	0	VBZ	0	
+been	0	0	0	0	0	VBN	0	
+been	0	0	0	0	0	VBN	0	
+blighted	khooTrig	0	0	0	0	VBN	0	
+blighted	khooTrig	0	0	0	0	VBN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+repeated	0	0	0	0	0	VBN	0	
+repeated	0	0	0	0	0	VBN	0	
+outbreaks	0	0	0	0	0	NNS	0	
+outbreaks	0	0	0	0	0	NNS	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+ethnic	0	0	0	0	0	JJ	0	
+ethnic	0	0	0	0	0	JJ	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+terrorist	0	0	0	0	0	JJ	0	
+terrorist	0	0	0	0	0	JJ	0	
+attacks	0	0	0	0	0	NNS	0	
+attacks	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

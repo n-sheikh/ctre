@@ -1,60 +1,120 @@
-Muck	0	0	0	0	0	
-on	0	0	0	0	0	
-road	0	0	0	0	0	
-after	0	0	0	0	0	
-SP	0	0	0	0	0	
-leader	0	0	0	0	0	
-,	0	0	0	0	0	
-supporters	0	0	0	0	0	
-beat	0	0	0	0	0	
-up	0	0	0	0	0	
-LMC	0	0	0	0	0	
-men	0	0	0	0	0	
--	0	0	0	0	0	
-Indian	0	0	0	0	0	
-Express	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-,	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-:	0	0	0	0	0	
-Lucknow	0	0	0	0	0	
-,	0	0	0	0	0	
-Wed	0	0	0	0	0	
-Jul	0	0	0	0	0	
-11	0	0	0	0	0	
-2012	0	0	0	0	0	
-,	0	0	0	0	0	
-04	0	0	0	0	0	
-:	0	0	0	0	0	
-20	0	0	0	0	0	
-hrs	0	0	0	0	0	
-A	0	0	0	0	0	
-Samajwadi	0	0	0	0	0	
-Party	0	0	0	0	0	
-leader	0	0	0	0	0	
-and	0	0	0	0	0	
-his	0	0	0	0	0	
-supporters	0	0	0	0	0	
-allegedly	0	0	0	0	0	
-beat	0	0	0	0	0	
-up	0	0	0	0	0	
-three	0	0	0	0	0	
-Lucknow	0	0	0	0	0	
-Municipal	0	0	0	0	0	
-Corporation	0	0	0	0	0	
-sanitation	0	0	0	0	0	
-workers	0	0	0	0	0	
-and	0	0	0	0	0	
-manhandled	0	0	0	0	0	
-a	0	0	0	0	0	
-constable	0	0	0	0	0	
-in	0	0	0	0	0	
-Thakurganj	0	0	0	0	0	
-area	0	0	0	0	0	
-on	0	0	0	0	0	
-Tuesday	0	0	0	0	0	
-.	0	0	0	0	0	
+Muck	0	0	0	0	0	VB	0	
+Muck	0	0	0	0	0	VB	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+road	0	0	0	0	0	NN	0	
+road	0	0	0	0	0	NN	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+SP	0	0	0	0	0	NNP	0	
+SP	0	0	0	0	0	NNP	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+supporters	0	0	0	0	0	NNS	0	
+supporters	0	0	0	0	0	NNS	0	
+beat	0	0	0	0	0	VBD	0	
+beat	0	0	0	0	0	VBD	0	
+up	khooTrig	0	0	0	0	RP	0	
+up	khooTrig	0	0	0	0	RP	0	
+LMC	0	0	0	0	0	NNP	0	
+LMC	0	0	0	0	0	NNP	0	
+men	0	0	0	0	0	NNS	0	
+men	0	0	0	0	0	NNS	0	
+-	0	0	0	0	0	:	0	
+-	0	0	0	0	0	:	0	
+Indian	0	0	0	0	0	NNP	0	
+Indian	0	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Lucknow	0	0	0	0	location	NNP	0	
+Lucknow	0	0	0	0	location	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Wed	0	0	0	0	date	NNP	0	
+Wed	0	0	0	0	date	NNP	0	
+Jul	0	0	0	0	date	NNP	0	
+Jul	0	0	0	0	date	NNP	0	
+11	0	0	0	0	date	NNP	0	
+11	0	0	0	0	date	NNP	0	
+2012	0	0	0	0	date	CD	0	
+2012	0	0	0	0	date	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+04	0	0	0	0	date	CD	0	
+04	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+20	0	0	0	0	date	CD	0	
+20	0	0	0	0	date	CD	0	
+hrs	0	0	0	0	0	NN	0	
+hrs	0	0	0	0	0	NN	0	
+A	0	0	0	0	0	DT	0	
+A	0	0	0	0	0	DT	0	
+Samajwadi	0	0	0	0	0	NNP	0	
+Samajwadi	0	0	0	0	0	NNP	0	
+Party	0	0	0	0	0	NNP	0	
+Party	0	0	0	0	0	NNP	0	
+leader	0	0	0	0	0	NN	0	
+leader	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+his	0	0	0	0	0	PRP$	0	
+his	0	0	0	0	0	PRP$	0	
+supporters	0	0	0	0	0	NNS	0	
+supporters	0	0	0	0	0	NNS	0	
+allegedly	0	0	0	0	0	RB	0	
+allegedly	0	0	0	0	0	RB	0	
+beat	0	0	0	0	0	VBD	0	
+beat	0	0	0	0	0	VBD	0	
+up	khooTrig	0	0	0	0	RP	0	
+up	khooTrig	0	0	0	0	RP	0	
+three	0	0	0	0	0	CD	0	
+three	0	0	0	0	0	CD	0	
+Lucknow	0	0	0	0	0	NNP	0	
+Lucknow	0	0	0	0	0	NNP	0	
+Municipal	0	0	0	0	0	NNP	0	
+Municipal	0	0	0	0	0	NNP	0	
+Corporation	0	0	0	0	0	NNP	0	
+Corporation	0	0	0	0	0	NNP	0	
+sanitation	0	0	0	0	0	NN	0	
+sanitation	0	0	0	0	0	NN	0	
+workers	0	0	0	0	0	NNS	0	
+workers	0	0	0	0	0	NNS	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+manhandled	0	0	0	0	0	VBN	0	
+manhandled	0	0	0	0	0	VBN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+constable	0	0	0	0	0	NN	0	
+constable	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Thakurganj	0	0	0	0	0	JJ	0	
+Thakurganj	0	0	0	0	0	JJ	0	
+area	0	0	0	0	0	NN	0	
+area	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Tuesday	0	0	0	0	date	NNP	0	
+Tuesday	0	0	0	0	date	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

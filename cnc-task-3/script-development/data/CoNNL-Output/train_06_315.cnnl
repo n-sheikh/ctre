@@ -1,28 +1,56 @@
-59	0	0	0	0	0	
-persons	0	0	0	0	0	
-died	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-Sabarmati	0	0	0	0	0	
-express	0	0	0	0	0	
-attack	1	0	0	0	0	
-in	0	0	0	0	0	
-Godhra	0	0	0	0	0	
-on	0	0	0	0	0	
-February	0	0	0	0	0	
-27	0	0	0	0	0	
-,	0	0	0	0	0	
-2002	0	0	0	0	0	
-while	0	0	0	0	0	
-around	0	0	0	0	1	
-1	0	0	0	0	0	
-,	0	0	0	0	0	
-000	0	0	0	0	0	
-persons	0	0	0	0	0	
-were	0	0	0	0	0	
-killed	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-resultant	0	0	0	0	0	
-riots	0	0	0	0	0	
-.	0	0	0	0	0	
+59	0	0	0	0	0	CD	0	
+59	0	0	0	0	0	CD	0	
+persons	0	0	0	0	0	NNS	0	
+persons	0	0	0	0	0	NNS	0	
+died	0	0	0	0	0	VBD	0	
+died	0	0	0	0	0	VBD	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Sabarmati	0	0	0	0	0	NNP	0	
+Sabarmati	0	0	0	0	0	NNP	0	
+express	khooTrig	0	0	0	0	NN	0	
+express	khooTrig	0	0	0	0	NN	0	
+attack	0	0	0	0	0	NN	0	
+attack	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Godhra	0	0	0	0	0	NNP	0	
+Godhra	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+February	0	0	0	0	date	NNP	0	
+February	0	0	0	0	date	NNP	0	
+27	0	0	0	0	date	CD	0	
+27	0	0	0	0	date	CD	0	
+,	0	0	0	0	date	,	0	
+,	0	0	0	0	date	,	0	
+2002	0	0	0	0	date	CD	0	
+2002	0	0	0	0	date	CD	0	
+while	0	0	0	0	0	IN	0	
+while	0	0	0	0	0	IN	0	
+around	0	0	0	0	0	IN	0	
+around	0	0	0	0	0	IN	0	
+1	0	0	0	0	0	CD	0	
+1	0	0	0	0	0	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+000	0	0	0	0	0	CD	0	
+000	0	0	0	0	0	CD	0	
+persons	0	0	0	0	0	NNS	0	
+persons	0	0	0	0	0	NNS	0	
+were	0	0	0	0	0	VBD	0	
+were	0	0	0	0	0	VBD	0	
+killed	0	0	0	0	0	VBN	0	
+killed	0	0	0	0	0	VBN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+resultant	0	0	0	0	0	JJ	0	
+resultant	0	0	0	0	0	JJ	0	
+riots	0	0	0	0	0	NNS	0	
+riots	0	0	0	0	0	NNS	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

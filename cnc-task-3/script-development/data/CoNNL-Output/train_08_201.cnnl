@@ -1,35 +1,70 @@
-He	0	0	0	0	0	
-said	0	0	0	0	0	
-there	0	0	0	0	0	
-was	0	0	0	0	0	
-an	0	0	0	0	0	
-"	0	0	0	0	0	
-ulterior	0	0	0	0	0	
-motive	1	0	0	0	0	
-"	0	0	0	0	0	
-in	0	0	0	0	0	
-Karunanidhi	0	0	0	0	0	
-’	0	0	0	0	0	
-s	0	0	0	0	0	
-comments	0	0	0	0	0	
-,	0	0	0	0	0	
-made	0	0	0	0	0	
-during	0	0	0	0	0	
-an	0	0	0	0	0	
-election	0	0	0	0	0	
-speech	0	0	0	0	0	
-in	0	0	0	0	0	
-Puducherry	0	0	0	0	0	
-on	0	0	0	0	0	
-Thursday	0	0	0	0	0	
-,	0	0	0	0	0	
-that	0	0	0	0	0	
-riots	0	0	0	0	0	
-ensued	0	0	0	0	0	
-following	0	0	0	0	0	
-the	0	0	0	0	0	
-demolition	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-mosque	0	0	0	0	0	
-.	0	0	0	0	0	
+He	0	0	0	0	0	PRP	0	
+He	0	0	0	0	0	PRP	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+there	0	0	0	0	0	EX	0	
+there	0	0	0	0	0	EX	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+"	0	0	0	0	0	``	0	
+"	0	0	0	0	0	``	0	
+ulterior	0	0	0	0	0	NN	0	
+ulterior	0	0	0	0	0	NN	0	
+motive	0	0	0	0	0	NN	0	
+motive	0	0	0	0	0	NN	0	
+"	0	0	0	0	0	''	0	
+"	0	0	0	0	0	''	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Karunanidhi	0	0	0	0	person	NNP	0	
+Karunanidhi	0	0	0	0	person	NNP	0	
+’	0	0	0	0	0	NNP	0	
+’	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	NNP	0	
+s	0	0	0	0	0	NNP	0	
+comments	0	0	0	0	0	NNS	0	
+comments	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+made	khooTrig	0	0	0	0	VBN	0	
+made	khooTrig	0	0	0	0	VBN	0	
+during	0	0	0	0	0	IN	0	
+during	0	0	0	0	0	IN	0	
+an	0	0	0	0	0	DT	0	
+an	0	0	0	0	0	DT	0	
+election	0	0	0	0	0	NN	0	
+election	0	0	0	0	0	NN	0	
+speech	0	0	0	0	0	NN	0	
+speech	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+Puducherry	0	0	0	0	0	NNP	0	
+Puducherry	0	0	0	0	0	NNP	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Thursday	0	0	0	0	date	NNP	0	
+Thursday	0	0	0	0	date	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+that	0	0	0	0	0	IN	0	
+that	0	0	0	0	0	IN	0	
+riots	0	0	0	0	0	NNS	0	
+riots	0	0	0	0	0	NNS	0	
+ensued	0	0	0	0	0	VBD	0	
+ensued	0	0	0	0	0	VBD	0	
+following	0	0	0	0	0	VBG	0	
+following	0	0	0	0	0	VBG	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+demolition	0	0	0	0	0	NN	0	
+demolition	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+mosque	0	0	0	0	0	NN	0	
+mosque	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

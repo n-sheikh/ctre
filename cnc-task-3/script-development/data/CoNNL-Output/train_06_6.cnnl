@@ -1,20 +1,40 @@
-Many	0	0	0	0	0	
-senior	0	0	0	0	0	
-party	0	0	0	0	0	
-leaders	0	0	0	0	0	
-joined	0	0	0	0	0	
-PCC	0	0	0	0	0	
-president	0	0	0	0	0	
-Prasad	0	0	0	0	0	
-Harichandan	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-padyatra	0	0	0	0	0	
-and	0	0	0	0	0	
-addressed	0	0	0	0	0	
-the	0	0	0	0	0	
-gathering	0	0	0	0	0	
-criticising	0	0	0	0	0	
-Chief	0	0	0	0	0	
-Minister	0	0	0	0	0	
-.	0	0	0	0	0	
+Many	0	0	0	0	0	JJ	0	
+Many	0	0	0	0	0	JJ	0	
+senior	0	0	0	0	0	JJ	0	
+senior	0	0	0	0	0	JJ	0	
+party	0	0	0	0	0	NN	0	
+party	0	0	0	0	0	NN	0	
+leaders	0	0	0	0	0	NNS	0	
+leaders	0	0	0	0	0	NNS	0	
+joined	khooTrig	0	0	0	0	VBD	0	
+joined	khooTrig	0	0	0	0	VBD	0	
+PCC	0	0	0	0	0	NNP	0	
+PCC	0	0	0	0	0	NNP	0	
+president	0	0	0	0	0	NN	0	
+president	0	0	0	0	0	NN	0	
+Prasad	0	0	0	0	0	NNP	0	
+Prasad	0	0	0	0	0	NNP	0	
+Harichandan	0	0	0	0	0	NNP	0	
+Harichandan	0	0	0	0	0	NNP	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+padyatra	0	0	0	0	0	NN	0	
+padyatra	0	0	0	0	0	NN	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+addressed	mcmTrig	0	0	0	0	VBN	0	
+addressed	mcmTrig	0	0	0	0	VBN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+gathering	0	0	0	0	0	NN	0	
+gathering	0	0	0	0	0	NN	0	
+criticising	0	0	0	0	0	VBG	0	
+criticising	0	0	0	0	0	VBG	0	
+Chief	0	0	0	0	0	NNP	0	
+Chief	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+Minister	0	0	0	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

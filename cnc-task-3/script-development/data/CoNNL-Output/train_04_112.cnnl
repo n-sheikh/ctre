@@ -1,24 +1,48 @@
-Earlier	0	0	0	0	0	
-,	0	0	0	0	0	
-they	0	0	0	0	0	
-staged	0	0	0	0	0	
-a	0	0	0	0	0	
-protest	1	0	0	0	0	
-in	0	0	0	0	0	
-front	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-office	0	0	0	0	0	
-of	0	0	0	0	0	
-the	0	0	0	0	0	
-Deputy	0	0	0	0	0	
-Director	0	0	0	0	0	
-of	0	0	0	0	0	
-Sericulture	0	0	0	0	0	
-here	0	0	0	0	0	
-and	0	0	0	0	0	
-took	0	0	0	0	0	
-out	0	0	0	0	0	
-a	0	0	0	0	0	
-procession	0	0	0	0	0	
-.	0	0	0	0	0	
+Earlier	0	0	0	0	0	RB	0	
+Earlier	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+they	0	0	0	0	0	PRP	0	
+they	0	0	0	0	0	PRP	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+staged	khooTrig	0	0	0	0	VBD	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+front	0	0	0	0	0	NN	0	
+front	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+office	0	0	0	0	0	NN	0	
+office	0	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Deputy	0	0	0	0	0	NNP	0	
+Deputy	0	0	0	0	0	NNP	0	
+Director	0	0	0	0	0	NNP	0	
+Director	0	0	0	0	0	NNP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+Sericulture	0	0	0	0	0	NNP	0	
+Sericulture	0	0	0	0	0	NNP	0	
+here	0	0	0	0	0	RB	0	
+here	0	0	0	0	0	RB	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+took	0	0	0	0	0	VBD	0	
+took	0	0	0	0	0	VBD	0	
+out	khooTrig	0	0	0	0	RP	0	
+out	khooTrig	0	0	0	0	RP	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+procession	0	0	0	0	0	NN	0	
+procession	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

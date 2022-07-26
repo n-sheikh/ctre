@@ -1,20 +1,40 @@
-However	1	0	0	0	0	
-,	0	0	0	0	0	
-when	0	0	0	0	0	
-he	0	0	0	0	0	
-was	0	0	0	0	0	
-returning	0	0	0	0	0	
-home	0	0	0	0	0	
-in	0	0	0	0	0	
-the	0	0	0	0	0	
-night	0	0	0	0	0	
-,	0	0	0	0	0	
-Pradhan	0	0	0	0	0	
-was	0	0	0	0	0	
-intercepted	0	0	0	0	0	
-again	0	0	0	0	0	
-by	0	0	0	0	0	
-them	0	0	0	0	0	
-and	0	0	0	0	0	
-killed	0	0	0	0	0	
-.	0	0	0	0	0	
+However	0	0	0	0	0	RB	0	
+However	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+when	0	0	0	0	0	WRB	0	
+when	0	0	0	0	0	WRB	0	
+he	0	0	0	0	0	PRP	0	
+he	0	0	0	0	0	PRP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+returning	0	0	0	0	0	VBG	0	
+returning	0	0	0	0	0	VBG	0	
+home	0	0	0	0	0	NN	0	
+home	0	0	0	0	0	NN	0	
+in	0	0	0	0	0	IN	0	
+in	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+night	0	0	0	0	0	NN	0	
+night	0	0	0	0	0	NN	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Pradhan	0	0	0	0	0	NNP	0	
+Pradhan	0	0	0	0	0	NNP	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+intercepted	0	0	0	0	0	VBN	0	
+intercepted	0	0	0	0	0	VBN	0	
+again	0	0	0	0	0	RB	0	
+again	0	0	0	0	0	RB	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+them	0	0	0	0	0	PRP	0	
+them	0	0	0	0	0	PRP	0	
+and	0	0	0	0	0	CC	0	
+and	0	0	0	0	0	CC	0	
+killed	0	0	0	0	0	VBN	0	
+killed	0	0	0	0	0	VBN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

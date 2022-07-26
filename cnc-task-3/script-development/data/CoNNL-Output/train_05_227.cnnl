@@ -1,43 +1,86 @@
-Now	0	0	0	0	0	
-,	0	0	0	0	0	
-autos	0	0	0	0	0	
-catch	0	0	0	0	0	
-strike	0	0	0	0	0	
-fever	1	0	0	0	0	
--	0	0	0	0	0	
-Indian	0	0	0	0	0	
-Express	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-,	0	0	0	0	0	
-Express	0	0	0	0	0	
-News	0	0	0	0	0	
-Service	0	0	0	0	0	
-:	0	0	0	0	0	
-Pune	0	0	0	0	0	
-,	0	0	0	0	0	
-Sat	0	0	0	0	0	
-Jan	0	0	0	0	0	
-17	0	0	0	0	0	
-2009	0	0	0	0	0	
-,	0	0	0	0	0	
-01	0	0	0	0	0	
-:	0	0	0	0	0	
-38	0	0	0	0	0	
-hrs	0	0	0	0	0	
-MUSCLE	0	0	0	0	0	
-POWER	1	0	0	0	0	
-:	0	0	0	0	0	
-Enforcers	0	0	0	0	0	
-drag	0	0	0	0	0	
-out	0	0	0	0	0	
-passengers	0	0	0	0	0	
-,	0	0	0	0	0	
-vow	0	0	0	0	0	
-to	0	0	0	0	0	
-resume	0	0	0	0	0	
-unless	0	0	0	0	0	
-cops	0	0	0	0	0	
-let	0	0	0	0	0	
-off	0	0	0	0	0	
+Now	0	0	0	0	0	RB	0	
+Now	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+autos	0	0	0	0	0	NN	0	
+autos	0	0	0	0	0	NN	0	
+catch	0	0	0	0	0	NN	0	
+catch	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+fever	0	0	0	0	0	NN	0	
+fever	0	0	0	0	0	NN	0	
+-	0	0	0	0	0	:	0	
+-	0	0	0	0	0	:	0	
+Indian	0	0	0	0	0	NNP	0	
+Indian	0	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+Express	khooTrig	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+News	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+Service	0	0	0	0	0	NNP	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Pune	0	0	0	0	0	NNP	0	
+Pune	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Sat	0	0	0	0	date	NNP	0	
+Sat	0	0	0	0	date	NNP	0	
+Jan	0	0	0	0	date	NNP	0	
+Jan	0	0	0	0	date	NNP	0	
+17	0	0	0	0	date	CD	0	
+17	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+2009	0	0	0	0	date	CD	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+01	0	0	0	0	date	CD	0	
+01	0	0	0	0	date	CD	0	
+:	0	0	0	0	date	:	0	
+:	0	0	0	0	date	:	0	
+38	0	0	0	0	date	CD	0	
+38	0	0	0	0	date	CD	0	
+hrs	0	0	0	0	0	JJ	0	
+hrs	0	0	0	0	0	JJ	0	
+MUSCLE	0	0	0	0	0	NNP	0	
+MUSCLE	0	0	0	0	0	NNP	0	
+POWER	0	0	0	0	0	NN	0	
+POWER	0	0	0	0	0	NN	0	
+:	0	0	0	0	0	:	0	
+:	0	0	0	0	0	:	0	
+Enforcers	0	0	0	0	0	NNS	0	
+Enforcers	0	0	0	0	0	NNS	0	
+drag	0	0	0	0	0	VBP	0	
+drag	0	0	0	0	0	VBP	0	
+out	khooTrig	0	0	0	0	RP	0	
+out	khooTrig	0	0	0	0	RP	0	
+passengers	0	0	0	0	0	NNS	0	
+passengers	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+vow	0	0	0	0	0	NN	0	
+vow	0	0	0	0	0	NN	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+resume	0	0	0	0	0	VB	0	
+resume	0	0	0	0	0	VB	0	
+unless	0	0	0	0	0	IN	0	
+unless	0	0	0	0	0	IN	0	
+cops	0	0	0	0	0	NNS	0	
+cops	0	0	0	0	0	NNS	0	
+let	0	0	0	0	0	VBP	0	
+let	0	0	0	0	0	VBP	0	
+off	khooTrig	0	0	0	0	RP	0	
+off	khooTrig	0	0	0	0	RP	0	

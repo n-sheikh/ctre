@@ -1,21 +1,42 @@
-In	0	0	0	0	0	
-a	0	0	0	0	0	
-scathing	1	0	0	0	0	
-attack	1	0	0	0	0	
-on	0	0	0	0	0	
-the	0	0	0	0	0	
-PMK	0	0	0	0	0	
-at	0	0	0	0	0	
-a	0	0	0	0	0	
-press	0	0	0	0	0	
-meet	0	0	0	0	0	
-,	0	0	0	0	0	
-Thirumavalavan	0	0	0	0	0	
-,	0	0	0	0	0	
-said	0	0	0	0	0	
-the	0	0	0	0	0	
-violence	0	0	0	0	0	
-was	0	0	0	0	0	
-not	0	1	0	0	0	
-spontaneous	0	0	0	0	0	
-.	0	0	0	0	0	
+In	0	0	0	0	0	IN	0	
+In	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+scathing	0	0	0	0	0	JJ	0	
+scathing	0	0	0	0	0	JJ	0	
+attack	0	0	0	0	0	NN	0	
+attack	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+PMK	0	0	0	0	0	NNP	0	
+PMK	0	0	0	0	0	NNP	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+press	0	0	0	0	0	NN	0	
+press	0	0	0	0	0	NN	0	
+meet	0	0	0	0	0	VB	0	
+meet	0	0	0	0	0	VB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+Thirumavalavan	0	0	0	0	0	NNP	0	
+Thirumavalavan	0	0	0	0	0	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+said	0	0	0	0	0	VBD	0	
+said	0	0	0	0	0	VBD	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+violence	0	0	0	0	0	NN	0	
+violence	0	0	0	0	0	NN	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+not	0	0	0	0	0	RB	explicit_negative	
+not	0	0	0	0	0	RB	explicit_negative	
+spontaneous	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+spontaneous	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

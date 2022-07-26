@@ -1,17 +1,34 @@
-The	0	0	0	0	0	
-lorry	0	0	0	0	0	
-owners	0	0	0	0	0	
-’	0	0	0	0	0	
-association	0	0	0	0	0	
-was	0	0	0	0	0	
-staging	0	0	0	0	0	
-a	0	0	0	0	0	
-protest	1	0	0	0	0	
-by	0	0	0	0	0	
-blocking	0	0	1	0	0	
-the	0	0	0	0	0	
-road	0	0	0	0	0	
-near	0	0	0	0	0	
-Ambedkar	0	0	0	0	0	
-Circle	0	0	0	0	0	
-.	0	0	0	0	0	
+The	0	0	0	0	0	DT	0	
+The	0	0	0	0	0	DT	0	
+lorry	0	0	0	0	0	NN	0	
+lorry	0	0	0	0	0	NN	0	
+owners	0	0	0	0	0	NNS	0	
+owners	0	0	0	0	0	NNS	0	
+’	0	0	0	0	0	JJ	0	
+’	0	0	0	0	0	JJ	0	
+association	0	0	0	0	0	NN	0	
+association	0	0	0	0	0	NN	0	
+was	0	0	0	0	0	VBD	0	
+was	0	0	0	0	0	VBD	0	
+staging	khooTrig	0	0	0	0	VBG	0	
+staging	khooTrig	0	0	0	0	VBG	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+protest	0	0	0	0	0	NN	0	
+protest	0	0	0	0	0	NN	0	
+by	0	0	0	0	0	IN	0	
+by	0	0	0	0	0	IN	0	
+blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
+blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
+road	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+road	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
+near	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+near	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
+Ambedkar	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Ambedkar	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Circle	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+Circle	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

@@ -1,30 +1,60 @@
-Even	0	0	0	0	0	
-as	0	0	0	0	0	
-the	0	0	0	0	0	
-strike	0	0	0	0	0	
-has	0	0	0	0	0	
-entered	0	0	0	0	0	
-its	0	0	0	0	0	
-seventh	0	0	0	0	0	
-day	0	0	0	0	0	
-on	0	0	0	0	0	
-Sunday	0	0	0	0	0	
-,	0	0	0	0	0	
-the	0	0	0	0	0	
-medicos	0	0	0	0	0	
-warned	0	0	0	0	0	
-of	0	0	0	0	0	
-intensifying	0	0	0	0	0	
-their	0	0	0	0	0	
-stir	1	0	0	0	0	
-if	0	0	0	0	0	
-the	0	0	0	0	0	
-government	0	0	0	0	0	
-continues	0	0	0	0	0	
-to	0	0	0	0	0	
-give	0	0	0	0	0	
-them	0	0	0	0	0	
-a	0	0	0	0	0	
-cold	1	0	0	0	0	
-shoulder	0	0	0	0	0	
-.	0	0	0	0	0	
+Even	0	0	0	0	0	RB	0	
+Even	0	0	0	0	0	RB	0	
+as	0	0	0	0	0	IN	0	
+as	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+strike	0	0	0	0	0	NN	0	
+strike	0	0	0	0	0	NN	0	
+has	0	0	0	0	0	VBZ	0	
+has	0	0	0	0	0	VBZ	0	
+entered	0	0	0	0	0	VBN	0	
+entered	0	0	0	0	0	VBN	0	
+its	0	0	0	0	0	PRP$	0	
+its	0	0	0	0	0	PRP$	0	
+seventh	0	0	0	0	0	JJ	0	
+seventh	0	0	0	0	0	JJ	0	
+day	0	0	0	0	0	NN	0	
+day	0	0	0	0	0	NN	0	
+on	0	0	0	0	0	IN	0	
+on	0	0	0	0	0	IN	0	
+Sunday	0	0	0	0	date	NNP	0	
+Sunday	0	0	0	0	date	NNP	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+medicos	0	0	0	0	0	NNS	0	
+medicos	0	0	0	0	0	NNS	0	
+warned	0	0	0	0	0	VBD	0	
+warned	0	0	0	0	0	VBD	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+intensifying	khooTrig	0	0	0	0	VBG	0	
+intensifying	khooTrig	0	0	0	0	VBG	0	
+their	0	0	0	0	0	PRP$	0	
+their	0	0	0	0	0	PRP$	0	
+stir	0	0	0	0	0	NN	0	
+stir	0	0	0	0	0	NN	0	
+if	0	0	0	0	0	IN	0	
+if	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+government	0	0	0	0	0	NN	0	
+government	0	0	0	0	0	NN	0	
+continues	0	0	0	0	0	VBZ	0	
+continues	0	0	0	0	0	VBZ	0	
+to	0	0	0	0	0	TO	0	
+to	0	0	0	0	0	TO	0	
+give	0	0	0	0	0	VB	0	
+give	0	0	0	0	0	VB	0	
+them	0	0	0	0	0	PRP	0	
+them	0	0	0	0	0	PRP	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+cold	0	0	0	0	0	JJ	0	
+cold	0	0	0	0	0	JJ	0	
+shoulder	0	0	0	0	0	NN	0	
+shoulder	0	0	0	0	0	NN	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	

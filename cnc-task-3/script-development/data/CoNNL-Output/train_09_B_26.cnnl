@@ -1,32 +1,64 @@
-Meanwhile	0	0	0	0	0	
-,	0	0	0	0	0	
-a	0	0	0	0	0	
-group	0	0	0	0	0	
-of	0	0	0	0	0	
-about	0	0	0	0	0	
-100	0	0	0	0	0	
-people	0	0	0	0	0	
-,	0	0	0	0	0	
-who	0	0	0	0	0	
-had	0	0	0	0	0	
-just	1	0	0	0	0	
-come	0	0	0	0	0	
-out	0	0	0	0	0	
-of	0	0	0	0	0	
-a	0	0	0	0	0	
-mosque	0	0	0	0	0	
-after	0	0	0	0	0	
-offering	0	0	0	0	0	
-Id	0	0	0	0	0	
-prayers	0	0	0	0	0	
-,	0	0	0	0	0	
-also	0	0	0	0	0	
-started	0	0	0	0	0	
-throwing	0	0	0	0	0	
-stones	0	0	0	0	0	
-at	0	0	0	0	0	
-the	0	0	0	0	0	
-Armymen	0	0	0	0	0	
-from	0	0	0	0	0	
-behind	0	0	0	0	0	
-.	0	0	0	0	0	
+Meanwhile	0	0	0	0	0	RB	0	
+Meanwhile	0	0	0	0	0	RB	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+group	khooTrig	0	0	0	0	NN	0	
+group	khooTrig	0	0	0	0	NN	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+about	0	0	0	0	0	RB	0	
+about	0	0	0	0	0	RB	0	
+100	0	0	0	0	0	CD	0	
+100	0	0	0	0	0	CD	0	
+people	0	0	0	0	0	NNS	0	
+people	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+who	0	0	0	0	0	WP	0	
+who	0	0	0	0	0	WP	0	
+had	0	0	0	0	0	VBD	0	
+had	0	0	0	0	0	VBD	0	
+just	0	0	0	0	0	RB	0	
+just	0	0	0	0	0	RB	0	
+come	0	0	0	0	0	VBN	0	
+come	0	0	0	0	0	VBN	0	
+out	khooTrig	0	0	0	0	RP	0	
+out	khooTrig	0	0	0	0	RP	0	
+of	0	0	0	0	0	IN	0	
+of	0	0	0	0	0	IN	0	
+a	0	0	0	0	0	DT	0	
+a	0	0	0	0	0	DT	0	
+mosque	0	0	0	0	0	NN	0	
+mosque	0	0	0	0	0	NN	0	
+after	0	0	0	0	0	IN	0	
+after	0	0	0	0	0	IN	0	
+offering	0	0	0	0	0	VBG	0	
+offering	0	0	0	0	0	VBG	0	
+Id	0	0	0	0	0	NN	0	
+Id	0	0	0	0	0	NN	0	
+prayers	0	0	0	0	0	NNS	0	
+prayers	0	0	0	0	0	NNS	0	
+,	0	0	0	0	0	,	0	
+,	0	0	0	0	0	,	0	
+also	0	0	0	0	0	RB	0	
+also	0	0	0	0	0	RB	0	
+started	khooTrig	0	0	0	0	VBD	0	
+started	khooTrig	0	0	0	0	VBD	0	
+throwing	0	0	0	0	0	VBG	0	
+throwing	0	0	0	0	0	VBG	0	
+stones	0	0	0	0	0	NNS	0	
+stones	0	0	0	0	0	NNS	0	
+at	0	0	0	0	0	IN	0	
+at	0	0	0	0	0	IN	0	
+the	0	0	0	0	0	DT	0	
+the	0	0	0	0	0	DT	0	
+Armymen	0	0	0	0	0	NNP	0	
+Armymen	0	0	0	0	0	NNP	0	
+from	0	0	0	0	0	IN	0	
+from	0	0	0	0	0	IN	0	
+behind	0	0	0	0	0	RB	0	
+behind	0	0	0	0	0	RB	0	
+.	0	0	0	0	0	.	0	
+.	0	0	0	0	0	.	0	
