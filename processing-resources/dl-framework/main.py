@@ -49,16 +49,15 @@ print(run_config)
 print(data_config)
 print(preprocessing_config)
 
-'''
 
-utilities.generate_output_folder_structure(run_config, data_config, preprocessing_config)
+#utilities.generate_output_folder_structure(run_config, data_config, preprocessing_config)
 folds = utilities.generate_folds(data_config)
 
 all_metrics = [pipeline.cross_validate(i, run_config.hparams[i], folds, run_config, data_config, preprocessing_config)
                for i in range(len(run_config.hparams))]
 
 utilities.save_metrics(run_config, data_config, all_metrics)
-'''
+
 
 all_mc_samples = process_results.identify_misclassified_sample_ids_across_fpe(data_config, run_config)
 all_enc_samples = process_results.identify_encountered_misclassified_samples_across_fpe(all_mc_samples)
@@ -66,4 +65,5 @@ process_results.generate_misclassified_sample_tracking_csvs(all_mc_samples, all_
 metrics = process_results.load_metrics_from_file(run_config, data_config)
 process_results.generate_metrics_tables_plts(metrics, data_config)
 process_results.generate_metrics_report(run_config_dict, run_config, data_config_dict, data_config,
-                                        preprocessing_config_dict)
+                                        preprocessing_config_dict)                                     
+

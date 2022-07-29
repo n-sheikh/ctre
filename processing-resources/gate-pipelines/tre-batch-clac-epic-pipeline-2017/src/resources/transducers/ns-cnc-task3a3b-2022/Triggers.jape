@@ -1,0 +1,51 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: This jape rule creates an overarching Trigger Annotation for trigger type annotations (explicitNegTigger, implicitNegTrigger, modalTrigger). The trigger type is listed as a feature.
+* Development Notes:
+* Use Notes: 
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: TriggerAnnotation
+Input: explicitNegTriggers implicitNegTriggers modalTriggers
+Options: control = all
+
+Rule: ExplicitNeg
+(
+ {explicitNegTriggers}
+):expNegTrig -->
+{
+   gate.AnnotationSet expNegTrigAnnSet = (gate.AnnotationSet)bindings.get("expNegTrig");
+   gate.Annotation expNegTrigAnn = expNegTrigAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "explicit_negative");
+   outputAS.add(expNegTrigAnn.getStartNode(), expNegTrigAnn.getEndNode(), "TriggerTypeAnn", features);
+}
+
+Rule: ImplicitNeg
+(
+ {implicitNegTriggers}
+):impNegTrig -->
+{
+   gate.AnnotationSet impNegTrigAnnSet = (gate.AnnotationSet)bindings.get("impNegTrig");
+   gate.Annotation impNegTrigAnn = impNegTrigAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "implicit_negative");
+   outputAS.add(impNegTrigAnn.getStartNode(), impNegTrigAnn.getEndNode(), "TriggerTypeAnn", features);
+}
+
+Rule: Modal
+(
+ {modalTriggers}
+):modalTrig -->
+{
+   gate.AnnotationSet modalTrigAnnSet = (gate.AnnotationSet)bindings.get("modalTrig");
+   gate.Annotation modalTrigAnn = modalTrigAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "modal");
+   outputAS.add(modalTrigAnn.getStartNode(), modalTrigAnn.getEndNode(), "TriggerTypeAnn", features);
+}

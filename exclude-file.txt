@@ -1,3 +1,4 @@
+exclude-file.txt
 event-storyline
 literature
 resources

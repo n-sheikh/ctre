@@ -1,0 +1,2 @@
+experiment_identifier: llm-baseline-[bert|sbert]
+run_identifier: bert-base-uncased-baseline-plg-[cls]-lr-[0.00005|0.00001|0.000001]

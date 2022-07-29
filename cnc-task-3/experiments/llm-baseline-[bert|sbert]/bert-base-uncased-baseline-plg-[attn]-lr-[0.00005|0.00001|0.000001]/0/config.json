@@ -1,0 +1,1 @@
+{"loss_function": "cross-entropy-loss", "learning_rate": 5e-05, "batch_size": 1, "optimizer": "adam", "llm": "bert-base-uncased", "llm_hidden_dropout_prob": 0.1, "llm_attention_probs_dropout_prob": 0.1, "pooling": "attn", "classes": 2, "max_epochs": 10}

@@ -1,0 +1,41 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: This jape rule creates an overarching Trigger Annotation for trigger type annotations (explicitNegTigger, implicitNegTrigger, modalTrigger). The trigger type is listed as a feature.
+* Development Notes:
+* Use Notes: 
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: LookupTypeAnnotation
+Input: Khoo_Causality_Trigger MCM_Causality_Trigger
+Options: control = all
+
+Rule: Khoo
+(
+ {Khoo_Causality_Trigger}
+):khooTrig -->
+{
+   gate.AnnotationSet khooTrigAnnSet = (gate.AnnotationSet)bindings.get("khooTrig");
+   gate.Annotation khooTrigAnn = khooTrigAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "khooTrig");
+   outputAS.add(khooTrigAnn.getStartNode(), khooTrigAnn.getEndNode(), "CausalityTypeAnn", features);
+}
+
+Rule: mcmTrig
+(
+ {MCM_Causality_Trigger}
+):mcmTrig -->
+{
+   gate.AnnotationSet mcmTrigAnnSet = (gate.AnnotationSet)bindings.get("mcmTrig");
+   gate.Annotation mcmTrigAnn = mcmTrigAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "mcmTrig");
+   outputAS.add(mcmTrigAnn.getStartNode(), mcmTrigAnn.getEndNode(), "CausalityTypeAnn", features);
+}
+
+

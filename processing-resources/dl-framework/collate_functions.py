@@ -3,23 +3,91 @@ import torch
 import csv
 import itertools
 import sys
+import embedding_functions
 
 
-class LLMCollateFn:
+def identify_embedding_fns(config_dict):
+    feature_embedding_fns = {}
+    for feat_fn in [pair.split("-") for pair in config_dict["feature_name_embedding_fn"].split(",")]:
+        fn = getattr(embedding_functions, f"{feat_fn[1].strip()}")
+        fn_params = {}
+        if feat_fn[1] == "llm_token_embedding" or feat_fn[1] == "mirim_llm_token_embedding":
+            fn_params["llm_name"] = config_dict["llm_name"]
+        feature_embedding_fns[feat_fn[0].strip()] = [fn, fn_params]
+    return feature_embedding_fns
+add_special_tokens=False
+
+class CNCCollateFn:
     def __init__(self, **kwargs):
-        self.tokenizer = AutoTokenizer.from_pretrained(kwargs['llm_name'])
+        self.connl_folder_path = kwargs["connl_folder_path"]
+        self.embedding_functions = identify_embedding_fns(kwargs)
 
     def __call__(self, batch):
-        sentences = []
+        embeddings = []
         labels = []
         ids = []
         for sample in batch:
             ids.append(sample["id"])
-            sentences.append(sample["text"])
             labels.append(sample["label"])
-        return ids, self.tokenizer(sentences, padding=True), torch.LongTensor(labels)
+        for ft_name in self.embedding_functions.keys():
+            self.embedding_functions[ft_name][1]["ids"] = ids
+            self.embedding_functions[ft_name][1]["connl_folder_path"] = self.connl_folder_path
+            self.embedding_functions[ft_name][1]["ft_name"] = ft_name
+            embeddings.append(self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1]))
+        return ids, embeddings, torch.LongTensor(labels)
 
 
+class MiRIMsCollateFn:
+    def __init__(self, **kwargs):
+        self.connl_folder_path = kwargs["connl_folder_path"]
+        self.embedding_functions = identify_embedding_fns(kwargs)
+
+    def __call__(self, batch):
+        embeddings = []
+        labels = []
+        ids = []
+        for sample in batch:
+            ids.append(sample["id"])
+            labels.append(sample["label"])
+        for ft_name in self.embedding_functions.keys():
+            self.embedding_functions[ft_name][1]["ids"] = ids
+            self.embedding_functions[ft_name][1]["connl_folder_path"] = self.connl_folder_path
+            self.embedding_functions[ft_name][1]["ft_name"] = ft_name
+            embeddings.append(self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1]))
+        return ids, embeddings, torch.LongTensor(labels)
+
+
+class TransformerCollateFn:
+    def __init__(self, **kwargs):
+        self.connl_folder_path = kwargs["connl_folder_path"]
+        self.embedding_functions = identify_embedding_fns(kwargs)
+
+    def __call__(self, batch):
+        embeddings = []
+        labels = []
+        ids = []
+        for sample in batch:
+            ids.append(sample["id"])
+            labels.append(sample["label"])
+        for ft_name in self.embedding_functions.keys():
+            self.embedding_functions[ft_name][1]["ids"] = ids
+            self.embedding_functions[ft_name][1]["connl_folder_path"] = self.connl_folder_path
+            self.embedding_functions[ft_name][1]["ft_name"] = ft_name
+            embeddings.append(self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1]))
+        keys = list(self.embedding_functions.keys())
+        #[emb#1, emb#2, emb#3]
+        #emb#1 [samp#1, samp#2]
+        #sample#1 tensor
+
+        for i in range(len(embeddings)):
+            if torch.is_tensor(embeddings[i][0]):
+
+                    concatenated_embedding.append(sample_embedding)
+            else
+                concatenated_embeddings.append(embedding)
+        return ids, embeddings, torch.LongTensor(labels)
+
+'''
 def connl_file_to_feature_vector(file_path, max_nos_tokens, sep):
     token_sep = []
     if sep:
@@ -61,3 +129,4 @@ class FVConcatCollateFn:
             connl_file_path = f"{self.connl_folder_path}/{ids[i]}.cnnl"
             feature_vectors.append(connl_file_to_feature_vector(connl_file_path, self.max_nos_tokens, self.sep))
         return ids, torch.LongTensor(feature_vectors), torch.LongTensor(labels)
+'''

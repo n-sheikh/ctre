@@ -1,0 +1,51 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: This jape rule creates an overarching TrigDomainger Annotation for TrigDomainger type annotations (explicitNegTigger, implicitNegTrigDomainger, modalTrigDomainger). The TrigDomainger type is listed as a feature.
+* Development Notes:
+* Use Notes: 
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: DomainAnnotation
+Input: explicitNegDomainNN implicitNegDomainNN modalityDomainNN
+Options: control = all
+
+Rule: ExplicitNeg
+(
+ {explicitNegDomainNN}
+):expNegTrigDomain -->
+{
+   gate.AnnotationSet expNegTrigDomainAnnSet = (gate.AnnotationSet)bindings.get("expNegTrigDomain");
+   gate.Annotation expNegTrigDomainAnn = expNegTrigDomainAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "in_explicit_neg_trig_domain");
+   outputAS.add(expNegTrigDomainAnn.getStartNode(), expNegTrigDomainAnn.getEndNode(), "TrigDomainTypeAnn", features);
+}
+
+Rule: ImplicitNeg
+(
+ {implicitNegDomainNN}
+):impNegTrigDomain -->
+{
+   gate.AnnotationSet impNegTrigDomainAnnSet = (gate.AnnotationSet)bindings.get("impNegTrigDomain");
+   gate.Annotation impNegTrigDomainAnn = impNegTrigDomainAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "in_implicit_neg_trig_domain");
+   outputAS.add(impNegTrigDomainAnn.getStartNode(), impNegTrigDomainAnn.getEndNode(), "TrigDomainTypeAnn", features);
+}
+
+Rule: Modal
+(
+ {modalityDomainNN}
+):modalTrigDomain -->
+{
+   gate.AnnotationSet modalTrigDomainAnnSet = (gate.AnnotationSet)bindings.get("modalTrigDomain");
+   gate.Annotation modalTrigDomainAnn = modalTrigDomainAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "in_modal_trig_domain");
+   outputAS.add(modalTrigDomainAnn.getStartNode(), modalTrigDomainAnn.getEndNode(), "TrigDomainTypeAnn", features);
+}

@@ -1,10 +1,65 @@
 import torch
-import torch.nn as nn
+from torch import nn, Tensor
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from transformers import BertConfig, BertModel
 import sys
 import itertools
 import mi_rim
+import math
+from typing import Tuple
+import torch.nn.functional as F
+from torch.nn import TransformerEncoder, TransformerEncoderLayer
+
+
+def align_embeddings(bert_emb, offset_mapping, strategy):
+    out = list()
+    if strategy == 'first':
+        for indx, mapping in enumerate(offset_mapping):
+            if mapping[0] == 0:
+                out.append(bert_emb[indx])
+        return torch.stack(out, dim=0)
+    else:
+        sub_emb = list()
+        offset_mapping.append((-1, -1))
+        for indx, mapping in enumerate(offset_mapping):
+            if mapping[0] == -1:
+                out = out + [torch.mean(torch.stack(sub_emb, dim=0), dim=0).view(1, -1)]
+            elif mapping[0] == 0:
+                if len(sub_emb) > 0:
+                    out = out + [torch.mean(torch.stack(sub_emb, dim=0), dim=0).view(1, -1)]
+                    sub_emb = [bert_emb[indx]]
+                else:
+                    sub_emb = [bert_emb[indx]]
+            else:
+                sub_emb.append(bert_emb[indx])
+        return torch.stack(out, dim=0).squeeze()
+
+'''
+Copied from https://pytorch.org/tutorials/beginner/transformer_tutorial.html
+Used with the Transformer 
+'''
+
+class PositionalEncoding(nn.Module):
+
+    def __init__(self, d_model: int, dropout: float = 0.1, max_len: int = 5000):
+        super().__init__()
+        self.dropout = nn.Dropout(p=dropout)
+
+        position = torch.arange(max_len).unsqueeze(1)
+        div_term = torch.exp(torch.arange(0, d_model, 2) * (-math.log(10000.0) / d_model))
+        pe = torch.zeros(max_len, 1, d_model)
+        pe[:, 0, 0::2] = torch.sin(position * div_term)
+        pe[:, 0, 1::2] = torch.cos(position * div_term)
+        self.register_buffer('pe', pe)
+
+    def forward(self, x: Tensor) -> Tensor:
+        """
+        Args:
+            x: Tensor, shape [seq_len, batch_size, embedding_dim]
+        """
+        x = x + self.pe[:x.size(0)]
+        return self.dropout(x)
+
 
 
 class LLM(nn.Module):
@@ -19,7 +74,7 @@ class LLM(nn.Module):
             kwargs["classes"])
 
     def forward(self, X, device):
-        in_ids = torch.LongTensor(X["input_ids"]).to(device)
+        in_ids = torch.LongTensor(X[0][0]["input_ids"]).to(device)
         llm_out = self.llm(in_ids)
         clf_in = None
         if self.pooling == 'cls':
@@ -73,16 +128,22 @@ class MiRIM(nn.Module):
                                             attention_probs_dropout=kwargs["llm_attention_probs_dropout_prob"])
         self.llm = AutoModel.from_pretrained(kwargs["llm"], config=config)
         self.mirim = mi_rim.MI_RIM(kwargs["rnn_type"], kwargs["num_mech"], kwargs["num_active"],
-                                   kwargs["hidden_size"], [768])
+                                   kwargs["hidden_size"], kwargs["input_sizes"])
         self.w_attn = nn.Linear(kwargs["hidden_size"] * kwargs["num_mech"], 1)
         self.classifier = nn.Linear(
             kwargs["hidden_size"] * kwargs["num_mech"],
             kwargs["classes"])
 
     def forward(self, X, device):
-        in_ids = torch.LongTensor(X["input_ids"]).to(device)
+        in_ids = torch.LongTensor(X[0][0]["input_ids"]).to(device)
         llm_out = self.llm(in_ids)
-        mirim_out,_ = self.mirim([llm_out['last_hidden_state'][0]])
+        mirim_in = [align_embeddings(llm_out['last_hidden_state'][0], X[0][0]["offset_mapping"][0], "mean")]
+        for i in range(1, len(X)):
+            mirim_in.append(X[i][0].to(device))
+        for x in mirim_in:
+            print(x.shape)
+        mirim_out,_ = self.mirim(mirim_in)
+        #mirim_out,_ = self.mirim([llm_out['last_hidden_state'][0]])
         clf_in = None
         if self.pooling == 'attn':
             mirim_token_emb = mirim_out
@@ -94,6 +155,7 @@ class MiRIM(nn.Module):
             clf_in = (torch.sum(mirim_token_emb, 0) / float(mirim_token_emb.size()[0])).reshape(1, -1)
         clf_out = self.classifier(clf_in)
         return clf_out
+
 
     @staticmethod
     def generate_hyperparameter_sets(optimization_config_dict, model_config_dict):
@@ -110,7 +172,7 @@ class MiRIM(nn.Module):
         na = [int(na.strip()) for na in model_config_dict['num_active'].split(',')]
         hs = [int(hs.strip()) for hs in model_config_dict['hidden_size'].split(',')]
         # Will need to modify this one there is more than one input size
-        ins = [[int(ins.strip()) for ins in model_config_dict['input_sizes'].split(',')]]
+        ins = [[int(x.strip()) for x in ins.split("-")] for ins in model_config_dict['input_sizes'].split(',')]
         cls = [int(cls.strip()) for cls in model_config_dict['classes'].split(',')]
         me = [int(me.strip()) for me in optimization_config_dict['max_epochs'].split(',')]
         hparams = []
@@ -135,5 +197,8 @@ class MiRIM(nn.Module):
                 'max_epochs': max_epochs,
             })
         return hparams
+
+
+
 
 

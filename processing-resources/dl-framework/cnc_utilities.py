@@ -29,6 +29,7 @@ class CNCTask3aDataset(Dataset):
         return len(self.raw_data)
 
     def __getitem__(self, idx):
+
         return {'id': self.raw_data[idx][0], 'text': self.raw_data[idx][1], 'label': int(self.raw_data[idx][2])}
 
 

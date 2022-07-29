@@ -7,6 +7,7 @@ from sklearn.model_selection import KFold
 import torch
 import cnc_utilities
 import collate_functions
+import embedding_functions
 import shutil
 
 
@@ -71,11 +72,12 @@ def data_config_from_config_dict(data_config_dict, run_config, base_dir):
 
 def preprocessing_config_from_config_dict(config_dict):
     return PreprocessingConfig(config_dict['config_file_path'],
-                               getattr(collate_functions, f"{config_dict['collate_fn_name']}")(**config_dict))
+                               getattr(collate_functions, f"{config_dict['collate_fn_name']}")(**config_dict),
+                               )
 
 
 def generate_output_folder_structure(run_config, data_config, preprocessing_config):
-    if not(os.path.exists(data_config.experiment_folder_path)):
+    if not (os.path.exists(data_config.experiment_folder_path)):
         os.mkdir(data_config.experiment_folder_path)
     os.mkdir(data_config.output_folder_path)
     config_folder_path = data_config.output_folder_path + 'config/'

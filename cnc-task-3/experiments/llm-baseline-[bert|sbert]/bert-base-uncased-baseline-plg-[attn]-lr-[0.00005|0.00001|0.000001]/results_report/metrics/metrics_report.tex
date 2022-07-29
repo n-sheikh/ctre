@@ -1,0 +1,607 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{float}
+\graphicspath{ {./metrics/fold_0/} }
+\graphicspath{ {./metrics/fold_1/} }
+\graphicspath{ {./metrics/fold_2/} }
+\graphicspath{ {./metrics/fold_3/} }
+\graphicspath{ {./metrics/fold_4/} }
+\title{Results: bert-base-uncased-baseline-plg-[attn]-lr-[0.00005|0.00001|0.000001]}
+\author{Nadia Sheikh}
+\date{2022-07-27}
+\begin{document}
+\maketitle
+\section{Configurations}
+\subsection{Run Configuration}
+\begin{tabular}{ll}
+\toprule
+{} &                                                  0 \\
+\midrule
+experiment\_identifier &                          llm-baseline-[bert|sbert] \\
+run\_identifier        &  bert-base-uncased-baseline-plg-[attn]-lr-[0.00... \\
+config\_file\_path      &  /tmp/71343.1.all.q/ctre/cnc-task-3/runs/config... \\
+\bottomrule
+\end{tabular}
+
+\subsection{Data Configuration}
+\begin{tabular}{ll}
+\toprule
+{} &                                                  0 \\
+\midrule
+data\_utility\_cls        &                                      cnc\_utilities \\
+dataset\_cls             &                                   CNCTask3aDataset \\
+nos\_of\_folds            &                                                  5 \\
+trn\_data\_path           &  /cnc-task-3/data/csv-gold-standard/training-data/ \\
+tst\_data\_path           &  /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3... \\
+base\_output\_folder\_path &                           /cnc-task-3/experiments/ \\
+config\_file\_path        &  /tmp/71343.1.all.q/ctre/cnc-task-3/runs/config... \\
+\bottomrule
+\end{tabular}
+
+\subsection{Preprocessing Configuration}
+\begin{tabular}{ll}
+\toprule
+{} &                                                  0 \\
+\midrule
+collate\_fn\_name   &                                       LLMCollateFn \\
+llm\_name          &                                  bert-base-uncased \\
+connl\_folder\_path &  /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3... \\
+max\_nos\_tokens    &                                                 84 \\
+token\_sep         &                                               True \\
+config\_file\_path  &  /tmp/71343.1.all.q/ctre/cnc-task-3/runs/config... \\
+\bottomrule
+\end{tabular}
+
+\section{Hyperparameters}
+\subsection{hparam\_config\_id\_0}
+\begin{tabular}{ll}
+\toprule
+{} &                   0 \\
+\midrule
+loss\_function                    &  cross-entropy-loss \\
+learning\_rate                    &             0.00005 \\
+batch\_size                       &                   1 \\
+optimizer                        &                adam \\
+llm                              &   bert-base-uncased \\
+llm\_hidden\_dropout\_prob          &                 0.1 \\
+llm\_attention\_probs\_dropout\_prob &                 0.1 \\
+pooling                          &                attn \\
+classes                          &                   2 \\
+max\_epochs                       &                  10 \\
+\bottomrule
+\end{tabular}
+
+\subsection{hparam\_config\_id\_1}
+\begin{tabular}{ll}
+\toprule
+{} &                   0 \\
+\midrule
+loss\_function                    &  cross-entropy-loss \\
+learning\_rate                    &             0.00001 \\
+batch\_size                       &                   1 \\
+optimizer                        &                adam \\
+llm                              &   bert-base-uncased \\
+llm\_hidden\_dropout\_prob          &                 0.1 \\
+llm\_attention\_probs\_dropout\_prob &                 0.1 \\
+pooling                          &                attn \\
+classes                          &                   2 \\
+max\_epochs                       &                  10 \\
+\bottomrule
+\end{tabular}
+
+\subsection{hparam\_config\_id\_2}
+\begin{tabular}{ll}
+\toprule
+{} &                   0 \\
+\midrule
+loss\_function                    &  cross-entropy-loss \\
+learning\_rate                    &            0.000005 \\
+batch\_size                       &                   1 \\
+optimizer                        &                adam \\
+llm                              &   bert-base-uncased \\
+llm\_hidden\_dropout\_prob          &                 0.1 \\
+llm\_attention\_probs\_dropout\_prob &                 0.1 \\
+pooling                          &                attn \\
+classes                          &                   2 \\
+max\_epochs                       &                  10 \\
+\bottomrule
+\end{tabular}
+
+\section{fold\_0}
+\subsection{train\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.577 &  0.418 &  0.686 &  0.690 &  0.684 &  0.687 &  0.689 &  0.688 &  0.688 &  0.688 \\
+hp\_1 &  0.490 &  0.208 &  0.059 &  0.029 &  0.027 &  0.016 &  0.022 &  0.020 &  0.001 &  0.000 \\
+hp\_2 &  0.511 &  0.247 &  0.063 &  0.025 &  0.025 &  0.015 &  0.016 &  0.008 &  0.012 &  0.002 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/train_loss}
+\end{figure}
+\subsection{test\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.588 &  0.720 &  0.706 &  0.697 &  0.711 &  0.707 &  0.694 &  0.694 &  0.694 &  0.694 \\
+hp\_1 &  0.502 &  0.574 &  0.858 &  0.831 &  0.754 &  0.858 &  0.842 &  0.975 &  1.286 &  1.405 \\
+hp\_2 &  0.492 &  0.526 &  0.886 &  0.892 &  0.917 &  1.049 &  1.022 &  1.244 &  1.456 &  1.514 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/test_loss}
+\end{figure}
+\subsection{accuracy\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.695 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 \\
+hp\_1 &  0.762 &  0.757 &  0.777 &  0.807 &  0.818 &  0.796 &  0.809 &  0.796 &  0.807 &  0.803 \\
+hp\_2 &  0.768 &  0.768 &  0.771 &  0.801 &  0.794 &  0.779 &  0.801 &  0.790 &  0.760 &  0.792 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/accuracy_score}
+\end{figure}
+\subsection{f1\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.753 &  0.691 &  0.691 &  0.691 &  0.691 &  0.691 &  0.691 &  0.691 &  0.691 &  0.691 \\
+hp\_1 &  0.804 &  0.802 &  0.811 &  0.819 &  0.822 &  0.801 &  0.816 &  0.792 &  0.828 &  0.822 \\
+hp\_2 &  0.800 &  0.804 &  0.804 &  0.815 &  0.807 &  0.798 &  0.813 &  0.809 &  0.747 &  0.809 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/f1_score}
+\end{figure}
+\subsection{precision\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.658 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 &  0.528 \\
+hp\_1 &  0.711 &  0.702 &  0.733 &  0.810 &  0.850 &  0.822 &  0.827 &  0.854 &  0.780 &  0.787 \\
+hp\_2 &  0.733 &  0.725 &  0.733 &  0.802 &  0.797 &  0.770 &  0.808 &  0.777 &  0.844 &  0.785 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/precision_score}
+\end{figure}
+\subsection{matthews\_corrcoef}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.404 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 \\
+hp\_1 &  0.544 &  0.538 &  0.565 &  0.612 &  0.637 &  0.592 &  0.617 &  0.599 &  0.615 &  0.605 \\
+hp\_2 &  0.541 &  0.546 &  0.550 &  0.601 &  0.586 &  0.556 &  0.601 &  0.579 &  0.538 &  0.582 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/matthews_corrcoef}
+\end{figure}
+\subsection{recall\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.880 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 \\
+hp\_1 &  0.926 &  0.937 &  0.908 &  0.827 &  0.796 &  0.782 &  0.806 &  0.739 &  0.884 &  0.859 \\
+hp\_2 &  0.880 &  0.901 &  0.891 &  0.827 &  0.817 &  0.827 &  0.817 &  0.845 &  0.669 &  0.835 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_0/recall_score}
+\end{figure}
+\section{fold\_1}
+\subsection{train\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.565 &  0.389 &  0.245 &  0.197 &  0.649 &  0.685 &  0.691 &  0.689 &  0.693 &  0.692 \\
+hp\_1 &  0.514 &  0.214 &  0.054 &  0.034 &  0.012 &  0.032 &  0.020 &  0.007 &  0.018 &  0.020 \\
+hp\_2 &  0.555 &  0.282 &  0.087 &  0.027 &  0.025 &  0.011 &  0.008 &  0.015 &  0.006 &  0.010 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/train_loss}
+\end{figure}
+\subsection{test\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.548 &  0.584 &  0.679 &  0.780 &  0.692 &  0.695 &  0.688 &  0.696 &  0.686 &  0.686 \\
+hp\_1 &  0.468 &  0.518 &  0.613 &  0.649 &  1.104 &  0.836 &  0.828 &  1.153 &  1.107 &  1.114 \\
+hp\_2 &  0.457 &  0.419 &  0.558 &  1.327 &  0.785 &  0.959 &  1.095 &  1.065 &  1.665 &  0.982 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/test_loss}
+\end{figure}
+\subsection{accuracy\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.732 &  0.708 &  0.711 &  0.682 &  0.559 &  0.559 &  0.559 &  0.559 &  0.559 &  0.559 \\
+hp\_1 &  0.780 &  0.806 &  0.831 &  0.819 &  0.778 &  0.825 &  0.818 &  0.814 &  0.814 &  0.810 \\
+hp\_2 &  0.786 &  0.808 &  0.801 &  0.741 &  0.806 &  0.801 &  0.810 &  0.799 &  0.760 &  0.821 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/accuracy_score}
+\end{figure}
+\subsection{f1\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.791 &  0.765 &  0.764 &  0.763 &  0.717 &  0.717 &  0.717 &  0.717 &  0.717 &  0.717 \\
+hp\_1 &  0.827 &  0.841 &  0.850 &  0.838 &  0.779 &  0.846 &  0.834 &  0.836 &  0.832 &  0.834 \\
+hp\_2 &  0.827 &  0.841 &  0.838 &  0.807 &  0.837 &  0.835 &  0.829 &  0.811 &  0.816 &  0.840 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/f1_score}
+\end{figure}
+\subsection{precision\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.701 &  0.694 &  0.703 &  0.653 &  0.559 &  0.559 &  0.559 &  0.559 &  0.559 &  0.559 \\
+hp\_1 &  0.738 &  0.777 &  0.843 &  0.842 &  0.879 &  0.832 &  0.846 &  0.825 &  0.838 &  0.813 \\
+hp\_2 &  0.755 &  0.784 &  0.769 &  0.692 &  0.790 &  0.777 &  0.832 &  0.856 &  0.713 &  0.840 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/precision_score}
+\end{figure}
+\subsection{matthews\_corrcoef}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.463 &  0.403 &  0.410 &  0.363 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 \\
+hp\_1 &  0.568 &  0.611 &  0.656 &  0.634 &  0.577 &  0.644 &  0.632 &  0.621 &  0.623 &  0.613 \\
+hp\_2 &  0.571 &  0.613 &  0.601 &  0.506 &  0.607 &  0.598 &  0.615 &  0.601 &  0.534 &  0.637 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/matthews_corrcoef}
+\end{figure}
+\subsection{recall\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &  ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.907 &  0.853 &  0.837 &  0.917 &  1.00 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 \\
+hp\_1 &  0.940 &  0.917 &  0.857 &  0.833 &  0.70 &  0.860 &  0.823 &  0.847 &  0.827 &  0.857 \\
+hp\_2 &  0.913 &  0.907 &  0.920 &  0.967 &  0.89 &  0.903 &  0.827 &  0.770 &  0.953 &  0.840 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_1/recall_score}
+\end{figure}
+\section{fold\_2}
+\subsection{train\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.639 &  0.691 &  0.688 &  0.680 &  0.682 &  0.687 &  0.693 &  0.690 &  0.692 &  0.693 \\
+hp\_1 &  0.508 &  0.220 &  0.048 &  0.032 &  0.017 &  0.025 &  0.022 &  0.013 &  0.014 &  0.018 \\
+hp\_2 &  0.526 &  0.257 &  0.055 &  0.023 &  0.014 &  0.013 &  0.011 &  0.011 &  0.010 &  0.009 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/train_loss}
+\end{figure}
+\subsection{test\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.692 &  0.696 &  0.686 &  0.697 &  0.682 &  0.688 &  0.691 &  0.695 &  0.693 &  0.693 \\
+hp\_1 &  0.427 &  0.517 &  0.727 &  0.903 &  1.297 &  0.978 &  1.028 &  1.134 &  0.923 &  1.107 \\
+hp\_2 &  0.454 &  0.452 &  0.609 &  0.944 &  0.884 &  1.236 &  1.150 &  1.048 &  1.123 &  1.095 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/test_loss}
+\end{figure}
+\subsection{accuracy\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.553 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 \\
+hp\_1 &  0.808 &  0.801 &  0.806 &  0.803 &  0.799 &  0.812 &  0.831 &  0.803 &  0.788 &  0.791 \\
+hp\_2 &  0.801 &  0.819 &  0.829 &  0.806 &  0.816 &  0.790 &  0.793 &  0.814 &  0.801 &  0.818 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/accuracy_score}
+\end{figure}
+\subsection{f1\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.712 &  0.714 &  0.714 &  0.714 &  0.714 &  0.714 &  0.714 &  0.714 &  0.714 &  0.714 \\
+hp\_1 &  0.836 &  0.831 &  0.832 &  0.816 &  0.800 &  0.829 &  0.849 &  0.828 &  0.817 &  0.808 \\
+hp\_2 &  0.836 &  0.846 &  0.847 &  0.814 &  0.830 &  0.831 &  0.812 &  0.828 &  0.809 &  0.833 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/f1_score}
+\end{figure}
+\subsection{precision\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.554 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 &  0.555 \\
+hp\_1 &  0.796 &  0.785 &  0.803 &  0.845 &  0.893 &  0.836 &  0.842 &  0.802 &  0.782 &  0.827 \\
+hp\_2 &  0.771 &  0.804 &  0.841 &  0.873 &  0.852 &  0.751 &  0.821 &  0.849 &  0.866 &  0.847 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/precision_score}
+\end{figure}
+\subsection{matthews\_corrcoef}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 & -0.039 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 \\
+hp\_1 &  0.611 &  0.596 &  0.606 &  0.605 &  0.615 &  0.620 &  0.656 &  0.599 &  0.568 &  0.581 \\
+hp\_2 &  0.601 &  0.634 &  0.653 &  0.620 &  0.630 &  0.584 &  0.583 &  0.626 &  0.608 &  0.633 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/matthews_corrcoef}
+\end{figure}
+\subsection{recall\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.997 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 \\
+hp\_1 &  0.879 &  0.883 &  0.862 &  0.789 &  0.725 &  0.822 &  0.856 &  0.856 &  0.856 &  0.789 \\
+hp\_2 &  0.913 &  0.893 &  0.852 &  0.762 &  0.809 &  0.930 &  0.802 &  0.809 &  0.758 &  0.819 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_2/recall_score}
+\end{figure}
+\section{fold\_3}
+\subsection{train\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.578 &  0.639 &  0.689 &  0.689 &  0.689 &  0.657 &  0.690 &  0.691 &  0.691 &  0.690 \\
+hp\_1 &  0.505 &  0.223 &  0.054 &  0.026 &  0.021 &  0.030 &  0.010 &  0.013 &  0.009 &  0.015 \\
+hp\_2 &  0.532 &  0.264 &  0.067 &  0.036 &  0.010 &  0.014 &  0.007 &  0.000 &  0.000 &  0.000 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/train_loss}
+\end{figure}
+\subsection{test\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.699 &  0.700 &  0.705 &  0.702 &  0.700 &  0.700 &  0.700 &  0.694 &  0.696 &  0.697 \\
+hp\_1 &  0.445 &  0.470 &  0.663 &  0.933 &  0.927 &  0.693 &  0.808 &  0.874 &  1.103 &  1.125 \\
+hp\_2 &  0.432 &  0.411 &  0.625 &  0.758 &  0.927 &  0.894 &  1.090 &  1.247 &  1.383 &  1.539 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/test_loss}
+\end{figure}
+\subsection{accuracy\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 \\
+hp\_1 &  0.797 &  0.825 &  0.784 &  0.803 &  0.799 &  0.788 &  0.804 &  0.791 &  0.803 &  0.784 \\
+hp\_2 &  0.812 &  0.814 &  0.806 &  0.801 &  0.803 &  0.797 &  0.795 &  0.793 &  0.791 &  0.793 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/accuracy_score}
+\end{figure}
+\subsection{f1\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 &  0.693 \\
+hp\_1 &  0.828 &  0.843 &  0.799 &  0.805 &  0.821 &  0.782 &  0.805 &  0.808 &  0.815 &  0.799 \\
+hp\_2 &  0.839 &  0.836 &  0.816 &  0.816 &  0.819 &  0.822 &  0.819 &  0.814 &  0.811 &  0.814 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/f1_score}
+\end{figure}
+\subsection{precision\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 &  0.531 \\
+hp\_1 &  0.751 &  0.805 &  0.790 &  0.846 &  0.777 &  0.861 &  0.854 &  0.789 &  0.812 &  0.790 \\
+hp\_2 &  0.769 &  0.785 &  0.824 &  0.799 &  0.797 &  0.768 &  0.771 &  0.779 &  0.780 &  0.779 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/precision_score}
+\end{figure}
+\subsection{matthews\_corrcoef}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &  ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.000 &  0.00 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 \\
+hp\_1 &  0.605 &  0.65 &  0.566 &  0.609 &  0.598 &  0.588 &  0.614 &  0.581 &  0.604 &  0.566 \\
+hp\_2 &  0.632 &  0.63 &  0.612 &  0.599 &  0.603 &  0.596 &  0.591 &  0.585 &  0.581 &  0.585 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/matthews_corrcoef}
+\end{figure}
+\subsection{recall\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 \\
+hp\_1 &  0.923 &  0.884 &  0.807 &  0.768 &  0.870 &  0.716 &  0.761 &  0.828 &  0.818 &  0.807 \\
+hp\_2 &  0.923 &  0.895 &  0.807 &  0.835 &  0.842 &  0.884 &  0.874 &  0.853 &  0.846 &  0.853 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_3/recall_score}
+\end{figure}
+\section{fold\_4}
+\subsection{train\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.633 &  0.508 &  0.660 &  0.694 &  0.690 &  0.688 &  0.693 &  0.692 &  0.692 &  0.692 \\
+hp\_1 &  0.516 &  0.235 &  0.060 &  0.047 &  0.025 &  0.011 &  0.014 &  0.021 &  0.004 &  0.000 \\
+hp\_2 &  0.532 &  0.266 &  0.068 &  0.020 &  0.022 &  0.005 &  0.008 &  0.011 &  0.001 &  0.000 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/train_loss}
+\end{figure}
+\subsection{test\_loss}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.544 &  0.672 &  0.685 &  0.685 &  0.685 &  0.686 &  0.685 &  0.689 &  0.686 &  0.686 \\
+hp\_1 &  0.435 &  0.457 &  0.751 &  0.673 &  0.817 &  0.926 &  0.948 &  1.000 &  1.071 &  1.223 \\
+hp\_2 &  0.437 &  0.419 &  0.530 &  0.731 &  0.863 &  1.220 &  1.115 &  1.069 &  1.150 &  1.255 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/test_loss}
+\end{figure}
+\subsection{accuracy\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.771 &  0.601 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 \\
+hp\_1 &  0.831 &  0.825 &  0.797 &  0.816 &  0.804 &  0.804 &  0.806 &  0.814 &  0.814 &  0.816 \\
+hp\_2 &  0.831 &  0.840 &  0.823 &  0.838 &  0.827 &  0.814 &  0.801 &  0.808 &  0.832 &  0.829 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/accuracy_score}
+\end{figure}
+\subsection{f1\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.820 &  0.738 &  0.720 &  0.720 &  0.720 &  0.720 &  0.720 &  0.720 &  0.720 &  0.720 \\
+hp\_1 &  0.864 &  0.844 &  0.839 &  0.844 &  0.830 &  0.837 &  0.837 &  0.847 &  0.842 &  0.844 \\
+hp\_2 &  0.862 &  0.864 &  0.855 &  0.862 &  0.854 &  0.840 &  0.837 &  0.844 &  0.854 &  0.849 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/f1_score}
+\end{figure}
+\subsection{precision\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.735 &  0.585 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 &  0.562 \\
+hp\_1 &  0.789 &  0.844 &  0.757 &  0.805 &  0.813 &  0.789 &  0.795 &  0.789 &  0.804 &  0.805 \\
+hp\_2 &  0.796 &  0.827 &  0.795 &  0.827 &  0.810 &  0.812 &  0.776 &  0.779 &  0.835 &  0.841 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/precision_score}
+\end{figure}
+\subsection{matthews\_corrcoef}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.543 &  0.229 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 &  0.000 \\
+hp\_1 &  0.666 &  0.644 &  0.598 &  0.624 &  0.601 &  0.602 &  0.605 &  0.624 &  0.620 &  0.624 \\
+hp\_2 &  0.662 &  0.674 &  0.644 &  0.670 &  0.648 &  0.620 &  0.597 &  0.614 &  0.658 &  0.651 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/matthews_corrcoef}
+\end{figure}
+\subsection{recall\_score}
+\begin{tabular}{lrrrrrrrrrr}
+\toprule
+{} &   ep 0 &   ep 1 &   ep 2 &   ep 3 &   ep 4 &   ep 5 &   ep 6 &   ep 7 &   ep 8 &   ep 9 \\
+\midrule
+hp\_0 &  0.927 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 &  1.000 \\
+hp\_1 &  0.954 &  0.844 &  0.940 &  0.887 &  0.848 &  0.891 &  0.884 &  0.914 &  0.884 &  0.887 \\
+hp\_2 &  0.940 &  0.904 &  0.924 &  0.901 &  0.904 &  0.871 &  0.907 &  0.921 &  0.874 &  0.858 \\
+\bottomrule
+\end{tabular}
+
+\begin{figure}[H]
+\includegraphics[scale = 0.75]{fold_4/recall_score}
+\end{figure}
+\end{document}

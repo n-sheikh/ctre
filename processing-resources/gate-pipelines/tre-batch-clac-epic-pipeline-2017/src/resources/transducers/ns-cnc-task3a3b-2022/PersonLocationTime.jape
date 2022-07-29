@@ -1,0 +1,51 @@
+/**
+* Project: CNC - (Shared Task Carried out by Nadia (in May 2022)
+* Created by: Nadia Sheikh
+* Purpose: This jape rule creates an overarching Trigger Annotation for trigger type annotations (explicitNegTigger, implicitNegTrigger, modalTrigger). The trigger type is listed as a feature.
+* Development Notes:
+* Use Notes: 
+*/
+
+Imports:{
+   import static gate.Utils.*;
+}
+
+Phase: LookupTypeAnnotation
+Input: Person Date Location
+Options: control = all
+
+Rule: Person
+(
+ {Person}
+):person -->
+{
+   gate.AnnotationSet personAnnSet = (gate.AnnotationSet)bindings.get("person");
+   gate.Annotation personAnn = personAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "person");
+   outputAS.add(personAnn.getStartNode(), personAnn.getEndNode(), "LookupTypeAnn", features);
+}
+
+Rule: Date
+(
+ {Date}
+):date -->
+{
+   gate.AnnotationSet dateAnnSet = (gate.AnnotationSet)bindings.get("date");
+   gate.Annotation dateAnn = dateAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "date");
+   outputAS.add(dateAnn.getStartNode(), dateAnn.getEndNode(), "LookupTypeAnn", features);
+}
+
+Rule: Location
+(
+ {Location}
+):location -->
+{
+   gate.AnnotationSet locationAnnSet = (gate.AnnotationSet)bindings.get("location");
+   gate.Annotation locationAnn = locationAnnSet.iterator().next();
+   gate.FeatureMap features = gate.Factory.newFeatureMap();
+   features.put("type", "location");
+   outputAS.add(locationAnn.getStartNode(), locationAnn.getEndNode(), "LookupTypeAnn", features);
+}

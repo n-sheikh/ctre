@@ -1,0 +1,689 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.6.26)  27 JUL 2022 14:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**metrics_report.tex
+(./metrics_report.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen137
+\lightrulewidth=\dimen138
+\cmidrulewidth=\dimen139
+\belowrulesep=\dimen140
+\belowbottomsep=\dimen141
+\aboverulesep=\dimen142
+\abovetopsep=\dimen143
+\cmidrulesep=\dimen144
+\cmidrulekern=\dimen145
+\defaultaddspace=\dimen146
+\@cmidla=\count175
+\@cmidlb=\count176
+\@aboverulesep=\dimen147
+\@belowrulesep=\dimen148
+\@thisruleclass=\count177
+\@lastruleclass=\count178
+\@thisrulewidth=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count179
+\float@exts=\toks17
+\float@box=\box45
+\@float@everytoks=\toks18
+\@floatcapt=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count180
+\l__pdf_internal_box=\box47
+)
+No file metrics_report.aux.
+\openout1 = `metrics_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count181
+\scratchdimen=\dimen150
+\scratchbox=\box48
+\nofMPsegments=\count182
+\nofMParguments=\count183
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count184
+\MPscratchDim=\dimen151
+\MPnumerator=\count185
+\makeMPintoPDFobject=\count186
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+
+Overfull \hbox (24.0508pt too wide) in paragraph at lines 29--42
+[] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 106--114
+[] 
+ []
+
+<fold_0/train_loss.jpg, id=10, 462.528pt x 346.896pt>
+File: fold_0/train_loss.jpg Graphic file (type jpg)
+<use fold_0/train_loss.jpg>
+Package pdftex.def Info: fold_0/train_loss.jpg  used on input line 116.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 116--117
+[][] 
+ []
+
+[2]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 119--127
+[] 
+ []
+
+<fold_0/test_loss.jpg, id=14, 462.528pt x 346.896pt>
+File: fold_0/test_loss.jpg Graphic file (type jpg)
+<use fold_0/test_loss.jpg>
+Package pdftex.def Info: fold_0/test_loss.jpg  used on input line 129.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 129--130
+[][] 
+ []
+
+[3 <./fold_0/train_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 132--140
+[] 
+ []
+
+<fold_0/accuracy_score.jpg, id=18, 462.528pt x 346.896pt>
+File: fold_0/accuracy_score.jpg Graphic file (type jpg)
+<use fold_0/accuracy_score.jpg>
+Package pdftex.def Info: fold_0/accuracy_score.jpg  used on input line 142.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 142--143
+[][] 
+ []
+
+[4 <./fold_0/test_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 145--153
+[] 
+ []
+
+<fold_0/f1_score.jpg, id=22, 462.528pt x 346.896pt>
+File: fold_0/f1_score.jpg Graphic file (type jpg)
+<use fold_0/f1_score.jpg>
+Package pdftex.def Info: fold_0/f1_score.jpg  used on input line 155.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 155--156
+[][] 
+ []
+
+[5 <./fold_0/accuracy_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 158--166
+[] 
+ []
+
+<fold_0/precision_score.jpg, id=26, 462.528pt x 346.896pt>
+File: fold_0/precision_score.jpg Graphic file (type jpg)
+<use fold_0/precision_score.jpg>
+Package pdftex.def Info: fold_0/precision_score.jpg  used on input line 168.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 168--169
+[][] 
+ []
+
+[6 <./fold_0/f1_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 171--179
+[] 
+ []
+
+<fold_0/matthews_corrcoef.jpg, id=30, 462.528pt x 346.896pt>
+File: fold_0/matthews_corrcoef.jpg Graphic file (type jpg)
+<use fold_0/matthews_corrcoef.jpg>
+Package pdftex.def Info: fold_0/matthews_corrcoef.jpg  used on input line 181.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 181--182
+[][] 
+ []
+
+[7 <./fold_0/precision_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 184--192
+[] 
+ []
+
+<fold_0/recall_score.jpg, id=35, 462.528pt x 346.896pt>
+File: fold_0/recall_score.jpg Graphic file (type jpg)
+<use fold_0/recall_score.jpg>
+Package pdftex.def Info: fold_0/recall_score.jpg  used on input line 194.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 194--195
+[][] 
+ []
+
+[8 <./fold_0/matthews_corrcoef.jpg>]
+Overfull \hbox (30.04532pt too wide) in paragraph at lines 198--206
+[] 
+ []
+
+<fold_1/train_loss.jpg, id=39, 462.528pt x 346.896pt>
+File: fold_1/train_loss.jpg Graphic file (type jpg)
+<use fold_1/train_loss.jpg>
+Package pdftex.def Info: fold_1/train_loss.jpg  used on input line 208.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 208--209
+[][] 
+ []
+
+[9 <./fold_0/recall_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 211--219
+[] 
+ []
+
+<fold_1/test_loss.jpg, id=43, 462.528pt x 346.896pt>
+File: fold_1/test_loss.jpg Graphic file (type jpg)
+<use fold_1/test_loss.jpg>
+Package pdftex.def Info: fold_1/test_loss.jpg  used on input line 221.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 221--222
+[][] 
+ []
+
+[10 <./fold_1/train_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 224--232
+[] 
+ []
+
+<fold_1/accuracy_score.jpg, id=47, 462.528pt x 346.896pt>
+File: fold_1/accuracy_score.jpg Graphic file (type jpg)
+<use fold_1/accuracy_score.jpg>
+Package pdftex.def Info: fold_1/accuracy_score.jpg  used on input line 234.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 234--235
+[][] 
+ []
+
+[11 <./fold_1/test_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 237--245
+[] 
+ []
+
+<fold_1/f1_score.jpg, id=51, 462.528pt x 346.896pt>
+File: fold_1/f1_score.jpg Graphic file (type jpg)
+<use fold_1/f1_score.jpg>
+Package pdftex.def Info: fold_1/f1_score.jpg  used on input line 247.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 247--248
+[][] 
+ []
+
+[12 <./fold_1/accuracy_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 250--258
+[] 
+ []
+
+<fold_1/precision_score.jpg, id=55, 462.528pt x 346.896pt>
+File: fold_1/precision_score.jpg Graphic file (type jpg)
+<use fold_1/precision_score.jpg>
+Package pdftex.def Info: fold_1/precision_score.jpg  used on input line 260.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 260--261
+[][] 
+ []
+
+[13 <./fold_1/f1_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 263--271
+[] 
+ []
+
+<fold_1/matthews_corrcoef.jpg, id=60, 462.528pt x 346.896pt>
+File: fold_1/matthews_corrcoef.jpg Graphic file (type jpg)
+<use fold_1/matthews_corrcoef.jpg>
+Package pdftex.def Info: fold_1/matthews_corrcoef.jpg  used on input line 273.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 273--274
+[][] 
+ []
+
+[14 <./fold_1/precision_score.jpg>]
+Overfull \hbox (21.15634pt too wide) in paragraph at lines 276--284
+[] 
+ []
+
+<fold_1/recall_score.jpg, id=64, 462.528pt x 346.896pt>
+File: fold_1/recall_score.jpg Graphic file (type jpg)
+<use fold_1/recall_score.jpg>
+Package pdftex.def Info: fold_1/recall_score.jpg  used on input line 286.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 286--287
+[][] 
+ []
+
+[15 <./fold_1/matthews_corrcoef.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 290--298
+[] 
+ []
+
+<fold_2/train_loss.jpg, id=68, 462.528pt x 346.896pt>
+File: fold_2/train_loss.jpg Graphic file (type jpg)
+<use fold_2/train_loss.jpg>
+Package pdftex.def Info: fold_2/train_loss.jpg  used on input line 300.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 300--301
+[][] 
+ []
+
+[16 <./fold_1/recall_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 303--311
+[] 
+ []
+
+<fold_2/test_loss.jpg, id=72, 462.528pt x 346.896pt>
+File: fold_2/test_loss.jpg Graphic file (type jpg)
+<use fold_2/test_loss.jpg>
+Package pdftex.def Info: fold_2/test_loss.jpg  used on input line 313.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 313--314
+[][] 
+ []
+
+[17 <./fold_2/train_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 316--324
+[] 
+ []
+
+<fold_2/accuracy_score.jpg, id=76, 462.528pt x 346.896pt>
+File: fold_2/accuracy_score.jpg Graphic file (type jpg)
+<use fold_2/accuracy_score.jpg>
+Package pdftex.def Info: fold_2/accuracy_score.jpg  used on input line 326.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 326--327
+[][] 
+ []
+
+[18 <./fold_2/test_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 329--337
+[] 
+ []
+
+<fold_2/f1_score.jpg, id=80, 462.528pt x 346.896pt>
+File: fold_2/f1_score.jpg Graphic file (type jpg)
+<use fold_2/f1_score.jpg>
+Package pdftex.def Info: fold_2/f1_score.jpg  used on input line 339.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 339--340
+[][] 
+ []
+
+[19 <./fold_2/accuracy_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 342--350
+[] 
+ []
+
+<fold_2/precision_score.jpg, id=85, 462.528pt x 346.896pt>
+File: fold_2/precision_score.jpg Graphic file (type jpg)
+<use fold_2/precision_score.jpg>
+Package pdftex.def Info: fold_2/precision_score.jpg  used on input line 352.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 352--353
+[][] 
+ []
+
+[20 <./fold_2/f1_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 355--363
+[] 
+ []
+
+<fold_2/matthews_corrcoef.jpg, id=89, 462.528pt x 346.896pt>
+File: fold_2/matthews_corrcoef.jpg Graphic file (type jpg)
+<use fold_2/matthews_corrcoef.jpg>
+Package pdftex.def Info: fold_2/matthews_corrcoef.jpg  used on input line 365.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 365--366
+[][] 
+ []
+
+[21 <./fold_2/precision_score.jpg>]
+Overfull \hbox (30.04532pt too wide) in paragraph at lines 368--376
+[] 
+ []
+
+<fold_2/recall_score.jpg, id=93, 462.528pt x 346.896pt>
+File: fold_2/recall_score.jpg Graphic file (type jpg)
+<use fold_2/recall_score.jpg>
+Package pdftex.def Info: fold_2/recall_score.jpg  used on input line 378.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 378--379
+[][] 
+ []
+
+[22 <./fold_2/matthews_corrcoef.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 382--390
+[] 
+ []
+
+<fold_3/train_loss.jpg, id=97, 462.528pt x 346.896pt>
+File: fold_3/train_loss.jpg Graphic file (type jpg)
+<use fold_3/train_loss.jpg>
+Package pdftex.def Info: fold_3/train_loss.jpg  used on input line 392.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 392--393
+[][] 
+ []
+
+[23 <./fold_2/recall_score.jpg>]
+Overfull \hbox (30.04532pt too wide) in paragraph at lines 395--403
+[] 
+ []
+
+<fold_3/test_loss.jpg, id=101, 462.528pt x 346.896pt>
+File: fold_3/test_loss.jpg Graphic file (type jpg)
+<use fold_3/test_loss.jpg>
+Package pdftex.def Info: fold_3/test_loss.jpg  used on input line 405.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 405--406
+[][] 
+ []
+
+[24 <./fold_3/train_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 408--416
+[] 
+ []
+
+<fold_3/accuracy_score.jpg, id=105, 462.528pt x 346.896pt>
+File: fold_3/accuracy_score.jpg Graphic file (type jpg)
+<use fold_3/accuracy_score.jpg>
+Package pdftex.def Info: fold_3/accuracy_score.jpg  used on input line 418.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 418--419
+[][] 
+ []
+
+[25 <./fold_3/test_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 421--429
+[] 
+ []
+
+<fold_3/f1_score.jpg, id=110, 462.528pt x 346.896pt>
+File: fold_3/f1_score.jpg Graphic file (type jpg)
+<use fold_3/f1_score.jpg>
+Package pdftex.def Info: fold_3/f1_score.jpg  used on input line 431.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 431--432
+[][] 
+ []
+
+[26 <./fold_3/accuracy_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 434--442
+[] 
+ []
+
+<fold_3/precision_score.jpg, id=114, 462.528pt x 346.896pt>
+File: fold_3/precision_score.jpg Graphic file (type jpg)
+<use fold_3/precision_score.jpg>
+Package pdftex.def Info: fold_3/precision_score.jpg  used on input line 444.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 444--445
+[][] 
+ []
+
+[27 <./fold_3/f1_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 447--455
+[] 
+ []
+
+<fold_3/matthews_corrcoef.jpg, id=118, 462.528pt x 346.896pt>
+File: fold_3/matthews_corrcoef.jpg Graphic file (type jpg)
+<use fold_3/matthews_corrcoef.jpg>
+Package pdftex.def Info: fold_3/matthews_corrcoef.jpg  used on input line 457.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 457--458
+[][] 
+ []
+
+[28 <./fold_3/precision_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 460--468
+[] 
+ []
+
+<fold_3/recall_score.jpg, id=122, 462.528pt x 346.896pt>
+File: fold_3/recall_score.jpg Graphic file (type jpg)
+<use fold_3/recall_score.jpg>
+Package pdftex.def Info: fold_3/recall_score.jpg  used on input line 470.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 470--471
+[][] 
+ []
+
+[29 <./fold_3/matthews_corrcoef.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 474--482
+[] 
+ []
+
+<fold_4/train_loss.jpg, id=126, 462.528pt x 346.896pt>
+File: fold_4/train_loss.jpg Graphic file (type jpg)
+<use fold_4/train_loss.jpg>
+Package pdftex.def Info: fold_4/train_loss.jpg  used on input line 484.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 484--485
+[][] 
+ []
+
+[30 <./fold_3/recall_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 487--495
+[] 
+ []
+
+<fold_4/test_loss.jpg, id=130, 462.528pt x 346.896pt>
+File: fold_4/test_loss.jpg Graphic file (type jpg)
+<use fold_4/test_loss.jpg>
+Package pdftex.def Info: fold_4/test_loss.jpg  used on input line 497.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 497--498
+[][] 
+ []
+
+[31 <./fold_4/train_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 500--508
+[] 
+ []
+
+<fold_4/accuracy_score.jpg, id=135, 462.528pt x 346.896pt>
+File: fold_4/accuracy_score.jpg Graphic file (type jpg)
+<use fold_4/accuracy_score.jpg>
+Package pdftex.def Info: fold_4/accuracy_score.jpg  used on input line 510.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 510--511
+[][] 
+ []
+
+[32 <./fold_4/test_loss.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 513--521
+[] 
+ []
+
+<fold_4/f1_score.jpg, id=139, 462.528pt x 346.896pt>
+File: fold_4/f1_score.jpg Graphic file (type jpg)
+<use fold_4/f1_score.jpg>
+Package pdftex.def Info: fold_4/f1_score.jpg  used on input line 523.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 523--524
+[][] 
+ []
+
+[33 <./fold_4/accuracy_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 526--534
+[] 
+ []
+
+<fold_4/precision_score.jpg, id=143, 462.528pt x 346.896pt>
+File: fold_4/precision_score.jpg Graphic file (type jpg)
+<use fold_4/precision_score.jpg>
+Package pdftex.def Info: fold_4/precision_score.jpg  used on input line 536.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 536--537
+[][] 
+ []
+
+[34 <./fold_4/f1_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 539--547
+[] 
+ []
+
+<fold_4/matthews_corrcoef.jpg, id=147, 462.528pt x 346.896pt>
+File: fold_4/matthews_corrcoef.jpg Graphic file (type jpg)
+<use fold_4/matthews_corrcoef.jpg>
+Package pdftex.def Info: fold_4/matthews_corrcoef.jpg  used on input line 549.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 549--550
+[][] 
+ []
+
+[35 <./fold_4/precision_score.jpg>]
+Overfull \hbox (34.4898pt too wide) in paragraph at lines 552--560
+[] 
+ []
+
+<fold_4/recall_score.jpg, id=151, 462.528pt x 346.896pt>
+File: fold_4/recall_score.jpg Graphic file (type jpg)
+<use fold_4/recall_score.jpg>
+Package pdftex.def Info: fold_4/recall_score.jpg  used on input line 562.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+
+Overfull \hbox (1.89514pt too wide) in paragraph at lines 562--563
+[][] 
+ []
+
+[36 <./fold_4/matthews_corrcoef.jpg>] [37 <./fold_4/recall_score.jpg>]
+(./metrics_report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1593 strings out of 483183
+ 26275 string characters out of 5966292
+ 252023 words of memory out of 5000000
+ 16620 multiletter control sequences out of 15000+600000
+ 536285 words of font info for 37 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,7n,25p,212b,211s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on metrics_report.pdf (37 pages, 1031505 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+
