@@ -1,45 +1,45 @@
-ANDHRA	0	0	0	0	0	NNP	0	
-PRADESH	0	0	0	0	0	NNP	0	
-Work	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-banks	khooTrig	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-insurance	0	0	0	0	0	NN	0	
-firms	khooTrig	0	0	0	0	NNS	0	
-hit	0	0	0	0	0	VBD	0	
-August	0	0	0	0	date	NNP	0	
-21	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2008	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NN	0	
-Back	khooTrig	0	0	0	0	RB	0	
-to	0	0	0	0	0	TO	0	
-old	0	0	0	0	0	JJ	0	
-days	0	0	0	0	0	NNS	0	
-:	0	0	0	0	0	:	0	
-A	0	0	0	0	0	DT	0	
-horse-drawn	0	0	0	0	0	JJ	0	
-cart	0	0	0	0	0	NN	0	
-comes	0	0	0	0	0	VBZ	0	
-in	0	0	0	0	0	IN	0	
-handy	0	0	0	0	person	JJ	0	
-for	0	0	0	0	0	IN	0	
-passengers	0	0	0	0	0	NNS	0	
-as	0	0	0	0	0	IN	0	
-autos	0	0	0	0	0	NNS	0	
-went	0	0	0	0	0	VBD	0	
-off	khooTrig	0	0	0	0	RP	0	
-the	0	0	0	0	0	DT	0	
-road	0	0	0	0	0	NN	0	
-during	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-general	0	0	0	0	0	JJ	0	
-strike	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Kurnool	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+ANDHRA	2-compound-0	
+PRADESH	2-compound-1	
+Work	8-dep-2	
+in	4-case-3	
+banks	2-nmod:in-4	
+,	null	
+insurance	7-compound-6	
+firms	8-nsubj-7	
+hit	8	
+August	8-nmod:tmod-9	
+21	9-nummod-10	
+,	null	
+2008	13-nummod-12	
+00	8-parataxis-13	
+:	null	
+00	16-nummod-15	
+IST	13-dep-16	
+Back	25-advmod-17	
+to	20-case-18	
+old	20-amod-19	
+days	17-nmod:to-20	
+:	null	
+A	24-det-22	
+horse-drawn	24-amod-23	
+cart	20-dep-24	
+comes	13-dep-25	
+in	27-case-26	
+handy	25-advcl:in-27	
+for	29-case-28	
+passengers	27-nmod:for-29	
+as	32-mark-30	
+autos	32-nsubj-31	
+went	25-advcl-32	
+off	32-compound:prt-33	
+the	35-det-34	
+road	32-dobj-35	
+during	39-case-36	
+the	39-det-37	
+general	39-amod-38	
+strike	32-nmod:during-39	
+in	41-case-40	
+Kurnool	39-nmod:in-41	
+on	43-case-42	
+Wednesday	32-nmod:on-43	
+.	null	

@@ -1,0 +1,13 @@
+The	1-det-0	
+mayor	3-nmod:poss-1	
+'s	1-case-2	
+assassination	5-nsubjpass-3	
+was	5-auxpass-4	
+discussed	5	
+at	8-case-6	
+one	8-nummod-7	
+meeting	5-nmod:at-8	
+between	11-case-9	
+the	11-det-10	
+accused	5-nmod:between-11	
+.	null	

@@ -1,22 +1,22 @@
-Despite	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-poor	0	0	0	0	0	JJ	0	
-weather	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-supporters	0	0	0	0	0	NNS	0	
-sang	0	0	0	0	0	VBD	0	
-and	0	0	0	0	0	CC	0	
-danced	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-rain	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-sounds	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-gospel	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-ANC	0	0	0	0	0	NNP	0	
-struggle	0	0	0	0	0	NN	0	
-songs	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Despite	3-case-0	
+the	3-det-1	
+poor	3-amod-2	
+weather	6-nmod:despite-3	
+,	null	
+supporters	8-nsubj-5	
+sang	6	
+and	6-cc-7	
+danced	6-conj:and-8	
+in	11-case-9	
+the	11-det-10	
+rain	6-nmod:in-11	
+to	14-case-12	
+the	14-det-13	
+sounds	11-nmod:to-14	
+of	20-case-15	
+gospel	20-compound-16	
+and	16-cc-17	
+ANC	20-compound-18	
+struggle	20-compound-19	
+songs	14-nmod:of-20	
+.	null	

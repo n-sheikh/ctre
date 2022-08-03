@@ -1,22 +1,22 @@
-The	0	0	0	0	0	DT	0	
-African	0	0	0	0	0	JJ	0	
-nationals	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-sustained	mcmTrig	0	0	0	0	VBN	0	
-minor	0	0	0	0	0	JJ	0	
-injuries	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-attack	0	0	0	0	0	NN	0	
-that	0	0	0	0	0	WDT	0	
-took	0	0	0	0	0	VBD	0	
-place	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-South	0	0	0	0	location	NNP	0	
-Delhi	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-Mehrauli	0	0	0	0	0	NNP	0	
-area	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Friday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+The	2-det-0	
+African	2-amod-1	
+nationals	4-nsubj-2	
+had	4-aux-3	
+sustained	4	
+minor	6-amod-5	
+injuries	4-dobj-6	
+in	9-case-7	
+the	9-det-8	
+attack	6-nmod:in-9	
+that	11-nsubj-10	
+took	9-acl:relcl-11	
+place	11-dobj-12	
+in	18-case-13	
+South	15-compound-14	
+Delhi	18-nmod:poss-15	
+'s	15-case-16	
+Mehrauli	18-compound-17	
+area	11-nmod:in-18	
+on	20-case-19	
+Friday	11-nmod:on-20	
+.	null	

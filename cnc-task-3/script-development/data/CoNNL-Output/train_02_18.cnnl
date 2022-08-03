@@ -1,0 +1,17 @@
+The	1-det-0	
+traffic	6-nsubj-1	
+on	5-case-2	
+Rohtak-	5-amod-3	
+Jhajjar	5-compound-4	
+highway	1-nmod:on-5	
+remained	6	
+disrupted	6-xcomp-7	
+prompting	7-xcomp-8	
+police	8-dobj-9	
+to	11-mark-10	
+divert	8-xcomp-11	
+vehicles	11-dobj-12	
+to	15-case-13	
+other	15-amod-14	
+routes	11-nmod:to-15	
+.	null	

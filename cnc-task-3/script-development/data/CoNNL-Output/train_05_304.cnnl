@@ -1,44 +1,44 @@
-Attempts	0	0	0	0	0	NNP	0	
-Karimnagar	0	0	0	0	0	NNP	0	
-Staff	0	0	0	0	0	NNP	0	
-Reporter	0	0	0	0	0	NNP	0	
-adds	0	0	0	0	0	VBZ	0	
-:	0	0	0	0	0	:	0	
-The	0	0	0	0	0	DT	0	
-district	0	0	0	0	0	NN	0	
-police	0	0	0	0	0	NN	0	
-foiled	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-attempts	0	0	0	0	0	NNS	0	
-made	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-TRS	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-pro-	0	0	0	0	0	NNP	0	
-Telangana	0	0	0	0	0	NNP	0	
-activists	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-proceed	0	0	0	0	0	VB	0	
-and	0	0	0	0	0	CC	0	
-participate	mcmTrig	0	0	0	0	VB	0	
-in	0	0	0	0	0	IN	0	
-‘	0	0	0	0	0	NNP	0	
-Million	0	0	0	0	0	NNP	0	
-March	0	0	0	0	date	NNP	0	
-'	0	0	0	0	0	''	0	
-in	0	0	0	0	0	IN	0	
-Hyderabad	0	0	0	0	location	NNP	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-with	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-arrests	khooTrig	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-various	0	0	0	0	0	JJ	0	
-routes	0	0	0	0	0	NNS	0	
-proceeding	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-capital	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Attempts	3-compound-0	
+Karimnagar	3-compound-1	
+Staff	3-compound-2	
+Reporter	4-nsubj-3	
+adds	4	
+:	null	
+The	8-det-6	
+district	8-compound-7	
+police	9-nsubj-8	
+foiled	4-parataxis-9	
+the	11-det-10	
+attempts	9-dobj-11	
+made	11-acl-12	
+by	15-case-13	
+the	15-det-14	
+TRS	12-nmod:by-15	
+and	15-cc-16	
+pro-	19-compound-17	
+Telangana	19-compound-18	
+activists	15-conj:and-19	
+to	21-mark-20	
+proceed	12-xcomp-21	
+and	21-cc-22	
+participate	21-conj:and-23	
+in	27-case-24	
+‘	27-compound-25	
+Million	27-compound-26	
+March	23-nmod:in-27	
+'	null	
+in	30-case-29	
+Hyderabad	21-conj:and-30	
+on	32-case-31	
+Thursday	9-nmod:on-32	
+with	35-case-33	
+their	35-nmod:poss-34	
+arrests	9-nmod:with-35	
+on	38-case-36	
+various	38-amod-37	
+routes	35-nmod:on-38	
+proceeding	38-acl-39	
+to	42-case-40	
+the	42-det-41	
+capital	39-nmod:to-42	
+.	null	

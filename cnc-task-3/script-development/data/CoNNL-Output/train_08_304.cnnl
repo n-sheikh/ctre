@@ -1,17 +1,17 @@
-He	0	0	0	0	0	PRP	0	
-has	0	0	0	0	0	VBZ	0	
-been	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-indefinite	0	0	0	0	0	JJ	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-since	0	0	0	0	0	IN	0	
-August	0	0	0	0	date	NNP	0	
-25	0	0	0	0	date	CD	0	
-in	0	0	0	0	0	IN	0	
-support	mcmTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-united	0	0	0	0	0	VBN	0	
-Andhra	0	0	0	0	0	NNP	0	
-Pradesh	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+He	6-nsubj-0	
+has	6-aux-1	
+been	6-cop-2	
+on	6-case-3	
+indefinite	6-amod-4	
+hunger	6-compound-5	
+strike	6	
+since	8-case-7	
+August	6-nmod:since-8	
+25	8-nummod-9	
+in	11-case-10	
+support	6-nmod:in-11	
+of	15-case-12	
+united	15-amod-13	
+Andhra	15-compound-14	
+Pradesh	11-nmod:of-15	
+.	null	

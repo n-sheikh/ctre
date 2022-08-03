@@ -1,0 +1,17 @@
+The	1-det-0	
+protesters	2-nsubj-1	
+raised	2	
+slogans	2-dobj-3	
+against	5-case-4	
+them	3-nmod:against-5	
+for	7-mark-6	
+visiting	3-acl-7	
+the	10-det-8	
+temple	10-compound-9	
+town	7-dobj-10	
+three	12-nummod-11	
+days	7-nmod:after-12	
+after	12-case-13	
+the	15-det-14	
+blasts	12-dep-15	
+.	null	

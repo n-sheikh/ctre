@@ -1,31 +1,31 @@
-Lam	0	0	0	0	person	NNP	0	
-called	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-rare	0	0	0	0	0	JJ	0	
-press	0	0	0	0	0	NN	0	
-conference	0	0	0	0	0	NN	0	
-early	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-to	0	0	0	0	0	TO	0	
-condemn	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-“	0	0	0	0	0	JJ	0	
-extremely	0	0	0	0	0	RB	0	
-violent	0	0	0	0	0	JJ	0	
-”	0	0	0	0	0	NN	0	
-storming	0	0	0	0	0	VBG	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-legislature	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-which	0	0	0	0	0	WDT	0	
-she	0	0	0	0	0	PRP	0	
-described	0	0	0	0	0	VBD	0	
-as	0	0	0	0	0	IN	0	
-“	0	0	0	0	0	JJ	0	
-heartbreaking	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-shocking	0	0	0	0	0	JJ	0	
-”	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Lam	1-nsubj-0	
+called	1	
+a	5-det-2	
+rare	5-amod-3	
+press	5-compound-4	
+conference	1-dobj-5	
+early	10-advmod-6	
+on	8-case-7	
+Tuesday	6-nmod:on-8	
+to	10-mark-9	
+condemn	1-advcl-10	
+the	15-det-11	
+“	15-amod-12	
+extremely	14-advmod-13	
+violent	15-amod-14	
+”	10-dobj-15	
+storming	15-acl-16	
+of	19-case-17	
+the	19-det-18	
+legislature	16-nmod:of-19	
+,	null	
+which	23-dobj-21	
+she	23-nsubj-22	
+described	19-acl:relcl-23	
+as	29-case-24	
+“	29-amod-25	
+heartbreaking	29-amod-26	
+and	26-cc-27	
+shocking	29-amod-28	
+”	23-nmod:as-29	
+.	null	

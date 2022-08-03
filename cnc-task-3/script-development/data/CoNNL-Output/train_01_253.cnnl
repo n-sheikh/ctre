@@ -1,28 +1,28 @@
-Former	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-P	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Babumohan	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-was	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-oblivion	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-long	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-suddenly	0	0	0	0	0	RB	0	
-turned	0	0	0	0	0	VBD	0	
-up	khooTrig	0	0	0	0	RP	0	
-in	0	0	0	0	0	IN	0	
-Sangareddy	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-participated	mcmTrig	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-agitation	0	0	0	0	0	NN	0	
-held	0	0	0	0	0	VBN	0	
-before	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Collectorate	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Former	4-compound-0	
+Minister	4-compound-1	
+P	4-compound-2	
+.	null	
+Babumohan	19-nsubj-4	
+,	null	
+who	9-nsubj-6	
+was	9-cop-7	
+in	9-case-8	
+oblivion	4-acl:relcl-9	
+for	11-case-10	
+long	9-acl:for-11	
+,	null	
+suddenly	14-advmod-13	
+turned	14	
+up	14-compound:prt-15	
+in	17-case-16	
+Sangareddy	14-nmod:in-17	
+and	14-cc-18	
+participated	14-conj:and-19	
+in	22-case-20	
+the	22-det-21	
+agitation	19-nmod:in-22	
+held	22-acl-23	
+before	26-case-24	
+the	26-det-25	
+Collectorate	23-nmod:before-26	
+.	null	

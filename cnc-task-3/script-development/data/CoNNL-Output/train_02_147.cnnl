@@ -1,28 +1,28 @@
-On	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-people	0	0	0	0	0	NNS	0	
-belonging	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-Bharwad	0	0	0	0	0	NNP	0	
-community	0	0	0	0	0	NN	0	
-allegedly	0	0	0	0	0	RB	0	
-went	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-rampage	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-damaged	0	0	0	0	0	JJ	0	
-shops	0	0	0	0	0	NNS	0	
-owned	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Patels	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-too	0	0	0	0	0	RB	0	
-retaliated	0	0	0	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+On	1-case-0	
+Sunday	13-nmod:on-1	
+,	null	
+a	4-det-3	
+group	13-nsubj-4	
+of	6-case-5	
+people	4-nmod:of-6	
+belonging	6-acl-7	
+to	11-case-8	
+the	11-det-9	
+Bharwad	11-compound-10	
+community	7-nmod:to-11	
+allegedly	13-advmod-12	
+went	13	
+on	19-case-14	
+the	19-det-15	
+rampage	19-amod-16	
+and	16-cc-17	
+damaged	19-amod-18	
+shops	13-nmod:on-19	
+owned	19-acl-20	
+by	22-case-21	
+Patels	20-nmod:by-22	
+,	null	
+who	26-nsubj-24	
+too	26-advmod-25	
+retaliated	19-acl:relcl-26	
+.	null	

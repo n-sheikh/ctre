@@ -1,42 +1,42 @@
-Thackeray	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-promised	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-"	0	0	0	0	0	``	0	
-give	0	0	0	0	0	VB	0	
-a	0	0	0	0	0	DT	0	
-fitting	0	0	0	0	0	JJ	0	
-reply	0	0	0	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-NCP	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-'s	0	0	0	0	0	POS	0	
-rally	khooTrig	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-said	0	0	0	0	0	VBD	0	
-he	0	0	0	0	0	PRP	0	
-would	0	0	0	1	0	MD	modal	
-now	0	1	in_modal_trig_domain	0	0	RB	0	
-visit	0	1	in_modal_trig_domain	0	0	VB	0	
-Pune	0	1	in_modal_trig_domain	0	0	NNP	0	
--	0	1	in_modal_trig_domain	0	0	:	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-Pawar	0	1	in_modal_trig_domain	0	0	NNP	0	
-family	0	1	in_modal_trig_domain	0	0	NN	0	
-bastion	0	1	in_modal_trig_domain	0	0	NN	0	
-March	0	1	in_modal_trig_domain	0	date	NNP	0	
-7	0	1	in_modal_trig_domain	0	date	CD	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-followed	0	1	in_modal_trig_domain	0	0	VBN	0	
-by	0	1	in_modal_trig_domain	0	0	IN	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-tour	0	1	in_modal_trig_domain	0	0	NN	0	
-of	0	1	in_modal_trig_domain	0	0	IN	0	
-Vidarbha	0	1	in_modal_trig_domain	0	0	NNP	0	
-starting	khooTrig	1	in_modal_trig_domain	0	0	VBG	0	
-March	0	1	in_modal_trig_domain	0	date	NNP	0	
-16	0	1	in_modal_trig_domain	0	date	CD	0	
-.	0	0	0	0	0	.	0	
+Thackeray	18-nsubj-0	
+had	2-aux-1	
+promised	2	
+to	5-mark-3	
+"	null	
+give	2-xcomp-5	
+a	8-det-6	
+fitting	8-amod-7	
+reply	5-dobj-8	
+"	null	
+to	12-case-10	
+the	12-det-11	
+NCP	5-nmod:to-12	
+at	16-case-13	
+Saturday	16-nmod:poss-14	
+'s	14-case-15	
+rally	5-nmod:at-16	
+and	2-cc-17	
+said	2-conj:and-18	
+he	22-nsubj-19	
+would	22-aux-20	
+now	22-advmod-21	
+visit	18-ccomp-22	
+Pune	22-dobj-23	
+-	null	
+the	28-det-25	
+Pawar	28-compound-26	
+family	28-compound-27	
+bastion	23-dep-28	
+March	22-nmod:tmod-29	
+7	29-nummod-30	
+,	null	
+followed	35-case-32	
+by	32-mwe-33	
+a	35-det-34	
+tour	22-advcl:followed_by-35	
+of	37-case-36	
+Vidarbha	35-nmod:of-37	
+starting	35-acl-38	
+March	38-nmod:tmod-39	
+16	39-nummod-40	
+.	null	

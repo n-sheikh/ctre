@@ -1,38 +1,38 @@
-Modi	0	0	0	0	0	NNP	0	
-visited	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-homes	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-all	0	0	0	0	0	PDT	0	
-the	0	0	0	0	0	DT	0	
-six	0	0	0	0	0	CD	0	
-victims	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-serial	0	0	0	0	0	JJ	0	
-blasts	0	0	0	0	0	NNS	0	
-which	0	0	0	0	0	WDT	0	
-rocked	khooTrig	0	0	0	0	VBD	0	
-Patna	0	0	0	0	location	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	VBZ	0	
-Gandhi	0	0	0	0	0	NNP	0	
-Maidan	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-other	0	0	0	0	0	JJ	0	
-parts	khooTrig	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-city	0	0	0	0	0	NN	0	
-during	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-visit	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-address	mcmTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-Hunkar	0	0	0	0	0	NNP	0	
-Rally	khooTrig	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-October	0	0	0	0	date	NNP	0	
-27	0	0	0	0	date	CD	0	
-.	0	0	0	0	0	.	0	
+Modi	1-nsubj-0	
+visited	1	
+the	3-det-2	
+homes	1-dobj-3	
+of	8-case-4	
+all	8-det:predet-5	
+the	8-det-6	
+six	8-nummod-7	
+victims	3-nmod:of-8	
+of	12-case-9	
+the	12-det-10	
+serial	12-amod-11	
+blasts	8-nmod:of-12	
+which	14-nsubj-13	
+rocked	12-acl:relcl-14	
+Patna	16-compound-15	
+’	19-nsubj-16	
+s	19-cop-17	
+Gandhi	19-compound-18	
+Maidan	14-ccomp-19	
+and	19-cc-20	
+other	22-amod-21	
+parts	19-conj:and-22	
+of	25-case-23	
+the	25-det-24	
+city	22-nmod:of-25	
+during	28-case-26	
+his	28-nmod:poss-27	
+visit	1-nmod:during-28	
+to	30-mark-29	
+address	28-acl-30	
+the	33-det-31	
+Hunkar	33-compound-32	
+Rally	30-dobj-33	
+on	35-case-34	
+October	30-nmod:on-35	
+27	35-nummod-36	
+.	null	

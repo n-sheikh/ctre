@@ -1,46 +1,46 @@
-He	0	0	0	0	0	PRP	0	
-enrolled	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-UNISA	0	0	0	0	0	NNP	0	
-after	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-expulsion	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-University	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-North	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-Turfloop	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-for	0	0	0	0	0	IN	0	
-political	0	0	0	0	0	JJ	0	
-activism	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-which	0	0	0	0	0	WDT	0	
-arose	0	0	0	0	0	VBD	0	
-from	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-organisation	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-pro-	0	0	0	0	0	JJ	0	
-Frelimo	0	0	0	0	0	NNP	0	
-rallies	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-1974	0	0	0	0	date	CD	0	
-under	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-banner	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-then	0	0	0	0	0	RB	0	
-South	0	0	0	0	0	JJ	0	
-African	0	0	0	0	0	NNP	0	
-Students	0	0	0	0	0	NNP	0	
-Organisation	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-SASO	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-.	0	0	0	0	0	.	0	
+He	1-nsubj-0	
+enrolled	1	
+at	3-case-2	
+UNISA	1-nmod:at-3	
+after	6-case-4	
+his	6-nmod:poss-5	
+expulsion	1-nmod:after-6	
+from	9-case-7	
+the	9-det-8	
+University	6-nmod:from-9	
+of	12-case-10	
+the	12-det-11	
+North	9-nmod:of-12	
+(	null	
+Turfloop	1-dep-14	
+)	null	
+for	18-case-16	
+political	18-amod-17	
+activism	1-nmod:for-18	
+,	null	
+which	21-nsubj-20	
+arose	18-acl:relcl-21	
+from	24-case-22	
+the	24-det-23	
+organisation	21-nmod:from-24	
+of	29-case-25	
+the	29-det-26	
+pro-	29-amod-27	
+Frelimo	29-compound-28	
+rallies	24-nmod:of-29	
+in	31-case-30	
+1974	21-nmod:in-31	
+under	34-case-32	
+the	34-det-33	
+banner	21-nmod:under-34	
+of	41-case-35	
+the	41-det-36	
+then	38-advmod-37	
+South	41-amod-38	
+African	41-compound-39	
+Students	41-compound-40	
+Organisation	34-nmod:of-41	
+(	null	
+SASO	41-appos-43	
+)	null	
+.	null	

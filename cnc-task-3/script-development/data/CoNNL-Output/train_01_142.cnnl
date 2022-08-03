@@ -1,29 +1,29 @@
-Referring	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-terror	0	0	0	0	0	NN	0	
-attack	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Punjab	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-Gurdaspur	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-July	0	0	0	0	date	NNP	0	
-27	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-Biswal	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-US	0	0	0	0	location	NNP	0	
-has	0	0	0	0	0	VBZ	0	
-strongly	0	0	0	0	0	RB	0	
-condemned	0	0	0	0	0	VBN	0	
-and	0	0	0	0	0	CC	0	
-expressed	khooTrig	0	0	0	0	VBN	0	
-its	0	0	0	0	0	PRP$	0	
-concern	0	0	0	0	0	NN	0	
-over	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-attack	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Referring	15-advcl-0	
+to	4-case-1	
+the	4-det-2	
+terror	4-compound-3	
+attack	0-nmod:to-4	
+in	9-case-5	
+Punjab	9-nmod:poss-6	
+'s	6-case-7	
+Gurdaspur	9-compound-8	
+district	4-nmod:in-9	
+on	11-case-10	
+July	0-nmod:on-11	
+27	11-nummod-12	
+,	null	
+Biswal	15-nsubj-14	
+said	15	
+the	17-det-16	
+US	22-nsubj-17	
+has	20-aux-18	
+strongly	20-advmod-19	
+condemned	15-ccomp-20	
+and	20-cc-21	
+expressed	20-conj:and-22	
+its	24-nmod:poss-23	
+concern	22-dobj-24	
+over	27-case-25	
+the	27-det-26	
+attack	22-nmod:over-27	
+.	null	

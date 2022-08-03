@@ -1,0 +1,14 @@
+About	1-advmod-0	
+120	3-nummod-1	
+PG	3-compound-2	
+students	6-nsubj-3	
+are	6-cop-4	
+on	6-case-5	
+strike	6	
+demanding	6-dep-7	
+payment	7-dobj-8	
+of	12-case-9	
+their	12-nmod:poss-10	
+stipend	12-compound-11	
+arrears	8-nmod:of-12	
+.	null	

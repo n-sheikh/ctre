@@ -1,23 +1,23 @@
-Divisional	0	0	0	0	0	NNP	0	
-Commissioner	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-Kashmir	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-Baseer	0	0	0	0	person	NNP	0	
-Khan	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-more	0	0	0	0	0	JJR	0	
-than	0	0	0	0	0	IN	0	
-900	0	0	0	0	0	CD	0	
-people	0	0	0	0	0	NNS	0	
-attacked	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-Army	0	0	0	0	0	NNP	0	
-convoy	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Ladoora	0	0	0	0	0	NNP	0	
-Rafiabad	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Baramulla	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Divisional	1-compound-0	
+Commissioner	7-nsubj-1	
+(	null	
+Kashmir	1-appos-3	
+)	null	
+Baseer	6-compound-5	
+Khan	1-dep-6	
+said	7	
+more	10-advmod-8	
+than	8-mwe-9	
+900	11-nummod-10	
+people	12-nsubj-11	
+attacked	7-ccomp-12	
+an	15-det-13	
+Army	15-compound-14	
+convoy	12-dobj-15	
+at	18-case-16	
+Ladoora	18-compound-17	
+Rafiabad	15-nmod:at-18	
+in	21-case-19	
+Baramulla	21-compound-20	
+district	12-nmod:in-21	
+.	null	

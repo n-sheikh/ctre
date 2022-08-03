@@ -1,0 +1,17 @@
+Sixteen	1-nummod-0	
+people	12-nsubjpass-1	
+,	null	
+including	5-case-3	
+4	5-nummod-4	
+policemen	1-nmod:including-5	
+and	5-cc-6	
+11	9-nummod-7	
+CRPF	9-compound-8	
+jawans	5-conj:and-9	
+,	null	
+were	12-auxpass-11	
+killed	12	
+in	15-case-13	
+the	15-det-14	
+attack	12-nmod:in-15	
+.	null	

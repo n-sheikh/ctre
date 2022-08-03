@@ -1,40 +1,40 @@
-K	0	0	0	0	person	NNP	0	
-Prakash	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-former	0	0	0	0	0	JJ	0	
-secretary	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Students	0	0	0	0	0	NNP	0	
-Federation	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-India	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-SFI	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-,	0	0	0	0	0	,	0	
-K	0	0	0	0	person	NNP	0	
-S	0	0	0	0	person	NNP	0	
-Lakshmi	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-state	0	0	0	0	0	NN	0	
-secretary	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Akhila	0	0	0	0	person	NNP	0	
-Bharatha	0	0	0	0	person	NNP	0	
-Janavaadi	0	0	0	0	person	NNP	0	
-Mahila	0	0	0	0	0	NNP	0	
-Sangatane	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Chikkaraju	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-secretary-	0	0	0	0	0	NNP	0	
-Bangalore	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-SFI	0	0	0	0	0	NNP	0	
-were	0	0	0	0	0	VBD	0	
-also	0	0	0	0	0	RB	0	
-present	khooTrig	0	0	0	0	JJ	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+K	1-compound-0	
+Prakash	35-nsubj-1	
+,	null	
+former	4-amod-3	
+secretary	35-nsubj-4	
+,	null	
+Students	7-compound-6	
+Federation	35-nsubj-7	
+of	9-case-8	
+India	7-nmod:of-9	
+(	null	
+SFI	7-appos-11	
+)	null	
+,	null	
+K	16-compound-14	
+S	16-compound-15	
+Lakshmi	35-nsubj-16	
+,	null	
+state	19-compound-18	
+secretary	35-nsubj-19	
+,	null	
+Akhila	25-compound-21	
+Bharatha	25-compound-22	
+Janavaadi	25-compound-23	
+Mahila	25-compound-24	
+Sangatane	35-nsubj-25	
+and	1-cc-26	
+Chikkaraju	35-nsubj-27	
+,	null	
+secretary-	30-compound-29	
+Bangalore	27-appos-30	
+,	null	
+SFI	27-appos-32	
+were	35-cop-33	
+also	35-advmod-34	
+present	35	
+at	38-case-36	
+the	38-det-37	
+protest	35-nmod:at-38	
+.	null	

@@ -1,43 +1,43 @@
-Now	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-autos	0	0	0	0	0	NN	0	
-catch	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-fever	0	0	0	0	0	NN	0	
--	0	0	0	0	0	:	0	
-Indian	0	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Pune	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Sat	0	0	0	0	date	NNP	0	
-Jan	0	0	0	0	date	NNP	0	
-17	0	0	0	0	date	CD	0	
-2009	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-01	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-38	0	0	0	0	date	CD	0	
-hrs	0	0	0	0	0	JJ	0	
-MUSCLE	0	0	0	0	0	NNP	0	
-POWER	0	0	0	0	0	NN	0	
-:	0	0	0	0	0	:	0	
-Enforcers	0	0	0	0	0	NNS	0	
-drag	0	0	0	0	0	VBP	0	
-out	khooTrig	0	0	0	0	RP	0	
-passengers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-vow	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-resume	0	0	0	0	0	VB	0	
-unless	0	0	0	0	0	IN	0	
-cops	0	0	0	0	0	NNS	0	
-let	0	0	0	0	0	VBP	0	
-off	khooTrig	0	0	0	0	RP	0	
+Now	5-discourse-0	
+,	null	
+autos	5-compound-2	
+catch	5-compound-3	
+strike	5-compound-4	
+fever	5	
+-	null	
+Indian	11-compound-7	
+Express	11-compound-8	
+Express	11-compound-9	
+News	11-compound-10	
+Service	5-parataxis-11	
+,	null	
+Express	15-compound-13	
+News	15-compound-14	
+Service	11-appos-15	
+:	null	
+Pune	11-dep-17	
+,	null	
+Sat	20-compound-19	
+Jan	11-appos-20	
+17	22-nummod-21	
+2009	20-dep-22	
+,	null	
+01	11-amod-24	
+:	null	
+38	29-nummod-26	
+hrs	29-amod-27	
+MUSCLE	29-compound-28	
+POWER	11-dep-29	
+:	null	
+Enforcers	32-nsubj-31	
+drag	11-parataxis-32	
+out	32-compound:prt-33	
+passengers	32-dobj-34	
+,	null	
+vow	32-dobj-36	
+to	38-mark-37	
+resume	32-advcl-38	
+unless	41-mark-39	
+cops	41-nsubj-40	
+let	38-advcl-41	
+off	41-compound:prt-42	

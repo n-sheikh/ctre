@@ -1,35 +1,35 @@
-Flag	0	0	0	0	0	VBG	0	
-marches	0	0	0	0	0	NNS	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-army	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-that	0	0	0	0	0	WDT	0	
-was	0	0	0	0	0	VBD	0	
-called	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	RP	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-civil	0	0	0	0	0	JJ	0	
-administration	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-continuing	0	0	0	0	0	VBG	0	
-across	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-violence-hit	0	0	0	0	0	JJ	0	
-district	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-area	0	0	0	0	0	NN	0	
-domination	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-to	0	0	0	0	0	TO	0	
-instill	0	0	0	0	0	VB	0	
-confidence	0	0	0	0	0	NN	0	
-among	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-people	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-officials	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+Flag	1-amod-0	
+marches	16-nsubj-1	
+by	4-case-2	
+the	4-det-3	
+army	1-nmod:by-4	
+,	null	
+that	8-nsubjpass-6	
+was	8-auxpass-7	
+called	1-acl:relcl-8	
+in	8-compound:prt-9	
+by	13-case-10	
+the	13-det-11	
+civil	13-amod-12	
+administration	8-nmod:agent-13	
+,	null	
+was	16-aux-15	
+continuing	33-ccomp-16	
+across	20-case-17	
+the	20-det-18	
+violence-hit	20-amod-19	
+district	16-nmod:across-20	
+for	23-case-21	
+area	23-compound-22	
+domination	20-nmod:for-23	
+and	23-cc-24	
+to	26-mark-25	
+instill	23-acl-26	
+confidence	26-dobj-27	
+among	30-case-28	
+the	30-det-29	
+people	27-nmod:among-30	
+,	null	
+officials	33-nsubj-32	
+said	33	
+.	null	

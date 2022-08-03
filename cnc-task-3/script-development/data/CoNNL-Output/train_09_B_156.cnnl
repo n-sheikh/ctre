@@ -1,43 +1,43 @@
-Mony	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-while	0	0	0	0	0	IN	0	
-addressing	mcmTrig	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-rally	khooTrig	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Thodupuzha	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-district	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-killings	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-nothing	0	0	0	0	0	NN	explicit_negative	
-new	0	0	0	0	0	JJ	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-CPI	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-M	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-as	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-party	0	0	0	0	0	NN	0	
-had	0	0	0	0	0	VBD	0	
-finished	0	0	0	0	0	VBN	0	
-off	khooTrig	0	0	0	0	RP	0	
-around	0	0	0	0	0	IN	0	
-13	0	0	0	0	0	CD	0	
-Congress	0	0	0	0	0	NNP	0	
-workers	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	date	DT	0	
-early	0	0	0	0	date	JJ	0	
-1980	0	0	0	0	date	CD	0	
-s	0	0	0	0	date	NNS	0	
-.	0	0	0	0	0	.	0	
+Mony	15-nsubj-0	
+had	15-aux-1	
+,	null	
+while	15-mark-3	
+addressing	15-dep-4	
+a	6-det-5	
+rally	4-dobj-6	
+at	8-case-7	
+Thodupuzha	6-nmod:at-8	
+in	11-case-9	
+the	11-det-10	
+district	4-nmod:in-11	
+on	13-case-12	
+Saturday	11-nmod:on-13	
+,	null	
+said	15	
+that	20-mark-16	
+killings	20-nsubj-17	
+were	20-cop-18	
+nothing	20-nmod:npmod-19	
+new	15-ccomp-20	
+to	23-case-21	
+the	23-det-22	
+CPI	20-nmod:to-23	
+(	null	
+M	23-appos-25	
+)	null	
+as	31-mark-27	
+the	29-det-28	
+party	31-nsubj-29	
+had	31-aux-30	
+finished	20-advcl-31	
+off	31-compound:prt-32	
+around	36-case-33	
+13	36-nummod-34	
+Congress	36-compound-35	
+workers	31-nmod:around-36	
+in	41-case-37	
+the	41-det-38	
+early	41-amod-39	
+1980	41-nummod-40	
+s	31-nmod:in-41	
+.	null	

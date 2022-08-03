@@ -1,0 +1,14 @@
+Police	1-nsubj-0	
+arrested	1	
+two	3-nummod-2	
+women	1-dobj-3	
+for	6-mark-4	
+allegedly	6-advmod-5	
+looting	1-advcl-6	
+the	8-det-7	
+business	6-dobj-8	
+that	11-nsubjpass-9	
+was	11-auxpass-10	
+set	8-acl:relcl-11	
+alight	11-dobj-12	
+.	null	

@@ -1,37 +1,37 @@
-The	0	0	0	0	0	DT	0	
-Minister	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-earlier	0	0	0	0	0	RB	0	
-met	0	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-people	0	0	0	0	0	NNS	0	
-who	0	0	0	0	0	WP	0	
-had	0	0	0	0	0	VBD	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-bizarre	0	0	0	0	0	JJ	0	
-protest	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Savanur	0	0	0	0	0	NNP	0	
-municipality	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-and	0	0	0	0	0	CC	0	
-assured	khooTrig	0	0	0	0	VBN	0	
-them	0	0	0	0	0	PRP	0	
-that	0	0	0	0	0	IN	0	
-they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
-would	0	0	0	1	0	MD	modal	
-n't	0	1	in_modal_trig_domain	0	0	RB	explicit_negative	
-be	0	1	null	0	0	VB	0	
-forced	khooTrig	1	null	0	0	VBN	0	
-to	0	1	null	0	0	TO	0	
-move	khooTrig	1	null	0	0	VB	0	
-out	khooTrig	1	null	0	0	RP	0	
-of	0	1	null	0	0	IN	0	
-their	0	1	null	0	0	PRP$	0	
-houses	0	1	null	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+Minister	22-nsubj-1	
+had	4-aux-2	
+earlier	4-advmod-3	
+met	4	
+the	6-det-5	
+people	4-dobj-6	
+who	9-nsubj-7	
+had	9-aux-8	
+staged	6-acl:relcl-9	
+the	12-det-10	
+bizarre	12-amod-11	
+protest	9-dobj-12	
+in	18-case-13	
+front	13-mwe-14	
+of	13-mwe-15	
+the	18-det-16	
+Savanur	18-compound-17	
+municipality	9-nmod:in_front_of-18	
+on	20-case-19	
+Tuesday	9-nmod:on-20	
+and	4-cc-21	
+assured	4-conj:and-22	
+them	22-dobj-23	
+that	29-mark-24	
+they	29-nsubjpass-25	
+would	29-aux-26	
+n't	29-neg-27	
+be	29-auxpass-28	
+forced	22-ccomp-29	
+to	31-mark-30	
+move	29-xcomp-31	
+out	31-compound:prt-32	
+of	35-case-33	
+their	35-nmod:poss-34	
+houses	31-nmod:of-35	
+.	null	

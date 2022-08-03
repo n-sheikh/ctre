@@ -1,57 +1,57 @@
-One	0	0	0	0	0	CD	0	
-of	0	0	0	0	0	IN	0	
-them	0	0	0	0	0	PRP	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-24	0	0	0	0	0	CD	0	
--	0	0	0	0	0	:	0	
-year-old	0	0	0	0	0	JJ	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-:	0	0	0	0	0	:	0	
-"	0	0	0	0	0	``	0	
-I	0	0	0	0	0	PRP	0	
-hope	0	0	0	0	0	VBP	0	
-this	0	0	0	0	0	DT	0	
-can	khooTrig	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-good	0	1	in_modal_trig_domain	0	0	JJ	0	
-beginning	0	1	in_modal_trig_domain	0	0	NN	0	
-for	0	1	in_modal_trig_domain	0	0	IN	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-dialogue	0	1	in_modal_trig_domain	0	0	NN	0	
-between	0	1	in_modal_trig_domain	0	0	IN	0	
-citizens	0	1	in_modal_trig_domain	0	0	NNS	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-government	0	1	in_modal_trig_domain	0	0	NN	0	
-on	0	1	in_modal_trig_domain	0	0	IN	0	
-major	0	1	in_modal_trig_domain	0	0	JJ	0	
-decisions	0	1	in_modal_trig_domain	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
-"	0	0	0	0	0	``	0	
-The	0	0	0	0	0	DT	0	
-rallies	khooTrig	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-seen	0	0	0	0	0	VBN	0	
-as	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-sign	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-growing	0	0	0	0	0	VBG	0	
-public	0	0	0	0	0	JJ	0	
-awareness	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-environmental	0	0	0	0	0	JJ	0	
-issues	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mainland	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-increasing	mcmTrig	0	0	0	0	VBG	0	
-courage	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-speaking	0	0	0	0	0	VBG	0	
-out	khooTrig	0	0	0	0	RP	0	
-.	0	0	0	0	0	.	0	
+One	9-nsubj-0	
+of	2-case-1	
+them	0-nmod:of-2	
+,	null	
+a	5-det-4	
+24	0-appos-5	
+-	null	
+year-old	5-amod-7	
+,	null	
+said	9	
+:	null	
+"	null	
+I	13-nsubj-12	
+hope	9-ccomp-13	
+this	19-nsubj-14	
+can	19-aux-15	
+be	19-cop-16	
+a	19-det-17	
+good	19-amod-18	
+beginning	13-ccomp-19	
+for	22-case-20	
+a	22-det-21	
+dialogue	19-nmod:for-22	
+between	24-case-23	
+citizens	22-nmod:between-24	
+and	24-cc-25	
+the	27-det-26	
+government	24-conj:and-27	
+on	30-case-28	
+major	30-amod-29	
+decisions	22-nmod:on-30	
+.	null	
+"	null	
+The	2-det-1	
+rallies	4-nsubjpass-2	
+are	4-auxpass-3	
+seen	4	
+as	7-case-5	
+a	7-det-6	
+sign	4-nmod:as-7	
+of	9-mark-8	
+growing	7-acl-9	
+public	11-amod-10	
+awareness	9-dobj-11	
+of	14-case-12	
+environmental	14-amod-13	
+issues	11-nmod:of-14	
+on	17-case-15	
+the	17-det-16	
+mainland	11-nmod:on-17	
+and	9-cc-18	
+increasing	9-conj:and-19	
+courage	19-dobj-20	
+in	22-mark-21	
+speaking	19-advcl-22	
+out	22-compound:prt-23	
+.	null	

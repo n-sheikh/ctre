@@ -1,25 +1,25 @@
-Later	0	0	0	0	0	RB	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-day	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-vans	0	0	0	0	0	NNS	0	
-transporting	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-students	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-Tiruchi	0	0	0	0	0	NNP	0	
-airport	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-Thanjavur	0	0	0	0	0	NNP	0	
-were	0	0	0	0	0	VBD	0	
-pelted	0	0	0	0	0	VBN	0	
-with	0	0	0	0	0	IN	0	
-stones	0	0	0	0	0	NNS	0	
-resulting	mcmTrig	0	0	0	0	VBG	0	
-in	0	0	0	0	0	IN	0	
-damage	khooTrig	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-windshields	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Later	16-advmod-0	
+in	3-case-1	
+the	3-det-2	
+day	16-nmod:in-3	
+,	null	
+vans	16-nsubjpass-5	
+transporting	5-acl-6	
+the	8-det-7	
+students	6-dobj-8	
+to	12-case-9	
+the	12-det-10	
+Tiruchi	12-compound-11	
+airport	6-nmod:to-12	
+from	14-case-13	
+Thanjavur	6-nmod:from-14	
+were	16-auxpass-15	
+pelted	16	
+with	18-case-17	
+stones	16-nmod:with-18	
+resulting	18-acl-19	
+in	21-case-20	
+damage	19-nmod:in-21	
+to	23-case-22	
+windshields	21-nmod:to-23	
+.	null	

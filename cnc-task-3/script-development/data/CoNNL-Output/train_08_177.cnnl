@@ -1,23 +1,23 @@
-The	0	0	0	0	0	DT	0	
-protestors	0	0	0	0	0	NNS	0	
-removed	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-portion	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-railway	0	0	0	0	0	NN	0	
-track	0	0	0	0	0	NN	0	
-between	0	0	0	0	0	IN	0	
-Diphu	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Doldoli	0	0	0	0	0	NNP	0	
-stations	0	0	0	0	0	NNS	0	
-today	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-halting	khooTrig	0	0	0	0	VBG	0	
-train	0	0	0	0	0	NN	0	
-movement	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-they	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+protestors	2-nsubj-1	
+removed	21-ccomp-2	
+a	4-det-3	
+portion	2-dobj-4	
+of	8-case-5	
+the	8-det-6	
+railway	8-compound-7	
+track	4-nmod:of-8	
+between	13-case-9	
+Diphu	13-compound-10	
+and	10-cc-11	
+Doldoli	13-compound-12	
+stations	2-nmod:between-13	
+today	2-nmod:tmod-14	
+,	null	
+halting	2-advcl-16	
+train	18-compound-17	
+movement	16-dobj-18	
+,	null	
+they	21-nsubj-20	
+said	21	
+.	null	

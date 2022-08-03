@@ -1,0 +1,16 @@
+The	2-det-0	
+LMC	2-compound-1	
+workers	4-nsubj-2	
+later	4-advmod-3	
+protested	4	
+by	6-mark-5	
+dumping	4-advcl-6	
+garbage	6-dobj-7	
+on	11-case-8	
+the	11-det-9	
+Hardoi	11-compound-10	
+road	6-nmod:on-11	
+and	6-cc-12	
+blocking	6-conj:and-13	
+traffic	13-dobj-14	
+.	null	

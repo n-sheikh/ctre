@@ -1,0 +1,14 @@
+He	3-nsubj-0	
+was	3-cop-1	
+also	3-advmod-2	
+responsible	3	
+for	5-case-4	
+hijacking	3-nmod:for-5	
+of	10-case-6	
+an	10-det-7	
+Indian	10-compound-8	
+Airlines	10-compound-9	
+aircraft	5-nmod:of-10	
+in	12-case-11	
+1971	10-nmod:in-12	
+.	null	

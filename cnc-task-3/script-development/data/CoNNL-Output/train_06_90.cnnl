@@ -1,0 +1,9 @@
+KPCC	3-amod-0	
+president	3-compound-1	
+Ramesh	3-compound-2	
+Chennithala	4-nsubj-3	
+presided	4	
+over	7-case-5	
+the	7-det-6	
+meeting	4-nmod:over-7	
+.	null	

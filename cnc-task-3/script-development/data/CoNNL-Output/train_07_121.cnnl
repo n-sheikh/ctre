@@ -1,21 +1,21 @@
-In	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-scathing	0	0	0	0	0	JJ	0	
-attack	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-PMK	0	0	0	0	0	NNP	0	
-at	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-press	0	0	0	0	0	NN	0	
-meet	0	0	0	0	0	VB	0	
-,	0	0	0	0	0	,	0	
-Thirumavalavan	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-violence	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-spontaneous	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-.	0	0	0	0	0	.	0	
+In	3-case-0	
+a	3-det-1	
+scathing	3-amod-2	
+attack	10-nmod:in-3	
+on	6-case-4	
+the	6-det-5	
+PMK	3-nmod:on-6	
+at	9-case-7	
+a	9-det-8	
+press	3-nmod:at-9	
+meet	14-ccomp-10	
+,	null	
+Thirumavalavan	14-nsubj-12	
+,	null	
+said	14	
+the	16-det-15	
+violence	19-nsubj-16	
+was	19-cop-17	
+not	19-neg-18	
+spontaneous	14-ccomp-19	
+.	null	

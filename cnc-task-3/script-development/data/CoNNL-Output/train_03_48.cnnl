@@ -1,28 +1,28 @@
-Mangalore	0	0	0	0	0	NNP	0	
-Bishop	0	0	0	0	person	NNP	0	
-Fr	0	0	0	0	person	NNP	0	
-Aloysius	0	0	0	0	person	NNP	0	
-Paul	0	0	0	0	person	NNP	0	
-D	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	NNPS	0	
-Souza	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-Panel	khooTrig	0	0	0	0	NNP	0	
-report	0	0	0	0	0	NN	0	
-had	0	0	0	0	0	VBD	0	
-failed	0	0	0	0	0	VBN	implicit_negative	
-to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
-ensure	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
-justice	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
-Christians	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-who	0	0	in_implicit_neg_trig_domain	0	0	WP	0	
-were	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
-deeply	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
-hurt	khooTrig	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-during	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-church	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-attacks	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Mangalore	7-compound-0	
+Bishop	7-compound-1	
+Fr	7-compound-2	
+Aloysius	7-compound-3	
+Paul	7-compound-4	
+D	7-compound-5	
+’	7-compound-6	
+Souza	8-nsubj-7	
+said	8	
+the	11-det-9	
+Panel	11-compound-10	
+report	13-nsubj-11	
+had	13-aux-12	
+failed	8-ccomp-13	
+to	15-mark-14	
+ensure	13-xcomp-15	
+justice	15-dobj-16	
+to	18-case-17	
+Christians	15-nmod:to-18	
+who	22-nsubjpass-19	
+were	22-auxpass-20	
+deeply	22-advmod-21	
+hurt	18-acl:relcl-22	
+during	26-case-23	
+the	26-det-24	
+church	26-compound-25	
+attacks	22-nmod:during-26	
+.	null	

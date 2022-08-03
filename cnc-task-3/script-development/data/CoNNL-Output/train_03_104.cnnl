@@ -1,58 +1,58 @@
-Leung	0	0	0	0	person	NNP	0	
-Chun-ying	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-second	0	0	0	0	0	JJ	0	
-meet-the-public	0	0	0	0	0	JJ	0	
-session	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-in	0	0	0	0	0	IN	0	
-Kwun	0	0	0	0	person	NNP	0	
-Tong	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-much	0	0	0	0	0	JJ	0	
-quieter	0	0	0	0	0	NN	0	
-affair	0	0	0	0	0	NN	0	
-than	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-first	0	0	0	0	0	JJ	0	
-one	0	0	0	0	date	NN	0	
-last	0	0	0	0	date	JJ	0	
-week	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-when	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-caused	mcmTrig	0	0	0	0	VBD	0	
-uproar	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-some	0	0	0	0	0	DT	0	
-quarters	khooTrig	0	0	0	0	NNS	0	
-by	0	0	0	0	0	IN	0	
-expressing	khooTrig	0	0	0	0	VBG	0	
-support	mcmTrig	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-handling	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Mong	0	0	0	0	0	NNP	0	
-Kok	0	0	0	0	0	NNP	0	
-at	0	0	0	0	0	IN	0	
-which	0	0	0	0	0	WDT	0	
-rival	0	0	0	0	0	JJ	0	
-groups	khooTrig	0	0	0	0	NNS	0	
-clashed	khooTrig	0	0	0	0	VBD	0	
-over	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-teacher	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-verbal	0	0	0	0	0	JJ	0	
-attack	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-officers	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Leung	1-compound-0	
+Chun-ying	5-nmod:poss-1	
+'s	1-case-2	
+second	5-amod-3	
+meet-the-public	5-amod-4	
+session	15-nsubj-5	
+,	null	
+in	9-case-7	
+Kwun	9-compound-8	
+Tong	5-nmod:in-9	
+,	null	
+was	15-cop-11	
+a	15-det-12	
+much	15-amod-13	
+quieter	15-compound-14	
+affair	15	
+than	19-case-16	
+his	19-nmod:poss-17	
+first	19-amod-18	
+one	15-nmod:than-19	
+last	21-amod-20	
+week	15-nmod:tmod-21	
+,	null	
+when	25-advmod-23	
+he	25-nsubj-24	
+caused	15-advcl-25	
+uproar	25-dobj-26	
+in	29-case-27	
+some	29-det-28	
+quarters	25-nmod:in-29	
+by	31-mark-30	
+expressing	25-advcl-31	
+support	31-dobj-32	
+for	37-case-33	
+the	35-det-34	
+police	37-nmod:poss-35	
+'s	35-case-36	
+handling	32-nmod:for-37	
+of	40-case-38	
+a	40-det-39	
+protest	37-nmod:of-40	
+in	43-case-41	
+Mong	43-compound-42	
+Kok	40-nmod:in-43	
+at	45-case-44	
+which	48-nmod:at-45	
+rival	47-amod-46	
+groups	48-nsubj-47	
+clashed	32-acl:relcl-48	
+over	54-case-49	
+a	51-det-50	
+teacher	54-nmod:poss-51	
+'s	51-case-52	
+verbal	54-amod-53	
+attack	48-nmod:over-54	
+on	56-case-55	
+officers	48-nmod:on-56	
+.	null	

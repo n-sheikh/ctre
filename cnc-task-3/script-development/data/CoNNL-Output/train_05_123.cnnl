@@ -1,23 +1,23 @@
-Irate	0	0	0	0	0	JJ	0	
-cab	0	0	0	0	0	NN	0	
-drivers	0	0	0	0	0	NNS	0	
-also	0	0	0	0	0	RB	0	
-damaged	khooTrig	0	0	0	0	VBD	0	
-three	0	0	0	0	0	CD	0	
-vehicles	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Tarnaka	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Habsiguda	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Chandrayangutta	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Shamshabad	0	0	0	0	0	NNP	0	
-airport	0	0	0	0	0	VBG	0	
-early	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-for	0	0	0	0	0	IN	0	
-ferrying	0	0	0	0	0	VBG	0	
-passengers	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Irate	2-amod-0	
+cab	2-compound-1	
+drivers	4-nsubj-2	
+also	4-advmod-3	
+damaged	4	
+three	6-nummod-5	
+vehicles	4-dobj-6	
+at	8-case-7	
+Tarnaka	4-nmod:at-8	
+,	null	
+Habsiguda	8-conj:and-10	
+,	null	
+Chandrayangutta	8-conj:and-12	
+and	8-cc-13	
+Shamshabad	8-conj:and-14	
+airport	4-xcomp-15	
+early	15-advmod-16	
+on	18-case-17	
+Thursday	16-nmod:on-18	
+for	20-mark-19	
+ferrying	15-advcl-20	
+passengers	20-dobj-21	
+.	null	

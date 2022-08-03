@@ -1,15 +1,15 @@
-“	0	0	0	0	0	CD	0	
-Amid	0	0	0	0	0	IN	0	
-stone-throwing	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-some	0	0	0	0	0	DT	0	
-rounds	khooTrig	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-fired	0	0	0	0	0	VBN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-convoy	0	0	0	0	0	NN	0	
-going	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-Kupwara	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+“	7-nmod:amid-0	
+Amid	0-case-1	
+stone-throwing	0-dep-2	
+,	null	
+some	5-det-4	
+rounds	7-nsubjpass-5	
+were	7-auxpass-6	
+fired	7	
+at	10-case-8	
+the	10-det-9	
+convoy	7-nmod:at-10	
+going	7-xcomp-11	
+to	13-case-12	
+Kupwara	11-nmod:to-13	
+.	null	

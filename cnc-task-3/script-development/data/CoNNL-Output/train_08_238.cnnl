@@ -1,34 +1,34 @@
-Fasting	0	0	0	0	0	NNP	0	
-Jagan	0	0	0	0	0	NNP	0	
-denied	0	0	0	0	0	VBD	implicit_negative	
-mulakats	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-27th	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
-August	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
-2013	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
-11	0	0	in_implicit_neg_trig_domain	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-23	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	VBG	0	
-The	0	0	0	0	0	DT	0	
-indefinite	0	0	0	0	0	JJ	0	
-fast	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-YSR	0	0	0	0	person	NNP	0	
-Congress	0	0	0	0	person	NNP	0	
-chief	0	0	0	0	0	JJ	0	
-YS	0	0	0	0	person	NNP	0	
-Jaganmohan	0	0	0	0	person	NNP	0	
-Reddy	0	0	0	0	person	NNP	0	
-in	0	0	0	0	0	IN	0	
-protest	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-state	0	0	0	0	0	NN	0	
-division	0	0	0	0	0	NN	0	
-continued	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-second	0	0	0	0	0	JJ	0	
-day	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Fasting	1-compound-0	
+Jagan	2-nsubj-1	
+denied	2	
+mulakats	2-dobj-3	
+27th	5-amod-4	
+August	2-nmod:tmod-5	
+2013	5-nummod-6	
+11	9-nummod-7	
+:	null	
+23	26-nsubj-9	
+AM	13-cop-10	
+The	13-det-11	
+indefinite	13-amod-12	
+fast	9-acl-13	
+of	20-case-14	
+YSR	20-compound-15	
+Congress	20-compound-16	
+chief	20-amod-17	
+YS	20-compound-18	
+Jaganmohan	20-compound-19	
+Reddy	13-nmod:of-20	
+in	22-case-21	
+protest	13-nmod:in-22	
+against	25-case-23	
+state	25-compound-24	
+division	22-nmod:against-25	
+continued	2-dep-26	
+on	30-case-27	
+the	30-det-28	
+second	30-amod-29	
+day	26-nmod:on-30	
+on	32-case-31	
+Monday	26-nmod:on-32	
+.	null	

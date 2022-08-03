@@ -1,18 +1,18 @@
-April	0	0	0	0	date	NNP	0	
-26	0	0	0	0	date	CD	0	
-Three	0	0	0	0	date	CD	0	
-policemen	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-two	0	0	0	0	0	CD	0	
-CPI-Maoist	0	0	0	0	0	JJ	0	
-cadres	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-killed	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-encounter	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Dumka	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Jharkhand	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+April	9-nmod:tmod-0	
+26	0-nummod-1	
+Three	3-nummod-2	
+policemen	9-nsubjpass-3	
+and	3-cc-4	
+two	7-nummod-5	
+CPI-Maoist	7-amod-6	
+cadres	9-nsubjpass-7	
+were	9-auxpass-8	
+killed	9	
+in	12-case-10	
+an	12-det-11	
+encounter	9-nmod:in-12	
+in	14-case-13	
+Dumka	12-nmod:in-14	
+,	null	
+Jharkhand	14-appos-16	
+.	null	

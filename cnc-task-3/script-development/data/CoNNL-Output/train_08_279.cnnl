@@ -1,35 +1,35 @@
-The	0	0	0	0	0	DT	0	
-bus	0	0	0	0	0	NN	0	
-stop	0	0	0	0	0	VB	0	
-walls	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-soon	0	0	0	0	0	RB	0	
-covered	khooTrig	0	0	0	0	VBN	0	
-with	0	0	0	0	0	IN	0	
-posters	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-many	0	0	0	0	0	JJ	0	
-of	0	0	0	0	0	IN	0	
-them	0	0	0	0	0	PRP	0	
-exhorting	0	0	0	0	0	VBG	0	
-people	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-"	0	0	0	0	0	``	0	
-continue	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-struggle	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-patriarchy	0	0	0	0	0	NN	0	
-so	0	0	0	0	0	RB	0	
-that	0	0	0	0	0	IN	0	
-every	0	0	0	0	0	DT	0	
-woman	0	0	0	0	0	NN	0	
-can	khooTrig	0	0	1	0	MD	modal	
-live	0	1	in_modal_trig_domain	0	0	VB	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-life	0	1	in_modal_trig_domain	0	0	NN	0	
-free	0	1	in_modal_trig_domain	0	0	JJ	0	
-of	0	1	in_modal_trig_domain	0	0	IN	0	
-violence	0	1	in_modal_trig_domain	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-.	0	0	0	0	0	.	0	
+The	3-det-0	
+bus	3-compound-1	
+stop	3-dep-2	
+walls	6-nsubjpass-3	
+were	6-auxpass-4	
+soon	6-advmod-5	
+covered	6	
+with	8-case-7	
+posters	6-nmod:with-8	
+,	null	
+many	8-appos-10	
+of	13-mark-11	
+them	13-nsubj-12	
+exhorting	10-acl-13	
+people	13-dobj-14	
+to	17-mark-15	
+"	null	
+continue	13-xcomp-17	
+the	19-det-18	
+struggle	17-dobj-19	
+against	21-case-20	
+patriarchy	19-nmod:against-21	
+so	27-mark-22	
+that	22-mwe-23	
+every	25-det-24	
+woman	27-nsubj-25	
+can	27-aux-26	
+live	17-advcl-27	
+a	29-det-28	
+life	30-nsubj-29	
+free	27-xcomp-30	
+of	32-case-31	
+violence	30-nmod:of-32	
+"	null	
+.	null	

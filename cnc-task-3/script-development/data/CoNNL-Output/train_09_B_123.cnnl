@@ -1,0 +1,16 @@
+He	1-nsubj-0	
+said	1	
+an	3-det-2	
+attack	11-nsubj-3	
+on	6-case-4	
+the	6-det-5	
+transport	3-nmod:on-6	
+of	8-case-7	
+goods	6-nmod:of-8	
+was	11-cop-9	
+an	11-det-10	
+attack	1-ccomp-11	
+on	14-case-12	
+the	14-det-13	
+economy	11-nmod:on-14	
+.	null	

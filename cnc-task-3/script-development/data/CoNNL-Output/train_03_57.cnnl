@@ -1,29 +1,29 @@
-DUT	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-closed	0	0	0	0	0	JJ	0	
-last	0	0	0	0	date	JJ	0	
-week	0	0	0	0	date	NN	0	
-after	0	0	0	0	0	IN	0	
-about	0	0	0	0	0	RB	0	
-300	0	0	0	0	0	CD	0	
-students	0	0	0	0	0	NNS	0	
-clashed	khooTrig	0	0	0	0	VBD	0	
-with	0	0	0	0	0	IN	0	
-police	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-campus	0	0	0	0	0	NN	0	
-security	0	0	0	0	0	NN	0	
-personnel	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-running	khooTrig	0	0	0	0	VBG	0	
-battles	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-institution	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-Steve	0	0	0	0	person	NNP	0	
-Biko	0	0	0	0	person	NNP	0	
-campus	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Durban	0	0	0	0	location	NNP	0	
-.	0	0	0	0	0	.	0	
+DUT	2-nsubj-0	
+was	2-cop-1	
+closed	2	
+last	4-amod-3	
+week	2-nmod:tmod-4	
+after	9-mark-5	
+about	7-advmod-6	
+300	8-nummod-7	
+students	9-nsubj-8	
+clashed	2-advcl-9	
+with	15-case-10	
+police	15-compound-11	
+and	11-cc-12	
+campus	15-compound-13	
+security	15-compound-14	
+personnel	9-nmod:with-15	
+in	17-mark-16	
+running	9-advcl-17	
+battles	17-dobj-18	
+on	25-case-19	
+the	21-det-20	
+institution	25-nmod:poss-21	
+'s	21-case-22	
+Steve	25-compound-23	
+Biko	25-compound-24	
+campus	18-nmod:on-25	
+in	27-case-26	
+Durban	17-nmod:in-27	
+.	null	

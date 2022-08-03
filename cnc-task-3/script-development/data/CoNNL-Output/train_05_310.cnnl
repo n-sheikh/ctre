@@ -1,0 +1,16 @@
+People	1-nsubj-0	
+remained	1	
+glued	1-xcomp-2	
+to	6-case-3	
+the	6-det-4	
+television	6-compound-5	
+boxes	2-nmod:to-6	
+watching	6-acl-7	
+the	9-det-8	
+incidents	7-dobj-9	
+that	11-nsubj-10	
+unfolded	6-acl:relcl-11	
+during	14-case-12	
+the	14-det-13	
+march	11-nmod:during-14	
+.	null	

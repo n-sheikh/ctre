@@ -1,34 +1,34 @@
-Cosatu	0	0	0	0	0	NNP	0	
-members	0	0	0	0	0	NNS	0	
-clashed	khooTrig	0	0	0	0	VBD	0	
-with	0	0	0	0	0	IN	0	
-DA	0	0	0	0	0	NNP	0	
-supporters	0	0	0	0	0	NNS	0	
-as	0	0	0	0	0	IN	0	
-they	0	0	0	0	0	PRP	0	
-made	khooTrig	0	0	0	0	VBD	0	
-their	0	0	0	0	0	PRP$	0	
-way	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-lawns	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Joburg	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-formerly	0	0	0	0	0	RB	0	
-the	0	0	0	0	0	DT	0	
-Civic	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-Theatre	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-50	0	0	0	0	0	CD	0	
-metres	0	0	0	0	0	NNS	0	
-from	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-trade	0	0	0	0	0	NN	0	
-union	0	0	0	0	0	NN	0	
-federation	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-office	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Cosatu	1-compound-0	
+members	2-nsubj-1	
+clashed	2	
+with	5-case-3	
+DA	5-compound-4	
+supporters	2-nmod:with-5	
+as	8-mark-6	
+they	8-nsubj-7	
+made	2-advcl-8	
+their	10-nmod:poss-9	
+way	8-dobj-10	
+to	13-case-11	
+the	13-det-12	
+lawns	8-nmod:to-13	
+of	22-case-14	
+the	22-det-15	
+Joburg	22-compound-16	
+(	null	
+formerly	20-dep-18	
+the	20-det-19	
+Civic	22-dep-20	
+)	null	
+Theatre	13-nmod:of-22	
+,	null	
+50	25-nummod-24	
+metres	13-appos-25	
+from	32-case-26	
+the	30-det-27	
+trade	30-compound-28	
+union	30-compound-29	
+federation	32-nmod:poss-30	
+'s	30-case-31	
+office	25-nmod:from-32	
+.	null	

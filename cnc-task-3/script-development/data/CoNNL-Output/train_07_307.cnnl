@@ -1,40 +1,40 @@
-While	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-spark	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-current	0	0	0	0	0	JJ	0	
-wave	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-protests	0	0	0	0	0	NNS	0	
-was	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-attempt	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-chief	0	0	0	0	0	JJ	0	
-executive	0	0	0	0	0	NN	0	
-Carrie	0	0	0	0	person	NNP	0	
-Lam	0	0	0	0	person	NNP	0	
-to	0	0	0	0	0	TO	0	
-pass	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-Beijing-backed	0	0	0	0	0	JJ	0	
-extradition	0	0	0	0	0	NN	0	
-law	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-demonstrations	0	0	0	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-morphed	0	0	0	0	0	VBN	0	
-into	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-wider	0	0	0	0	0	JJR	0	
-movement	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-Lam	0	0	0	0	person	NNP	0	
-’	0	0	0	0	0	JJ	0	
-s	0	0	0	0	0	JJ	0	
-administration	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-Beijing	0	0	0	0	location	NNP	0	
-.	0	0	0	0	0	.	0	
+While	11-mark-0	
+the	2-det-1	
+spark	11-nsubj-2	
+for	6-case-3	
+the	6-det-4	
+current	6-amod-5	
+wave	2-nmod:for-6	
+of	8-case-7	
+protests	6-nmod:of-8	
+was	11-cop-9	
+an	11-det-10	
+attempt	27-advcl-11	
+by	16-case-12	
+chief	16-amod-13	
+executive	16-compound-14	
+Carrie	16-compound-15	
+Lam	11-nmod:by-16	
+to	18-mark-17	
+pass	11-acl-18	
+the	22-det-19	
+Beijing-backed	22-amod-20	
+extradition	22-compound-21	
+law	18-dobj-22	
+,	null	
+the	25-det-24	
+demonstrations	27-nsubj-25	
+have	27-aux-26	
+morphed	27	
+into	31-case-28	
+a	31-det-29	
+wider	31-amod-30	
+movement	27-nmod:into-31	
+against	36-case-32	
+Lam	36-compound-33	
+’	36-amod-34	
+s	36-amod-35	
+administration	31-nmod:against-36	
+and	36-cc-37	
+Beijing	36-conj:and-38	
+.	null	

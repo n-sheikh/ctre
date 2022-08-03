@@ -1,44 +1,44 @@
-Friday	0	0	0	0	date	NNP	0	
-was	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-concluding	0	0	0	0	0	JJ	0	
-day	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Rahul	0	0	0	0	person	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	NNP	0	
-three-day	0	0	0	0	0	JJ	0	
-tour	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Amethi	0	0	0	0	0	NNP	0	
-where	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-launched	khooTrig	0	0	0	0	VBD	0	
-several	0	0	0	0	0	JJ	0	
-important	0	0	0	0	0	JJ	0	
-projects	khooTrig	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-addressed	mcmTrig	0	0	0	0	VBD	0	
-party	0	0	0	0	0	NN	0	
-workers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-met	0	0	0	0	0	VBD	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-women	0	0	0	0	0	NNS	0	
-’	0	0	0	0	0	NNS	0	
-s	0	0	0	0	0	VBZ	0	
-self-help	0	0	0	0	0	JJ	0	
-groups	khooTrig	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-held	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-public	0	0	0	0	0	JJ	0	
-meeting	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-besides	0	0	0	0	0	IN	0	
-reviewing	0	0	0	0	0	VBG	0	
-various	0	0	0	0	0	JJ	0	
-development	0	0	0	0	0	NN	0	
-works	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Friday	4-nsubj-0	
+was	4-cop-1	
+the	4-det-2	
+concluding	4-amod-3	
+day	4	
+of	10-case-5	
+Rahul	10-compound-6	
+’	10-compound-7	
+s	10-compound-8	
+three-day	10-amod-9	
+tour	4-nmod:of-10	
+of	12-case-11	
+Amethi	4-nmod:of-12	
+where	15-advmod-13	
+he	33-nsubj-14	
+launched	4-acl:relcl-15	
+several	18-amod-16	
+important	18-amod-17	
+projects	15-dobj-18	
+,	null	
+addressed	15-conj:and-20	
+party	22-compound-21	
+workers	20-dobj-22	
+,	null	
+met	15-conj:and-24	
+members	31-nsubj-25	
+of	28-case-26	
+women	28-compound-27	
+’	25-nmod:of-28	
+s	31-cop-29	
+self-help	31-amod-30	
+groups	24-ccomp-31	
+and	15-cc-32	
+held	15-conj:and-33	
+a	36-det-34	
+public	36-amod-35	
+meeting	33-dobj-36	
+,	null	
+besides	39-mark-38	
+reviewing	4-advcl-39	
+various	42-amod-40	
+development	42-compound-41	
+works	39-dobj-42	
+.	null	

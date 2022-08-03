@@ -1,0 +1,16 @@
+Ex	8-nsubj-0	
+-	null	
+Congress	5-compound-2	
+MP	5-compound-3	
+Ehasan	5-compound-4	
+Jafri	0-dep-5	
+was	8-cop-6	
+among	8-case-7	
+those	8	
+killed	8-acl-9	
+in	14-case-10	
+the	14-det-11	
+Gulberg	14-compound-12	
+Society	14-compound-13	
+riots	9-nmod:in-14	
+.	null	

@@ -1,33 +1,33 @@
-A	0	0	0	0	0	DT	0	
-guard	0	0	0	0	0	NN	0	
-said	0	0	0	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	``	0	
-When	0	0	0	0	0	WRB	0	
-Jha	0	0	0	0	0	NNP	0	
-did	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-get	khooTrig	0	in_explicit_neg_trig_domain	0	0	VB	0	
-leave	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-till	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-four	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
-hours	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-before	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-departure	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-of	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-his	0	0	in_explicit_neg_trig_domain	0	0	PRP$	0	
-train	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-he	0	0	0	0	0	PRP	0	
-hanged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-poster	0	0	0	0	0	NN	0	
-around	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-neck	0	0	0	0	0	NN	0	
-announcing	0	0	0	0	0	VBG	0	
-an	0	0	0	0	0	DT	0	
-indefinite	0	0	0	0	0	JJ	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+A	1-det-0	
+guard	2-nsubj-1	
+said	2	
+,	null	
+"	null	
+When	10-advmod-5	
+Jha	10-nsubj-6	
+did	10-aux-7	
+not	10-neg-8	
+get	10-aux-9	
+leave	21-advcl-10	
+till	13-case-11	
+four	13-nummod-12	
+hours	10-nmod:till-13	
+before	15-case-14	
+departure	10-nmod:before-15	
+of	18-case-16	
+his	18-nmod:poss-17	
+train	15-nmod:of-18	
+,	null	
+he	21-nsubj-20	
+hanged	2-ccomp-21	
+a	23-det-22	
+poster	21-dobj-23	
+around	26-case-24	
+his	26-nmod:poss-25	
+neck	21-nmod:around-26	
+announcing	21-xcomp-27	
+an	31-det-28	
+indefinite	31-amod-29	
+hunger	31-compound-30	
+strike	27-dobj-31	
+.	null	

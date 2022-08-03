@@ -1,43 +1,43 @@
-We	0	0	0	0	0	PRP	0	
-must	0	0	0	1	0	MD	modal	
-say	0	1	in_modal_trig_domain	0	0	VB	0	
-that	0	1	in_modal_trig_domain	0	0	IN	0	
-we	0	1	in_modal_trig_domain	0	0	PRP	0	
-were	0	1	in_modal_trig_domain	0	0	VBD	0	
-shocked	khooTrig	1	in_modal_trig_domain	0	0	VBN	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-scared	khooTrig	1	in_modal_trig_domain	0	0	VBN	0	
-that	0	1	in_modal_trig_domain	0	0	DT	0	
-20	0	1	in_modal_trig_domain	0	0	CD	0	
-years	0	1	in_modal_trig_domain	0	0	NNS	0	
-into	0	1	in_modal_trig_domain	0	0	IN	0	
-democracy	0	1	in_modal_trig_domain	0	0	NN	0	
-when	0	1	in_modal_trig_domain	0	0	WRB	0	
-black	0	1	in_modal_trig_domain	0	0	JJ	0	
-children	0	1	in_modal_trig_domain	0	0	NNS	0	
-march	0	1	in_modal_trig_domain	0	0	VBP	0	
-for	0	1	in_modal_trig_domain	0	0	IN	0	
-their	0	1	in_modal_trig_domain	0	0	PRP$	0	
-right	khooTrig	1	in_modal_trig_domain	0	0	NN	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-education	0	1	in_modal_trig_domain	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-they	0	0	0	0	0	PRP	0	
-can	khooTrig	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-stopped	0	1	in_modal_trig_domain	0	0	VBN	0	
-by	0	1	in_modal_trig_domain	0	0	IN	0	
-violent	0	1	in_modal_trig_domain	0	0	JJ	0	
-police	0	1	in_modal_trig_domain	0	0	NNS	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-intimidated	khooTrig	1	in_modal_trig_domain	0	0	VBN	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-told	0	1	in_modal_trig_domain	0	0	VBN	0	
-that	0	1	in_modal_trig_domain	0	0	IN	0	
-they	0	1	in_modal_trig_domain	0	0	PRP	0	
-are	0	1	in_modal_trig_domain	0	0	VBP	0	
-disrupting	khooTrig	1	in_modal_trig_domain	0	0	VBG	0	
-business	0	1	in_modal_trig_domain	0	0	NN	0	
-in	0	1	in_modal_trig_domain	0	0	IN	0	
-town	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+We	2-nsubj-0	
+must	2-aux-1	
+say	27-ccomp-2	
+that	6-mark-3	
+we	8-nsubjpass-4	
+were	6-auxpass-5	
+shocked	2-ccomp-6	
+and	6-cc-7	
+scared	6-conj:and-8	
+that	11-det-9	
+20	11-nummod-10	
+years	6-dobj-11	
+into	13-case-12	
+democracy	11-nmod:into-13	
+when	17-advmod-14	
+black	16-amod-15	
+children	17-nsubj-16	
+march	6-advcl-17	
+for	20-case-18	
+their	20-nmod:poss-19	
+right	17-nmod:for-20	
+to	22-case-21	
+education	17-nmod:to-22	
+,	null	
+they	34-nsubjpass-24	
+can	27-aux-25	
+be	27-auxpass-26	
+stopped	27	
+by	30-case-28	
+violent	30-amod-29	
+police	27-nmod:agent-30	
+,	null	
+intimidated	27-conj:and-32	
+and	27-cc-33	
+told	27-conj:and-34	
+that	38-mark-35	
+they	38-nsubj-36	
+are	38-aux-37	
+disrupting	34-ccomp-38	
+business	38-dobj-39	
+in	41-case-40	
+town	38-nmod:in-41	
+.	null	

@@ -1,17 +1,17 @@
-The	0	0	0	0	0	DT	0	
-lorry	0	0	0	0	0	NN	0	
-owners	0	0	0	0	0	NNS	0	
-’	0	0	0	0	0	JJ	0	
-association	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-staging	khooTrig	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-road	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-near	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-Ambedkar	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-Circle	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	4-det-0	
+lorry	4-compound-1	
+owners	4-compound-2	
+’	4-amod-3	
+association	6-nsubj-4	
+was	6-aux-5	
+staging	6	
+a	8-det-7	
+protest	6-dobj-8	
+by	10-mark-9	
+blocking	6-advcl-10	
+the	12-det-11	
+road	10-dobj-12	
+near	15-case-13	
+Ambedkar	15-compound-14	
+Circle	12-nmod:near-15	
+.	null	

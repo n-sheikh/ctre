@@ -1,0 +1,13 @@
+Thackeray	1-nsubj-0	
+demanded	1	
+the	3-det-2	
+state	4-nsubj-3	
+postpone	1-ccomp-4	
+HSC	6-amod-5	
+exams	4-dobj-6	
+in	8-case-7	
+view	4-nmod:in-8	
+of	11-case-9	
+the	11-det-10	
+strike	8-nmod:of-11	
+.	null	

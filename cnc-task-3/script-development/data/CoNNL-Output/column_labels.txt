@@ -1,8 +1,2 @@
 tokenString
-causality_trigger
-is_in_scope_of_modal_trigger?
-is_in_scope_of_trigger?
-is_modal_trigger?
-lookup
-pos
-trigger
+dependency

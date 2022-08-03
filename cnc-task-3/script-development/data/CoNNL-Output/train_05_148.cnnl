@@ -1,0 +1,17 @@
+They	2-nsubj-0	
+then	2-advmod-1	
+decided	2	
+to	4-mark-3	
+call	2-xcomp-4	
+off	4-compound:prt-5	
+the	7-det-6	
+protest	4-dobj-7	
+as	12-mark-8	
+the	10-det-9	
+police	12-nsubj-10	
+had	12-aux-11	
+ceded	7-acl:relcl-12	
+to	15-case-13	
+their	15-nmod:poss-14	
+demand	12-nmod:to-15	
+.	null	

@@ -1,28 +1,28 @@
-The	0	0	0	0	0	DT	0	
-strike	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-casual	0	0	0	0	0	JJ	0	
-workers	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-mail	0	0	0	0	0	NN	0	
-processing	0	0	0	0	0	NN	0	
-centres	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-some	0	0	0	0	0	DT	0	
-parts	khooTrig	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Gauteng	0	0	0	0	0	NNP	0	
-has	0	0	0	0	0	VBZ	0	
-ended	khooTrig	0	0	0	0	VBN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-SA	0	0	0	0	0	NNP	0	
-Post	0	0	0	0	0	NNP	0	
-Office	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-SAPO	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-said	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-Friday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+strike	15-nsubj-1	
+by	4-case-2	
+casual	4-amod-3	
+workers	1-nmod:by-4	
+at	8-case-5	
+mail	8-compound-6	
+processing	8-compound-7	
+centres	1-nmod:at-8	
+in	11-case-9	
+some	11-det-10	
+parts	8-nmod:in-11	
+of	13-case-12	
+Gauteng	11-nmod:of-13	
+has	15-aux-14	
+ended	24-ccomp-15	
+,	null	
+the	20-det-17	
+SA	20-compound-18	
+Post	20-compound-19	
+Office	24-nsubj-20	
+(	null	
+SAPO	20-appos-22	
+)	null	
+said	24	
+on	26-case-25	
+Friday	24-nmod:on-26	
+.	null	

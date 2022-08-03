@@ -1,23 +1,23 @@
-He	0	0	0	0	0	PRP	0	
-warned	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-DA	0	0	0	0	0	NNP	0	
-about	0	0	0	0	0	IN	0	
-what	0	0	0	0	0	WP	0	
-happened	0	0	0	0	0	VBD	0	
-when	0	0	0	0	0	WRB	0	
-it	0	0	0	0	0	PRP	0	
-marched	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-Congress	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-SA	0	0	0	0	0	NNP	0	
-Trade	0	0	0	0	0	NNP	0	
-Unions	0	0	0	0	0	NNP	0	
-'	0	0	0	0	0	POS	0	
-office	0	0	0	0	0	NN	0	
-two	0	0	0	0	0	CD	0	
-years	0	0	0	0	0	NNS	0	
-ago	0	0	0	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+He	1-nsubj-0	
+warned	1	
+the	3-det-2	
+DA	1-dobj-3	
+about	6-mark-4	
+what	6-nsubj-5	
+happened	1-advcl-6	
+when	9-advmod-7	
+it	9-nsubj-8	
+marched	6-advcl-9	
+to	12-case-10	
+the	12-det-11	
+Congress	9-nmod:to-12	
+of	18-case-13	
+SA	16-compound-14	
+Trade	16-compound-15	
+Unions	18-nmod:poss-16	
+'	16-case-17	
+office	12-nmod:of-18	
+two	20-nummod-19	
+years	21-nmod:npmod-20	
+ago	9-advmod-21	
+.	null	

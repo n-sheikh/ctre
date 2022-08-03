@@ -1,52 +1,52 @@
-(	0	0	0	0	0	(	0	
-Photo	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-PTI	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-JAMMU	0	0	0	0	0	NNS	0	
-:	0	0	0	0	0	:	0	
-The	0	0	0	0	0	DT	0	
-battle	0	0	0	0	0	NN	0	
-raging	0	0	0	0	0	VBG	0	
-between	0	0	0	0	0	IN	0	
-militants	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-security	0	0	0	0	0	NN	0	
-forces	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mountainous	0	0	0	0	0	JJ	0	
-forested	0	0	0	0	0	JJ	0	
-area	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Poonch	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Jammu	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Kashmir	0	0	0	0	0	NNP	0	
-continued	0	0	0	0	0	VBD	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-seventh	0	0	0	0	0	JJ	0	
-day	0	0	0	0	0	NN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-and	0	0	0	0	0	CC	0	
-army	0	0	0	0	0	NN	0	
-officials	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-intruders	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-tried	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-breach	khooTrig	0	0	0	0	VB	implicit_negative	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-security	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-cordon	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-laid	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-around	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-area	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-overnight	0	0	in_implicit_neg_trig_domain	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+(	null	
+Photo	5-appos-1	
+:	null	
+PTI	1-dep-3	
+)	null	
+JAMMU	5	
+:	null	
+The	8-det-7	
+battle	27-nsubj-8	
+raging	8-acl-9	
+between	11-case-10	
+militants	9-nmod:between-11	
+and	11-cc-12	
+security	14-compound-13	
+forces	11-conj:and-14	
+in	19-case-15	
+the	19-det-16	
+mountainous	19-amod-17	
+forested	19-amod-18	
+area	9-nmod:in-19	
+of	22-case-20	
+Poonch	22-compound-21	
+district	19-nmod:of-22	
+in	24-case-23	
+Jammu	9-nmod:in-24	
+and	24-cc-25	
+Kashmir	24-conj:and-26	
+continued	5-parataxis-27	
+for	31-case-28	
+the	31-det-29	
+seventh	31-amod-30	
+day	27-nmod:for-31	
+Wednesday	27-nmod:tmod-32	
+and	27-cc-33	
+army	35-compound-34	
+officials	36-nsubj-35	
+said	27-conj:and-36	
+the	38-det-37	
+intruders	40-nsubj-38	
+had	40-aux-39	
+tried	36-ccomp-40	
+to	42-mark-41	
+breach	40-xcomp-42	
+the	45-det-43	
+security	45-compound-44	
+cordon	42-dobj-45	
+laid	45-acl-46	
+around	49-case-47	
+the	49-det-48	
+area	46-nmod:around-49	
+overnight	42-advmod-50	
+.	null	

@@ -1,64 +1,64 @@
-KADAPA	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Panchayat	0	0	0	0	person	NNP	0	
-workers	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-September	0	0	0	0	date	NNP	0	
-05	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2010	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	NNP	0	
-IST	0	0	0	0	person	NNP	0	
-Gram	0	0	0	0	person	NNP	0	
-Panchayat	0	0	0	0	person	NNP	0	
-Employees	0	0	0	0	0	NNP	0	
-'	0	0	0	0	0	POS	0	
-and	0	0	0	0	0	CC	0	
-Workers	0	0	0	0	0	NNP	0	
-'	0	0	0	0	0	POS	0	
-Union	0	0	0	0	0	NNP	0	
-members	0	0	0	0	0	NNS	0	
-launched	khooTrig	0	0	0	0	VBD	0	
-relay	khooTrig	0	0	0	0	JJ	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Collectorate	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-demanding	0	0	0	0	0	VBG	0	
-implementation	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-G	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-O	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-No	0	0	0	0	person	NNP	explicit_negative	
-.	0	0	0	0	0	.	0	
-39	0	0	0	0	0	CD	0	
-to	0	0	0	0	0	TO	0	
-upgrade	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-posts	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-village	0	0	0	0	0	NN	0	
-servants	0	0	0	0	0	NNS	0	
-as	0	0	0	0	0	IN	0	
-Village	0	0	0	0	0	NNP	0	
-Revenue	0	0	0	0	0	NNP	0	
-Officers	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-promote	mcmTrig	0	0	0	0	VB	0	
-eligible	0	0	0	0	0	JJ	0	
-ones	0	0	0	0	0	NNS	0	
-as	0	0	0	0	0	IN	0	
-Panchayat	0	0	0	0	person	NNP	0	
-Secretaries	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+KADAPA	0	
+:	null	
+Panchayat	3-compound-2	
+workers	0-dep-3	
+on	6-case-4	
+hunger	6-compound-5	
+strike	3-nmod:on-6	
+September	6-dep-7	
+05	7-nummod-8	
+,	null	
+2010	7-nummod-10	
+00	42-dep-11	
+:	null	
+00	17-compound-13	
+IST	17-compound-14	
+Gram	17-compound-15	
+Panchayat	17-compound-16	
+Employees	11-dep-17	
+'	17-case-18	
+and	17-cc-19	
+Workers	17-conj:and-20	
+'	20-case-21	
+Union	23-compound-22	
+members	24-nsubj-23	
+launched	17-acl:relcl-24	
+relay	27-amod-25	
+hunger	27-compound-26	
+strike	24-dobj-27	
+in	32-case-28	
+front	28-mwe-29	
+of	28-mwe-30	
+the	32-det-31	
+Collectorate	27-nmod:in_front_of-32	
+on	34-case-33	
+Saturday	24-nmod:on-34	
+demanding	24-xcomp-35	
+implementation	35-dobj-36	
+of	40-case-37	
+G	40-compound-38	
+.	null	
+O	36-nmod:of-40	
+.	null	
+No	3-dep-42	
+.	null	
+39	0	
+to	2-mark-1	
+upgrade	0-dep-2	
+the	4-det-3	
+posts	2-dobj-4	
+of	7-case-5	
+village	7-compound-6	
+servants	4-nmod:of-7	
+as	11-case-8	
+Village	11-compound-9	
+Revenue	11-compound-10	
+Officers	2-nmod:as-11	
+and	2-cc-12	
+promote	2-conj:and-13	
+eligible	15-amod-14	
+ones	13-dobj-15	
+as	18-case-16	
+Panchayat	18-compound-17	
+Secretaries	13-nmod:as-18	
+.	null	

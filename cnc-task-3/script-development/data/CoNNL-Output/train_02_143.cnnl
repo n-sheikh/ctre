@@ -1,26 +1,26 @@
-When	0	0	0	0	0	WRB	0	
-they	0	0	0	0	0	PRP	0	
-failed	0	0	0	0	0	VBD	implicit_negative	
-to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
-comply	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-team	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-MC	0	0	0	0	0	NNP	0	
-officials	0	0	0	0	0	NNS	0	
-was	0	0	0	0	0	VBD	0	
-dispatched	khooTrig	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-serve	0	0	0	0	0	VB	0	
-a	0	0	0	0	0	DT	0	
-final	0	0	0	0	0	JJ	0	
-notice	0	0	0	0	0	NN	0	
-which	0	0	0	0	0	WDT	0	
-came	0	0	0	0	0	VBD	0	
-under	0	0	0	0	0	IN	0	
-attack	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mob	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+When	2-advmod-0	
+they	2-nsubj-1	
+failed	12-advcl-2	
+to	4-mark-3	
+comply	2-xcomp-4	
+,	null	
+a	7-det-6	
+team	12-nsubjpass-7	
+of	10-case-8	
+MC	10-compound-9	
+officials	7-nmod:of-10	
+was	12-auxpass-11	
+dispatched	12	
+to	14-mark-13	
+serve	12-xcomp-14	
+a	17-det-15	
+final	17-amod-16	
+notice	14-dobj-17	
+which	19-nsubj-18	
+came	17-acl:relcl-19	
+under	21-case-20	
+attack	19-nmod:under-21	
+by	24-case-22	
+the	24-det-23	
+mob	21-nmod:by-24	
+.	null	

@@ -1,42 +1,42 @@
-At	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-April	0	0	0	0	date	NNP	0	
-30	0	0	0	0	date	CD	0	
-election	0	0	0	0	0	NN	0	
-rally	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Khalilabad	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Sant	0	0	0	0	0	NNP	0	
-Kabir	0	0	0	0	0	NNP	0	
-Nagar	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Uttar	0	0	0	0	0	NNP	0	
-Pradesh	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Azmi	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-:	0	0	0	0	0	:	0	
-"	0	0	0	0	0	``	0	
-If	0	0	0	0	0	IN	0	
-any	0	0	0	0	0	DT	0	
-Muslim	0	0	0	0	0	NN	0	
-opposes	0	0	0	0	0	VBZ	0	
-the	0	0	0	0	0	DT	0	
-Samajwadi	0	0	0	0	0	NNP	0	
-Party	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-have	0	0	0	0	0	VBP	0	
-a	0	0	0	0	0	DT	0	
-DNA	0	0	0	0	0	NN	0	
-test	0	0	0	0	0	NN	0	
-done	0	0	0	0	0	VBN	0	
-,	0	0	0	0	0	,	0	
-he	0	0	0	0	0	PRP	0	
-could	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-an	0	1	in_modal_trig_domain	0	0	DT	0	
-RSS	0	1	in_modal_trig_domain	0	0	NNP	0	
-man	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+At	5-case-0	
+an	5-det-1	
+April	5-compound-2	
+30	5-nummod-3	
+election	5-compound-4	
+rally	18-nmod:at-5	
+in	7-case-6	
+Khalilabad	5-nmod:in-7	
+in	12-case-8	
+Sant	12-compound-9	
+Kabir	12-compound-10	
+Nagar	12-compound-11	
+district	5-nmod:in-12	
+of	15-case-13	
+Uttar	15-compound-14	
+Pradesh	12-nmod:of-15	
+,	null	
+Azmi	18-nsubj-17	
+said	18	
+:	null	
+"	null	
+If	24-mark-21	
+any	23-det-22	
+Muslim	24-nsubj-23	
+opposes	40-advcl-24	
+the	27-det-25	
+Samajwadi	27-compound-26	
+Party	29-nsubj-27	
+,	null	
+have	24-ccomp-29	
+a	32-det-30	
+DNA	32-compound-31	
+test	29-dobj-32	
+done	32-acl-33	
+,	null	
+he	40-nsubj-35	
+could	40-aux-36	
+be	40-cop-37	
+an	40-det-38	
+RSS	40-compound-39	
+man	18-ccomp-40	
+.	null	

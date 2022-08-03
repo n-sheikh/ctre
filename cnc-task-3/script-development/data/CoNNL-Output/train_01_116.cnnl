@@ -1,60 +1,60 @@
-Jammu	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Delhi	0	0	0	0	location	NNP	0	
-court	0	0	0	0	0	NN	0	
-blast	0	0	0	0	0	NN	0	
-accused	0	0	0	0	0	VBD	0	
-killed	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-Kishtwar	0	0	0	0	0	NNP	0	
-August	0	0	0	0	date	NNP	0	
-07	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2012	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-A	0	0	0	0	0	NNP	0	
-2011	0	0	0	0	date	NNP	0	
-Delhi	0	0	0	0	0	NNP	0	
-High	0	0	0	0	0	NNP	0	
-Court	0	0	0	0	0	NNP	0	
-blast	0	0	0	0	0	NN	0	
-accused	0	0	0	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-Amir	0	0	0	0	person	NNP	0	
-Ali	0	0	0	0	person	NNP	0	
-Kamal	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-among	0	0	0	0	0	IN	0	
-two	0	0	0	0	0	CD	0	
-Hizb—ul—	0	0	0	0	0	NNP	0	
-Mujahideen	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-HM	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-militants	0	0	0	0	0	NNS	0	
-killed	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-shootout	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-security	0	0	0	0	0	NN	0	
-forces	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mountainous	0	0	0	0	0	JJ	0	
-Kishtwar	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Jammu	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Kashmir	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-police	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+Jammu	37-nsubj-0	
+:	null	
+Delhi	4-compound-2	
+court	4-compound-3	
+blast	5-nsubj-4	
+accused	0-parataxis-5	
+killed	5-ccomp-6	
+in	8-case-7	
+Kishtwar	6-nmod:in-8	
+August	6-nmod:tmod-9	
+07	9-nummod-10	
+,	null	
+2012	9-nummod-12	
+00	6-dobj-13	
+:	null	
+00	22-nummod-15	
+IST	22-compound-16	
+A	22-compound-17	
+2011	22-compound-18	
+Delhi	22-compound-19	
+High	22-compound-20	
+Court	22-compound-21	
+blast	23-nsubj-22	
+accused	5-parataxis-23	
+,	null	
+Amir	27-compound-25	
+Ali	27-compound-26	
+Kamal	0-appos-27	
+,	null	
+was	37-cop-29	
+among	37-case-30	
+two	37-nummod-31	
+Hizb—ul—	37-compound-32	
+Mujahideen	37-compound-33	
+(	null	
+HM	37-appos-35	
+)	null	
+militants	58-ccomp-37	
+killed	37-acl-38	
+on	40-case-39	
+Monday	38-nmod:on-40	
+in	43-case-41	
+a	43-det-42	
+shootout	38-nmod:in-43	
+with	46-case-44	
+security	46-compound-45	
+forces	43-nmod:with-46	
+in	51-case-47	
+the	51-det-48	
+mountainous	51-amod-49	
+Kishtwar	51-compound-50	
+district	46-nmod:in-51	
+of	53-case-52	
+Jammu	51-nmod:of-53	
+and	53-cc-54	
+Kashmir	53-conj:and-55	
+,	null	
+police	58-nsubj-57	
+said	58	
+.	null	

@@ -1,0 +1,10 @@
+A	1-det-0	
+bodyguard	5-nsubjpass-1	
+of	3-case-2	
+Javed	1-nmod:of-3	
+was	5-auxpass-4	
+killed	5	
+in	8-case-6	
+that	8-det-7	
+attack	5-nmod:in-8	
+.	null	

@@ -1,25 +1,25 @@
-Mr	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Bommai	0	0	0	0	person	NNP	0	
-later	0	0	0	0	0	RB	0	
-told	0	0	0	0	0	VBD	0	
-presspersons	0	0	0	0	0	NNS	0	
-that	0	0	0	0	0	IN	0	
-whoever	0	0	0	0	0	WP	0	
-was	0	0	0	0	0	VBD	0	
-responsible	0	0	0	0	0	JJ	0	
-for	0	0	0	0	0	IN	0	
-forcing	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-protestors	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-stage	khooTrig	0	0	0	0	VB	0	
-such	0	0	0	0	0	PDT	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-would	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-dealt	khooTrig	1	in_modal_trig_domain	0	0	VBN	0	
-with	0	1	in_modal_trig_domain	0	0	IN	0	
-sternly	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Mr	2-compound-0	
+.	null	
+Bommai	4-nsubj-2	
+later	4-advmod-3	
+told	4	
+presspersons	4-dobj-5	
+that	21-mark-6	
+whoever	9-nsubj-7	
+was	9-cop-8	
+responsible	21-nsubjpass-9	
+for	11-mark-10	
+forcing	9-advcl-11	
+the	13-det-12	
+protestors	11-dobj-13	
+to	15-mark-14	
+stage	11-xcomp-15	
+such	18-det:predet-16	
+a	18-det-17	
+protest	15-dobj-18	
+would	21-aux-19	
+be	21-auxpass-20	
+dealt	4-ccomp-21	
+with	23-case-22	
+sternly	21-nmod:with-23	
+.	null	

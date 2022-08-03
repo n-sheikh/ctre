@@ -1,24 +1,24 @@
-Several	0	0	0	0	0	JJ	0	
-pro-	0	0	0	0	0	JJ	0	
-Telangana	0	0	0	0	0	NN	0	
-activists	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-arrested	khooTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-Choutuppal	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Bhongir	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Miryalguda	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-where	0	0	0	0	0	WRB	0	
-the	0	0	0	0	0	DT	0	
-Telugu	0	0	0	0	0	NNP	0	
-Desam	0	0	0	0	0	NNP	0	
-Party	0	0	0	0	0	NNP	0	
-extended	khooTrig	0	0	0	0	VBD	0	
-support	mcmTrig	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-agitation	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Several	3-amod-0	
+pro-	3-amod-1	
+Telangana	3-compound-2	
+activists	5-nsubjpass-3	
+were	5-auxpass-4	
+arrested	5	
+in	7-case-6	
+Choutuppal	5-nmod:in-7	
+,	null	
+Bhongir	7-conj:and-9	
+and	7-cc-10	
+Miryalguda	7-conj:and-11	
+,	null	
+where	18-advmod-13	
+the	17-det-14	
+Telugu	17-compound-15	
+Desam	17-compound-16	
+Party	18-nsubj-17	
+extended	7-acl:relcl-18	
+support	18-dobj-19	
+to	22-case-20	
+the	22-det-21	
+agitation	19-nmod:to-22	
+.	null	

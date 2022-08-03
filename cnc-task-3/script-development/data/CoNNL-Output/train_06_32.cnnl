@@ -1,0 +1,13 @@
+Brickbats	1-nsubj-0	
+flew	1	
+from	4-case-2	
+all	4-det-3	
+directions	1-nmod:from-4	
+and	1-cc-5	
+a	8-det-6	
+few	8-amod-7	
+knives	11-nsubjpass-8	
+were	11-auxpass-9	
+also	11-advmod-10	
+flashed	1-conj:and-11	
+.	null	

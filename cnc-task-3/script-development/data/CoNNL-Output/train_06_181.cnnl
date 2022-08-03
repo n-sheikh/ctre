@@ -1,20 +1,20 @@
-Almost	0	0	0	0	0	RB	0	
-all	0	0	0	0	0	DT	0	
-the	0	0	0	0	0	DT	0	
-organisations	0	0	0	0	0	NNS	0	
-associated	0	0	0	0	0	VBN	0	
-with	0	0	0	0	0	IN	0	
-doctors	khooTrig	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-PG	0	0	0	0	0	NNP	0	
-students	0	0	0	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-expressed	khooTrig	0	0	0	0	VBN	0	
-their	0	0	0	0	0	PRP$	0	
-solidarity	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-ongoing	0	0	0	0	0	JJ	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Almost	1-advmod-0	
+all	3-nummod-1	
+the	3-det-2	
+organisations	11-nsubj-3	
+associated	3-acl-4	
+with	6-case-5	
+doctors	4-nmod:with-6	
+and	6-cc-7	
+PG	9-compound-8	
+students	6-conj:and-9	
+have	11-aux-10	
+expressed	11	
+their	13-nmod:poss-12	
+solidarity	11-dobj-13	
+with	18-case-14	
+the	18-det-15	
+ongoing	18-amod-16	
+hunger	18-compound-17	
+strike	11-nmod:with-18	
+.	null	

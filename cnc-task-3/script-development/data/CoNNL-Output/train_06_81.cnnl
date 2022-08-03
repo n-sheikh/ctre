@@ -1,75 +1,75 @@
-Arrest	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-ISI	0	0	0	0	person	NNP	0	
-Spies	0	0	0	0	person	NNP	0	
-Have	0	0	0	0	0	VBP	0	
-Created	mcmTrig	0	0	0	0	VBN	0	
-Panic	khooTrig	0	0	0	0	NN	0	
-Among	0	0	0	0	0	IN	0	
-People	0	0	0	0	0	NNS	0	
-:	0	0	0	0	0	:	0	
-DMK	0	0	0	0	person	NNP	0	
-President	0	0	0	0	person	NNP	0	
-14th	0	0	0	0	date	NNP	0	
-September	0	0	0	0	date	NNP	0	
-2014	0	0	0	0	date	CD	0	
-01	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-12	0	0	0	0	date	CD	0	
-PM	0	0	0	0	date	NNP	0	
-CHENNAI	0	0	0	0	location	NNP	0	
-:	0	0	0	0	0	:	0	
-DMK	0	0	0	0	0	NNP	0	
-chief	0	0	0	0	0	NN	0	
-M	0	0	0	0	person	NNP	0	
-Karunanidhi	0	0	0	0	person	NNP	0	
-today	0	0	0	0	date	NN	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-arrest	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-ISI	0	0	0	0	person	NNP	0	
-spies	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-their	0	0	0	0	0	PRP$	0	
-activities	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Tamil	0	0	0	0	0	NNP	0	
-Nadu	0	0	0	0	0	NNP	0	
-has	0	0	0	0	0	VBZ	0	
-created	mcmTrig	0	0	0	0	VBN	0	
-panic	khooTrig	0	0	0	0	NN	0	
-among	0	0	0	0	0	IN	0	
-people	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-asked	0	0	0	0	0	VBN	0	
-why	0	0	0	0	0	WRB	0	
-no	0	0	0	0	0	DT	explicit_negative	
-arrests	khooTrig	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-been	0	0	0	0	0	VBN	0	
-made	khooTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-connection	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-May	0	0	0	0	date	NNP	0	
-1	0	0	0	0	date	CD	0	
-twin	0	0	0	0	0	JJ	0	
-bomb	0	0	0	0	0	NN	0	
-blasts	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-train	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Central	0	0	0	0	location	NNP	0	
-Railway	0	0	0	0	location	NNP	0	
-Station	0	0	0	0	location	NNP	0	
-in	0	0	0	0	0	IN	0	
-which	0	0	0	0	0	WDT	0	
-a	0	0	0	0	0	DT	0	
-woman	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-killed	0	0	0	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+Arrest	44-nsubj-0	
+of	3-case-1	
+ISI	3-compound-2	
+Spies	0-nmod:of-3	
+Have	5-aux-4	
+Created	5	
+Panic	5-dobj-6	
+Among	8-case-7	
+People	5-nmod:among-8	
+:	null	
+DMK	13-compound-10	
+President	13-compound-11	
+14th	13-compound-12	
+September	5-dep-13	
+2014	15-nummod-14	
+01	13-dep-15	
+:	null	
+12	19-nummod-17	
+PM	19-compound-18	
+CHENNAI	13-dep-19	
+:	null	
+DMK	24-compound-21	
+chief	24-compound-22	
+M	24-compound-23	
+Karunanidhi	26-nsubj-24	
+today	26-nsubj-25	
+said	19-parataxis-26	
+the	28-det-27	
+arrest	26-dobj-28	
+of	31-case-29	
+ISI	31-compound-30	
+spies	28-nmod:of-31	
+and	26-cc-32	
+their	34-nmod:poss-33	
+activities	39-nsubj-34	
+in	37-case-35	
+Tamil	37-compound-36	
+Nadu	34-nmod:in-37	
+has	39-aux-38	
+created	26-conj:and-39	
+panic	39-dobj-40	
+among	42-case-41	
+people	39-nmod:among-42	
+and	5-cc-43	
+asked	5-conj:and-44	
+why	50-advmod-45	
+no	47-neg-46	
+arrests	50-nsubjpass-47	
+have	50-aux-48	
+been	50-auxpass-49	
+made	44-ccomp-50	
+in	52-case-51	
+connection	50-nmod:in-52	
+with	55-case-53	
+the	55-det-54	
+May	50-nmod:with-55	
+1	59-nummod-56	
+twin	59-amod-57	
+bomb	59-compound-58	
+blasts	5-dobj-59	
+in	62-case-60	
+a	62-det-61	
+train	59-nmod:in-62	
+at	67-case-63	
+the	67-det-64	
+Central	67-compound-65	
+Railway	67-compound-66	
+Station	5-nmod:at-67	
+in	69-case-68	
+which	73-nmod:in-69	
+a	71-det-70	
+woman	73-nsubjpass-71	
+was	73-auxpass-72	
+killed	67-acl:relcl-73	
+.	null	

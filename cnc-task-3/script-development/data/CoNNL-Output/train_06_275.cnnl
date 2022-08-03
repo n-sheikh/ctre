@@ -1,0 +1,15 @@
+April	4-nmod:tmod-0	
+1	0-nummod-1	
+Four	3-nummod-2	
+people	4-nsubj-3	
+killed	4	
+at	8-case-5	
+Poradih-	8-amod-6	
+Chenpur	8-compound-7	
+village	4-nmod:at-8	
+in	11-case-9	
+Khunti	11-compound-10	
+district	4-nmod:in-11	
+of	13-case-12	
+Jharkhand	11-nmod:of-13	
+.	null	

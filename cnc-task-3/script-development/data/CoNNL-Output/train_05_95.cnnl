@@ -1,26 +1,26 @@
-The	0	0	0	0	0	DT	0	
-number	khooTrig	0	0	0	0	NN	0	
-four	0	0	0	0	0	CD	0	
-shaft	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-closed	khooTrig	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-night	0	0	0	0	0	NN	0	
-when	0	0	0	0	0	WRB	0	
-violence	0	0	0	0	0	NN	0	
-erupted	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-meeting	0	0	0	0	0	NN	0	
-attended	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-about	0	0	0	0	0	RB	0	
-750	0	0	0	0	0	CD	0	
-people	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-leading	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-deaths	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	3-det-0	
+number	3-compound-1	
+four	3-nummod-2	
+shaft	5-nsubjpass-3	
+was	5-auxpass-4	
+closed	5	
+on	8-case-6	
+Tuesday	8-compound-7	
+night	5-nmod:on-8	
+when	11-advmod-9	
+violence	11-nsubj-10	
+erupted	5-advcl-11	
+at	14-case-12	
+a	14-det-13	
+meeting	11-nmod:at-14	
+attended	14-acl-15	
+by	19-case-16	
+about	18-advmod-17	
+750	19-nummod-18	
+people	15-nmod:by-19	
+,	null	
+leading	11-xcomp-21	
+to	24-case-22	
+the	24-det-23	
+deaths	21-nmod:to-24	
+.	null	

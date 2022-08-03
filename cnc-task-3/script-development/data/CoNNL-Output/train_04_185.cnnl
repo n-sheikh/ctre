@@ -1,10 +1,10 @@
-They	0	0	0	0	0	PRP	0	
-were	0	0	0	0	0	VBD	0	
-attacking	0	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-student	0	0	0	0	0	NN	0	
-leader	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-a	0	0	0	0	0	DT	0	
-fighter	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+They	2-nsubj-0	
+were	2-aux-1	
+attacking	2	
+a	5-det-3	
+student	5-compound-4	
+leader	2-dobj-5	
+and	5-cc-6	
+a	8-det-7	
+fighter	5-conj:and-8	
+.	null	

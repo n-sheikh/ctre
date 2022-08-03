@@ -1,32 +1,32 @@
-"	0	0	0	0	0	``	0	
-We	0	0	0	0	0	PRP	0	
-conducted	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-march	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-request	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-global	0	0	0	0	0	JJ	0	
-leaders	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-re-design	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-policies	0	0	0	0	0	NNS	0	
-so	0	0	0	0	0	RB	0	
-that	0	0	0	0	0	IN	0	
-earth	0	0	0	0	0	NN	0	
-could	0	0	0	1	0	MD	modal	
-become	0	1	in_modal_trig_domain	0	0	VB	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-peaceful	0	1	in_modal_trig_domain	0	0	JJ	0	
-place	0	1	in_modal_trig_domain	0	0	NN	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-live	0	1	in_modal_trig_domain	0	0	VB	0	
-with	0	1	in_modal_trig_domain	0	0	IN	0	
-harmony	0	1	in_modal_trig_domain	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	''	0	
-said	0	0	0	0	0	VBD	0	
-Meeran	0	0	0	0	person	NNP	0	
-Haider	0	0	0	0	person	NNP	0	
-.	0	0	0	0	0	.	0	
+"	null	
+We	2-nsubj-1	
+conducted	28-ccomp-2	
+the	4-det-3	
+march	2-nmod:tmod-4	
+to	6-mark-5	
+request	2-advcl-6	
+the	9-det-7	
+global	9-amod-8	
+leaders	6-dobj-9	
+to	11-mark-10	
+re-design	6-advcl-11	
+the	13-det-12	
+policies	11-dobj-13	
+so	18-mark-14	
+that	14-mwe-15	
+earth	18-nsubj-16	
+could	18-aux-17	
+become	11-advcl-18	
+a	21-det-19	
+peaceful	21-amod-20	
+place	18-xcomp-21	
+to	23-mark-22	
+live	18-advcl-23	
+with	25-case-24	
+harmony	23-nmod:with-25	
+,	null	
+"	null	
+said	28	
+Meeran	30-compound-29	
+Haider	28-nsubj-30	
+.	null	

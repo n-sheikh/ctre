@@ -1,20 +1,20 @@
-Nobody	0	0	0	0	0	NN	explicit_negative	
-has	0	0	in_explicit_neg_trig_domain	0	0	VBZ	0	
-claimed	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-responsibility	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-blast	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-that	0	0	in_explicit_neg_trig_domain	0	0	WDT	0	
-injured	khooTrig	0	in_explicit_neg_trig_domain	0	0	VBD	0	
-15	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
-people	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-including	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
-11	0	0	in_explicit_neg_trig_domain	0	0	CD	0	
-policemen	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-4th	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-KSRP	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
-battalion	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-.	0	0	in_explicit_neg_trig_domain	0	0	.	0	
+Nobody	2-nsubj-0	
+has	2-aux-1	
+claimed	2	
+responsibility	2-dobj-3	
+for	6-case-4	
+the	6-det-5	
+blast	3-nmod:for-6	
+that	8-nsubj-7	
+injured	6-acl:relcl-8	
+15	10-nummod-9	
+people	8-dobj-10	
+including	13-case-11	
+11	13-nummod-12	
+policemen	8-nmod:including-13	
+from	18-case-14	
+the	18-det-15	
+4th	18-amod-16	
+KSRP	18-compound-17	
+battalion	8-nmod:from-18	
+.	null	

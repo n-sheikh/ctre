@@ -1,33 +1,33 @@
-A	0	0	0	0	0	DT	0	
-Special	0	0	0	0	0	JJ	0	
-Bench	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Justices	0	0	0	0	0	NNP	0	
-D	0	0	0	0	person	NNP	0	
-K	0	0	0	0	person	NNP	0	
-Jain	0	0	0	0	person	NNP	0	
-and	0	0	0	0	0	CC	0	
-P	0	0	0	0	person	NNP	0	
-Sathasivam	0	0	0	0	person	NNP	0	
-accepted	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-plea	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-SIT	0	0	0	0	0	NNP	0	
-for	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-further	khooTrig	0	0	0	0	JJ	0	
-15	0	0	0	0	0	CD	0	
-days	0	0	0	0	0	NNS	0	
-time	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-submit	0	0	0	0	0	VB	0	
-its	0	0	0	0	0	PRP$	0	
-report	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Gulberg	0	0	0	0	0	NNP	0	
-Society	0	0	0	0	0	NNP	0	
-killings	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+A	2-det-0	
+Special	2-amod-1	
+Bench	11-nsubj-2	
+of	7-case-3	
+Justices	7-compound-4	
+D	7-compound-5	
+K	7-compound-6	
+Jain	2-nmod:of-7	
+and	7-cc-8	
+P	10-compound-9	
+Sathasivam	7-conj:and-10	
+accepted	11	
+the	13-det-12	
+plea	11-dobj-13	
+of	16-case-14	
+the	16-det-15	
+SIT	13-nmod:of-16	
+for	21-case-17	
+a	21-det-18	
+further	21-amod-19	
+15	21-nummod-20	
+days	11-nmod:for-21	
+time	11-dobj-22	
+to	24-mark-23	
+submit	11-advcl-24	
+its	26-nmod:poss-25	
+report	24-dobj-26	
+on	31-case-27	
+the	31-det-28	
+Gulberg	31-compound-29	
+Society	31-compound-30	
+killings	26-nmod:on-31	
+.	null	

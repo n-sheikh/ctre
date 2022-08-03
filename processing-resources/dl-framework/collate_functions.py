@@ -17,27 +17,8 @@ def identify_embedding_fns(config_dict):
     return feature_embedding_fns
 add_special_tokens=False
 
+
 class CNCCollateFn:
-    def __init__(self, **kwargs):
-        self.connl_folder_path = kwargs["connl_folder_path"]
-        self.embedding_functions = identify_embedding_fns(kwargs)
-
-    def __call__(self, batch):
-        embeddings = []
-        labels = []
-        ids = []
-        for sample in batch:
-            ids.append(sample["id"])
-            labels.append(sample["label"])
-        for ft_name in self.embedding_functions.keys():
-            self.embedding_functions[ft_name][1]["ids"] = ids
-            self.embedding_functions[ft_name][1]["connl_folder_path"] = self.connl_folder_path
-            self.embedding_functions[ft_name][1]["ft_name"] = ft_name
-            embeddings.append(self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1]))
-        return ids, embeddings, torch.LongTensor(labels)
-
-
-class MiRIMsCollateFn:
     def __init__(self, **kwargs):
         self.connl_folder_path = kwargs["connl_folder_path"]
         self.embedding_functions = identify_embedding_fns(kwargs)
@@ -63,29 +44,38 @@ class TransformerCollateFn:
         self.embedding_functions = identify_embedding_fns(kwargs)
 
     def __call__(self, batch):
-        embeddings = []
+
         labels = []
         ids = []
         for sample in batch:
             ids.append(sample["id"])
             labels.append(sample["label"])
+        embeddings = [[] for i in range(len(labels))]
         for ft_name in self.embedding_functions.keys():
             self.embedding_functions[ft_name][1]["ids"] = ids
             self.embedding_functions[ft_name][1]["connl_folder_path"] = self.connl_folder_path
             self.embedding_functions[ft_name][1]["ft_name"] = ft_name
-            embeddings.append(self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1]))
-        keys = list(self.embedding_functions.keys())
-        #[emb#1, emb#2, emb#3]
-        #emb#1 [samp#1, samp#2]
-        #sample#1 tensor
+            embedding = self.embedding_functions[ft_name][0](self.embedding_functions[ft_name][1])
+            for i in range(len(labels)):
+                embeddings[i].append(embedding[i])
+        exclude = []
+        include = []
+        for i in range(len(embeddings[0])):
+            if torch.is_tensor(embeddings[0][i]):
+                include.append(i)
+            else:
+                exclude.append(i)
+        transformer_embeddings = [[] for i in range(len(labels))]
+        for i in range(len(labels)):
+            for j in exclude:
+                transformer_embeddings[i].append(embeddings[i][j])
+            to_concatenate = []
+            for k in include:
+                to_concatenate.append(embeddings[i][k])
+            transformer_embeddings[i].append(torch.cat(to_concatenate, 1))
+        return ids, transformer_embeddings, torch.LongTensor(labels)
 
-        for i in range(len(embeddings)):
-            if torch.is_tensor(embeddings[i][0]):
 
-                    concatenated_embedding.append(sample_embedding)
-            else
-                concatenated_embeddings.append(embedding)
-        return ids, embeddings, torch.LongTensor(labels)
 
 '''
 def connl_file_to_feature_vector(file_path, max_nos_tokens, sep):

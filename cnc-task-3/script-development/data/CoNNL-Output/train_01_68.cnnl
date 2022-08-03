@@ -1,50 +1,50 @@
-April	0	0	0	0	date	NNP	0	
-09	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2006	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-Senior	0	0	0	0	person	NNP	0	
-officers	0	0	0	0	0	NNS	0	
-reportedly	0	0	0	0	0	RB	0	
-trying	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-sort	0	0	0	0	0	NN	0	
-out	khooTrig	0	0	0	0	IN	0	
-issue	0	0	0	0	0	VB	0	
-VISAKHAPATNAM	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-The	0	0	0	0	0	DT	0	
-Police	0	0	0	0	location	NNP	0	
-Stadium	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-which	0	0	0	0	0	WDT	0	
-also	0	0	0	0	0	RB	0	
-houses	0	0	0	0	0	VBZ	0	
-the	0	0	0	0	0	DT	0	
-headquarters	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-City	0	0	0	0	0	NNP	0	
-Armed	0	0	0	0	0	NNP	0	
-Reserve	0	0	0	0	0	NNP	0	
-located	0	0	0	0	0	VBN	0	
-,	0	0	0	0	0	,	0	
-witnessed	0	0	0	0	0	VBN	0	
-a	0	0	0	0	0	DT	0	
-rare	0	0	0	0	0	JJ	0	
-incident	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-constable	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-a	0	0	0	0	0	DT	0	
-Sub-	0	0	0	0	0	NNP	0	
-Inspector	0	0	0	0	0	NNP	0	
-staging	khooTrig	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-silent	0	0	0	0	0	JJ	0	
-protest	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+April	34-nsubj-0	
+09	0-nummod-1	
+,	null	
+2006	0-nummod-3	
+00	0-dep-4	
+:	null	
+00	9-nummod-6	
+IST	9-compound-7	
+Senior	9-compound-8	
+officers	0-dep-9	
+reportedly	11-advmod-10	
+trying	9-acl-11	
+to	15-mark-12	
+sort	15-advmod-13	
+out	13-case-14	
+issue	11-xcomp-15	
+VISAKHAPATNAM	15-dobj-16	
+:	null	
+The	20-det-18	
+Police	20-compound-19	
+Stadium	0-dep-20	
+,	null	
+which	24-nsubj-22	
+also	24-advmod-23	
+houses	0-acl:relcl-24	
+the	26-det-25	
+headquarters	24-dobj-26	
+of	31-case-27	
+the	31-det-28	
+City	31-compound-29	
+Armed	31-compound-30	
+Reserve	26-nmod:of-31	
+located	31-acl-32	
+,	null	
+witnessed	34	
+a	37-det-35	
+rare	37-amod-36	
+incident	34-dobj-37	
+of	40-case-38	
+a	40-det-39	
+constable	37-nmod:of-40	
+and	40-cc-41	
+a	44-det-42	
+Sub-	44-compound-43	
+Inspector	40-conj:and-44	
+staging	34-xcomp-45	
+a	48-det-46	
+silent	48-amod-47	
+protest	45-dobj-48	
+.	null	

@@ -1,40 +1,40 @@
-Taxi	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Tshwane	0	0	0	0	0	NNP	0	
-off	khooTrig	0	0	0	0	RB	0	
-to	0	0	0	0	0	TO	0	
-a	0	0	0	0	0	DT	0	
-slow	khooTrig	0	0	0	0	JJ	0	
-start	khooTrig	0	0	0	0	NN	0	
-ANA	0	0	0	0	person	NNP	0	
-Reporter	0	0	0	0	person	NNP	0	
-JOHANNESBURG	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-November	0	0	0	0	date	NNP	0	
-8	0	0	0	0	date	CD	0	
-(	0	0	0	0	0	(	0	
-ANA	0	0	0	0	person	NNP	0	
-)	0	0	0	0	0	)	0	
--	0	0	0	0	0	:	0	
-Commuters	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Tshwane	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-began	khooTrig	0	0	0	0	VBD	0	
-posting	0	0	0	0	0	VBG	0	
-updates	khooTrig	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-social	0	0	0	0	0	JJ	0	
-media	0	0	0	0	0	NNS	0	
-about	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-much-dreaded	0	0	0	0	0	JJ	0	
-Taxi	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-early	0	0	0	0	0	JJ	0	
-hours	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Taxi	1-compound-0	
+strike	24-nsubj-1	
+in	3-case-2	
+Tshwane	1-nmod:in-3	
+off	24-advmod-4	
+to	8-case-5	
+a	8-det-6	
+slow	8-amod-7	
+start	4-nmod:to-8	
+ANA	11-compound-9	
+Reporter	11-compound-10	
+JOHANNESBURG	8-dep-11	
+,	null	
+November	11-appos-13	
+8	13-nummod-14	
+(	null	
+ANA	8-appos-16	
+)	null	
+-	null	
+Commuters	8-dep-19	
+in	21-case-20	
+Tshwane	8-nmod:in-21	
+on	23-case-22	
+Wednesday	4-nmod:on-23	
+began	24	
+posting	24-xcomp-25	
+updates	25-dobj-26	
+on	29-case-27	
+social	29-amod-28	
+media	26-nmod:on-29	
+about	34-case-30	
+the	34-det-31	
+much-dreaded	34-amod-32	
+Taxi	34-compound-33	
+strike	25-nmod:about-34	
+in	38-case-35	
+the	38-det-36	
+early	38-amod-37	
+hours	34-nmod:in-38	
+.	null	

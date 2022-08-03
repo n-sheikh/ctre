@@ -1,27 +1,27 @@
-Last	0	0	0	0	date	JJ	0	
-week	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-Maoists	0	0	0	0	0	NNS	0	
-killed	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-Assistant	0	0	0	0	0	NNP	0	
-Estate	0	0	0	0	0	NNP	0	
-Manager	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-AP	0	0	0	0	0	NNP	0	
-Forest	0	0	0	0	0	NNP	0	
-Development	0	0	0	0	0	NNP	0	
-Corporation	0	0	0	0	0	NNP	0	
-at	0	0	0	0	0	IN	0	
-R	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-V	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Nagaram	0	0	0	0	person	NNP	0	
-in	0	0	0	0	0	IN	0	
-GK	0	0	0	0	person	NNP	0	
-Veedhi	0	0	0	0	person	NNP	0	
-mandal	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Last	1-amod-0	
+week	5-nmod:tmod-1	
+,	null	
+the	4-det-3	
+Maoists	5-nsubj-4	
+killed	5	
+an	9-det-6	
+Assistant	9-compound-7	
+Estate	9-compound-8	
+Manager	5-dobj-9	
+of	15-case-10	
+the	15-det-11	
+AP	15-compound-12	
+Forest	15-compound-13	
+Development	15-compound-14	
+Corporation	9-nmod:of-15	
+at	21-mark-16	
+R	21-compound-17	
+.	null	
+V	21-compound-19	
+.	null	
+Nagaram	5-advcl-21	
+in	25-case-22	
+GK	25-compound-23	
+Veedhi	25-compound-24	
+mandal	21-dep-25	
+.	null	

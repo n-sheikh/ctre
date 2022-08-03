@@ -1,0 +1,11 @@
+Two	1-nummod-0	
+civilians	3-nsubj-1	
+also	3-advmod-2	
+received	3	
+gun	6-amod-4	
+shot	6-compound-5	
+wounds	3-dobj-6	
+in	9-case-7	
+the	9-det-8	
+firing	3-nmod:in-9	
+.	null	

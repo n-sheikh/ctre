@@ -1,39 +1,39 @@
-Neither	0	0	0	0	0	DT	explicit_negative	
-had	0	0	in_explicit_neg_trig_domain	0	0	VBD	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-swamijis	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-nor	0	0	0	0	0	CC	explicit_negative	
-Mr	0	0	in_explicit_neg_trig_domain	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Kanta	0	0	0	0	person	NNP	0	
-accepted	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-notices	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-personnel	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-pasted	0	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-notices	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-doors	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-religious	0	0	0	0	0	JJ	0	
-math	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-venue	0	0	0	0	0	NN	0	
-where	0	0	0	0	0	WRB	0	
-Mr	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Kanta	0	0	0	0	person	NNP	0	
-was	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-hunger	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Neither	1-nsubj-0	
+had	1	
+the	3-det-2	
+swamijis	1-dobj-3	
+nor	1-cc-4	
+Mr	7-compound-5	
+.	null	
+Kanta	8-nsubj-7	
+accepted	1-conj:nor-8	
+the	10-det-9	
+notices	8-dobj-10	
+and	1-cc-11	
+the	14-det-12	
+police	14-compound-13	
+personnel	16-nsubj-14	
+had	16-aux-15	
+pasted	16-conj:and-16	
+the	18-det-17	
+notices	16-dobj-18	
+on	21-case-19	
+the	21-det-20	
+doors	16-nmod:on-21	
+of	25-case-22	
+the	25-det-23	
+religious	25-amod-24	
+math	21-nmod:of-25	
+and	16-cc-26	
+at	29-case-27	
+the	29-det-28	
+venue	16-nmod:at-29	
+where	37-advmod-30	
+Mr	33-compound-31	
+.	null	
+Kanta	37-nsubj-33	
+was	37-cop-34	
+on	37-case-35	
+hunger	37-compound-36	
+strike	29-acl:relcl-37	
+.	null	

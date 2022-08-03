@@ -1,16 +1,16 @@
-Mild	0	0	0	0	0	VB	0	
-tension	0	0	0	0	0	NN	0	
-The	0	0	0	0	0	DT	0	
-corporator	0	0	0	0	0	NN	0	
-had	0	0	0	0	0	VBD	0	
-called	0	0	0	0	0	VBN	0	
-for	0	0	0	0	0	IN	0	
-bandh	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Madannapet	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Saidabad	0	0	0	0	0	NNP	0	
-areas	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Mild	0	
+tension	0-dobj-1	
+The	3-det-2	
+corporator	5-nsubj-3	
+had	5-aux-4	
+called	1-acl:relcl-5	
+for	7-case-6	
+bandh	5-nmod:for-7	
+of	12-case-8	
+Madannapet	12-compound-9	
+and	9-cc-10	
+Saidabad	12-compound-11	
+areas	7-nmod:of-12	
+on	14-case-13	
+Monday	5-nmod:on-14	
+.	null	

@@ -1,57 +1,57 @@
-Timeline	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-major	0	0	0	0	0	JJ	0	
-Maoist	0	0	0	0	0	NN	0	
-attacks	0	0	0	0	0	NNS	0	
-17th	0	0	0	0	date	JJ	0	
-May	0	0	0	0	date	NNP	0	
-2010	0	0	0	0	date	CD	0	
-07	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-32	0	0	0	0	date	CD	0	
-PM	0	0	0	0	date	NNP	0	
-NEW	0	0	0	0	location	NNP	0	
-DELHI	0	0	0	0	location	NNP	0	
-:	0	0	0	0	0	:	0	
-The	0	0	0	0	0	DT	0	
-deadly	0	0	0	0	0	JJ	0	
-Maoist	0	0	0	0	0	NNP	0	
-guerrilla	0	0	0	0	0	NN	0	
-attack	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-civilian	0	0	0	0	0	JJ	0	
-bus	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Chhattisgarh	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-Dantewada	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-Monday	0	0	0	0	date	NNP	0	
-evening	0	0	0	0	0	NN	0	
-comes	0	0	0	0	0	VBZ	0	
-just	0	0	0	0	0	RB	0	
-over	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-month	0	0	0	0	0	NN	0	
-after	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Left	0	0	0	0	0	NNP	0	
-rebels	0	0	0	0	0	NNS	0	
-'	0	0	0	0	0	POS	0	
-audacious	0	0	0	0	0	JJ	0	
-April	0	0	0	0	date	NNP	0	
-6	0	0	0	0	date	CD	0	
-attack	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-security	0	0	0	0	0	NN	0	
-forces	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-same	0	0	0	0	0	JJ	0	
-area	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-killing	0	0	0	0	0	VBG	0	
-76	0	0	0	0	0	CD	0	
-personnel	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Timeline	31-nsubj-0	
+of	4-case-1	
+major	4-amod-2	
+Maoist	4-compound-3	
+attacks	0-nmod:of-4	
+17th	6-amod-5	
+May	0-dep-6	
+2010	6-nummod-7	
+07	0-dep-8	
+:	null	
+32	13-nummod-10	
+PM	13-compound-11	
+NEW	13-compound-12	
+DELHI	0-dep-13	
+:	null	
+The	19-det-15	
+deadly	19-amod-16	
+Maoist	19-compound-17	
+guerrilla	19-compound-18	
+attack	0-dep-19	
+on	23-case-20	
+a	23-det-21	
+civilian	23-amod-22	
+bus	0-nmod:on-23	
+in	28-case-24	
+Chhattisgarh	28-nmod:poss-25	
+'s	25-case-26	
+Dantewada	28-compound-27	
+district	23-nmod:in-28	
+Monday	23-dep-29	
+evening	31-nsubj-30	
+comes	31	
+just	31-advmod-32	
+over	35-case-33	
+a	35-det-34	
+month	31-nmod:over-35	
+after	44-case-36	
+the	39-det-37	
+Left	39-compound-38	
+rebels	44-nmod:poss-39	
+'	39-case-40	
+audacious	44-amod-41	
+April	41-nmod:tmod-42	
+6	42-nummod-43	
+attack	31-nmod:after-44	
+on	47-case-45	
+security	47-compound-46	
+forces	44-nmod:on-47	
+in	51-case-48	
+the	51-det-49	
+same	51-amod-50	
+area	47-nmod:in-51	
+,	null	
+killing	31-xcomp-53	
+76	55-nummod-54	
+personnel	53-dobj-55	
+.	null	

@@ -1,55 +1,55 @@
-Mthuthuzeli	0	0	0	0	person	NNP	0	
-Tom	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-president	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-National	0	0	0	0	0	NNP	0	
-Union	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-Metalworkers	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-SA	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-Numsa	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-said	0	0	0	0	0	VBD	0	
-during	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-march	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-offices	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Fuel	khooTrig	0	0	0	0	NNP	0	
-Retailers	0	0	0	0	0	NNP	0	
-Association	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-FRA	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-and	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-Retail	0	0	0	0	0	NNP	0	
-Motor	0	0	0	0	0	NNP	0	
-Industry	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-RMI	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-that	0	0	0	0	0	IN	0	
-it	0	0	0	0	0	PRP	0	
-is	0	0	0	0	0	VBZ	0	
-better	khooTrig	0	0	0	0	JJR	0	
-for	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-members	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-suffer	0	0	0	0	0	VB	0	
-now	0	0	0	0	0	RB	0	
-than	0	0	0	0	0	IN	0	
-to	0	0	0	0	0	TO	0	
-keep	0	0	0	0	0	VB	0	
-on	0	0	0	0	0	IN	0	
-suffering	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Mthuthuzeli	1-compound-0	
+Tom	16-nsubj-1	
+,	null	
+the	4-det-3	
+president	1-appos-4	
+of	8-case-5	
+the	8-det-6	
+National	8-compound-7	
+Union	4-nmod:of-8	
+of	10-case-9	
+Metalworkers	8-nmod:of-10	
+of	12-case-11	
+SA	10-nmod:of-12	
+(	null	
+Numsa	1-appos-14	
+)	null	
+said	16	
+during	19-case-17	
+a	19-det-18	
+march	16-nmod:during-19	
+to	22-case-20	
+the	22-det-21	
+offices	16-nmod:to-22	
+of	27-case-23	
+the	27-det-24	
+Fuel	27-compound-25	
+Retailers	27-compound-26	
+Association	22-nmod:of-27	
+(	null	
+FRA	27-appos-29	
+)	null	
+and	27-cc-31	
+the	35-det-32	
+Retail	35-compound-33	
+Motor	35-compound-34	
+Industry	27-conj:and-35	
+(	null	
+RMI	16-dep-37	
+)	null	
+that	42-mark-39	
+it	42-nsubj-40	
+is	42-cop-41	
+better	16-ccomp-42	
+for	45-case-43	
+their	45-nmod:poss-44	
+members	42-nmod:for-45	
+to	47-mark-46	
+suffer	42-xcomp-47	
+now	47-advmod-48	
+than	51-mark-49	
+to	51-mark-50	
+keep	47-advcl-51	
+on	53-case-52	
+suffering	51-nmod:on-53	
+.	null	

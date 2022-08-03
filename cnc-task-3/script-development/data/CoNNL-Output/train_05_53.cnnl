@@ -1,26 +1,26 @@
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Free	0	0	0	0	null	NNP	0	
-Napoleon	0	0	0	0	person	NNP	0	
-and	0	0	0	0	0	CC	0	
-six	0	0	0	0	0	CD	0	
-others	0	0	0	0	0	NNS	0	
-now	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-read	0	0	0	0	0	VBD	0	
-one	0	0	0	0	0	CD	0	
-placard	khooTrig	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-another	0	0	0	0	0	DT	0	
-read	0	0	0	0	0	VBN	0	
-:	0	0	0	0	0	:	0	
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Stop	0	0	0	0	0	NN	0	
-police	0	0	0	0	0	NN	0	
-brutality	0	0	0	0	0	NN	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-.	0	0	0	0	0	.	0	
+`	null	
+`	null	
+Free	3-compound-2	
+Napoleon	11-nsubj-3	
+and	3-cc-4	
+six	6-nummod-5	
+others	11-nsubj-6	
+now	6-advmod-7	
+,	null	
+'	null	
+'	null	
+read	11	
+one	13-nummod-12	
+placard	11-dobj-13	
+and	13-cc-14	
+another	13-conj:and-15	
+read	15-acl-16	
+:	null	
+`	null	
+`	null	
+Stop	22-compound-20	
+police	22-compound-21	
+brutality	13-dep-22	
+'	null	
+'	null	
+.	null	

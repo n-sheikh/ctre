@@ -1,17 +1,17 @@
-As	0	0	0	0	0	IN	0	
-of	0	0	0	0	0	IN	0	
-now	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-we	0	0	0	0	0	PRP	0	
-can	0	0	0	1	0	MD	modal	
-not	0	1	in_modal_trig_domain	0	0	RB	0	
-jump	0	1	in_modal_trig_domain	0	0	VB	0	
-into	0	1	in_modal_trig_domain	0	0	IN	0	
-conclusions	0	1	in_modal_trig_domain	0	0	NNS	0	
-about	0	1	in_modal_trig_domain	0	0	IN	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-motive	0	1	in_modal_trig_domain	0	0	NN	0	
-behind	0	1	in_modal_trig_domain	0	0	IN	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-blast	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+As	2-case-0	
+of	0-mwe-1	
+now	7-nmod:as_of-2	
+,	null	
+we	7-nsubj-4	
+can	7-aux-5	
+not	7-neg-6	
+jump	7	
+into	9-case-8	
+conclusions	7-nmod:into-9	
+about	12-case-10	
+the	12-det-11	
+motive	9-nmod:about-12	
+behind	15-case-13	
+the	15-det-14	
+blast	12-nmod:behind-15	
+.	null	

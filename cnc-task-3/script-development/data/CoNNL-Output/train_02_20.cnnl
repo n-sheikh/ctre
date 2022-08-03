@@ -1,33 +1,33 @@
-The	0	0	0	0	0	DT	0	
-row	0	0	0	0	0	NN	0	
-over	0	0	0	0	0	IN	0	
-possession	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Satlok	0	0	0	0	0	NNP	0	
-Ashram	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-headed	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Rampal	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-took	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-violent	0	0	0	0	0	JJ	0	
-turn	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-when	0	0	0	0	0	WRB	0	
-police	0	0	0	0	0	NNS	0	
-tried	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-stop	0	0	0	0	0	VB	0	
-Arya	0	0	0	0	0	NNP	0	
-Pratinidhi	0	0	0	0	0	NNP	0	
-Sabha	0	0	0	0	0	NNP	0	
-activists	0	0	0	0	0	NNS	0	
-from	0	0	0	0	0	IN	0	
-marching	0	0	0	0	0	VBG	0	
-towards	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Ashram	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+row	12-nsubj-1	
+over	3-case-2	
+possession	1-nmod:over-3	
+of	6-case-4	
+Satlok	6-compound-5	
+Ashram	3-nmod:of-6	
+,	null	
+headed	6-acl-8	
+by	10-case-9	
+Rampal	8-nmod:by-10	
+,	null	
+took	12	
+a	15-det-13	
+violent	15-amod-14	
+turn	12-dobj-15	
+on	17-case-16	
+Sunday	15-nmod:on-17	
+when	20-advmod-18	
+police	20-nsubj-19	
+tried	12-advcl-20	
+to	22-mark-21	
+stop	20-xcomp-22	
+Arya	26-compound-23	
+Pratinidhi	26-compound-24	
+Sabha	26-compound-25	
+activists	22-dobj-26	
+from	28-mark-27	
+marching	22-advcl-28	
+towards	31-case-29	
+the	31-det-30	
+Ashram	28-nmod:towards-31	
+.	null	

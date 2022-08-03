@@ -1,20 +1,20 @@
-However	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-when	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-returning	0	0	0	0	0	VBG	0	
-home	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-night	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Pradhan	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-intercepted	0	0	0	0	0	VBN	0	
-again	0	0	0	0	0	RB	0	
-by	0	0	0	0	0	IN	0	
-them	0	0	0	0	0	PRP	0	
-and	0	0	0	0	0	CC	0	
-killed	0	0	0	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+However	13-advmod-0	
+,	null	
+when	5-advmod-2	
+he	5-nsubj-3	
+was	5-aux-4	
+returning	13-advcl-5	
+home	5-dobj-6	
+in	9-case-7	
+the	9-det-8	
+night	5-nmod:in-9	
+,	null	
+Pradhan	18-nsubjpass-11	
+was	13-auxpass-12	
+intercepted	13	
+again	13-advmod-14	
+by	16-case-15	
+them	13-nmod:agent-16	
+and	13-cc-17	
+killed	13-conj:and-18	
+.	null	

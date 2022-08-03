@@ -1,0 +1,12 @@
+A	2-det-0	
+police	2-compound-1	
+helicopter	3-nsubj-2	
+circled	3	
+above	3-advmod-4	
+as	8-case-5	
+the	8-det-6	
+protest	8-compound-7	
+march	3-nmod:as-8	
+reached	8-acl-9	
+town	9-dobj-10	
+.	null	

@@ -1,21 +1,21 @@
-Meanwhile	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-peace	0	0	0	0	0	NN	0	
-rally	khooTrig	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-taken	0	0	0	0	0	VBN	0	
-out	khooTrig	0	0	0	0	IN	0	
-on	0	0	0	0	0	IN	0	
-behalf	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Sarvodaya	0	0	0	0	0	NNP	0	
-movement	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-Chennai	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-reached	0	0	0	0	0	VBD	0	
-Kamarajar	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Meanwhile	17-advmod-0	
+,	null	
+a	4-det-2	
+peace	4-compound-3	
+rally	17-nsubj-4	
+,	null	
+taken	4-acl-6	
+out	13-case-7	
+on	13-case-8	
+behalf	8-mwe-9	
+of	8-mwe-10	
+the	13-det-11	
+Sarvodaya	13-compound-12	
+movement	6-nmod:on_behalf_of-13	
+from	15-case-14	
+Chennai	6-nmod:from-15	
+,	null	
+reached	17	
+Kamarajar	19-compound-18	
+district	17-dobj-19	
+.	null	

@@ -1,25 +1,25 @@
-Since	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-work	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-bridge	khooTrig	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-progressing	0	0	0	0	0	VBG	0	
-at	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-snail	0	0	0	0	0	NN	0	
-’	0	0	0	0	0	NN	0	
-s	0	0	0	0	0	VBG	0	
-pace	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-locals	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-begun	khooTrig	0	0	0	0	VBN	0	
-an	0	0	0	0	0	DT	0	
-agitation	0	0	0	0	0	NN	0	
-since	0	0	0	0	0	IN	0	
-June	0	0	0	0	date	NNP	0	
-16	0	0	0	0	date	CD	0	
-.	0	0	0	0	0	.	0	
+Since	7-mark-0	
+the	2-det-1	
+work	7-nsubj-2	
+on	5-case-3	
+the	5-det-4	
+bridge	2-nmod:on-5	
+was	7-aux-6	
+progressing	18-advcl-7	
+at	13-case-8	
+a	13-det-9	
+snail	13-compound-10	
+’	13-compound-11	
+s	13-amod-12	
+pace	7-nmod:at-13	
+,	null	
+the	16-det-15	
+locals	18-nsubj-16	
+had	18-aux-17	
+begun	18	
+an	20-det-19	
+agitation	18-dobj-20	
+since	22-case-21	
+June	18-nmod:since-22	
+16	22-nummod-23	
+.	null	

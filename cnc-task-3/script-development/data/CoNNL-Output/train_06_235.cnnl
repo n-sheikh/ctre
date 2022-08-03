@@ -1,0 +1,16 @@
+PFI	1-amod-0	
+activists	3-nsubj-1	
+later	3-advmod-2	
+took	3	
+out	3-compound:prt-4	
+a	6-det-5	
+march	3-dobj-6	
+in	9-case-7	
+the	9-det-8	
+city	6-nmod:in-9	
+protesting	9-acl-10	
+against	14-case-11	
+the	14-det-12	
+police	14-compound-13	
+action	10-nmod:against-14	
+.	null	

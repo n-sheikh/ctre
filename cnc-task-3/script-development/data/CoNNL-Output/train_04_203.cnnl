@@ -1,64 +1,64 @@
-Anger	khooTrig	0	0	0	0	NNP	0	
-about	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-policy	0	0	0	0	0	NN	0	
-among	0	0	0	0	0	IN	0	
-Han	0	0	0	0	0	NNP	0	
-Chinese	0	0	0	0	0	NNPS	0	
-,	0	0	0	0	0	,	0	
-by	0	0	0	0	0	IN	0	
-far	0	0	0	0	0	RB	0	
-the	0	0	0	0	0	DT	0	
-largest	0	0	0	0	0	JJS	0	
-group	khooTrig	0	0	0	0	NN	0	
-among	0	0	0	0	0	IN	0	
-China	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-56	0	0	0	0	0	CD	0	
-ethnic	0	0	0	0	0	JJ	0	
-communities	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-has	0	0	0	0	0	VBZ	0	
-been	0	0	0	0	0	VBN	0	
-exacerbated	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-deaths	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-192	0	0	0	0	0	JJ	0	
-people	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-mostly	0	0	0	0	0	RB	0	
-Han	0	0	0	0	0	JJ	0	
-,	0	0	0	0	0	,	0	
-in	0	0	0	0	0	IN	0	
-Xinjiang	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-capital	0	0	0	0	0	NN	0	
-Urumqi	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-last	0	0	0	0	date	JJ	0	
-week	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-and	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-injuries	0	0	0	0	0	NNS	0	
-suffered	0	0	0	0	0	VBD	0	
-by	0	0	0	0	0	IN	0	
-1	0	0	0	0	0	CD	0	
-,	0	0	0	0	0	,	0	
-680	0	0	0	0	0	JJ	0	
-people	0	0	0	0	0	NNS	0	
-during	0	0	0	0	0	IN	0	
-clashes	khooTrig	0	0	0	0	NNS	0	
-between	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-province	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-Uygur	0	0	0	0	0	NNP	0	
-Muslim	0	0	0	0	0	JJ	0	
-minority	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-Han	0	0	0	0	0	NNP	0	
-Chinese	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Anger	22-nsubjpass-0	
+about	3-case-1	
+the	3-det-2	
+policy	0-nmod:about-3	
+among	6-case-4	
+Han	6-compound-5	
+Chinese	3-nmod:among-6	
+,	null	
+by	12-case-8	
+far	12-advmod-9	
+the	12-det-10	
+largest	12-amod-11	
+group	22-nmod:agent-12	
+among	18-case-13	
+China	18-nmod:poss-14	
+'s	14-case-15	
+56	18-nummod-16	
+ethnic	18-amod-17	
+communities	12-nmod:among-18	
+,	null	
+has	22-aux-20	
+been	22-auxpass-21	
+exacerbated	22	
+by	25-case-23	
+the	25-det-24	
+deaths	22-nmod:agent-25	
+of	28-case-26	
+192	28-amod-27	
+people	25-nmod:of-28	
+,	null	
+mostly	31-advmod-30	
+Han	25-amod-31	
+,	null	
+in	37-case-33	
+Xinjiang	37-nmod:poss-34	
+'s	34-case-35	
+capital	37-compound-36	
+Urumqi	25-nmod:in-37	
+,	null	
+last	40-amod-39	
+week	25-dep-40	
+,	null	
+and	22-cc-42	
+the	44-det-43	
+injuries	45-nsubj-44	
+suffered	22-conj:and-45	
+by	47-case-46	
+1	45-nmod:by-47	
+,	null	
+680	50-amod-49	
+people	47-appos-50	
+during	52-case-51	
+clashes	45-nmod:during-52	
+between	59-case-53	
+the	55-det-54	
+province	59-nmod:poss-55	
+'s	55-case-56	
+Uygur	59-compound-57	
+Muslim	59-amod-58	
+minority	52-nmod:between-59	
+and	59-cc-60	
+Han	62-compound-61	
+Chinese	59-conj:and-62	
+.	null	

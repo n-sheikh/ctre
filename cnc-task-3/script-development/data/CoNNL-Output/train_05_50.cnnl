@@ -1,21 +1,21 @@
-The	0	0	0	0	0	DT	0	
-activists	0	0	0	0	0	NNS	0	
-who	0	0	0	0	0	WP	0	
-shouted	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-slogan	0	0	0	0	0	NN	0	
-‘	0	0	0	0	0	NNP	0	
-VSDP	0	0	0	0	0	NNP	0	
-zindabad	0	0	0	0	0	VBD	0	
-’	0	0	0	0	0	RB	0	
-advanced	0	0	0	0	0	VBD	0	
-towards	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Chief	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-when	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-began	khooTrig	0	0	0	0	VBD	0	
-his	0	0	0	0	0	PRP$	0	
-address	mcmTrig	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+activists	10-nsubj-1	
+who	3-nsubj-2	
+shouted	1-acl:relcl-3	
+the	5-det-4	
+slogan	3-dobj-5	
+‘	7-compound-6	
+VSDP	8-nsubj-7	
+zindabad	5-acl:relcl-8	
+’	8-advmod-9	
+advanced	10	
+towards	14-case-11	
+the	14-det-12	
+Chief	14-compound-13	
+Minister	10-nmod:towards-14	
+when	17-advmod-15	
+he	17-nsubj-16	
+began	10-advcl-17	
+his	19-nmod:poss-18	
+address	17-dobj-19	
+.	null	

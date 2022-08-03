@@ -1,0 +1,12 @@
+The	1-det-0	
+government	3-nsubj-1	
+has	3-aux-2	
+blamed	3	
+separatist	5-compound-4	
+forces	3-dobj-5	
+from	7-case-6	
+Xinjiang	5-nmod:from-7	
+for	10-case-8	
+the	10-det-9	
+attack	3-nmod:for-10	
+.	null	

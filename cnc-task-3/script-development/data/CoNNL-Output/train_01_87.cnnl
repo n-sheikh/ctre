@@ -1,0 +1,15 @@
+KSRTC	1-compound-0	
+buses	4-nsubjpass-1	
+were	4-auxpass-2	
+also	4-advmod-3	
+attacked	4	
+at	9-case-5	
+a	9-det-6	
+few	9-amod-7	
+other	9-amod-8	
+places	4-nmod:at-9	
+including	11-case-10	
+Poojappura	9-nmod:including-11	
+and	11-cc-12	
+Balaramapuram	11-conj:and-13	
+.	null	

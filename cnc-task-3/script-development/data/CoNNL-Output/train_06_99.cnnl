@@ -1,17 +1,17 @@
-Service	0	0	0	0	0	NNP	0	
-delivery	0	0	0	0	0	NN	0	
-protests	0	0	0	0	0	NNS	0	
-turned	0	0	0	0	0	VBD	0	
-violent	0	0	0	0	0	JJ	0	
-over	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-weekend	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-sections	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-N	0	0	0	0	0	NNP	0	
-14	0	0	0	0	0	CD	0	
-being	0	0	0	0	0	VBG	0	
-blockaded	0	0	0	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+Service	2-compound-0	
+delivery	2-compound-1	
+protests	3-nsubj-2	
+turned	3	
+violent	3-xcomp-4	
+over	7-case-5	
+the	7-det-6	
+weekend	3-nmod:over-7	
+with	15-mark-8	
+sections	15-nsubjpass-9	
+of	12-case-10	
+the	12-det-11	
+N	9-nmod:of-12	
+14	12-nummod-13	
+being	15-auxpass-14	
+blockaded	3-advcl-15	
+.	null	

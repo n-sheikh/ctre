@@ -1,0 +1,17 @@
+As	3-advmod-0	
+many	3-advmod-1	
+as	3-advmod-2	
+38	5-nummod-3	
+police	5-compound-4	
+personnel	11-nsubj-5	
+,	null	
+including	9-case-7	
+women	9-compound-8	
+police	5-nmod:including-9	
+,	null	
+sustained	11	
+injuries	11-dobj-12	
+in	15-case-13	
+the	15-det-14	
+clash	12-nmod:in-15	
+.	null	

@@ -1,58 +1,58 @@
-“	0	0	0	0	0	VBG	0	
-The	0	0	0	0	0	DT	0	
-movement	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-large	0	0	0	0	0	JJ	0	
-is	0	0	0	0	0	VBZ	0	
-peaceful	0	0	0	0	0	JJ	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-some	0	0	0	0	0	DT	0	
-young	0	0	0	0	0	JJ	0	
-people	0	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-overwhelmed	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-strong	0	0	0	0	0	JJ	0	
-sense	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-helplessness	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-they	0	0	0	0	0	PRP	0	
-’	0	0	0	0	0	VBZ	0	
-re	0	0	0	0	0	NN	0	
-emotionally	0	0	0	0	0	RB	0	
-charged	0	0	0	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
-”	0	0	0	0	0	RB	0	
-While	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-small	0	0	0	0	0	JJ	0	
-splinter	khooTrig	0	0	0	0	NN	0	
-group	khooTrig	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-causing	mcmTrig	0	0	0	0	VBG	0	
-trouble	khooTrig	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-legislature	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-550	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-000	0	0	0	0	0	CD	0	
-people	0	0	0	0	0	NNS	0	
-marched	0	0	0	0	0	VBD	0	
-peacefully	0	0	0	0	0	RB	0	
-through	0	0	0	0	0	IN	0	
-downtown	0	0	0	0	0	NN	0	
-Hong	0	0	0	0	location	NNP	0	
-Kong	0	0	0	0	location	NNP	0	
-without	0	0	0	0	0	IN	explicit_negative	
-any	0	0	0	0	0	DT	0	
-scenes	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-violence	0	0	0	0	0	NN	0	
-or	0	0	0	0	0	CC	0	
-chaos	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+“	6-csubj-0	
+The	2-det-1	
+movement	0-dobj-2	
+at	4-case-3	
+large	2-acl:at-4	
+is	6-cop-5	
+peaceful	6	
+,	null	
+but	6-cc-8	
+some	11-det-9	
+young	11-amod-10	
+people	13-nsubjpass-11	
+are	13-auxpass-12	
+overwhelmed	6-conj:but-13	
+by	17-case-14	
+a	17-det-15	
+strong	17-amod-16	
+sense	13-nmod:agent-17	
+of	19-case-18	
+helplessness	17-nmod:of-19	
+and	13-cc-20	
+they	22-nsubj-21	
+’	13-conj:and-22	
+re	22-dobj-23	
+emotionally	25-advmod-24	
+charged	23-amod-25	
+.	null	
+”	7-advmod-0	
+While	7-mark-1	
+a	5-det-2	
+small	5-amod-3	
+splinter	5-compound-4	
+group	7-nsubj-5	
+was	7-aux-6	
+causing	17-advcl-7	
+trouble	7-dobj-8	
+at	11-case-9	
+the	11-det-10	
+legislature	7-nmod:at-11	
+,	null	
+550	17-nsubj-13	
+,	null	
+000	16-nummod-15	
+people	13-appos-16	
+marched	17	
+peacefully	17-advmod-18	
+through	22-case-19	
+downtown	22-compound-20	
+Hong	22-compound-21	
+Kong	17-nmod:through-22	
+without	25-case-23	
+any	25-det-24	
+scenes	17-nmod:without-25	
+of	27-case-26	
+violence	25-nmod:of-27	
+or	27-cc-28	
+chaos	27-conj:or-29	
+.	null	

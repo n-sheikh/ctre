@@ -1,37 +1,37 @@
-Sporadic	0	0	0	0	0	JJ	0	
-violence	0	0	0	0	0	NN	0	
-during	0	0	0	0	0	IN	0	
-hartal	0	0	0	0	0	JJ	0	
-20th	0	0	0	0	date	JJ	0	
-May	0	0	0	0	date	NNP	0	
-2009	0	0	0	0	date	CD	0	
-10	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-23	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-THIRUVANANTHAPURAM	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Sporadic	0	0	0	0	0	JJ	0	
-violence	0	0	0	0	0	NN	0	
-marked	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-hartal	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-called	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Muslim	0	0	0	0	0	JJ	0	
-organisations	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-protest	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-action	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Cheriyathura-	0	0	0	0	0	NNP	0	
-Beemappally	0	0	0	0	0	NNP	0	
-areas	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Sporadic	1-amod-0	
+violence	15-nsubj-1	
+during	7-case-2	
+hartal	7-amod-3	
+20th	5-amod-4	
+May	3-nmod:tmod-5	
+2009	7-nummod-6	
+10	1-nmod:during-7	
+:	null	
+23	11-nummod-9	
+AM	11-compound-10	
+THIRUVANANTHAPURAM	7-dep-11	
+:	null	
+Sporadic	14-amod-13	
+violence	7-dep-14	
+marked	15	
+the	17-det-16	
+hartal	15-dobj-17	
+on	19-case-18	
+Tuesday	17-nmod:on-19	
+called	17-acl-20	
+by	23-case-21	
+Muslim	23-amod-22	
+organisations	20-nmod:by-23	
+in	25-case-24	
+protest	20-nmod:in-25	
+against	29-case-26	
+the	29-det-27	
+police	29-compound-28	
+action	15-nmod:against-29	
+in	33-case-30	
+Cheriyathura-	33-compound-31	
+Beemappally	33-compound-32	
+areas	29-nmod:in-33	
+on	35-case-34	
+Sunday	15-nmod:on-35	
+.	null	

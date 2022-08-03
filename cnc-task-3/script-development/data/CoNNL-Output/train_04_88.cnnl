@@ -1,47 +1,47 @@
-While	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Dalits	0	0	0	0	0	NNPS	0	
-firmly	0	0	0	0	0	RB	0	
-state	0	0	0	0	0	VBP	0	
-that	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-mob	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-erstwhile	0	0	0	0	0	JJ	0	
-Vanniyar	0	0	0	0	0	NNP	0	
-friends	0	0	0	0	0	NNS	0	
-entered	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-Dalit	0	0	0	0	person	NNP	0	
-area	0	0	0	0	0	NN	0	
-after	0	0	0	0	0	IN	0	
-disconnecting	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-power	0	0	0	0	0	NN	0	
-supply	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-and	0	0	0	0	0	CC	0	
-hurled	khooTrig	0	0	0	0	VBN	0	
-petrol	0	0	0	0	0	JJ	0	
-bombs	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-temple	0	0	0	0	0	NN	0	
-car	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-torched	0	0	0	0	0	VBD	0	
-eight	0	0	0	0	0	CD	0	
-houses	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-Vanniyars	0	0	0	0	0	NNPS	0	
-claim	0	0	0	0	0	VBP	0	
-they	0	0	in_explicit_neg_trig_domain	0	0	PRP	0	
-were	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-involved	mcmTrig	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-attack	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+While	4-mark-0	
+the	2-det-1	
+Dalits	4-nsubj-2	
+firmly	4-advmod-3	
+state	38-advcl-4	
+that	13-mark-5	
+a	7-det-6	
+mob	32-nsubj-7	
+of	12-case-8	
+their	12-nmod:poss-9	
+erstwhile	12-amod-10	
+Vanniyar	12-compound-11	
+friends	7-nmod:of-12	
+entered	4-ccomp-13	
+the	16-det-14	
+Dalit	16-compound-15	
+area	13-dobj-16	
+after	18-mark-17	
+disconnecting	13-advcl-18	
+the	21-det-19	
+power	21-compound-20	
+supply	18-dobj-21	
+,	null	
+and	13-cc-23	
+hurled	13-conj:and-24	
+petrol	26-amod-25	
+bombs	24-dobj-26	
+at	30-case-27	
+their	30-nmod:poss-28	
+temple	30-compound-29	
+car	24-nmod:at-30	
+and	13-cc-31	
+torched	13-conj:and-32	
+eight	34-nummod-33	
+houses	32-dobj-34	
+,	null	
+the	37-det-36	
+Vanniyars	38-nsubj-37	
+claim	38	
+they	42-nsubjpass-39	
+were	42-auxpass-40	
+not	42-neg-41	
+involved	38-ccomp-42	
+in	45-case-43	
+the	45-det-44	
+attack	42-nmod:in-45	
+.	null	

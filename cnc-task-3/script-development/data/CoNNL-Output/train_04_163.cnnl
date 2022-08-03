@@ -1,48 +1,48 @@
-JAC	0	0	0	0	0	NNP	0	
-convenor	0	0	0	0	0	NNP	0	
-M	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Kodandaram	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-Telangana	0	0	0	0	0	NNP	0	
-Rashtra	0	0	0	0	0	NNP	0	
-Samithi	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-TRS	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-legislators	0	0	0	0	0	NNS	0	
-K	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Tarakarama	0	0	0	0	person	NNP	0	
-Rao	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-E	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
-Rajender	0	0	0	0	person	NN	0	
-and	0	0	0	0	0	CC	0	
-Harishwar	0	0	0	0	person	NNP	0	
-Reddy	0	0	0	0	person	NNP	0	
-were	0	0	0	0	0	VBD	0	
-among	0	0	0	0	0	IN	0	
-dozens	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-leaders	0	0	0	0	0	NNS	0	
-arrested	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-staging	khooTrig	0	0	0	0	VBG	0	
-protests	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-highway	0	0	0	0	0	NN	0	
-despite	0	0	0	0	0	IN	0	
-police	0	0	0	0	0	NNS	0	
-not	0	0	0	0	0	RB	explicit_negative	
-giving	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
-permission	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-same	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-.	0	0	0	0	0	.	0	
+JAC	4-compound-0	
+convenor	4-compound-1	
+M	4-compound-2	
+.	null	
+Kodandaram	26-nsubj-4	
+,	null	
+Telangana	12-compound-6	
+Rashtra	12-compound-7	
+Samithi	12-compound-8	
+(	null	
+TRS	12-appos-10	
+)	null	
+legislators	26-nsubj-12	
+K	16-compound-13	
+.	null	
+Tarakarama	16-compound-15	
+Rao	12-dep-16	
+,	null	
+E	20-compound-18	
+.	null	
+Rajender	26-nsubj-20	
+and	4-cc-21	
+Harishwar	23-compound-22	
+Reddy	26-nsubj-23	
+were	26-cop-24	
+among	26-case-25	
+dozens	26	
+of	28-case-27	
+leaders	26-nmod:of-28	
+arrested	28-acl-29	
+by	32-case-30	
+the	32-det-31	
+police	29-nmod:by-32	
+for	34-mark-33	
+staging	29-advcl-34	
+protests	34-dobj-35	
+on	38-case-36	
+the	38-det-37	
+highway	35-nmod:on-38	
+despite	42-mark-39	
+police	42-nsubj-40	
+not	42-neg-41	
+giving	34-advcl-42	
+permission	42-dobj-43	
+for	46-case-44	
+the	46-det-45	
+same	42-nmod:for-46	
+.	null	

@@ -1,0 +1,14 @@
+They	1-nsubj-0	
+shouted	1	
+slogans	1-dobj-2	
+against	7-case-3	
+superintendent	7-compound-4	
+Dr	7-compound-5	
+Asok	7-compound-6	
+Kumar	1-nmod:against-7	
+and	7-cc-8	
+RMO-I	12-amod-9	
+Dr	12-compound-10	
+BV	12-compound-11	
+Rao	7-conj:and-12	
+.	null	

@@ -1,14 +1,14 @@
-The	0	0	0	0	0	DT	0	
-strike	0	0	0	0	0	NN	0	
-will	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-intensified	khooTrig	1	in_modal_trig_domain	0	0	VBN	0	
-after	0	1	in_modal_trig_domain	0	0	IN	0	
-consulting	0	1	in_modal_trig_domain	0	0	VBG	0	
-with	0	1	in_modal_trig_domain	0	0	IN	0	
-like-minded	0	1	in_modal_trig_domain	0	0	JJ	0	
-people	0	1	in_modal_trig_domain	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-he	0	0	0	0	0	PRP	0	
-added	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+strike	4-nsubjpass-1	
+will	4-aux-2	
+be	4-auxpass-3	
+intensified	12-ccomp-4	
+after	6-mark-5	
+consulting	4-advcl-6	
+with	9-case-7	
+like-minded	9-amod-8	
+people	6-nmod:with-9	
+,	null	
+he	12-nsubj-11	
+added	12	
+.	null	

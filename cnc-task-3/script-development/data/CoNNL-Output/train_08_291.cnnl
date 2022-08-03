@@ -1,37 +1,37 @@
-Sources	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-militants	0	0	0	0	0	NNS	0	
-hiding	khooTrig	0	0	0	0	VBG	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-area	0	0	0	0	0	NN	0	
-saw	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-team	0	0	0	0	0	NN	0	
-while	0	0	0	0	0	IN	0	
-they	0	0	0	0	0	PRP	0	
-were	0	0	0	0	0	VBD	0	
-going	0	0	0	0	0	VBG	0	
-beyond	0	0	0	0	0	IN	0	
-Watsar	0	0	0	0	0	NNP	0	
-towards	0	0	0	0	0	IN	0	
-Simpthan	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-laid	0	0	0	0	0	VBN	0	
-an	0	0	0	0	0	DT	0	
-ambush	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Chattroo-	0	0	0	0	0	NNP	0	
-Simpthan	0	0	0	0	0	NNP	0	
-road	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-blocking	mcmTrig	0	0	0	0	VBG	implicit_negative	
-it	0	0	in_implicit_neg_trig_domain	0	0	PRP	0	
-with	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-stones	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Sources	1-nsubj-0	
+said	1	
+that	11-mark-2	
+a	4-det-3	
+group	11-nsubj-4	
+of	6-case-5	
+militants	4-nmod:of-6	
+hiding	6-acl-7	
+in	10-case-8	
+the	10-det-9	
+area	7-nmod:in-10	
+saw	1-ccomp-11	
+the	13-det-12	
+team	11-dobj-13	
+while	17-mark-14	
+they	23-nsubjpass-15	
+were	17-auxpass-16	
+going	11-advcl-17	
+beyond	19-case-18	
+Watsar	17-nmod:beyond-19	
+towards	21-case-20	
+Simpthan	17-nmod:towards-21	
+and	17-cc-22	
+laid	17-conj:and-23	
+an	25-det-24	
+ambush	23-dobj-25	
+on	30-case-26	
+the	30-det-27	
+Chattroo-	30-compound-28	
+Simpthan	30-compound-29	
+road	25-nmod:on-30	
+by	32-mark-31	
+blocking	23-advcl-32	
+it	32-dobj-33	
+with	35-case-34	
+stones	32-nmod:with-35	
+.	null	

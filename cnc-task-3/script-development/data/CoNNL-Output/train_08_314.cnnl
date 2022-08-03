@@ -1,29 +1,29 @@
-So-called	0	0	0	0	0	JJ	0	
-"	0	0	0	0	0	``	0	
-fidayeen	0	0	0	0	0	NNS	0	
-"	0	0	0	0	0	''	0	
-,	0	0	0	0	0	,	0	
-or	0	0	0	0	0	CC	0	
-suicide	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-squads	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Lashkar-e-	0	0	0	0	0	JJ	0	
-Toiba	0	0	0	0	0	NNP	0	
-militants	0	0	0	0	0	NNS	0	
-launched	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-series	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-attacks	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Jammu	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Kashmir	0	0	0	0	0	NNP	0	
-last	0	0	0	0	date	JJ	0	
-year	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-killing	0	0	0	0	0	VBG	0	
-many	0	0	0	0	0	JJ	0	
-soldiers	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+So-called	2-amod-0	
+"	null	
+fidayeen	13-nsubj-2	
+"	null	
+,	null	
+or	2-cc-5	
+suicide	13-nsubj-6	
+,	null	
+squads	13-nsubj-8	
+of	12-case-9	
+Lashkar-e-	12-amod-10	
+Toiba	12-compound-11	
+militants	8-nmod:of-12	
+launched	13	
+a	15-det-14	
+series	13-dobj-15	
+of	17-case-16	
+attacks	15-nmod:of-17	
+in	19-case-18	
+Jammu	17-nmod:in-19	
+and	19-cc-20	
+Kashmir	19-conj:and-21	
+last	23-amod-22	
+year	13-nmod:tmod-23	
+,	null	
+killing	13-advcl-25	
+many	27-amod-26	
+soldiers	25-dobj-27	
+.	null	

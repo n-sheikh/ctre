@@ -1,0 +1,12 @@
+The	1-det-0	
+lawyers	5-nsubj-1	
+are	5-cop-2	
+on	5-case-3	
+a	5-det-4	
+strike	5	
+since	7-case-6	
+Thursday	5-nmod:since-7	
+after	10-case-8	
+the	10-det-9	
+incident	5-nmod:after-10	
+.	null	

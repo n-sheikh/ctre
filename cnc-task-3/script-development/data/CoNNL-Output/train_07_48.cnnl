@@ -1,64 +1,64 @@
-Police	0	0	0	0	0	NNS	0	
-use	0	0	0	0	0	VBP	0	
-tear	0	0	0	0	0	JJ	0	
-gas	khooTrig	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-control	mcmTrig	0	0	0	0	VB	0	
-communal	0	0	0	0	0	JJ	0	
-clash	khooTrig	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Mirzapur	0	0	0	0	0	NNP	0	
--	0	0	0	0	0	:	0	
-Indian	0	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Ahmedabad	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-Tue	0	0	0	0	date	NNP	0	
-Sep	0	0	0	0	date	NNP	0	
-15	0	0	0	0	date	CD	0	
-2009	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-01	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-09	0	0	0	0	date	CD	0	
-hrs	0	0	0	0	0	NN	0	
-The	0	0	0	0	0	DT	0	
-city	0	0	0	0	0	NN	0	
-police	0	0	0	0	0	NN	0	
-had	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-resort	0	0	0	0	0	VB	0	
-to	0	0	0	0	0	TO	0	
-tear	0	0	0	0	0	VB	0	
-gas	khooTrig	0	0	0	0	NN	0	
-shelling	khooTrig	0	0	0	0	VBG	0	
-after	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-communal	0	0	0	0	0	JJ	0	
-violence	0	0	0	0	0	NN	0	
-broke	0	0	0	0	0	VBD	0	
-out	khooTrig	0	0	0	0	RP	0	
-near	0	0	0	0	0	IN	0	
-St	0	0	0	0	person	NNP	0	
-Xavier	0	0	0	0	person	NNP	0	
-'s	0	0	0	0	0	POS	0	
-High	0	0	0	0	0	NNP	0	
-School	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Mirzapur	0	0	0	0	0	NNP	0	
-area	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Ahmedabad	0	0	0	0	location	NNP	0	
-late	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Police	1-nsubj-0	
+use	1	
+tear	3-amod-2	
+gas	1-dobj-3	
+to	5-mark-4	
+control	1-advcl-5	
+communal	7-amod-6	
+clash	5-dobj-7	
+at	9-case-8	
+Mirzapur	5-nmod:at-9	
+-	null	
+Indian	15-compound-11	
+Express	15-compound-12	
+Express	15-compound-13	
+News	15-compound-14	
+Service	9-dep-15	
+,	null	
+Express	19-compound-17	
+News	19-compound-18	
+Service	15-appos-19	
+:	null	
+Ahmedabad	9-dep-21	
+,	null	
+Tue	24-compound-23	
+Sep	21-appos-24	
+15	26-nummod-25	
+2009	24-dep-26	
+,	null	
+01	21-amod-28	
+:	null	
+09	31-nummod-30	
+hrs	9-dep-31	
+The	34-det-32	
+city	34-compound-33	
+police	35-nsubj-34	
+had	9-acl:relcl-35	
+to	37-mark-36	
+resort	35-xcomp-37	
+to	39-mark-38	
+tear	37-xcomp-39	
+gas	39-dobj-40	
+shelling	40-acl-41	
+after	46-mark-42	
+a	45-det-43	
+communal	45-amod-44	
+violence	46-nsubj-45	
+broke	41-advcl-46	
+out	46-compound:prt-47	
+near	53-case-48	
+St	50-compound-49	
+Xavier	53-nmod:poss-50	
+'s	50-case-51	
+High	53-compound-52	
+School	46-nmod:near-53	
+in	57-case-54	
+the	57-det-55	
+Mirzapur	57-compound-56	
+area	46-nmod:in-57	
+of	59-case-58	
+Ahmedabad	57-nmod:of-59	
+late	39-advmod-60	
+on	62-case-61	
+Sunday	60-nmod:on-62	
+.	null	

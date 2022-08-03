@@ -1,22 +1,22 @@
-They	0	0	0	0	0	PRP	0	
-stopped	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-intersection	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Beneden	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-OR	0	0	0	0	0	NNP	0	
-Tambo	0	0	0	0	0	NNP	0	
-Drive	mcmTrig	0	0	0	0	NNP	0	
-near	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-taxi	0	0	0	0	0	NN	0	
-rank	0	0	0	0	0	NN	0	
-before	0	0	0	0	0	IN	0	
-drove	mcmTrig	0	0	0	0	VBD	0	
-off	khooTrig	0	0	0	0	RP	0	
-into	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-city	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+They	1-nsubj-0	
+stopped	1	
+at	4-case-2	
+the	4-det-3	
+intersection	1-nmod:at-4	
+of	6-case-5	
+Beneden	4-nmod:of-6	
+and	6-cc-7	
+OR	10-compound-8	
+Tambo	10-compound-9	
+Drive	6-conj:and-10	
+near	14-case-11	
+the	14-det-12	
+taxi	14-compound-13	
+rank	4-nmod:near-14	
+before	16-mark-15	
+drove	14-acl-16	
+off	16-compound:prt-17	
+into	20-case-18	
+the	20-det-19	
+city	16-nmod:into-20	
+.	null	

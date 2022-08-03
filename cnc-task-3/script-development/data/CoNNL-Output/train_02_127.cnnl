@@ -1,30 +1,30 @@
-It	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-second	0	0	0	0	0	JJ	0	
-demonstration	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Kunming	0	0	0	0	location	NNP	0	
-about	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-controversial	0	0	0	0	0	JJ	0	
-project	khooTrig	0	0	0	0	NN	0	
-this	0	0	0	0	date	DT	0	
-month	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-after	0	0	0	0	0	IN	0	
-more	0	0	0	0	0	JJR	0	
-than	0	0	0	0	0	IN	0	
-1	0	0	0	0	0	CD	0	
-,	0	0	0	0	0	,	0	
-000	0	0	0	0	0	CD	0	
-protesters	0	0	0	0	0	NNS	0	
-took	0	0	0	0	0	VBD	0	
-part	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-rally	khooTrig	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-May	0	0	0	0	date	NNP	0	
-4	0	0	0	0	date	CD	0	
-.	0	0	0	0	0	.	0	
+It	4-nsubj-0	
+was	4-cop-1	
+the	4-det-2	
+second	4-amod-3	
+demonstration	21-ccomp-4	
+in	6-case-5	
+Kunming	4-nmod:in-6	
+about	10-case-7	
+the	10-det-8	
+controversial	10-amod-9	
+project	4-nmod:about-10	
+this	12-det-11	
+month	4-nmod:tmod-12	
+,	null	
+after	17-case-14	
+more	17-advmod-15	
+than	15-mwe-16	
+1	4-nmod:after-17	
+,	null	
+000	20-nummod-19	
+protesters	21-nsubj-20	
+took	21	
+part	21-dobj-22	
+in	25-case-23	
+a	25-det-24	
+rally	21-nmod:in-25	
+on	27-case-26	
+May	25-nmod:on-27	
+4	27-nummod-28	
+.	null	

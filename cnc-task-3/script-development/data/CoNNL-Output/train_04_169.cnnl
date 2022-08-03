@@ -1,0 +1,15 @@
+He	1-nsubj-0	
+said	1	
+action	5-nsubjpass-2	
+would	5-aux-3	
+be	5-auxpass-4	
+taken	1-ccomp-5	
+against	7-case-6	
+those	5-nmod:against-7	
+found	7-acl-8	
+involved	8-dep-9	
+in	11-case-10	
+attacks	8-nmod:in-11	
+on	13-case-12	
+vehicles	11-nmod:on-13	
+.	null	

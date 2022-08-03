@@ -1,0 +1,17 @@
+As	2-case-0	
+a	2-det-1	
+result	15-nmod:as-2	
+of	5-case-3	
+the	5-det-4	
+protests	2-nmod:of-5	
+schools	8-nsubjpass-6	
+were	8-auxpass-7	
+closed	5-acl:relcl-8	
+,	null	
+buses	15-nsubj-10	
+and	10-cc-11	
+taxis	15-nsubj-12	
+were	15-aux-13	
+not	15-neg-14	
+operating	15	
+.	null	

@@ -1,33 +1,33 @@
-Earlier	0	0	0	0	0	RB	0	
-the	0	0	0	0	0	DT	0	
-Congress	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-South	0	0	0	0	0	JJ	0	
-African	0	0	0	0	0	JJ	0	
-Trade	0	0	0	0	0	NNP	0	
-Unions	0	0	0	0	0	NNS	0	
-(	0	0	0	0	0	(	0	
-Cosatu	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-Western	0	0	0	0	location	NNP	0	
-Cape	0	0	0	0	location	NNP	0	
-regional	0	0	0	0	0	JJ	0	
-secretary	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Tony	0	0	0	0	person	NNP	0	
-Ehrenreich	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-strike	0	0	0	0	0	NN	0	
-could	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-resolved	0	1	in_modal_trig_domain	0	0	VBN	0	
-for	0	1	in_modal_trig_domain	0	0	IN	0	
-about	0	1	in_modal_trig_domain	0	0	RB	0	
-R	0	1	in_modal_trig_domain	0	0	$	0	
-1	0	1	in_modal_trig_domain	0	0	CD	0	
-million	0	1	in_modal_trig_domain	0	0	CD	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-year	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Earlier	2-advmod-0	
+the	2-det-1	
+Congress	19-nsubj-2	
+of	7-case-3	
+South	5-amod-4	
+African	7-amod-5	
+Trade	7-compound-6	
+Unions	2-nmod:of-7	
+(	null	
+Cosatu	2-appos-9	
+)	null	
+Western	14-compound-11	
+Cape	14-compound-12	
+regional	14-amod-13	
+secretary	2-dep-14	
+,	null	
+Tony	17-compound-16	
+Ehrenreich	2-appos-17	
+,	null	
+said	19	
+the	21-det-20	
+strike	24-nsubjpass-21	
+could	24-aux-22	
+be	24-auxpass-23	
+resolved	19-ccomp-24	
+for	27-case-25	
+about	27-advmod-26	
+R	24-nmod:for-27	
+1	29-compound-28	
+million	27-nummod-29	
+a	31-det-30	
+year	27-dep-31	
+.	null	

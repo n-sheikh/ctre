@@ -1,60 +1,60 @@
-Muck	0	0	0	0	0	VB	0	
-on	0	0	0	0	0	IN	0	
-road	0	0	0	0	0	NN	0	
-after	0	0	0	0	0	IN	0	
-SP	0	0	0	0	0	NNP	0	
-leader	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-supporters	0	0	0	0	0	NNS	0	
-beat	0	0	0	0	0	VBD	0	
-up	khooTrig	0	0	0	0	RP	0	
-LMC	0	0	0	0	0	NNP	0	
-men	0	0	0	0	0	NNS	0	
--	0	0	0	0	0	:	0	
-Indian	0	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Express	khooTrig	0	0	0	0	NNP	0	
-News	0	0	0	0	0	NNP	0	
-Service	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Lucknow	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-Wed	0	0	0	0	date	NNP	0	
-Jul	0	0	0	0	date	NNP	0	
-11	0	0	0	0	date	NNP	0	
-2012	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-04	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-20	0	0	0	0	date	CD	0	
-hrs	0	0	0	0	0	NN	0	
-A	0	0	0	0	0	DT	0	
-Samajwadi	0	0	0	0	0	NNP	0	
-Party	0	0	0	0	0	NNP	0	
-leader	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-his	0	0	0	0	0	PRP$	0	
-supporters	0	0	0	0	0	NNS	0	
-allegedly	0	0	0	0	0	RB	0	
-beat	0	0	0	0	0	VBD	0	
-up	khooTrig	0	0	0	0	RP	0	
-three	0	0	0	0	0	CD	0	
-Lucknow	0	0	0	0	0	NNP	0	
-Municipal	0	0	0	0	0	NNP	0	
-Corporation	0	0	0	0	0	NNP	0	
-sanitation	0	0	0	0	0	NN	0	
-workers	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-manhandled	0	0	0	0	0	VBN	0	
-a	0	0	0	0	0	DT	0	
-constable	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Thakurganj	0	0	0	0	0	JJ	0	
-area	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Muck	8-ccomp-0	
+on	2-case-1	
+road	0-nmod:on-2	
+after	5-case-3	
+SP	5-compound-4	
+leader	0-nmod:after-5	
+,	null	
+supporters	8-nsubj-7	
+beat	8	
+up	8-compound:prt-9	
+LMC	11-compound-10	
+men	8-dobj-11	
+-	null	
+Indian	17-compound-13	
+Express	17-compound-14	
+Express	17-compound-15	
+News	17-compound-16	
+Service	11-dep-17	
+,	null	
+Express	21-compound-19	
+News	21-compound-20	
+Service	17-appos-21	
+:	null	
+Lucknow	11-dep-23	
+,	null	
+Wed	26-compound-25	
+Jul	23-appos-26	
+11	26-dep-27	
+2012	27-nummod-28	
+,	null	
+04	27-nummod-30	
+:	null	
+20	33-nummod-32	
+hrs	11-dep-33	
+A	37-det-34	
+Samajwadi	37-compound-35	
+Party	37-compound-36	
+leader	51-nsubj-37	
+and	37-cc-38	
+his	40-nmod:poss-39	
+supporters	42-nsubj-40	
+allegedly	42-advmod-41	
+beat	11-acl:relcl-42	
+up	42-compound:prt-43	
+three	49-nummod-44	
+Lucknow	49-compound-45	
+Municipal	49-compound-46	
+Corporation	49-compound-47	
+sanitation	49-compound-48	
+workers	42-dobj-49	
+and	42-cc-50	
+manhandled	42-conj:and-51	
+a	53-det-52	
+constable	51-dobj-53	
+in	56-case-54	
+Thakurganj	56-amod-55	
+area	53-nmod:in-56	
+on	58-case-57	
+Tuesday	51-nmod:on-58	
+.	null	

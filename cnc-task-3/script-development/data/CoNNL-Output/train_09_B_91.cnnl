@@ -1,54 +1,54 @@
-The	0	0	0	0	0	DT	0	
-CPI	0	0	0	0	0	NN	0	
-(	0	0	0	0	0	(	0	
-M	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-leader	0	0	0	0	0	NN	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-while	0	0	0	0	0	IN	0	
-CPI	0	0	0	0	0	JJ	0	
-(	0	0	0	0	0	(	0	
-M	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-workers	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-victims	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-RSS	0	0	0	0	0	NNP	0	
-attacks	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Thalassery	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Malampuzha	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-UDF	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-organising	0	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-Shanthi	0	0	0	0	person	NNP	0	
-Yatra	0	0	0	0	person	NNP	0	
-(	0	0	0	0	0	(	0	
-a	0	0	0	0	0	DT	0	
-foot	0	0	0	0	0	NN	0	
-march	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-peace	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Congress	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-to	0	0	0	0	0	TO	0	
-target	mcmTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-CPI	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-M	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-as	0	0	0	0	0	IN	0	
-perpetrators	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-violence	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	5-det-0	
+CPI	5-compound-1	
+(	null	
+M	5-appos-3	
+)	null	
+leader	6-nsubj-5	
+said	6	
+that	28-mark-7	
+while	16-mark-8	
+CPI	13-amod-9	
+(	null	
+M	13-appos-11	
+)	null	
+workers	16-nsubj-13	
+were	16-cop-14	
+the	16-det-15	
+victims	28-advcl-16	
+of	19-case-17	
+RSS	19-compound-18	
+attacks	16-nmod:of-19	
+at	21-case-20	
+Thalassery	19-nmod:at-21	
+and	21-cc-22	
+Malampuzha	21-conj:and-23	
+,	null	
+the	26-det-25	
+UDF	28-nsubj-26	
+was	28-aux-27	
+organising	6-ccomp-28	
+a	31-det-29	
+Shanthi	31-compound-30	
+Yatra	28-dobj-31	
+(	null	
+a	35-det-33	
+foot	35-compound-34	
+march	31-dep-35	
+for	37-case-36	
+peace	35-nmod:for-37	
+by	40-case-38	
+the	40-det-39	
+Congress	35-nmod:by-40	
+)	null	
+to	43-mark-42	
+target	28-advcl-43	
+the	45-det-44	
+CPI	43-dobj-45	
+(	null	
+M	45-appos-47	
+)	null	
+as	50-case-49	
+perpetrators	43-nmod:as-50	
+of	52-case-51	
+violence	50-nmod:of-52	
+.	null	

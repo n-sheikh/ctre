@@ -1,33 +1,33 @@
-Soon	0	0	0	0	0	RB	0	
-after	0	0	0	0	0	IN	0	
-he	0	0	0	0	0	PRP	0	
-addressed	mcmTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-gathering	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-District	0	0	0	0	0	NNP	0	
-Collector	0	0	0	0	0	NNP	0	
-B	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Janardhan	0	0	0	0	person	NNP	0	
-Reddy	0	0	0	0	person	NNP	0	
-arrived	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-venue	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-received	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-memorandum	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-him	0	0	0	0	0	PRP	0	
-and	0	0	0	0	0	CC	0	
-promised	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-forward	0	0	0	0	0	VB	0	
-it	0	0	0	0	0	PRP	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-State	0	0	0	0	0	NN	0	
-government	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Soon	3-advmod-0	
+after	3-mark-1	
+he	3-nsubj-2	
+addressed	13-advcl-3	
+the	5-det-4	
+gathering	3-dobj-5	
+,	null	
+District	12-compound-7	
+Collector	12-compound-8	
+B	12-compound-9	
+.	null	
+Janardhan	12-compound-11	
+Reddy	24-nsubj-12	
+arrived	13	
+at	16-case-14	
+the	16-det-15	
+venue	13-nmod:at-16	
+and	13-cc-17	
+received	13-conj:and-18	
+the	20-det-19	
+memorandum	18-dobj-20	
+from	22-case-21	
+him	18-nmod:from-22	
+and	13-cc-23	
+promised	13-conj:and-24	
+to	26-mark-25	
+forward	24-xcomp-26	
+it	26-dobj-27	
+to	31-case-28	
+the	31-det-29	
+State	31-compound-30	
+government	26-nmod:to-31	
+.	null	

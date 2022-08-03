@@ -1,0 +1,15 @@
+The	1-det-0	
+first	3-nsubjpass-1	
+was	3-auxpass-2	
+shot	3	
+,	null	
+the	6-det-5	
+second	7-nsubj-6	
+beaten	3-dep-7	
+to	9-case-8	
+death	7-nmod:to-9	
+and	9-cc-10	
+a	13-det-11	
+third	13-amod-12	
+stabbed	9-conj:and-13	
+.	null	

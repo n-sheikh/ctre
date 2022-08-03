@@ -1,40 +1,40 @@
-Inspector	0	0	0	0	person	NNP	0	
-General	0	0	0	0	person	NNP	0	
-of	0	0	0	0	0	IN	0	
-BSF	0	0	0	0	person	NNP	0	
-Jammu	0	0	0	0	person	NNP	0	
-Frontier	0	0	0	0	0	NNP	0	
-Rajeev	0	0	0	0	0	NNP	0	
-Krishna	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-said	0	0	0	0	0	VBN	0	
-that	0	0	0	0	0	IN	0	
-its	0	0	0	0	0	PRP$	0	
-personnel	0	0	0	0	0	NNS	0	
-opened	0	0	0	0	0	VBD	0	
-fire	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-self-defence	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-"	0	0	0	0	0	``	0	
-maximum	0	0	0	0	0	JJ	0	
-restraint	0	0	0	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-to	0	0	0	0	0	TO	0	
-quell	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-violence	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mob	0	0	0	0	0	NN	0	
-which	0	0	0	0	0	WDT	0	
-tried	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-storm	0	0	0	0	0	VB	0	
-their	0	0	0	0	0	PRP$	0	
-storehouse	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-arms	khooTrig	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-ammunition	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Inspector	1-compound-0	
+General	9-nsubj-1	
+of	7-case-2	
+BSF	7-compound-3	
+Jammu	7-compound-4	
+Frontier	7-compound-5	
+Rajeev	7-compound-6	
+Krishna	1-nmod:of-7	
+had	9-aux-8	
+said	9	
+that	13-mark-10	
+its	12-nmod:poss-11	
+personnel	13-nsubj-12	
+opened	9-ccomp-13	
+fire	13-dobj-14	
+in	16-case-15	
+self-defence	13-nmod:in-16	
+with	20-case-17	
+"	null	
+maximum	20-amod-19	
+restraint	13-nmod:with-20	
+"	null	
+to	23-mark-22	
+quell	20-acl-23	
+the	25-det-24	
+violence	23-dobj-25	
+by	28-case-26	
+the	28-det-27	
+mob	23-nmod:by-28	
+which	30-nsubj-29	
+tried	28-acl:relcl-30	
+to	32-mark-31	
+storm	30-xcomp-32	
+their	34-nmod:poss-33	
+storehouse	32-dobj-34	
+of	36-case-35	
+arms	34-nmod:of-36	
+and	36-cc-37	
+ammunition	36-conj:and-38	
+.	null	

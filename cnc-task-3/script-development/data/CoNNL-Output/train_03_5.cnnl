@@ -1,23 +1,23 @@
-In	0	0	0	0	0	IN	0	
-Bhaderwah	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Thathri	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-protestors	0	0	0	0	0	NNS	0	
-took	0	0	0	0	0	VBD	0	
-out	khooTrig	0	0	0	0	RP	0	
-a	0	0	0	0	0	DT	0	
-march	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-burnt	0	0	0	0	0	VBN	0	
-tyres	0	0	0	0	0	NNS	0	
-demanding	0	0	0	0	0	VBG	0	
-arrest	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-culprits	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-punishment	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-them	0	0	0	0	0	PRP	0	
-.	0	0	0	0	0	.	0	
+In	1-case-0	
+Bhaderwah	6-nmod:in-1	
+and	1-cc-2	
+Thathri	6-nmod:in-3	
+,	null	
+protestors	11-nsubj-5	
+took	6	
+out	6-compound:prt-7	
+a	9-det-8	
+march	6-nmod:tmod-9	
+and	6-cc-10	
+burnt	6-conj:and-11	
+tyres	11-dobj-12	
+demanding	12-acl-13	
+arrest	13-dobj-14	
+of	17-case-15	
+the	17-det-16	
+culprits	14-nmod:of-17	
+and	17-cc-18	
+punishment	17-conj:and-19	
+to	21-case-20	
+them	17-nmod:to-21	
+.	null	

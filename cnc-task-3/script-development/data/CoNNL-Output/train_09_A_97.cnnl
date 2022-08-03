@@ -1,25 +1,25 @@
-Earlier	0	0	0	0	0	RBR	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-angry	0	0	0	0	0	JJ	0	
-residents	0	0	0	0	0	NNS	0	
-barricaded	khooTrig	0	0	0	0	VBD	0	
-streets	0	0	0	0	0	NNS	0	
-with	0	0	0	0	0	IN	0	
-burning	0	0	0	0	0	VBG	0	
-tyres	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-set	0	0	0	0	0	VBD	0	
-fire	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-councillor	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-house	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-protest	0	0	0	0	0	NN	0	
-over	0	0	0	0	0	IN	0	
-poor	0	0	0	0	0	JJ	0	
-service	0	0	0	0	0	NN	0	
-delivery	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Earlier	5-advmod-0	
+on	2-case-1	
+Monday	0-nmod:on-2	
+angry	4-amod-3	
+residents	11-nsubj-4	
+barricaded	5	
+streets	5-dobj-6	
+with	9-case-7	
+burning	9-amod-8	
+tyres	5-nmod:with-9	
+and	5-cc-10	
+set	5-conj:and-11	
+fire	11-dobj-12	
+to	17-case-13	
+the	15-det-14	
+councillor	17-nmod:poss-15	
+'s	15-case-16	
+house	11-nmod:to-17	
+in	19-case-18	
+protest	17-nmod:in-19	
+over	23-case-20	
+poor	23-amod-21	
+service	23-compound-22	
+delivery	17-nmod:over-23	
+.	null	

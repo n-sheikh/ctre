@@ -1,33 +1,33 @@
-More	0	0	0	0	0	JJR	0	
-than	0	0	0	0	0	IN	0	
-two	0	0	0	0	0	CD	0	
-weeks	0	0	0	0	0	NNS	0	
-after	0	0	0	0	0	IN	0	
-three	0	0	0	0	0	CD	0	
-Dalit	0	0	0	0	person	NNP	0	
-settlements	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-not	0	0	0	0	0	RB	explicit_negative	
-far	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
-from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-Nayakankottai	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
-in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-this	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-backward	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-district	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-north-west	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-Tamil	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
-Nadu	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
-,	0	0	in_explicit_neg_trig_domain	0	0	,	0	
-were	0	0	0	0	0	VBD	0	
-attacked	0	0	0	0	0	VBN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-air	0	0	0	0	0	NN	0	
-is	0	0	0	0	0	VBZ	0	
-still	khooTrig	0	0	0	0	RB	0	
-thick	0	0	0	0	0	JJ	0	
-with	0	0	0	0	0	IN	0	
-tension	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+More	2-advmod-0	
+than	0-mwe-1	
+two	3-nummod-2	
+weeks	23-dep-3	
+after	23-mark-4	
+three	7-nummod-5	
+Dalit	7-compound-6	
+settlements	23-nsubjpass-7	
+,	null	
+not	12-dep-9	
+far	12-case-10	
+from	10-mwe-11	
+Nayakankottai	7-nmod:far_from-12	
+in	16-case-13	
+this	16-det-14	
+backward	16-amod-15	
+district	12-nmod:in-16	
+in	20-case-17	
+north-west	20-amod-18	
+Tamil	20-compound-19	
+Nadu	16-nmod:in-20	
+,	null	
+were	23-auxpass-22	
+attacked	29-advcl-23	
+,	null	
+the	26-det-25	
+air	29-nsubj-26	
+is	29-cop-27	
+still	29-advmod-28	
+thick	29	
+with	31-case-30	
+tension	29-nmod:with-31	
+.	null	

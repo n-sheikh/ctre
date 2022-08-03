@@ -1,28 +1,28 @@
-"	0	0	0	0	0	``	0	
-I	0	0	0	0	0	PRP	0	
-do	0	0	0	0	0	VBP	0	
-n't	0	0	0	0	0	RB	explicit_negative	
-even	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
-recognise	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-Ram	0	0	in_explicit_neg_trig_domain	0	location	NNP	0	
-Madhav	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	''	0	
-he	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-when	0	0	0	0	0	WRB	0	
-asked	0	0	0	0	0	VBD	0	
-why	0	0	0	0	0	WRB	0	
-the	0	0	0	0	0	DT	0	
-RSS	0	0	0	0	0	NNP	0	
-leader	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-allowed	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-stage	khooTrig	0	0	0	0	NN	0	
-during	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Jantar	0	0	0	0	0	NNP	0	
-Mantar	0	0	0	0	0	NNP	0	
-agitation	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+"	null	
+I	5-nsubj-1	
+do	5-aux-2	
+n't	5-neg-3	
+even	5-advmod-4	
+recognise	11-ccomp-5	
+Ram	7-compound-6	
+Madhav	5-dobj-7	
+,	null	
+"	null	
+he	11-nsubj-10	
+said	11	
+when	13-advmod-12	
+asked	11-advcl-13	
+why	19-advmod-14	
+the	17-det-15	
+RSS	17-compound-16	
+leader	19-nsubjpass-17	
+was	19-auxpass-18	
+allowed	13-ccomp-19	
+on	21-case-20	
+stage	19-nmod:on-21	
+during	26-case-22	
+the	26-det-23	
+Jantar	26-compound-24	
+Mantar	26-compound-25	
+agitation	19-nmod:during-26	
+.	null	

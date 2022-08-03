@@ -1,25 +1,25 @@
-The	0	0	0	0	0	DT	0	
-violence	0	0	0	0	0	NN	0	
-that	0	0	0	0	0	WDT	0	
-followed	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-Nandigram	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-due	0	0	0	0	0	JJ	0	
-to	0	0	0	0	0	TO	0	
-them	0	0	0	0	0	PRP	0	
-for	0	0	0	0	0	IN	0	
-which	0	0	0	0	0	WDT	0	
-the	0	0	0	0	0	DT	0	
-BJP	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-criticising	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-CPI	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-M	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-,	0	0	0	0	0	,	0	
-he	0	0	0	0	0	PRP	0	
-added	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+violence	7-nsubj-1	
+that	3-nsubj-2	
+followed	1-acl:relcl-3	
+in	5-case-4	
+Nandigram	3-nmod:in-5	
+was	7-cop-6	
+due	23-ccomp-7	
+to	9-case-8	
+them	7-nmod:to-9	
+for	11-case-10	
+which	15-nmod:for-11	
+the	13-det-12	
+BJP	15-nsubj-13	
+was	15-aux-14	
+criticising	9-acl:relcl-15	
+the	17-det-16	
+CPI	15-dobj-17	
+(	null	
+M	9-appos-19	
+)	null	
+,	null	
+he	23-nsubj-22	
+added	23	
+.	null	

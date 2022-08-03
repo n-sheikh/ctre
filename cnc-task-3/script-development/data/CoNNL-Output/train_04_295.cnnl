@@ -1,0 +1,12 @@
+They	2-nsubj-0	
+also	2-advmod-1	
+held	2	
+a	5-det-3	
+candlelight	5-amod-4	
+vigil	2-dobj-5	
+near	8-case-6	
+National	8-compound-7	
+College	5-nmod:near-8	
+at	10-case-9	
+Basavanagudi	5-nmod:at-10	
+.	null	

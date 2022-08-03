@@ -1,0 +1,14 @@
+The	1-det-0	
+farmworkers	3-nmod:poss-1	
+'	1-case-2	
+strike	4-nsubj-3	
+resumed	4	
+on	6-case-5	
+Tuesday	4-nmod:on-6	
+when	12-advmod-7	
+their	9-nmod:poss-8	
+demands	12-nsubjpass-9	
+were	12-auxpass-10	
+not	12-neg-11	
+met	4-advcl-12	
+.	null	

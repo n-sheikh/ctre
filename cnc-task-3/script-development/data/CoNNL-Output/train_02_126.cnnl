@@ -1,16 +1,16 @@
-At	0	0	0	0	0	IN	0	
-least	0	0	0	0	0	JJS	0	
-one	0	0	0	0	0	CD	0	
-demonstrator	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-briefly	0	0	0	0	0	RB	0	
-detained	khooTrig	0	0	0	0	VBN	0	
-when	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-unfolded	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-banner	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-witnesses	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+At	1-case-0	
+least	2-nmod:npmod-1	
+one	3-nummod-2	
+demonstrator	6-nsubjpass-3	
+was	6-auxpass-4	
+briefly	6-advmod-5	
+detained	14-ccomp-6	
+when	9-advmod-7	
+he	9-nsubj-8	
+unfolded	6-advcl-9	
+a	11-det-10	
+banner	9-dobj-11	
+,	null	
+witnesses	14-nsubj-13	
+said	14	
+.	null	

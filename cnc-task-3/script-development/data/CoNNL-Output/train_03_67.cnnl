@@ -1,70 +1,70 @@
-KOLLAM	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Neglect	0	0	0	0	0	NNP	implicit_negative	
-of	0	0	0	0	0	IN	0	
-Kollam	0	0	0	0	0	NNP	0	
-alleged	0	0	0	0	0	VBD	0	
-August	0	0	0	0	date	NNP	0	
-06	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2011	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-UDF	0	0	0	0	0	NNP	0	
-government	0	0	0	0	0	NN	0	
-has	0	0	0	0	0	VBZ	0	
-declared	0	0	0	0	0	VBN	0	
-war	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-people	0	0	0	0	0	NNS	0	
-:	0	0	0	0	0	:	0	
-Chandrappan	0	0	0	0	0	NNP	0	
-The	0	0	0	0	0	DT	0	
-district	0	0	0	0	0	NN	0	
-unit	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Left	0	0	0	0	0	NNP	0	
-Democratic	0	0	0	0	0	NNP	0	
-Front	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-LDF	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-dharna	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Press	0	0	0	0	0	NNP	0	
-Club	0	0	0	0	0	NNP	0	
-Maidan	0	0	0	0	0	NNP	0	
-here	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Friday	0	0	0	0	date	NNP	0	
-to	0	0	0	0	0	TO	0	
-register	0	0	0	0	0	VB	0	
-its	0	0	0	0	0	PRP$	0	
-protest	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-alleged	0	0	0	0	0	JJ	0	
-neglect	0	0	0	0	0	NN	implicit_negative	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-district	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-revised	0	0	0	0	0	VBN	0	
-Budget	0	0	0	0	0	NNP	0	
-presented	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Finance	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-K	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-M	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Mani	0	0	0	0	person	NNP	0	
-.	0	0	0	0	0	.	0	
+KOLLAM	0	
+:	null	
+Neglect	5-nsubj-2	
+of	4-case-3	
+Kollam	2-nmod:of-4	
+alleged	0-parataxis-5	
+August	5-nmod:tmod-6	
+06	6-nummod-7	
+,	null	
+2011	10-nummod-9	
+00	0-parataxis-10	
+:	null	
+00	15-nummod-12	
+IST	15-compound-13	
+UDF	15-compound-14	
+government	17-nsubj-15	
+has	17-aux-16	
+declared	10-parataxis-17	
+war	17-dobj-18	
+on	20-case-19	
+people	18-nmod:on-20	
+:	null	
+Chandrappan	0-parataxis-22	
+The	25-det-23	
+district	25-compound-24	
+unit	34-nsubj-25	
+of	30-case-26	
+the	30-det-27	
+Left	30-compound-28	
+Democratic	30-compound-29	
+Front	25-nmod:of-30	
+(	null	
+LDF	30-appos-32	
+)	null	
+staged	22-acl:relcl-34	
+a	36-det-35	
+dharna	34-dobj-36	
+at	41-case-37	
+the	41-det-38	
+Press	41-compound-39	
+Club	41-compound-40	
+Maidan	36-nmod:at-41	
+here	44-advmod-42	
+on	44-case-43	
+Friday	34-nmod:on-44	
+to	46-mark-45	
+register	34-advcl-46	
+its	48-nmod:poss-47	
+protest	46-dobj-48	
+against	52-case-49	
+the	52-det-50	
+alleged	52-amod-51	
+neglect	46-nmod:against-52	
+of	55-case-53	
+the	55-det-54	
+district	52-nmod:of-55	
+in	59-case-56	
+the	59-det-57	
+revised	59-amod-58	
+Budget	55-nmod:in-59	
+presented	59-acl-60	
+by	64-case-61	
+Finance	64-compound-62	
+Minister	64-compound-63	
+K	60-nmod:by-64	
+.	null	
+M	22-dep-66	
+.	null	
+Mani	22-dep-68	
+.	null	

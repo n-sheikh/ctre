@@ -1,42 +1,42 @@
-“	0	0	0	0	0	VB	0	
-I	0	1	in_modal_trig_domain	0	0	PRP	0	
-don	0	1	in_modal_trig_domain	0	0	VB	0	
-’	0	1	in_modal_trig_domain	0	0	NNP	0	
-t	0	1	in_modal_trig_domain	0	0	NNP	0	
-know	0	1	in_modal_trig_domain	0	0	VBP	0	
-whether	0	1	in_modal_trig_domain	0	0	IN	0	
-this	0	1	in_modal_trig_domain	0	0	DT	0	
-would	0	1	in_modal_trig_domain	1	0	MD	modal	
-work	0	null	null	0	0	VB	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-what	0	0	0	0	0	WP	0	
-other	0	0	0	0	0	JJ	0	
-channels	0	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-there	0	0	0	0	0	RB	0	
-to	0	0	0	0	0	TO	0	
-make	khooTrig	0	0	0	0	VB	0	
-Carrie	0	0	0	0	person	NNP	0	
-Lam	0	0	0	0	person	NNP	0	
-listen	0	0	0	0	0	VB	0	
-to	0	0	0	0	0	TO	0	
-us	0	0	0	0	0	PRP	0	
-?	0	0	0	0	0	.	0	
-”	0	0	0	0	0	JJ	0	
-said	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-male	0	0	0	0	0	JJ	0	
-protester	0	0	0	0	0	NN	0	
-outside	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-legislative	0	0	0	0	0	JJ	0	
-council	0	0	0	0	0	NN	0	
-building	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-declined	0	0	0	0	0	VBD	implicit_negative	
-to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
-be	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
-named	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+“	0	
+I	2-nsubj-1	
+don	0-ccomp-2	
+’	4-compound-3	
+t	5-nsubj-4	
+know	2-ccomp-5	
+whether	9-mark-6	
+this	9-nsubj-7	
+would	9-aux-8	
+work	5-ccomp-9	
+,	null	
+but	9-cc-11	
+what	15-dobj-12	
+other	14-amod-13	
+channels	15-nsubj-14	
+are	9-conj:but-15	
+there	15-advmod-16	
+to	18-mark-17	
+make	15-xcomp-18	
+Carrie	20-compound-19	
+Lam	21-nsubj-20	
+listen	18-ccomp-21	
+to	23-case-22	
+us	21-nmod:to-23	
+?	null	
+”	1-dep-0	
+said	1	
+a	4-det-2	
+male	4-amod-3	
+protester	1-nsubj-4	
+outside	9-case-5	
+the	9-det-6	
+legislative	9-amod-7	
+council	9-compound-8	
+building	4-nmod:outside-9	
+,	null	
+who	12-nsubj-11	
+declined	9-acl:relcl-12	
+to	15-mark-13	
+be	15-auxpass-14	
+named	12-xcomp-15	
+.	null	

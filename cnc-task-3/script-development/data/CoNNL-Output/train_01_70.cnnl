@@ -1,18 +1,18 @@
-Some	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-personnel	0	0	0	0	0	NNS	0	
-intervened	0	0	0	0	0	VBD	0	
-and	0	0	0	0	0	CC	0	
-urged	0	0	0	0	0	VBD	0	
-them	0	0	0	0	0	PRP	0	
-to	0	0	0	0	0	TO	0	
-give	0	0	0	0	0	VB	0	
-up	khooTrig	0	0	0	0	RP	0	
-their	0	0	0	0	0	PRP$	0	
-protest	0	0	0	0	0	NN	0	
--	0	0	0	0	0	:	0	
-but	0	0	0	0	0	CC	0	
-to	0	0	0	0	0	TO	0	
-no	0	0	0	0	0	DT	explicit_negative	
-avail	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Some	2-det-0	
+police	2-compound-1	
+personnel	5-nsubj-2	
+intervened	3	
+and	3-cc-4	
+urged	3-conj:and-5	
+them	5-dobj-6	
+to	8-mark-7	
+give	5-xcomp-8	
+up	8-compound:prt-9	
+their	11-nmod:poss-10	
+protest	8-dobj-11	
+-	null	
+but	3-parataxis-13	
+to	16-case-14	
+no	16-neg-15	
+avail	13-nmod:to-16	
+.	null	

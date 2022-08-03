@@ -1,18 +1,18 @@
-The	0	0	0	0	0	DT	0	
-unrest	0	0	0	0	0	NN	0	
-followed	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-march	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-residents	0	0	0	0	0	NNS	0	
-last	0	0	0	0	date	JJ	0	
-week	0	0	0	0	date	NN	0	
-to	0	0	0	0	0	TO	0	
-voice	0	0	0	0	0	VB	0	
-their	0	0	0	0	0	PRP$	0	
-dissatisfaction	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-municipal	0	0	0	0	0	JJ	0	
-manager	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+unrest	2-nsubj-1	
+followed	2	
+a	4-det-3	
+march	2-dobj-4	
+by	6-case-5	
+residents	4-nmod:by-6	
+last	8-amod-7	
+week	4-dep-8	
+to	10-mark-9	
+voice	4-acl-10	
+their	12-nmod:poss-11	
+dissatisfaction	10-dobj-12	
+with	16-case-13	
+the	16-det-14	
+municipal	16-amod-15	
+manager	12-nmod:with-16	
+.	null	

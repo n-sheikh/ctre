@@ -1,35 +1,35 @@
-Speaking	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-mediapersons	0	0	0	0	0	NNS	0	
-after	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-meeting	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Pandian	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-he	0	0	0	0	0	PRP	0	
-and	0	0	0	0	0	CC	0	
-Nallakannu	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-requested	0	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-CM	0	0	0	0	0	NNP	0	
-to	0	0	0	0	0	TO	0	
-withdraw	khooTrig	0	0	0	0	VB	0	
-cases	0	0	0	0	0	NNS	0	
-registered	0	0	0	0	0	VBN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-those	0	0	0	0	0	DT	0	
-protesting	0	0	0	0	0	VBG	0	
-against	0	0	0	0	0	IN	implicit_negative	
-KKNPP	0	0	0	0	0	NNP	0	
-as	0	0	0	0	0	IN	0	
-they	0	0	0	0	0	PRP	0	
-had	0	0	0	0	0	VBD	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-demonstrations	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-peaceful	0	0	0	0	0	JJ	0	
-manner	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Speaking	8-advcl-0	
+to	2-case-1	
+mediapersons	0-nmod:to-2	
+after	5-case-3	
+the	5-det-4	
+meeting	0-nmod:after-5	
+,	null	
+Pandian	8-nsubj-7	
+said	8	
+he	13-nsubj-9	
+and	9-cc-10	
+Nallakannu	13-nsubj-11	
+had	13-aux-12	
+requested	8-ccomp-13	
+the	15-det-14	
+CM	13-dobj-15	
+to	17-mark-16	
+withdraw	13-advcl-17	
+cases	17-dobj-18	
+registered	18-acl-19	
+against	21-case-20	
+those	19-nmod:against-21	
+protesting	21-acl-22	
+against	24-case-23	
+KKNPP	22-nmod:against-24	
+as	28-mark-25	
+they	28-nsubj-26	
+had	28-aux-27	
+staged	17-advcl-28	
+demonstrations	28-dobj-29	
+in	33-case-30	
+a	33-det-31	
+peaceful	33-amod-32	
+manner	28-nmod:in-33	
+.	null	

@@ -1,0 +1,14 @@
+Barring	2-case-0	
+this	2-det-1	
+incident	12-nmod:barring-2	
+,	null	
+the	5-det-4	
+agitation	12-nsubj-5	
+by	8-case-6	
+other	8-amod-7	
+organisations	5-nmod:by-8	
+on	10-case-9	
+Thursday	5-nmod:on-10	
+was	12-cop-11	
+peaceful	12	
+.	null	

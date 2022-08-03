@@ -1,51 +1,51 @@
-Presbyter	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-Church	0	0	0	0	0	NNP	0	
-Injured	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Attack	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Salem	0	0	0	0	location	CD	0	
-31st	0	0	0	0	date	JJ	0	
-August	0	0	0	0	date	NNP	0	
-2015	0	0	0	0	date	CD	0	
-09	0	0	0	0	date	NNS	0	
-:	0	0	0	0	date	:	0	
-53	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-SALEM	0	0	0	0	location	NNP	0	
-:	0	0	0	0	0	:	0	
-A	0	0	0	0	0	DT	0	
-55	0	0	0	0	0	CD	0	
--	0	0	0	0	0	:	0	
-year-old	0	0	0	0	0	JJ	0	
-presbyter	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-church	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Hasthampatty	0	0	0	0	0	NNP	0	
-near	0	0	0	0	0	IN	0	
-here	0	0	0	0	0	RB	0	
-was	0	0	0	0	0	VBD	0	
-injured	khooTrig	0	0	0	0	VBN	0	
-after	0	0	0	0	0	IN	0	
-he	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-allegedly	0	0	0	0	0	RB	0	
-assaulted	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-another	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-shrine	0	0	0	0	0	NN	0	
-during	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-mass	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-police	0	0	0	0	0	NNS	0	
-said	0	0	0	0	0	VBD	0	
-here	0	0	0	0	0	RB	0	
-today	0	0	0	0	date	NN	0	
-.	0	0	0	0	0	.	0	
+Presbyter	30-nsubjpass-0	
+of	3-case-1	
+Church	3-compound-2	
+Injured	0-nmod:of-3	
+in	5-case-4	
+Attack	3-nmod:in-5	
+in	11-case-6	
+Salem	11-nummod-7	
+31st	11-amod-8	
+August	11-compound-9	
+2015	11-nummod-10	
+09	0-nmod:in-11	
+:	null	
+53	15-nummod-13	
+AM	15-compound-14	
+SALEM	11-dep-15	
+:	null	
+A	18-det-17	
+55	11-dep-18	
+-	null	
+year-old	21-amod-20	
+presbyter	11-dep-21	
+of	24-case-22	
+a	24-det-23	
+church	21-nmod:of-24	
+at	26-case-25	
+Hasthampatty	24-nmod:at-26	
+near	28-case-27	
+here	11-nmod:near-28	
+was	30-auxpass-29	
+injured	47-ccomp-30	
+after	35-mark-31	
+he	35-nsubjpass-32	
+was	35-auxpass-33	
+allegedly	35-advmod-34	
+assaulted	30-advcl-35	
+by	38-case-36	
+another	38-det-37	
+group	35-nmod:agent-38	
+in	41-case-39	
+the	41-det-40	
+shrine	38-nmod:in-41	
+during	44-case-42	
+Sunday	44-compound-43	
+mass	35-nmod:during-44	
+,	null	
+police	47-nsubj-46	
+said	47	
+here	47-advmod-48	
+today	47-nmod:tmod-49	
+.	null	

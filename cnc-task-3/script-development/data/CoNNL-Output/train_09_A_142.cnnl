@@ -1,0 +1,16 @@
+A	1-det-0	
+house	3-nsubjpass-1	
+was	3-auxpass-2	
+destroyed	3	
+in	7-case-4	
+the	7-det-5	
+gun	7-compound-6	
+battle	3-nmod:in-7	
+and	3-cc-8	
+security	10-compound-9	
+forces	12-nsubj-10	
+are	12-aux-11	
+removing	3-conj:and-12	
+the	14-det-13	
+debris	12-dobj-14	
+.	null	

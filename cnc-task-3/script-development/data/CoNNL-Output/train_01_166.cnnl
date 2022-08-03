@@ -1,0 +1,16 @@
+At	1-case-0	
+least	2-nmod:npmod-1	
+five	4-nummod-2	
+more	2-advmod-3	
+people	7-nsubjpass-4	
+will	7-aux-5	
+be	7-auxpass-6	
+tried	7	
+over	10-case-8	
+the	10-det-9	
+attack	7-nmod:over-10	
+,	null	
+Xinhua	14-nsubj-12	
+has	14-aux-13	
+reported	10-acl:relcl-14	
+.	null	

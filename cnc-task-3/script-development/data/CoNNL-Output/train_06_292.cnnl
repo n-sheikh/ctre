@@ -1,14 +1,14 @@
-Protesters	0	0	0	0	0	NNS	0	
-also	0	0	0	0	0	RB	0	
-disrupted	khooTrig	0	0	0	0	VBD	0	
-schools	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-pelted	0	0	0	0	0	VBD	0	
-police	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-stones	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-petrol-bombed	0	0	0	0	0	JJ	0	
-a	0	0	0	0	0	DT	0	
-Nyala	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Protesters	5-nsubj-0	
+also	2-advmod-1	
+disrupted	2	
+schools	2-dobj-3	
+and	2-cc-4	
+pelted	2-conj:and-5	
+police	5-dobj-6	
+with	8-case-7	
+stones	5-nmod:with-8	
+and	8-cc-9	
+petrol-bombed	8-conj:and-10	
+a	12-det-11	
+Nyala	8-dep-12	
+.	null	

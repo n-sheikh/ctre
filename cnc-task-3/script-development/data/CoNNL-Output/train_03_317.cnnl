@@ -1,41 +1,41 @@
-When	0	0	0	0	0	WRB	0	
-the	0	0	0	0	0	DT	0	
-chief	0	0	0	0	0	JJ	0	
-minister	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-about	0	0	0	0	0	IN	0	
-to	0	0	0	0	0	TO	0	
-inaugurate	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-mela	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-afternoon	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-some	0	0	0	0	0	DT	0	
-candidates	0	0	0	0	0	NNS	0	
-made	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-dash	0	0	0	0	0	NN	0	
-towards	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-dais	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-shouting	0	0	0	0	0	VBG	0	
-:	0	0	0	0	0	:	0	
-“	0	0	0	0	0	NNP	0	
-CM	0	0	0	0	0	NNP	0	
-down	khooTrig	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-down	khooTrig	0	0	0	0	IN	0	
-’	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-“	0	0	0	0	0	NNP	0	
-Government	0	0	0	0	0	NNP	0	
-down	khooTrig	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-down	khooTrig	0	0	0	0	RB	0	
-’	0	0	0	0	0	CD	0	
-’	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+When	5-advmod-0	
+the	3-det-1	
+chief	3-amod-2	
+minister	5-nsubj-3	
+was	5-aux-4	
+about	16-advcl-5	
+to	7-mark-6	
+inaugurate	5-xcomp-7	
+the	9-det-8	
+mela	7-dobj-9	
+in	12-case-10	
+the	12-det-11	
+afternoon	7-nmod:in-12	
+,	null	
+some	15-det-14	
+candidates	16-nsubj-15	
+made	16	
+a	18-det-17	
+dash	16-dobj-18	
+towards	21-case-19	
+the	21-det-20	
+dais	16-nmod:towards-21	
+,	null	
+shouting	16-advcl-23	
+:	null	
+“	26-compound-25	
+CM	27-nsubj-26	
+down	23-parataxis-27	
+,	null	
+down	31-case-29	
+’	31-compound-30	
+’	16-nmod:down-31	
+and	31-cc-32	
+“	34-compound-33	
+Government	31-conj:and-34	
+down	31-advmod-35	
+,	null	
+down	16-advmod-37	
+’	39-nummod-38	
+’	37-nmod:npmod-39	
+.	null	

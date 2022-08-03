@@ -1,30 +1,30 @@
-The	0	0	0	0	0	DT	0	
-SAHRC	0	0	0	0	0	NNP	0	
-investigated	0	0	0	0	0	NNP	0	
-Tatane	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-death	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-during	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Ficksburg	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-April	0	0	0	0	date	NNP	0	
-2011	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-followed	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-complaint	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Council	0	0	0	0	0	NNP	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Advancement	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-SA	0	0	0	0	0	NNP	0	
-Constitution	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	3-det-0	
+SAHRC	3-compound-1	
+investigated	3-compound-2	
+Tatane	5-nmod:poss-3	
+'s	3-case-4	
+death	16-nsubj-5	
+,	null	
+during	9-case-7	
+a	9-det-8	
+protest	16-nmod:during-9	
+in	11-case-10	
+Ficksburg	9-nmod:in-11	
+in	13-case-12	
+April	9-nmod:in-13	
+2011	13-nummod-14	
+,	null	
+followed	16	
+a	18-det-17	
+complaint	16-dobj-18	
+by	21-case-19	
+the	21-det-20	
+Council	16-nmod:by-21	
+for	24-case-22	
+the	24-det-23	
+Advancement	16-nmod:for-24	
+of	28-case-25	
+the	28-det-26	
+SA	28-compound-27	
+Constitution	24-nmod:of-28	
+.	null	

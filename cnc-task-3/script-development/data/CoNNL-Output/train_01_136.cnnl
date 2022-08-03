@@ -1,53 +1,53 @@
-Led	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-A	0	0	0	0	0	DT	0	
-Sagayamadha	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-an	0	0	0	0	0	DT	0	
-office-bearer	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-All	0	0	0	0	0	NNP	0	
-India	0	0	0	0	0	NNP	0	
-Farm	0	0	0	0	0	NNP	0	
-Workers	0	0	0	0	0	NNPS	0	
-Association	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-villagers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-including	0	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-large	0	0	0	0	0	JJ	0	
-number	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-women	0	0	0	0	0	NNS	0	
-from	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-panchayat	0	0	0	0	0	NN	0	
-comprising	0	0	0	0	0	VBG	0	
-six	0	0	0	0	0	CD	0	
-villages	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-urging	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-district	0	0	0	0	0	NN	0	
-administration	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-immediately	0	0	0	0	0	RB	0	
-disconnect	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-illegal	0	0	0	0	0	JJ	0	
-water	0	0	0	0	0	NN	0	
-connections	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-ensure	0	0	0	0	0	VB	0	
-uninterrupted	0	0	0	0	0	JJ	0	
-water	0	0	0	0	0	NN	0	
-supply	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-them	0	0	0	0	0	PRP	0	
-.	0	0	0	0	0	.	0	
+Led	31-advcl-0	
+by	3-case-1	
+A	3-det-2	
+Sagayamadha	0-nmod:by-3	
+,	null	
+an	6-det-5	
+office-bearer	3-appos-6	
+of	13-case-7	
+the	13-det-8	
+All	13-compound-9	
+India	13-compound-10	
+Farm	13-compound-11	
+Workers	13-compound-12	
+Association	6-nmod:of-13	
+,	null	
+the	16-det-15	
+villagers	31-nsubj-16	
+,	null	
+including	21-case-18	
+a	21-det-19	
+large	21-amod-20	
+number	31-nmod:including-21	
+of	23-case-22	
+women	21-nmod:of-23	
+from	26-case-24	
+the	26-det-25	
+panchayat	23-nmod:from-26	
+comprising	26-acl-27	
+six	29-nummod-28	
+villages	27-dobj-29	
+,	null	
+staged	31	
+the	33-det-32	
+protest	31-dobj-33	
+urging	31-xcomp-34	
+the	37-det-35	
+district	37-compound-36	
+administration	34-dobj-37	
+to	40-mark-38	
+immediately	40-advmod-39	
+disconnect	34-xcomp-40	
+the	44-det-41	
+illegal	44-amod-42	
+water	44-compound-43	
+connections	40-dobj-44	
+and	40-cc-45	
+ensure	40-conj:and-46	
+uninterrupted	49-amod-47	
+water	49-compound-48	
+supply	46-dobj-49	
+to	51-case-50	
+them	46-nmod:to-51	
+.	null	

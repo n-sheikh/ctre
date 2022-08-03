@@ -1,23 +1,23 @@
-A	0	0	0	0	0	DT	0	
-petition	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-sent	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-Grahamstown	0	0	0	0	0	NNP	0	
-area	0	0	0	0	0	NN	0	
-commissioner	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-June	0	0	0	0	date	NNP	0	
-highlighting	0	0	0	0	0	VBG	0	
-crime	0	0	0	0	0	NN	0	
-levels	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-area	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-according	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-memorandum	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+A	1-det-0	
+petition	3-nsubjpass-1	
+was	3-auxpass-2	
+sent	3	
+to	8-case-4	
+the	8-det-5	
+Grahamstown	8-compound-6	
+area	8-compound-7	
+commissioner	3-nmod:to-8	
+in	10-case-9	
+June	3-nmod:in-10	
+highlighting	3-xcomp-11	
+crime	13-compound-12	
+levels	11-dobj-13	
+in	16-case-14	
+the	16-det-15	
+area	13-nmod:in-16	
+,	null	
+according	21-case-18	
+to	18-mwe-19	
+the	21-det-20	
+memorandum	3-nmod:according_to-21	
+.	null	

@@ -1,22 +1,22 @@
-African	0	0	0	0	0	JJ	0	
-National	0	0	0	0	0	NNP	0	
-Congress	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Economic	0	0	0	0	0	NNP	0	
-Freedom	0	0	0	0	0	NNP	0	
-Fighters	0	0	0	0	0	NNPS	0	
-members	0	0	0	0	0	NNS	0	
-sang	0	0	0	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-chanted	0	0	0	0	0	VBN	0	
-,	0	0	0	0	0	,	0	
-and	0	0	0	0	0	CC	0	
-marched	0	0	0	0	0	VBD	0	
-together	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-displaying	0	0	0	0	0	VBG	0	
-their	0	0	0	0	0	PRP$	0	
-respective	0	0	0	0	0	JJ	0	
-party	0	0	0	0	0	NN	0	
-flags	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+African	2-amod-0	
+National	2-compound-1	
+Congress	13-nsubj-2	
+and	2-cc-3	
+Economic	7-compound-4	
+Freedom	7-compound-5	
+Fighters	7-compound-6	
+members	8-nsubj-7	
+sang	8	
+,	null	
+chanted	8-conj:and-10	
+,	null	
+and	8-cc-12	
+marched	8-conj:and-13	
+together	13-advmod-14	
+,	null	
+displaying	13-xcomp-16	
+their	20-nmod:poss-17	
+respective	20-amod-18	
+party	20-compound-19	
+flags	16-dobj-20	
+.	null	

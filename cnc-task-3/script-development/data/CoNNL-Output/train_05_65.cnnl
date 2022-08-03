@@ -1,81 +1,81 @@
-“	0	0	0	0	0	RB	0	
-We	0	0	0	0	0	PRP	0	
-used	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-protest	0	0	0	0	0	VB	0	
-peacefully	0	0	0	0	0	RB	0	
-but	0	0	0	0	0	CC	0	
-it	0	0	0	0	0	PRP	0	
-didn	0	0	0	0	0	VBP	0	
-’	0	0	0	0	0	JJ	0	
-t	0	0	0	0	0	NN	0	
-work	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-now	0	0	0	0	0	RB	0	
-we	0	0	0	0	0	PRP	0	
-need	0	0	0	0	0	VBP	0	
-to	0	0	0	0	0	TO	0	
-get	khooTrig	0	0	0	0	VB	0	
-out	khooTrig	0	0	0	0	RP	0	
-of	0	0	0	0	0	IN	0	
-this	0	0	0	0	0	DT	0	
-framework	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-tell	0	0	0	0	0	VB	0	
-them	0	0	0	0	0	PRP	0	
-,	0	0	0	0	0	,	0	
-we	0	0	0	0	0	PRP	0	
-’	0	0	0	0	0	VBZ	0	
-re	0	0	0	0	0	RB	0	
-willing	0	0	0	0	0	JJ	0	
-to	0	0	0	0	0	TO	0	
-try	0	0	0	0	0	VB	0	
-anything	0	0	0	0	0	NN	0	
-until	0	0	0	0	0	IN	0	
-you	0	0	0	0	0	PRP	0	
-give	0	0	0	0	0	VBP	0	
-us	0	0	0	0	0	PRP	0	
-an	0	0	0	0	0	DT	0	
-answer	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
-”	0	0	0	0	0	NNP	0	
-Police	0	0	0	0	0	NNP	0	
-had	0	0	0	0	0	VBD	0	
-issued	0	0	0	0	0	VBN	0	
-several	0	0	0	0	0	JJ	0	
-warnings	0	0	0	0	0	NNS	0	
-through	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-evening	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-appeared	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-be	0	0	0	0	0	VB	0	
-gearing	0	0	0	0	0	VBG	0	
-up	khooTrig	0	0	0	0	RP	0	
-for	0	0	0	0	0	IN	0	
-violent	0	0	0	0	0	JJ	0	
-clashes	khooTrig	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-had	0	0	0	0	0	VBD	0	
-left	0	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-protesters	0	0	0	0	0	NNS	0	
-largely	0	0	0	0	0	RB	0	
-unhindered	0	0	0	0	0	JJ	0	
-in	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-efforts	0	0	0	0	0	NNS	0	
-even	0	0	0	0	0	RB	0	
-as	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-tore	0	0	0	0	person	VBD	0	
-up	khooTrig	0	0	0	0	RP	0	
-the	0	0	0	0	0	DT	0	
-inside	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-building	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+“	2-advmod-0	
+We	2-nsubj-1	
+used	27-ccomp-2	
+to	4-mark-3	
+protest	2-xcomp-4	
+peacefully	4-advmod-5	
+but	2-cc-6	
+it	8-nsubj-7	
+didn	27-ccomp-8	
+’	11-amod-9	
+t	11-compound-10	
+work	8-dobj-11	
+,	null	
+now	15-advmod-13	
+we	15-nsubj-14	
+need	2-parataxis-15	
+to	17-mark-16	
+get	15-xcomp-17	
+out	17-compound:prt-18	
+of	21-case-19	
+this	21-det-20	
+framework	17-nmod:of-21	
+and	17-cc-22	
+tell	17-conj:and-23	
+them	23-dobj-24	
+,	null	
+we	27-nsubj-26	
+’	27	
+re	29-advmod-28	
+willing	27-xcomp-29	
+to	31-mark-30	
+try	29-xcomp-31	
+anything	31-dobj-32	
+until	35-mark-33	
+you	35-nsubj-34	
+give	31-advcl-35	
+us	35-iobj-36	
+an	38-det-37	
+answer	35-dobj-38	
+.	null	
+”	1-compound-0	
+Police	21-nsubj-1	
+had	3-aux-2	
+issued	3	
+several	5-amod-4	
+warnings	3-dobj-5	
+through	8-case-6	
+the	8-det-7	
+evening	3-nmod:through-8	
+and	3-cc-9	
+appeared	3-conj:and-10	
+to	13-mark-11	
+be	13-aux-12	
+gearing	10-xcomp-13	
+up	13-compound:prt-14	
+for	17-case-15	
+violent	17-amod-16	
+clashes	13-nmod:for-17	
+,	null	
+but	3-cc-19	
+had	21-aux-20	
+left	3-conj:and-21	
+the	23-det-22	
+protesters	25-nsubj-23	
+largely	25-advmod-24	
+unhindered	21-ccomp-25	
+in	28-case-26	
+their	28-nmod:poss-27	
+efforts	25-nmod:in-28	
+even	33-advmod-29	
+as	33-mark-30	
+the	32-det-31	
+group	33-nsubj-32	
+tore	21-advcl-33	
+up	33-compound:prt-34	
+the	36-det-35	
+inside	33-dobj-36	
+of	39-case-37	
+the	39-det-38	
+building	36-nmod:of-39	
+.	null	

@@ -1,0 +1,17 @@
+The	1-det-0	
+clashes	4-nsubjpass-1	
+were	4-auxpass-2	
+allegedly	4-advmod-3	
+sparked	4	
+off	4-compound:prt-5	
+by	9-case-6	
+some	9-det-7	
+local	9-amod-8	
+people	4-nmod:agent-9	
+pelting	9-acl-10	
+stones	10-dobj-11	
+at	15-case-12	
+the	15-det-13	
+police	15-compound-14	
+party	10-nmod:at-15	
+.	null	

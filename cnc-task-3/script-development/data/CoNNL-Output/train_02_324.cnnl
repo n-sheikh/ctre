@@ -1,27 +1,27 @@
-Derby	0	0	0	0	location	NNP	0	
-Lewis	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-died	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-Pretoria	0	0	0	0	location	NN	0	
-hospital	0	0	0	0	0	NN	0	
-aged	khooTrig	0	0	0	0	VBN	0	
-80	0	0	0	0	0	CD	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-mastermind	0	0	0	0	0	NN	0	
-behind	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-assassination	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-anti-apartheid	0	0	0	0	0	JJ	0	
-struggle	0	0	0	0	0	NN	0	
-hero	0	0	0	0	0	NN	0	
-Chris	0	0	0	0	person	NNP	0	
-Hani	0	0	0	0	person	NNP	0	
-.	0	0	0	0	0	.	0	
+Derby	1-compound-0	
+Lewis	16-nsubj-1	
+,	null	
+who	4-nsubj-3	
+died	1-acl:relcl-4	
+in	8-case-5	
+a	8-det-6	
+Pretoria	8-compound-7	
+hospital	4-nmod:in-8	
+aged	4-dep-9	
+80	9-dobj-10	
+on	12-case-11	
+Thursday	9-nmod:on-12	
+,	null	
+was	16-cop-14	
+the	16-det-15	
+mastermind	16	
+behind	19-case-17	
+the	19-det-18	
+assassination	16-nmod:behind-19	
+of	25-case-20	
+anti-apartheid	25-amod-21	
+struggle	25-compound-22	
+hero	25-compound-23	
+Chris	25-compound-24	
+Hani	19-nmod:of-25	
+.	null	

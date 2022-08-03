@@ -1,29 +1,29 @@
-He	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-inaugurating	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-dharna	0	0	0	0	0	NN	0	
-held	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Secretariat	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-ahead	0	0	0	0	0	RB	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-general	0	0	0	0	0	JJ	0	
-strike	0	0	0	0	0	NN	0	
-called	0	0	0	0	0	VBN	0	
-for	0	0	0	0	0	IN	0	
-February	0	0	0	0	date	NNP	0	
-28	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-demanding	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-reject	0	0	0	0	0	VB	implicit_negative	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-PFRDA	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-Bill	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+He	2-nsubj-0	
+was	2-aux-1	
+inaugurating	2	
+the	4-det-3	
+dharna	2-dobj-4	
+held	4-acl-5	
+in	10-case-6	
+front	6-mwe-7	
+of	6-mwe-8	
+the	10-det-9	
+Secretariat	5-nmod:in_front_of-10	
+,	null	
+ahead	4-advmod-12	
+of	16-case-13	
+the	16-det-14	
+general	16-amod-15	
+strike	12-nmod:of-16	
+called	16-acl-17	
+for	19-case-18	
+February	17-nmod:for-19	
+28	19-nummod-20	
+,	null	
+demanding	4-acl-22	
+to	24-mark-23	
+reject	22-xcomp-24	
+the	27-det-25	
+PFRDA	27-compound-26	
+Bill	24-dobj-27	
+.	null	

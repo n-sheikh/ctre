@@ -1,40 +1,40 @@
-Home	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-Rajnath	0	0	0	0	person	NNP	0	
-Singh	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-campaigning	0	0	0	0	0	VBG	0	
-in	0	0	0	0	0	IN	0	
-West	0	0	0	0	location	NNP	0	
-Bengal	0	0	0	0	location	NNP	0	
-for	0	0	0	0	0	IN	0	
-assembly	0	0	0	0	0	NN	0	
-polls	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-he	0	0	0	0	0	PRP	0	
-had	0	0	0	0	0	VBD	0	
-spoken	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-Mehbooba	0	0	0	0	0	NNP	0	
-who	0	0	0	0	0	WP	0	
-gave	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-assurance	0	0	0	0	0	NN	0	
-that	0	0	0	0	0	IN	0	
-all	0	0	0	0	0	DT	0	
-students	0	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-safe	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-she	0	0	0	0	0	PRP	0	
-would	0	0	0	1	0	MD	modal	
-enquire	0	1	in_modal_trig_domain	0	0	VB	0	
-how	0	1	in_modal_trig_domain	0	0	WRB	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-incident	0	1	in_modal_trig_domain	0	0	NN	0	
-happened	0	1	in_modal_trig_domain	0	0	VBD	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-fix	0	1	in_modal_trig_domain	0	0	VB	0	
-responsibility	0	1	in_modal_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Home	3-compound-0	
+Minister	3-compound-1	
+Rajnath	3-compound-2	
+Singh	13-nsubj-3	
+,	null	
+campaigning	13-advcl-5	
+in	8-case-6	
+West	8-compound-7	
+Bengal	5-nmod:in-8	
+for	11-case-9	
+assembly	11-compound-10	
+polls	5-nmod:for-11	
+,	null	
+said	13	
+he	16-nsubj-14	
+had	16-aux-15	
+spoken	13-ccomp-16	
+to	18-case-17	
+Mehbooba	16-nmod:to-18	
+who	20-nsubj-19	
+gave	18-acl:relcl-20	
+an	22-det-21	
+assurance	20-dobj-22	
+that	27-mark-23	
+all	25-det-24	
+students	27-nsubj-25	
+are	27-cop-26	
+safe	22-ccomp-27	
+and	27-cc-28	
+she	37-nsubj-29	
+would	31-aux-30	
+enquire	27-conj:and-31	
+how	35-advmod-32	
+the	34-det-33	
+incident	35-nsubj-34	
+happened	31-ccomp-35	
+and	31-cc-36	
+fix	31-conj:and-37	
+responsibility	37-dobj-38	
+.	null	

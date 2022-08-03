@@ -1,0 +1,17 @@
+Some	1-det-0	
+protestors	11-nsubj-1	
+also	3-advmod-2	
+ransacked	3	
+two	6-nummod-4	
+private	6-amod-5	
+hospitals	3-dobj-6	
+in	9-case-7	
+the	9-det-8	
+vicinity	3-nmod:in-9	
+and	3-cc-10	
+attacked	3-conj:and-11	
+the	15-det-12	
+Ambur	15-compound-13	
+Town	15-compound-14	
+Station	11-dobj-15	
+.	null	

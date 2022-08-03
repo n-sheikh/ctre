@@ -1,0 +1,16 @@
+The	1-det-0	
+incident	2-nsubj-1	
+sent	2	
+shock	4-compound-3	
+waves	2-dobj-4	
+among	6-case-5	
+devotees	2-nmod:among-6	
+and	6-cc-7	
+archakas	6-conj:and-8	
+who	11-nsubj-9	
+were	11-cop-10	
+witness	6-acl:relcl-11	
+to	14-case-12	
+the	14-det-13	
+attack	11-nmod:to-14	
+.	null	

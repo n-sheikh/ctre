@@ -1,0 +1,14 @@
+Curiously	5-advmod-0	
+,	null	
+no	3-neg-2	
+policeman	5-nsubj-3	
+has	5-aux-4	
+died	5	
+in	7-case-6	
+any	5-nmod:in-7	
+of	10-case-8	
+these	10-det-9	
+exchanges	7-nmod:of-10	
+of	12-case-11	
+fire	10-nmod:of-12	
+.	null	

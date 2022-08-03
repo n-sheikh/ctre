@@ -1,70 +1,70 @@
-PCC	0	0	0	0	0	NNP	0	
-gives	0	0	0	0	0	VBZ	0	
-Rs	0	0	0	0	0	NNP	0	
-10	0	0	0	0	0	CD	0	
-lakh	0	0	0	0	0	JJ	0	
-EX	0	0	0	0	person	NNP	0	
-gratia	0	0	0	0	person	NN	0	
-to	0	0	0	0	0	TO	0	
-SPO	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	VBZ	0	
-family	0	0	0	0	0	NN	0	
-12th	0	0	0	0	date	JJ	0	
-March	0	0	0	0	date	NNP	0	
-2009	0	0	0	0	date	CD	0	
-03	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-09	0	0	0	0	date	NNP	0	
-AM	0	0	0	0	date	NNP	0	
-HYDERABAD	0	0	0	0	location	NNP	0	
-:	0	0	0	0	0	:	0	
-Expressing	khooTrig	0	0	0	0	VBG	0	
-sympathy	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-family	0	0	0	0	0	NN	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Special	0	0	0	0	0	JJ	0	
-Police	0	0	0	0	0	NNP	0	
-Officer	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-SPO	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-K	0	0	0	0	person	NNP	0	
-Subrahmanyam	0	0	0	0	person	NNP	0	
-Raju	0	0	0	0	0	NNP	0	
-who	0	0	0	0	0	WP	0	
-died	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-attack	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Gandhi	0	0	0	0	0	NNP	0	
-Bhavan	0	0	0	0	0	NNP	0	
-by	0	0	0	0	0	IN	0	
-MRPS	0	0	0	0	0	NNP	0	
-activists	0	0	0	0	0	NNS	0	
-recently	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-Pradesh	0	0	0	0	0	NNP	0	
-Congress	0	0	0	0	0	NNP	0	
-Committee	0	0	0	0	0	NNP	0	
-president	0	0	0	0	0	NN	0	
-D	0	0	0	0	person	NNP	0	
-Srinivas	0	0	0	0	person	NNP	0	
-today	0	0	0	0	date	NN	0	
-announced	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-ex	0	0	0	0	0	FW	0	
-gratia	0	0	0	0	person	NN	0	
-of	0	0	0	0	0	IN	0	
-Rs	0	0	0	0	0	NNP	0	
-10	0	0	0	0	0	CD	0	
-lakh	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-bereaved	0	0	0	0	0	JJ	0	
-family	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+PCC	1-nsubj-0	
+gives	1	
+Rs	1-iobj-2	
+10	6-nummod-3	
+lakh	6-amod-4	
+EX	6-compound-5	
+gratia	11-nsubj-6	
+to	9-case-7	
+SPO	9-compound-8	
+’	6-nmod:to-9	
+s	11-cop-10	
+family	2-acl:relcl-11	
+12th	13-amod-12	
+March	11-dep-13	
+2009	15-nummod-14	
+03	1-dobj-15	
+:	null	
+09	19-compound-17	
+AM	19-compound-18	
+HYDERABAD	1-parataxis-19	
+:	null	
+Expressing	57-advcl-21	
+sympathy	21-dobj-22	
+to	26-case-23	
+the	26-det-24	
+family	26-compound-25	
+members	22-nmod:to-26	
+of	30-case-27	
+Special	30-amod-28	
+Police	30-compound-29	
+Officer	26-nmod:of-30	
+(	null	
+SPO	26-appos-32	
+)	null	
+K	36-compound-34	
+Subrahmanyam	36-compound-35	
+Raju	26-dep-36	
+who	38-nsubj-37	
+died	22-acl:relcl-38	
+in	41-case-39	
+the	41-det-40	
+attack	38-nmod:in-41	
+on	44-case-42	
+Gandhi	44-compound-43	
+Bhavan	41-nmod:on-44	
+by	47-case-45	
+MRPS	47-compound-46	
+activists	38-nmod:by-47	
+recently	38-advmod-48	
+,	null	
+Pradesh	55-compound-50	
+Congress	55-compound-51	
+Committee	55-compound-52	
+president	55-compound-53	
+D	55-compound-54	
+Srinivas	57-nsubj-55	
+today	57-nsubj-56	
+announced	1-parataxis-57	
+an	60-det-58	
+ex	60-compound-59	
+gratia	57-dobj-60	
+of	64-case-61	
+Rs	64-compound-62	
+10	64-nummod-63	
+lakh	60-nmod:of-64	
+to	68-case-65	
+the	68-det-66	
+bereaved	68-amod-67	
+family	57-nmod:to-68	
+.	null	

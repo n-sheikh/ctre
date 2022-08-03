@@ -1,47 +1,47 @@
-KRISHNAGIRI	0	0	0	0	0	NNP	0	
-/	0	0	0	0	0	NNP	0	
-DHARMAPURI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Water	0	0	0	0	location	NNP	0	
-supply	0	0	0	0	0	NN	0	
-disrupted	khooTrig	0	0	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-villagers	0	0	0	0	0	JJ	0	
-block	mcmTrig	0	0	0	0	NN	implicit_negative	
-road	0	0	0	0	0	NN	0	
-September	0	0	0	0	date	NNP	0	
-04	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2014	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-Officials	0	0	0	0	person	NNS	0	
-promise	0	0	0	0	0	VBP	0	
-to	0	0	0	0	0	TO	0	
-supply	0	0	0	0	0	VB	0	
-water	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-tankers	0	0	0	0	0	NNS	0	
-Women	0	0	0	0	0	NNP	0	
-took	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-streets	0	0	0	0	0	NNS	0	
-carrying	0	0	0	0	0	VBG	0	
-pots	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-protest	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-erratic	0	0	0	0	0	JJ	0	
-supply	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-drinking	0	0	0	0	0	NN	0	
-water	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Kelamagalam	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-Udhanapalli	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+KRISHNAGIRI	2-compound-0	
+/	2-compound-1	
+DHARMAPURI	2	
+:	null	
+Water	5-compound-4	
+supply	6-nsubj-5	
+disrupted	2-parataxis-6	
+,	null	
+villagers	10-amod-8	
+block	10-compound-9	
+road	6-dep-10	
+September	10-dep-11	
+04	11-nummod-12	
+,	null	
+2014	15-nummod-14	
+00	6-dobj-15	
+:	null	
+00	19-nummod-17	
+IST	19-compound-18	
+Officials	20-nsubj-19	
+promise	6-parataxis-20	
+to	22-mark-21	
+supply	20-xcomp-22	
+water	22-dobj-23	
+in	25-case-24	
+tankers	23-nmod:in-25	
+Women	27-nsubj-26	
+took	23-acl:relcl-27	
+to	29-case-28	
+streets	27-nmod:to-29	
+carrying	29-acl-30	
+pots	30-dobj-31	
+in	33-case-32	
+protest	31-nmod:in-33	
+against	36-case-34	
+erratic	36-amod-35	
+supply	30-nmod:against-36	
+of	39-case-37	
+drinking	39-compound-38	
+water	36-nmod:of-39	
+at	41-case-40	
+Kelamagalam	27-nmod:at-41	
+in	43-case-42	
+Udhanapalli	22-nmod:in-43	
+on	45-case-44	
+Wednesday	22-nmod:on-45	
+.	null	

@@ -1,17 +1,17 @@
-The	0	0	0	0	0	DT	0	
-stir	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-led	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Ramani	0	0	0	0	0	NNP	0	
-Ranjan	0	0	0	0	0	NNP	0	
-Padhan	0	0	0	0	0	NNP	0	
-under	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-banner	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Jivan	0	0	0	0	0	NNP	0	
-Jibika	0	0	0	0	0	NNP	0	
-Surakhya	0	0	0	0	0	NNP	0	
-Samiti	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+stir	3-nsubjpass-1	
+was	3-auxpass-2	
+led	3	
+by	7-case-4	
+Ramani	7-compound-5	
+Ranjan	7-compound-6	
+Padhan	3-nmod:agent-7	
+under	10-case-8	
+the	10-det-9	
+banner	3-nmod:under-10	
+of	15-case-11	
+Jivan	15-compound-12	
+Jibika	15-compound-13	
+Surakhya	15-compound-14	
+Samiti	10-nmod:of-15	
+.	null	

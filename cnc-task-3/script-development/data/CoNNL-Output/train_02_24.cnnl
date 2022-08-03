@@ -1,0 +1,15 @@
+While	3-mark-0	
+two	2-nummod-1	
+persons	3-nsubj-2	
+received	10-advcl-3	
+bullet	5-amod-4	
+injuries	3-dobj-5	
+,	null	
+another	8-det-7	
+man	10-nsubjpass-8	
+was	10-auxpass-9	
+injured	10	
+in	12-case-11	
+stone	10-nmod:in-12	
+pelting	10-xcomp-13	
+.	null	

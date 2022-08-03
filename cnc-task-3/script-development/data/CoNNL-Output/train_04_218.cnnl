@@ -1,0 +1,17 @@
+Police	4-nsubj-0	
+were	4-cop-1	
+in	4-case-2	
+the	4-det-3	
+area	4	
+as	9-case-5	
+Economic	9-compound-6	
+Freedom	9-compound-7	
+Fighters	9-compound-8	
+supporters	4-nmod:as-9	
+and	4-cc-10	
+African	14-amod-11	
+National	14-compound-12	
+Congress	14-compound-13	
+supporters	15-nsubj-14	
+clashed	4-conj:and-15	
+.	null	

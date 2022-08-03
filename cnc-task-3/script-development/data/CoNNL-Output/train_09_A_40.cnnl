@@ -1,0 +1,13 @@
+India	1-nsubj-0	
+stalled	1	
+cricketing	3-compound-2	
+ties	1-dobj-3	
+in	6-case-4	
+the	6-det-5	
+aftermath	3-nmod:in-6	
+of	11-case-7	
+2008	11-compound-8	
+Mumbai	11-compound-9	
+terrorist	11-amod-10	
+attack	6-nmod:of-11	
+.	null	

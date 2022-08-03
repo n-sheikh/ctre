@@ -1,0 +1,14 @@
+The	4-det-0	
+SA	4-compound-1	
+National	4-compound-2	
+Taxi	4-compound-3	
+Council	5-nsubj-4	
+said	5	
+it	9-nsubj-6	
+did	9-aux-7	
+not	9-neg-8	
+call	5-ccomp-9	
+for	12-case-10	
+the	12-det-11	
+strike	9-nmod:for-12	
+.	null	

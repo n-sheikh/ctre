@@ -1,0 +1,14 @@
+He	1-nsubj-0	
+said	1	
+he	3-nsubj-2	
+was	1-ccomp-3	
+about	5-advmod-4	
+100	6-nummod-5	
+metres	7-nmod:npmod-6	
+away	3-advmod-7	
+when	10-advmod-8	
+he	10-nsubj-9	
+witnessed	3-advcl-10	
+the	12-det-11	
+attack	10-dobj-12	
+.	null	

@@ -1,71 +1,71 @@
-2	0	0	0	0	0	CD	0	
-K	0	0	0	0	0	NN	0	
-form	khooTrig	0	0	0	0	VB	0	
-human	0	0	0	0	0	JJ	0	
-chain	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-protest	0	0	0	0	0	VB	0	
-blocked	mcmTrig	0	0	0	0	VBN	implicit_negative	
-road	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-24th	0	0	0	0	date	JJ	0	
-July	0	0	0	0	date	NNP	0	
-2016	0	0	0	0	date	CD	0	
-06	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-30	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-BENGALURU	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-IN	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-unprecedented	0	0	0	0	0	JJ	0	
-show	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-strength	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-around	0	0	0	0	0	IN	0	
-2	0	0	0	0	0	CD	0	
-,	0	0	0	0	0	,	0	
-000	0	0	0	0	0	CD	0	
-residents	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Somasandrapalya	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Haraluru	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-HSR	0	0	0	0	person	NNP	0	
-Layout	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-Kudlu	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Mangamanapalya	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Hosapalya	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-surrounding	0	0	0	0	0	VBG	0	
-areas	0	0	0	0	0	NNS	0	
-gathered	0	0	0	0	0	VBD	0	
-near	0	0	0	0	0	IN	0	
-Ravindra	0	0	0	0	0	NNP	0	
-Bharathi	0	0	0	0	0	NNP	0	
-Global	0	0	0	0	0	NNP	0	
-School	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-HSR	0	0	0	0	person	NNP	0	
-Layout	0	0	0	0	person	NNP	0	
-on	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-and	0	0	0	0	0	CC	0	
-formed	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-human	0	0	0	0	0	JJ	0	
-chain	0	0	0	0	0	NN	0	
-near	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-wall	0	0	0	0	0	NN	0	
-constructed	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Sobha	0	0	0	0	0	NNP	0	
-Daffodil	0	0	0	0	0	NNP	0	
-apartment	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+2	1-compound-0	
+K	46-dep-1	
+form	1-dep-2	
+human	4-amod-3	
+chain	2-dobj-4	
+to	6-mark-5	
+protest	2-advcl-6	
+blocked	8-amod-7	
+road	6-dobj-8	
+24th	10-amod-9	
+July	6-nmod:tmod-10	
+2016	10-nummod-11	
+06	14-nummod-12	
+:	null	
+30	1-dep-14	
+AM	16-compound-15	
+BENGALURU	14-dep-16	
+:	null	
+IN	21-case-18	
+an	21-det-19	
+unprecedented	21-amod-20	
+show	46-nmod:in-21	
+of	23-case-22	
+strength	21-nmod:of-23	
+,	null	
+around	26-case-25	
+2	21-nmod:around-26	
+,	null	
+000	29-nummod-28	
+residents	58-nsubj-29	
+of	31-case-30	
+Somasandrapalya	29-nmod:of-31	
+,	null	
+Haraluru	31-conj:and-33	
+,	null	
+HSR	36-compound-35	
+Layout	31-conj:and-36	
+,	null	
+Kudlu	31-conj:and-38	
+,	null	
+Mangamanapalya	31-conj:and-40	
+,	null	
+Hosapalya	31-conj:and-42	
+and	31-cc-43	
+surrounding	45-amod-44	
+areas	31-conj:and-45	
+gathered	46	
+near	51-case-47	
+Ravindra	51-compound-48	
+Bharathi	51-compound-49	
+Global	51-compound-50	
+School	46-nmod:near-51	
+in	54-case-52	
+HSR	54-compound-53	
+Layout	46-nmod:in-54	
+on	56-case-55	
+Saturday	54-nmod:on-56	
+and	46-cc-57	
+formed	46-conj:and-58	
+a	61-det-59	
+human	61-amod-60	
+chain	58-dobj-61	
+near	64-case-62	
+a	64-det-63	
+wall	61-nmod:near-64	
+constructed	64-acl-65	
+by	69-case-66	
+Sobha	69-compound-67	
+Daffodil	69-compound-68	
+apartment	65-nmod:by-69	
+.	null	

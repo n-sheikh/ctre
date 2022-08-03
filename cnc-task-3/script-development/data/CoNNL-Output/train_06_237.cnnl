@@ -1,17 +1,17 @@
-The	0	0	0	0	0	DT	0	
-families	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-some	0	0	0	0	0	DT	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-other	0	0	0	0	0	JJ	0	
-1993	0	0	0	0	date	CD	0	
-serial	0	0	0	0	0	JJ	0	
-blasts	0	0	0	0	0	NNS	0	
-convicts	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-also	0	0	0	0	0	RB	0	
-filed	khooTrig	0	0	0	0	VBN	0	
-pardon	0	0	0	0	0	NN	0	
-petitions	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+families	13-nsubj-1	
+of	3-case-2	
+some	1-nmod:of-3	
+of	9-case-4	
+the	9-det-5	
+other	9-amod-6	
+1993	9-nummod-7	
+serial	9-amod-8	
+blasts	3-nmod:of-9	
+convicts	13-nsubj-10	
+had	13-aux-11	
+also	13-advmod-12	
+filed	13	
+pardon	15-compound-14	
+petitions	13-dobj-15	
+.	null	

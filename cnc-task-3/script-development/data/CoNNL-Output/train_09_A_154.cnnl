@@ -1,53 +1,53 @@
-Congress	0	0	0	0	0	NNP	0	
-rule	0	0	0	0	0	NN	0	
-marked	0	0	0	0	0	VBD	0	
-by	0	0	0	0	0	IN	0	
-various	0	0	0	0	0	JJ	0	
-ills	0	0	0	0	0	NNS	0	
-:	0	0	0	0	0	:	0	
-Naveen	0	0	0	0	0	NNP	0	
-12th	0	0	0	0	date	NNP	0	
-April	0	0	0	0	date	NNP	0	
-2009	0	0	0	0	date	CD	0	
-04	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-18	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-SAMBALPUR	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-On	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-whirlwind	0	0	0	0	0	JJ	0	
-tour	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-districts	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Sambalpur	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Deogarh	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Chendipada	0	0	0	0	0	NNP	0	
-besides	0	0	0	0	0	IN	0	
-Bargarh	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-Chief	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-Naveen	0	0	0	0	0	NNP	0	
-Patnaik	0	0	0	0	0	NNP	0	
-looked	0	0	0	0	0	VBD	0	
-confident	0	0	0	0	0	JJ	0	
-even	0	0	0	0	0	RB	0	
-as	0	0	0	0	0	IN	0	
-he	0	0	0	0	0	PRP	0	
-addressed	mcmTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-huge	0	0	0	0	0	JJ	0	
-gathering	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-mixture	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Hindi	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Oriya	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Congress	1-compound-0	
+rule	2-nsubj-1	
+marked	2	
+by	5-case-3	
+various	5-amod-4	
+ills	2-nmod:by-5	
+:	null	
+Naveen	8-compound-7	
+12th	5-dep-8	
+April	2-nmod:tmod-9	
+2009	9-nummod-10	
+04	2-dobj-11	
+:	null	
+18	15-nummod-13	
+AM	15-compound-14	
+SAMBALPUR	11-dep-15	
+:	null	
+On	20-case-17	
+a	20-det-18	
+whirlwind	20-amod-19	
+tour	36-nmod:on-20	
+to	22-case-21	
+districts	20-nmod:to-22	
+of	24-case-23	
+Sambalpur	22-nmod:of-24	
+,	null	
+Deogarh	24-conj:and-26	
+and	24-cc-27	
+Chendipada	24-conj:and-28	
+besides	31-case-29	
+Bargarh	31-compound-30	
+district	22-nmod:besides-31	
+Chief	35-compound-32	
+Minister	35-compound-33	
+Naveen	35-compound-34	
+Patnaik	36-nsubj-35	
+looked	2-parataxis-36	
+confident	36-xcomp-37	
+even	41-advmod-38	
+as	41-mark-39	
+he	41-nsubj-40	
+addressed	36-advcl-41	
+a	44-det-42	
+huge	44-amod-43	
+gathering	41-dobj-44	
+in	47-case-45	
+a	47-det-46	
+mixture	41-nmod:in-47	
+of	49-case-48	
+Hindi	47-nmod:of-49	
+and	49-cc-50	
+Oriya	49-conj:and-51	
+.	null	

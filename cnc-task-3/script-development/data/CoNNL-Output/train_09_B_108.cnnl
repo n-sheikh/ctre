@@ -1,0 +1,16 @@
+"	null	
+Three	2-nummod-1	
+terrorists	5-nsubjpass-2	
+have	5-aux-3	
+been	5-auxpass-4	
+killed	5	
+in	8-case-6	
+this	8-det-7	
+gunfight	5-nmod:in-8	
+,	null	
+which	13-nsubj-10	
+is	13-aux-11	
+still	13-advmod-12	
+going	8-acl:relcl-13	
+on	13-advmod-14	
+.	null	

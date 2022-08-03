@@ -1,54 +1,54 @@
-Denied	0	0	0	0	0	NNP	0	
-Aid	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Dalit	0	0	0	0	person	NNP	0	
-Boy	0	0	0	0	0	NNP	0	
-tries	0	0	0	0	0	VBZ	0	
-to	0	0	0	0	0	TO	0	
-End	khooTrig	0	0	0	0	VB	0	
-Life	0	0	0	0	0	NNP	0	
-19th	0	0	0	0	date	JJ	0	
-June	0	0	0	0	date	NNP	0	
-2014	0	0	0	0	date	CD	0	
-07	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-22	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-MADURAI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Distressed	khooTrig	0	0	0	0	VBD	0	
-after	0	0	0	0	0	IN	0	
-allegedly	0	0	0	0	0	RB	0	
-being	0	0	0	0	0	VBG	0	
-denied	0	0	0	0	0	VBN	implicit_negative	
-a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-scholarship	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-by	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-his	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
-school	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-,	0	0	in_implicit_neg_trig_domain	0	0	,	0	
-a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-Class	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-XII	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
-Dalit	0	0	in_implicit_neg_trig_domain	0	person	NNP	0	
-dropout	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-of	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-Government	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-Higher	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-Secondary	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-School	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-in	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-Allinagaram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-in	0	0	0	0	0	IN	0	
-Theni	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-tied	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-immolate	0	0	0	0	0	VB	0	
-himself	0	0	0	0	0	PRP	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Denied	1-compound-0	
+Aid	47-nsubj-1	
+,	null	
+Dalit	4-compound-3	
+Boy	5-nsubj-4	
+tries	47-parataxis-5	
+to	7-mark-6	
+End	5-xcomp-7	
+Life	7-dobj-8	
+19th	10-amod-9	
+June	7-nmod:tmod-10	
+2014	10-nummod-11	
+07	18-nsubj-12	
+:	null	
+22	16-nummod-14	
+AM	16-compound-15	
+MADURAI	12-dep-16	
+:	null	
+Distressed	7-dep-18	
+after	22-mark-19	
+allegedly	22-advmod-20	
+being	22-auxpass-21	
+denied	18-advcl-22	
+a	24-det-23	
+scholarship	22-dobj-24	
+by	27-case-25	
+his	27-nmod:poss-26	
+school	22-nmod:agent-27	
+,	null	
+a	33-det-29	
+Class	33-compound-30	
+XII	33-compound-31	
+Dalit	33-compound-32	
+dropout	27-appos-33	
+of	39-case-34	
+the	39-det-35	
+Government	39-compound-36	
+Higher	39-compound-37	
+Secondary	39-compound-38	
+School	33-nmod:of-39	
+in	41-case-40	
+Allinagaram	33-nmod:in-41	
+,	null	
+in	45-case-43	
+Theni	45-compound-44	
+district	18-nmod:in-45	
+,	null	
+tied	47	
+to	49-mark-48	
+immolate	47-xcomp-49	
+himself	49-dobj-50	
+on	52-case-51	
+Tuesday	49-nmod:on-52	
+.	null	

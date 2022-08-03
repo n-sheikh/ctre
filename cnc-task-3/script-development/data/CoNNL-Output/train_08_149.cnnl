@@ -1,0 +1,17 @@
+He	2-nsubjpass-0	
+was	2-auxpass-1	
+behind	2	
+the	5-det-3	
+bomb	5-compound-4	
+blasts	2-dobj-5	
+of	7-case-6	
+Pune	5-nmod:of-7	
+,	null	
+Delhi	7-conj:and-9	
+,	null	
+Hyderabad	7-conj:and-11	
+,	null	
+Bangalore	7-conj:and-13	
+and	7-cc-14	
+Mumbai	7-conj:and-15	
+.	null	

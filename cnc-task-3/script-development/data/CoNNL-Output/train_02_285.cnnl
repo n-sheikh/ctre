@@ -1,48 +1,48 @@
-The	0	0	0	0	0	DT	0	
-men	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-founders	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-social	0	0	0	0	0	JJ	0	
-movement	0	0	0	0	0	NN	0	
-Occupy	0	0	0	0	0	NNP	0	
-Central	0	0	0	0	0	NNP	0	
-with	0	0	0	0	0	IN	0	
-Love	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Peace	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-were	0	0	0	0	0	VBD	0	
-among	0	0	0	0	0	IN	0	
-nine	0	0	0	0	0	CD	0	
-pro-democracy	0	0	0	0	0	JJ	0	
-campaigners	0	0	0	0	0	NNS	0	
-convicted	0	0	0	0	0	VBN	0	
-over	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-leadership	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-“	0	0	0	0	0	JJ	0	
-umbrella	0	0	0	0	0	NN	0	
-movement	0	0	0	0	0	NN	0	
-”	0	0	0	0	0	VBG	0	
-rallies	khooTrig	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Hong	0	0	0	0	location	NNP	0	
-Kong	0	0	0	0	location	NNP	0	
-in	0	0	0	0	0	IN	0	
-2014	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-which	0	0	0	0	0	WDT	0	
-triggered	mcmTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-massive	0	0	0	0	0	JJ	0	
-city-wide	0	0	0	0	0	JJ	0	
-strike	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-democratic	0	0	0	0	0	JJ	0	
-elections	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+men	4-nsubj-1	
+were	4-cop-2	
+the	4-det-3	
+founders	4	
+of	10-case-5	
+the	10-det-6	
+social	10-amod-7	
+movement	10-compound-8	
+Occupy	10-compound-9	
+Central	4-nmod:of-10	
+with	12-case-11	
+Love	4-nmod:with-12	
+and	12-cc-13	
+Peace	12-conj:and-14	
+and	4-cc-15	
+were	20-cop-16	
+among	20-case-17	
+nine	20-nummod-18	
+pro-democracy	20-amod-19	
+campaigners	4-conj:and-20	
+convicted	20-acl-21	
+over	24-case-22	
+their	24-nmod:poss-23	
+leadership	21-nmod:over-24	
+in	29-case-25	
+the	29-det-26	
+“	29-amod-27	
+umbrella	29-compound-28	
+movement	20-nmod:in-29	
+”	20-xcomp-30	
+rallies	30-dobj-31	
+in	34-case-32	
+Hong	34-compound-33	
+Kong	31-nmod:in-34	
+in	36-case-35	
+2014	30-nmod:in-36	
+,	null	
+which	39-nsubj-38	
+triggered	36-acl:relcl-39	
+a	43-det-40	
+massive	43-amod-41	
+city-wide	43-amod-42	
+strike	39-dobj-43	
+for	46-case-44	
+democratic	46-amod-45	
+elections	43-nmod:for-46	
+.	null	

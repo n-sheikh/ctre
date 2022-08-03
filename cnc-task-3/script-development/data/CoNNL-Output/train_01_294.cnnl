@@ -1,49 +1,49 @@
-TIRUCHI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Residents	0	0	0	0	0	NNS	0	
-raise	khooTrig	0	0	0	0	VBP	0	
-black	0	0	0	0	0	JJ	0	
-flag	0	0	0	0	0	NN	0	
-atop	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-houses	0	0	0	0	0	NNS	0	
-May	0	0	0	0	date	NNP	0	
-06	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2016	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-Residents	0	0	0	0	person	NNS	0	
-of	0	0	0	0	0	IN	0	
-Quaide	0	0	0	0	0	NNP	0	
-Milleth	0	0	0	0	0	NNP	0	
-Nagar	0	0	0	0	0	NNP	0	
-near	0	0	0	0	0	IN	0	
-Ariyamangalam	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-hoisted	khooTrig	0	0	0	0	VBD	0	
-black	0	0	0	0	0	JJ	0	
-flags	0	0	0	0	0	NNS	0	
-atop	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-houses	0	0	0	0	0	NNS	0	
-demanding	0	0	0	0	0	VBG	0	
-basic	0	0	0	0	0	JJ	0	
-amenities	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-threatened	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-boycott	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-Assembly	0	0	0	0	0	NNP	0	
-election	0	0	0	0	0	NN	0	
-if	0	0	0	0	0	IN	0	
-their	0	0	in_explicit_neg_trig_domain	0	0	PRP$	0	
-demands	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-conceded	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+TIRUCHI	0	
+:	null	
+Residents	3-nsubj-2	
+raise	0-parataxis-3	
+black	5-amod-4	
+flag	3-iobj-5	
+atop	8-case-6	
+their	8-nmod:poss-7	
+houses	5-nmod:atop-8	
+May	5-dep-9	
+06	9-nummod-10	
+,	null	
+2016	9-nummod-12	
+00	3-dobj-13	
+:	null	
+00	17-nummod-15	
+IST	17-compound-16	
+Residents	36-nsubj-17	
+of	21-case-18	
+Quaide	21-compound-19	
+Milleth	21-compound-20	
+Nagar	17-nmod:of-21	
+near	23-case-22	
+Ariyamangalam	21-nmod:near-23	
+on	25-case-24	
+Thursday	17-nmod:on-25	
+hoisted	3-parataxis-26	
+black	28-amod-27	
+flags	26-dobj-28	
+atop	31-case-29	
+their	31-nmod:poss-30	
+houses	26-nmod:atop-31	
+demanding	26-xcomp-32	
+basic	34-amod-33	
+amenities	32-dobj-34	
+and	26-cc-35	
+threatened	26-conj:and-36	
+to	38-mark-37	
+boycott	36-xcomp-38	
+the	41-det-39	
+Assembly	41-compound-40	
+election	38-dobj-41	
+if	47-mark-42	
+their	44-nmod:poss-43	
+demands	47-nsubjpass-44	
+were	47-auxpass-45	
+not	47-neg-46	
+conceded	38-advcl-47	
+.	null	

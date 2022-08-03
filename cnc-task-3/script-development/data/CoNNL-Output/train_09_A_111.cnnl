@@ -1,28 +1,28 @@
-Makwaiba	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-addressing	mcmTrig	0	0	0	0	VBG	0	
-thousands	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-striking	0	0	0	0	0	JJ	0	
-public	0	0	0	0	0	JJ	0	
-sector	0	0	0	0	0	NN	0	
-workers	0	0	0	0	0	NNS	0	
-who	0	0	0	0	0	WP	0	
-had	0	0	0	0	0	VBD	0	
-marched	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Free	0	0	0	0	person	NNP	0	
-State	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-main	0	0	0	0	0	JJ	0	
-government	0	0	0	0	0	NN	0	
-building	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Bloemfontein	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-St	0	0	0	0	person	NNP	0	
-Andrew	0	0	0	0	person	NNP	0	
-'s	0	0	0	0	0	POS	0	
-Street	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Makwaiba	2-nsubj-0	
+was	2-aux-1	
+addressing	2	
+thousands	2-dobj-3	
+of	8-case-4	
+striking	8-amod-5	
+public	8-amod-6	
+sector	8-compound-7	
+workers	3-nmod:of-8	
+who	11-nsubj-9	
+had	11-aux-10	
+marched	8-acl:relcl-11	
+on	19-case-12	
+the	15-det-13	
+Free	15-compound-14	
+State	19-nmod:poss-15	
+'s	15-case-16	
+main	19-amod-17	
+government	19-compound-18	
+building	11-nmod:on-19	
+in	26-case-20	
+Bloemfontein	26-nmod:poss-21	
+'s	21-case-22	
+St	24-compound-23	
+Andrew	26-nmod:poss-24	
+'s	24-case-25	
+Street	11-nmod:in-26	
+.	null	

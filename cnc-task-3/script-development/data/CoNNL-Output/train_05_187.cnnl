@@ -1,0 +1,17 @@
+The	1-det-0	
+police	2-nsubj-1	
+charged	2	
+Mr	5-compound-3	
+.	null	
+Chandrashekhar	2-dobj-5	
+with	7-mark-6	
+instigating	5-acl-7	
+violence	7-dobj-8	
+on	10-case-9	
+May	7-nmod:on-10	
+9	10-nummod-11	
+under	15-case-12	
+various	15-amod-13	
+IPC	15-compound-14	
+sections	7-nmod:under-15	
+.	null	

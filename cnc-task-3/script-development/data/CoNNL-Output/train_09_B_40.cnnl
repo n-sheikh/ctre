@@ -1,10 +1,10 @@
-Over	0	0	0	0	0	IN	0	
-3	0	0	0	0	0	CD	0	
-,	0	0	0	0	0	,	0	
-000	0	0	0	0	0	CD	0	
-were	0	0	0	0	0	VBD	0	
-killed	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-Delhi	0	0	0	0	location	NNP	0	
-alone	0	0	0	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+Over	1-case-0	
+3	5-nmod:over-1	
+,	null	
+000	5-nsubjpass-3	
+were	5-auxpass-4	
+killed	5	
+in	7-case-6	
+Delhi	5-nmod:in-7	
+alone	5-advmod-8	
+.	null	

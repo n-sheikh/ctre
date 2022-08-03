@@ -1,0 +1,16 @@
+The	1-det-0	
+police	2-nsubj-1	
+claimed	2	
+they	5-nsubjpass-3	
+were	5-auxpass-4	
+killed	2-ccomp-5	
+while	7-mark-6	
+trying	5-advcl-7	
+to	9-mark-8	
+blow	7-xcomp-9	
+up	9-compound:prt-10	
+the	14-det-11	
+local	14-amod-12	
+bus	14-compound-13	
+station	9-dobj-14	
+.	null	

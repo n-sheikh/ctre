@@ -1,39 +1,39 @@
-Han	0	0	0	0	0	NNP	0	
-Dongfang	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-was	0	0	0	0	0	VBD	0	
-jailed	khooTrig	0	0	0	0	VBN	0	
-as	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-leader	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Tiananmen	0	0	0	0	0	NNP	0	
-protests	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-now	0	0	0	0	0	RB	0	
-runs	khooTrig	0	0	0	0	VBZ	0	
-the	0	0	0	0	0	DT	0	
-workers	0	0	0	0	0	NNS	0	
-’	0	0	0	0	0	NN	0	
-advocacy	0	0	0	0	0	NN	0	
-group	khooTrig	0	0	0	0	NN	0	
-China	0	0	0	0	location	NNP	0	
-Labour	0	0	0	0	0	NNP	0	
-Bulletin	0	0	0	0	0	NNP	0	
-from	0	0	0	0	0	IN	0	
-Hong	0	0	0	0	location	NNP	0	
-Kong	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-believes	0	0	0	0	0	VBZ	0	
-Beijing	0	0	0	0	location	NNP	0	
-can	khooTrig	0	0	1	0	MD	modal	
-compromise	0	1	in_modal_trig_domain	0	0	VB	0	
-when	0	1	in_modal_trig_domain	0	0	WRB	0	
-it	0	1	in_modal_trig_domain	0	0	PRP	0	
-sees	0	1	in_modal_trig_domain	0	0	VBZ	0	
-it	0	1	in_modal_trig_domain	0	0	PRP	0	
-is	0	1	in_modal_trig_domain	0	0	VBZ	0	
-necessary	0	1	in_modal_trig_domain	0	0	JJ	0	
-.	0	0	0	0	0	.	0	
+Han	1-compound-0	
+Dongfang	28-nsubj-1	
+,	null	
+who	15-nsubj-3	
+was	5-auxpass-4	
+jailed	1-acl:relcl-5	
+as	8-case-6	
+a	8-det-7	
+leader	5-nmod:as-8	
+of	12-case-9	
+the	12-det-10	
+Tiananmen	12-compound-11	
+protests	8-nmod:of-12	
+and	5-cc-13	
+now	15-advmod-14	
+runs	5-conj:and-15	
+the	20-det-16	
+workers	20-compound-17	
+’	20-compound-18	
+advocacy	20-compound-19	
+group	23-compound-20	
+China	23-compound-21	
+Labour	23-compound-22	
+Bulletin	15-dobj-23	
+from	26-case-24	
+Hong	26-compound-25	
+Kong	15-nmod:from-26	
+,	null	
+believes	28	
+Beijing	31-nsubj-29	
+can	31-aux-30	
+compromise	28-ccomp-31	
+when	34-advmod-32	
+it	34-nsubj-33	
+sees	31-advcl-34	
+it	37-nsubj-35	
+is	37-cop-36	
+necessary	34-ccomp-37	
+.	null	

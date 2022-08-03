@@ -1,53 +1,53 @@
-THANJAVUR	0	0	0	0	0	NNP	0	
-/	0	0	0	0	0	NNP	0	
-TIRUCHI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Sri	0	0	0	0	0	NNP	0	
-Lankan	0	0	0	0	0	NNP	0	
-monk	0	0	0	0	0	VBP	0	
-assaulted	0	0	0	0	0	JJ	0	
-March	0	0	0	0	date	NNP	0	
-17	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2013	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	NNS	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-Police	0	0	0	0	person	NNS	0	
-escort	0	0	0	0	0	VB	0	
-him	0	0	0	0	0	PRP	0	
-to	0	0	0	0	0	TO	0	
-airport	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-put	0	0	0	0	0	VB	0	
-him	0	0	0	0	0	PRP	0	
-on	0	0	0	0	0	IN	0	
-flight	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-Chennai	0	0	0	0	location	NNP	0	
-A	0	0	0	0	0	DT	0	
-Sri	0	0	0	0	0	NNP	0	
-Lankan	0	0	0	0	0	NNP	0	
-Buddhist	0	0	0	0	0	NNP	0	
-monk	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Pathberiye	0	0	0	0	0	NNP	0	
-Gnanaloka	0	0	0	0	0	NNP	0	
-Thero	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-assaulted	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Tamil	0	0	0	0	0	NNP	0	
-outfits	khooTrig	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Big	0	0	0	0	0	NNP	0	
-Temple	0	0	0	0	location	NNP	0	
-in	0	0	0	0	0	IN	0	
-Thanjavur	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+THANJAVUR	2-compound-0	
+/	2-compound-1	
+TIRUCHI	2	
+:	null	
+Sri	5-compound-4	
+Lankan	6-nsubj-5	
+monk	2-parataxis-6	
+assaulted	12-amod-7	
+March	7-nmod:tmod-8	
+17	8-nummod-9	
+,	null	
+2013	8-nummod-11	
+00	6-dobj-12	
+:	null	
+00	16-nummod-14	
+IST	16-compound-15	
+Police	22-nsubj-16	
+escort	6-parataxis-17	
+him	17-dobj-18	
+to	20-case-19	
+airport	17-nmod:to-20	
+and	17-cc-21	
+put	17-conj:and-22	
+him	22-dobj-23	
+on	25-case-24	
+flight	22-nmod:on-25	
+to	27-case-26	
+Chennai	22-nmod:to-27	
+A	32-det-28	
+Sri	32-compound-29	
+Lankan	32-compound-30	
+Buddhist	32-compound-31	
+monk	39-nsubjpass-32	
+,	null	
+Pathberiye	36-compound-34	
+Gnanaloka	36-compound-35	
+Thero	32-appos-36	
+,	null	
+was	39-auxpass-38	
+assaulted	27-acl:relcl-39	
+by	41-case-40	
+members	39-nmod:agent-41	
+of	44-case-42	
+Tamil	44-compound-43	
+outfits	41-nmod:of-44	
+at	47-case-45	
+Big	47-compound-46	
+Temple	39-nmod:at-47	
+in	49-case-48	
+Thanjavur	47-nmod:in-49	
+on	51-case-50	
+Saturday	39-nmod:on-51	
+.	null	

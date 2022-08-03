@@ -1,24 +1,24 @@
-Earlier	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-they	0	0	0	0	0	PRP	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-office	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Deputy	0	0	0	0	0	NNP	0	
-Director	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-Sericulture	0	0	0	0	0	NNP	0	
-here	0	0	0	0	0	RB	0	
-and	0	0	0	0	0	CC	0	
-took	0	0	0	0	0	VBD	0	
-out	khooTrig	0	0	0	0	RP	0	
-a	0	0	0	0	0	DT	0	
-procession	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Earlier	3-advmod-0	
+,	null	
+they	19-nsubj-2	
+staged	3	
+a	5-det-4	
+protest	3-dobj-5	
+in	10-case-6	
+front	6-mwe-7	
+of	6-mwe-8	
+the	10-det-9	
+office	3-nmod:in_front_of-10	
+of	14-case-11	
+the	14-det-12	
+Deputy	14-compound-13	
+Director	10-nmod:of-14	
+of	16-case-15	
+Sericulture	14-nmod:of-16	
+here	10-advmod-17	
+and	3-cc-18	
+took	3-conj:and-19	
+out	19-compound:prt-20	
+a	22-det-21	
+procession	19-dobj-22	
+.	null	

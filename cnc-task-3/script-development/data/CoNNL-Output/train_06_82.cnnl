@@ -1,34 +1,34 @@
-He	0	0	0	0	0	PRP	0	
-also	0	0	0	0	0	RB	0	
-recalled	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-incident	0	0	0	0	0	NN	0	
-when	0	0	0	0	0	WRB	0	
-a	0	0	0	0	0	NNP	0	
-'	0	0	0	0	0	POS	0	
-pipe	khooTrig	0	0	0	0	NN	0	
-'	0	0	0	0	0	POS	0	
-bomb	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-targeting	mcmTrig	0	0	0	0	VBG	0	
-BJP	0	0	0	0	0	NNP	0	
-leader	0	0	0	0	0	NN	0	
-LK	0	0	0	0	person	NNP	0	
-Advani	0	0	0	0	person	NNP	0	
-who	0	0	0	0	0	WP	0	
-was	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-tour	0	0	0	0	0	NN	0	
-then	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-found	0	0	0	0	0	VBN	0	
-and	0	0	0	0	0	CC	0	
-diffused	khooTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-October	0	0	0	0	date	NNP	0	
-2011	0	0	0	0	date	CD	0	
-near	0	0	0	0	0	IN	0	
-Madurai	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+He	2-nsubj-0	
+also	2-advmod-1	
+recalled	2	
+the	4-det-3	
+incident	2-dobj-4	
+when	25-advmod-5	
+a	8-nmod:poss-6	
+'	6-case-7	
+pipe	10-nmod:poss-8	
+'	8-case-9	
+bomb	27-nsubjpass-10	
+,	null	
+targeting	10-acl-12	
+BJP	16-compound-13	
+leader	16-compound-14	
+LK	16-compound-15	
+Advani	12-dobj-16	
+who	21-nsubj-17	
+was	21-cop-18	
+on	21-case-19	
+a	21-det-20	
+tour	16-acl:relcl-21	
+then	21-advmod-22	
+,	null	
+was	25-auxpass-24	
+found	2-advcl-25	
+and	25-cc-26	
+diffused	25-conj:and-27	
+in	29-case-28	
+October	25-nmod:in-29	
+2011	29-nummod-30	
+near	32-case-31	
+Madurai	25-nmod:near-32	
+.	null	

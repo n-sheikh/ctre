@@ -1,0 +1,15 @@
+Table	2-compound-0	
+grape	2-compound-1	
+harvesters	3-nsubj-2	
+started	3	
+protesting	3-xcomp-4	
+about	8-case-5	
+their	8-nmod:poss-6	
+working	8-amod-7	
+conditions	4-nmod:about-8	
+in	11-case-9	
+De	11-compound-10	
+Doorns	8-nmod:in-11	
+last	13-amod-12	
+month	8-dep-13	
+.	null	

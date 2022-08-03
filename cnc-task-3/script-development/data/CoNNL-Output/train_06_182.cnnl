@@ -1,0 +1,14 @@
+Meanwhile	5-advmod-0	
+,	null	
+the	3-det-2	
+government	5-nsubj-3	
+has	5-aux-4	
+warned	5	
+of	8-case-6	
+disciplinary	8-amod-7	
+action	5-nmod:of-8	
+against	12-case-9	
+the	12-det-10	
+striking	12-amod-11	
+doctors	8-nmod:against-12	
+.	null	

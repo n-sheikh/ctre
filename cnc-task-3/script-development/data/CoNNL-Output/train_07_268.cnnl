@@ -1,0 +1,16 @@
+They	4-nsubj-0	
+are	4-aux-1	
+not	4-neg-2	
+even	4-advmod-3	
+bothering	4	
+to	6-mark-5	
+talk	4-xcomp-6	
+to	8-case-7	
+us	6-nmod:to-8	
+even	10-advmod-9	
+eight	11-nummod-10	
+days	6-nmod:after-11	
+after	11-case-12	
+the	14-det-13	
+strike	11-dep-14	
+.	null	

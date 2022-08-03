@@ -1,0 +1,17 @@
+The	1-det-0	
+strike	3-nsubj-1	
+has	3-aux-2	
+led	3	
+losses	10-nsubj-4	
+worth	4-amod-5	
+Rs	5-dep-6	
+10	6-nummod-7	
+,	null	
+000	6-nummod-9	
+crore	3-xcomp-10	
+per	12-case-11	
+day	10-nmod:per-12	
+to	15-case-13	
+different	15-amod-14	
+stakeholders	10-nmod:to-15	
+.	null	

@@ -1,10 +1,10 @@
-Consequently	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-residents	0	0	0	0	0	NNS	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Consequently	4-advmod-0	
+,	null	
+the	3-det-2	
+residents	4-nsubj-3	
+staged	4	
+a	6-det-5	
+demonstration	4-dobj-6	
+on	8-case-7	
+Tuesday	4-nmod:on-8	
+.	null	

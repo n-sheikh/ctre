@@ -1,19 +1,19 @@
-The	0	0	0	0	0	DT	0	
-report	0	0	0	0	0	NN	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-crowd	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-men	0	0	0	0	0	NNS	0	
-shouted	0	0	0	0	0	VBD	0	
-obscenities	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-women	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-asked	0	0	0	0	0	VBD	0	
-them	0	0	0	0	0	PRP	0	
-to	0	0	0	0	0	TO	0	
-undress	khooTrig	0	0	0	0	VB	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+report	2-nsubj-1	
+said	2	
+that	8-mark-3	
+a	5-det-4	
+crowd	14-nsubj-5	
+of	7-case-6	
+men	5-nmod:of-7	
+shouted	2-ccomp-8	
+obscenities	8-dobj-9	
+at	12-case-10	
+the	12-det-11	
+women	8-nmod:at-12	
+and	8-cc-13	
+asked	8-conj:and-14	
+them	14-dobj-15	
+to	17-mark-16	
+undress	14-xcomp-17	
+.	null	

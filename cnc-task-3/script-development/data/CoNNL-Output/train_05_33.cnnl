@@ -1,39 +1,39 @@
-Taxi	0	0	0	0	0	NN	0	
-protest	0	0	0	0	0	NN	0	
-march	0	0	0	0	0	NN	0	
-shuts	0	0	0	0	0	VBZ	0	
-down	khooTrig	0	0	0	0	RP	0	
-Rustenburg	0	0	0	0	0	NNP	0	
-Molaole	0	0	0	0	0	NNP	0	
-Montsho	0	0	0	0	0	NNP	0	
-RUSTENBURG	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-September	0	0	0	0	date	NNP	0	
-12	0	0	0	0	date	CD	0	
-(	0	0	0	0	0	(	0	
-ANA	0	0	0	0	person	NNP	0	
-)	0	0	0	0	0	)	0	
--	0	0	0	0	0	:	0	
-Commuters	0	0	0	0	0	NNP	0	
-were	0	0	0	0	0	VBD	0	
-left	0	0	0	0	0	VBN	0	
-stranded	0	0	0	0	0	VBN	0	
-and	0	0	0	0	0	CC	0	
-businesses	0	0	0	0	0	NNS	0	
-closed	khooTrig	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-as	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-taxi	0	0	0	0	0	NN	0	
-industry	0	0	0	0	0	NN	0	
-embarked	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-march	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-gender	0	0	0	0	0	NN	0	
-based	0	0	0	0	0	VBN	0	
-violence	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Taxi	2-compound-0	
+protest	2-compound-1	
+march	3-nsubj-2	
+shuts	3	
+down	3-compound:prt-4	
+Rustenburg	8-compound-5	
+Molaole	8-compound-6	
+Montsho	8-compound-7	
+RUSTENBURG	3-dobj-8	
+,	null	
+September	8-appos-10	
+12	10-nummod-11	
+(	null	
+ANA	8-appos-13	
+)	null	
+-	null	
+Commuters	18-nsubjpass-16	
+were	18-auxpass-17	
+left	3-parataxis-18	
+stranded	18-dep-19	
+and	18-cc-20	
+businesses	22-nsubj-21	
+closed	18-conj:and-22	
+on	24-case-23	
+Thursday	22-nmod:on-24	
+as	29-mark-25	
+the	28-det-26	
+taxi	28-compound-27	
+industry	29-nsubj-28	
+embarked	22-advcl-29	
+on	33-case-30	
+a	33-det-31	
+protest	33-compound-32	
+march	29-nmod:on-33	
+against	35-case-34	
+gender	33-nmod:against-35	
+based	37-case-36	
+violence	29-nmod:based-37	
+.	null	

@@ -1,0 +1,13 @@
+Residents	1-nsubj-0	
+started	1	
+protesting	1-xcomp-2	
+on	5-case-3	
+Sunday	5-compound-4	
+afternoon	2-nmod:on-5	
+about	9-case-6	
+a	9-det-7	
+water	9-compound-8	
+shortage	5-nmod:about-9	
+in	11-case-10	
+Mothutlung	9-nmod:in-11	
+.	null	

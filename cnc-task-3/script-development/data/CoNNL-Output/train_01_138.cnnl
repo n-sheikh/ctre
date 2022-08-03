@@ -1,62 +1,62 @@
-"	0	0	0	0	0	``	0	
-We	0	0	0	0	0	PRP	0	
-have	0	0	0	0	0	VBP	0	
-certainly	0	0	0	0	0	RB	0	
-reiterated	0	0	0	0	0	VBN	0	
-our	0	0	0	0	0	PRP$	0	
-support	mcmTrig	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-our	0	0	0	0	0	PRP$	0	
-commitment	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-India	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-efforts	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-seek	0	0	0	0	0	VB	0	
-justice	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-behalf	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-victims	0	0	0	0	0	NNS	0	
-"	0	0	0	0	0	''	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-26	0	0	0	0	0	CD	0	
-/	0	0	0	0	0	NNP	0	
-11	0	0	0	0	0	NNP	0	
-attack	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-Assistant	0	0	0	0	0	NNP	0	
-Secretary	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-State	0	0	0	0	0	NNP	0	
-for	0	0	0	0	0	IN	0	
-South	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Central	0	0	0	0	0	NNP	0	
-Asian	0	0	0	0	0	NNP	0	
-Affairs	0	0	0	0	0	NNP	0	
-Nisha	0	0	0	0	person	NNP	0	
-Desai	0	0	0	0	person	NNP	0	
-Biswal	0	0	0	0	person	NNP	0	
-told	0	0	0	0	0	VBD	0	
-PTI	0	0	0	0	0	NNP	0	
-when	0	0	0	0	0	WRB	0	
-asked	0	0	0	0	0	VBD	0	
-about	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-delay	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-bringing	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-justice	0	0	0	0	0	NN	0	
-the	0	0	0	0	0	DT	0	
-perpetrators	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-2008	0	0	0	0	date	CD	0	
-terror	0	0	0	0	0	NN	0	
-attacks	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+"	null	
+We	4-nsubj-1	
+have	4-aux-2	
+certainly	4-advmod-3	
+reiterated	43-ccomp-4	
+our	6-nmod:poss-5	
+support	4-dobj-6	
+and	6-cc-7	
+our	9-nmod:poss-8	
+commitment	6-conj:and-9	
+to	13-case-10	
+India	13-nmod:poss-11	
+'s	11-case-12	
+efforts	4-nmod:to-13	
+to	15-mark-14	
+seek	13-acl-15	
+justice	15-dobj-16	
+on	21-case-17	
+behalf	17-mwe-18	
+of	17-mwe-19	
+the	21-det-20	
+victims	15-nmod:on_behalf_of-21	
+"	null	
+of	28-case-23	
+the	28-det-24	
+26	28-nummod-25	
+/	28-compound-26	
+11	28-compound-27	
+attack	21-nmod:of-28	
+,	null	
+Assistant	42-dep-30	
+Secretary	30-dep-31	
+of	33-case-32	
+State	30-nmod:of-33	
+for	35-case-34	
+South	33-nmod:for-35	
+and	35-cc-36	
+Central	35-conj:and-37	
+Asian	42-compound-38	
+Affairs	42-compound-39	
+Nisha	42-compound-40	
+Desai	42-compound-41	
+Biswal	43-nsubj-42	
+told	43	
+PTI	43-dobj-44	
+when	46-advmod-45	
+asked	43-ccomp-46	
+about	49-case-47	
+the	49-det-48	
+delay	46-nmod:about-49	
+in	51-mark-50	
+bringing	46-advcl-51	
+to	53-case-52	
+justice	51-nmod:to-53	
+the	55-det-54	
+perpetrators	51-dobj-55	
+of	60-case-56	
+the	60-det-57	
+2008	60-nummod-58	
+terror	60-compound-59	
+attacks	55-nmod:of-60	
+.	null	

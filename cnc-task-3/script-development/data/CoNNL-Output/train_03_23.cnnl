@@ -1,18 +1,18 @@
-On	0	0	0	0	0	IN	0	
-getting	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-news	0	0	0	0	0	NN	0	
-about	0	0	0	0	0	IN	0	
-Mr	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Hazare	0	0	0	0	person	NNP	0	
-breaking	0	0	0	0	0	VBG	0	
-his	0	0	0	0	0	PRP$	0	
-fast	0	0	0	0	0	JJ	0	
-,	0	0	0	0	0	,	0	
-they	0	0	0	0	0	PRP	0	
-too	0	0	0	0	0	RB	0	
-ended	khooTrig	0	0	0	0	VBD	0	
-their	0	0	0	0	0	PRP$	0	
-dharna	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+On	8-mark-0	
+getting	8-aux-1	
+the	3-det-2	
+news	8-dobj-3	
+about	7-case-4	
+Mr	7-compound-5	
+.	null	
+Hazare	8-nmod:about-7	
+breaking	14-advcl-8	
+his	10-nmod:poss-9	
+fast	8-dobj-10	
+,	null	
+they	14-nsubj-12	
+too	14-advmod-13	
+ended	14	
+their	16-nmod:poss-15	
+dharna	14-dobj-16	
+.	null	

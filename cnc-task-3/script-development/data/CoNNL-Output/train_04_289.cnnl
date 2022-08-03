@@ -1,19 +1,19 @@
-He	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-protests	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-conducted	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-orderly	0	0	0	0	0	JJ	0	
-fashion	khooTrig	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-were	0	0	0	0	0	VBD	0	
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-under	0	0	0	0	0	IN	0	
-control	mcmTrig	0	0	0	0	NN	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-.	0	0	0	0	0	.	0	
+He	1-nsubj-0	
+said	1	
+the	3-det-2	
+protests	5-nsubjpass-3	
+were	5-auxpass-4	
+conducted	1-ccomp-5	
+in	9-case-6	
+an	9-det-7	
+orderly	9-amod-8	
+fashion	5-nmod:in-9	
+and	5-cc-10	
+were	15-cop-11	
+`	null	
+`	null	
+under	15-case-14	
+control	5-conj:and-15	
+'	null	
+'	null	
+.	null	

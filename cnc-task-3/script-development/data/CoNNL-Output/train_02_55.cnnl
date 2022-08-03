@@ -1,20 +1,20 @@
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Residents	0	0	0	0	0	NNS	0	
-went	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-rampage	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-throwing	0	0	0	0	0	VBG	0	
-stones	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Nala	0	0	0	0	0	NNP	0	
-Municipality	0	0	0	0	0	NNP	0	
-offices	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-said	0	0	0	0	0	VBD	0	
-Thakeng	0	0	0	0	person	NN	0	
-.	0	0	0	0	0	.	0	
+`	null	
+`	null	
+Residents	3-nsubj-2	
+went	17-ccomp-3	
+on	6-case-4	
+a	6-det-5	
+rampage	3-nmod:on-6	
+by	8-mark-7	
+throwing	3-advcl-8	
+stones	8-dobj-9	
+at	13-case-10	
+Nala	13-compound-11	
+Municipality	13-compound-12	
+offices	8-nmod:at-13	
+,	null	
+'	null	
+'	null	
+said	17	
+Thakeng	17-dep-18	
+.	null	

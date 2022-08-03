@@ -1,0 +1,15 @@
+He	1-nsubj-0	
+dismissed	1	
+as	3-mark-2	
+unfounded	1-advcl-3	
+earlier	5-amod-4	
+reports	3-dobj-5	
+that	10-mark-6	
+a	8-det-7	
+student	10-nsubjpass-8	
+was	10-auxpass-9	
+killed	5-dep-10	
+during	13-case-11	
+the	13-det-12	
+melee	10-nmod:during-13	
+.	null	

@@ -1,0 +1,17 @@
+Three	1-nummod-0	
+people	3-nsubj-1	
+have	3-aux-2	
+died	3	
+and	3-cc-4	
+scores	8-nsubjpass-5	
+have	8-aux-6	
+been	8-auxpass-7	
+injured	3-conj:and-8	
+in	10-case-9	
+violence	8-nmod:in-10	
+related	10-acl-11	
+to	15-case-12	
+the	15-det-13	
+illegal	15-amod-14	
+strike	11-nmod:to-15	
+.	null	

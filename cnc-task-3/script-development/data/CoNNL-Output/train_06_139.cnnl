@@ -1,46 +1,46 @@
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-We	0	0	0	0	0	PRP	0	
-simply	0	0	0	0	0	RB	0	
-do	0	0	0	0	0	VBP	0	
-not	0	0	0	0	0	RB	explicit_negative	
-have	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-space	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-for	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-such	0	0	in_explicit_neg_trig_domain	0	0	PDT	0	
-a	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-detrimental	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-amount	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-of	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-pollution	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-that	0	0	in_explicit_neg_trig_domain	0	0	WDT	0	
-is	0	0	in_explicit_neg_trig_domain	0	0	VBZ	0	
-to	0	0	in_explicit_neg_trig_domain	0	0	TO	0	
-come	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-out	khooTrig	0	in_explicit_neg_trig_domain	0	0	RP	0	
-from	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-that	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-coal-fired	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-power	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-station	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-the	0	0	0	0	0	DT	0	
-organisation	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-project	khooTrig	0	0	0	0	NN	0	
-co-ordinator	0	0	0	0	0	NN	0	
-Tristen	0	0	0	0	0	NNP	0	
-Taylor	0	0	0	0	0	NNP	0	
-said	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-mining	0	0	0	0	0	NN	0	
-company	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Johannesburg	0	0	0	0	location	NNP	0	
-.	0	0	0	0	0	.	0	
+`	null	
+`	null	
+We	6-nsubj-2	
+simply	6-advmod-3	
+do	6-aux-4	
+not	6-neg-5	
+have	35-ccomp-6	
+space	6-dobj-7	
+for	12-case-8	
+such	12-det:predet-9	
+a	12-det-10	
+detrimental	12-amod-11	
+amount	6-nmod:for-12	
+of	14-case-13	
+pollution	12-nmod:of-14	
+that	16-nsubj-15	
+is	12-acl:relcl-16	
+to	18-mark-17	
+come	16-xcomp-18	
+out	18-compound:prt-19	
+from	24-case-20	
+that	24-det-21	
+coal-fired	24-amod-22	
+power	24-compound-23	
+station	18-nmod:from-24	
+,	null	
+'	null	
+'	null	
+the	29-det-28	
+organisation	34-nmod:poss-29	
+'s	29-case-30	
+project	34-compound-31	
+co-ordinator	34-compound-32	
+Tristen	34-compound-33	
+Taylor	35-nsubj-34	
+said	35	
+at	38-case-36	
+a	38-det-37	
+protest	35-nmod:at-38	
+against	42-case-39	
+the	42-det-40	
+mining	42-compound-41	
+company	38-nmod:against-42	
+in	44-case-43	
+Johannesburg	42-nmod:in-44	
+.	null	

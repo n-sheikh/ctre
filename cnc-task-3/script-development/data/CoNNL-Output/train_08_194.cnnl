@@ -1,58 +1,58 @@
-TIRUNELVELI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-‘	0	0	0	0	0	VBG	0	
-Give	0	0	0	0	0	VB	0	
-house	0	0	0	0	0	NN	0	
-sites	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-Lankan	0	0	0	0	0	JJ	0	
-expatriates	khooTrig	0	0	0	0	NNS	0	
-’	0	0	0	0	0	JJ	0	
-June	0	0	0	0	date	NNP	0	
-13	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2013	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-CPI	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-M-L	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-members	0	0	0	0	0	NNS	0	
-stage	khooTrig	0	0	0	0	NN	0	
-demo	0	0	0	0	0	NN	0	
-Demanding	0	0	0	0	0	VBG	0	
-free	0	0	0	0	0	JJ	0	
-house	0	0	0	0	0	NN	0	
-sites	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-18	0	0	0	0	0	CD	0	
-Sri	0	0	0	0	0	NNP	0	
-Lankan	0	0	0	0	0	NNP	0	
-expatriate	khooTrig	0	0	0	0	NN	0	
-families	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-Communist	0	0	0	0	0	NNP	0	
-Party	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-India	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-Marxist-	0	0	0	0	0	NNP	0	
-Leninist	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-members	0	0	0	0	0	NNS	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-railway	0	0	0	0	0	NN	0	
-junction	0	0	0	0	0	NN	0	
-here	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+TIRUNELVELI	0	
+:	null	
+‘	45-advcl-2	
+Give	2-ccomp-3	
+house	5-compound-4	
+sites	3-iobj-5	
+to	8-case-6	
+Lankan	8-amod-7	
+expatriates	5-nmod:to-8	
+’	5-amod-9	
+June	9-nmod:tmod-10	
+13	10-nummod-11	
+,	null	
+2013	10-nummod-13	
+00	3-dobj-14	
+:	null	
+00	22-nummod-16	
+IST	22-compound-17	
+CPI	22-compound-18	
+(	null	
+M-L	22-appos-20	
+)	null	
+members	14-dep-22	
+stage	24-compound-23	
+demo	3-dep-24	
+Demanding	24-acl-25	
+free	28-amod-26	
+house	28-compound-27	
+sites	25-dobj-28	
+to	34-case-29	
+18	34-nummod-30	
+Sri	34-compound-31	
+Lankan	34-compound-32	
+expatriate	34-compound-33	
+families	25-nmod:to-34	
+,	null	
+Communist	37-compound-36	
+Party	44-compound-37	
+of	39-case-38	
+India	37-nmod:of-39	
+(	null	
+Marxist-	42-compound-41	
+Leninist	44-appos-42	
+)	null	
+members	45-nsubj-44	
+staged	0-parataxis-45	
+a	47-det-46	
+demonstration	45-dobj-47	
+in	53-case-48	
+front	48-mwe-49	
+of	48-mwe-50	
+the	53-det-51	
+railway	53-compound-52	
+junction	47-nmod:in_front_of-53	
+here	45-advmod-54	
+on	56-case-55	
+Tuesday	45-nmod:on-56	
+.	null	

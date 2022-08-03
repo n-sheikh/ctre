@@ -1,5 +1,16 @@
 import pickle
+import csv
 
+with open("/home/nadia/Documents/CLaC-Lab/ctre/processing-resources/dl-framework/resources/dependency_list.csv") as f:
+    dependency_types = set(())
+    csv_reader = csv.reader(f)
+    for row in csv_reader:
+        dependency_types.add(row[0].strip())
+    dependency_types = list(dependency_types)
+with open("/home/nadia/Documents/CLaC-Lab/ctre/processing-resources/dl-framework/resources/dependency_list.pkl", "wb") as g:
+    pickle.dump(dependency_types, g)
+
+'''
 category_embeddings = {}
 # POS Category Embeddings
 with open("/home/nadia/Documents/CLaC-Lab/ctre/processing-resources/dl-framework/resources/trained_pos_emb.pkl", "rb") as f:
@@ -40,3 +51,4 @@ category_embeddings["causality_trigger"] = category_trigger_embeddings
 
 with open("/home/nadia/Documents/CLaC-Lab/ctre/processing-resources/dl-framework/resources/category_embeddings.pkl", "wb") as g:
     pickle.dump(category_embeddings, g)
+'''

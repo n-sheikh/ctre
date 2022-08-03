@@ -1,0 +1,17 @@
+Police	1-compound-0	
+teargassing	3-nsubjpass-1	
+was	3-auxpass-2	
+answered	3	
+with	7-case-4	
+a	7-det-5	
+few	7-amod-6	
+gunshots	3-nmod:with-7	
+in	10-case-8	
+the	10-det-9	
+air	7-nmod:in-10	
+from	12-case-11	
+one	3-nmod:from-12	
+of	15-case-13	
+the	15-det-14	
+houses	12-nmod:of-15	
+.	null	

@@ -1,21 +1,21 @@
-The	0	0	0	0	0	DT	0	
-resumption	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-lectures	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-NMMU	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-were	0	0	0	0	0	VBD	0	
-marred	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-disruptions	0	0	0	0	0	NNS	0	
-as	0	0	0	0	0	IN	0	
-running	0	0	0	0	0	JJ	0	
-battles	0	0	0	0	0	NNS	0	
-between	0	0	0	0	0	IN	0	
-police	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-protesters	0	0	0	0	0	NNS	0	
-continued	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+resumption	9-nsubjpass-1	
+of	3-case-2	
+lectures	1-nmod:of-3	
+at	5-case-4	
+NMMU	3-nmod:at-5	
+on	7-case-6	
+Wednesday	1-nmod:on-7	
+were	9-auxpass-8	
+marred	9	
+by	11-case-10	
+disruptions	9-nmod:agent-11	
+as	19-mark-12	
+running	14-amod-13	
+battles	19-nsubj-14	
+between	16-case-15	
+police	14-nmod:between-16	
+and	16-cc-17	
+protesters	16-conj:and-18	
+continued	9-advcl-19	
+.	null	

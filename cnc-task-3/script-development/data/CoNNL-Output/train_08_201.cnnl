@@ -1,35 +1,35 @@
-He	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-there	0	0	0	0	0	EX	0	
-was	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-"	0	0	0	0	0	``	0	
-ulterior	0	0	0	0	0	NN	0	
-motive	0	0	0	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-in	0	0	0	0	0	IN	0	
-Karunanidhi	0	0	0	0	person	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	NNP	0	
-comments	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-made	khooTrig	0	0	0	0	VBN	0	
-during	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-election	0	0	0	0	0	NN	0	
-speech	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Puducherry	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-that	0	0	0	0	0	IN	0	
-riots	0	0	0	0	0	NNS	0	
-ensued	0	0	0	0	0	VBD	0	
-following	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-demolition	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-mosque	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+He	1-nsubj-0	
+said	1	
+there	3-expl-2	
+was	1-ccomp-3	
+an	7-det-4	
+"	null	
+ulterior	7-compound-6	
+motive	3-nsubj-7	
+"	null	
+in	13-case-9	
+Karunanidhi	13-compound-10	
+’	13-compound-11	
+s	13-compound-12	
+comments	7-nmod:in-13	
+,	null	
+made	13-acl-15	
+during	19-case-16	
+an	19-det-17	
+election	19-compound-18	
+speech	15-nmod:during-19	
+in	21-case-20	
+Puducherry	19-nmod:in-21	
+on	23-case-22	
+Thursday	15-nmod:on-23	
+,	null	
+that	27-mark-25	
+riots	27-nsubj-26	
+ensued	3-ccomp-27	
+following	30-case-28	
+the	30-det-29	
+demolition	27-nmod:following-30	
+of	33-case-31	
+the	33-det-32	
+mosque	30-nmod:of-33	
+.	null	

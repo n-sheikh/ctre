@@ -1,0 +1,16 @@
+The	1-det-0	
+TRS	5-nsubj-1	
+and	1-cc-2	
+BJP	5-nsubj-3	
+also	5-advmod-4	
+staged	5	
+road	7-compound-6	
+blockades	5-dobj-7	
+at	9-case-8	
+Shamshabad	5-nmod:at-9	
+on	12-case-10	
+the	12-det-11	
+outskirts	5-nmod:on-12	
+of	14-case-13	
+Hyderabad	12-nmod:of-14	
+.	null	

@@ -1,42 +1,42 @@
-"	0	0	0	0	0	``	0	
-The	0	0	0	0	0	DT	0	
-Maoists	0	0	0	0	0	NNPS	0	
-stopped	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-bus	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-identified	0	0	0	0	0	VBD	0	
-five	0	0	0	0	0	CD	0	
-jawans	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Chhattisgarh	0	0	0	0	0	NNP	0	
-Armed	0	0	0	0	0	NNP	0	
-Forces	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-CAF	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-(	0	0	0	0	0	(	0	
-the	0	0	0	0	0	DT	0	
-state	0	0	0	0	0	NN	0	
-armed	0	0	0	0	0	JJ	0	
-police	0	0	0	0	0	NNS	0	
-)	0	0	0	0	0	)	0	
-and	0	0	0	0	0	CC	0	
-took	0	0	0	0	0	VBD	0	
-them	0	0	0	0	0	PRP	0	
-away	0	0	0	0	0	RP	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	''	0	
-Inspector	0	0	0	0	person	NNP	0	
-General	0	0	0	0	person	NNP	0	
-of	0	0	0	0	0	IN	0	
-Police	0	0	0	0	0	NNS	0	
-(	0	0	0	0	0	(	0	
-Bastar	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-TJ	0	0	0	0	person	NNP	0	
-Longkumer	0	0	0	0	person	NNP	0	
-told	0	0	0	0	0	VBD	0	
-reporters	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+"	null	
+The	2-det-1	
+Maoists	7-nsubj-2	
+stopped	39-ccomp-3	
+a	5-det-4	
+bus	3-dobj-5	
+and	3-cc-6	
+identified	39-ccomp-7	
+five	9-nummod-8	
+jawans	7-dobj-9	
+of	14-case-10	
+the	14-det-11	
+Chhattisgarh	14-compound-12	
+Armed	14-compound-13	
+Forces	9-nmod:of-14	
+(	null	
+CAF	14-appos-16	
+)	null	
+(	null	
+the	20-det-19	
+state	9-dep-20	
+armed	22-amod-21	
+police	20-dep-22	
+)	null	
+and	7-cc-24	
+took	7-conj:and-25	
+them	25-dobj-26	
+away	25-compound:prt-27	
+,	null	
+"	null	
+Inspector	31-compound-30	
+General	39-nsubj-31	
+of	33-case-32	
+Police	31-nmod:of-33	
+(	null	
+Bastar	33-appos-35	
+)	null	
+TJ	38-compound-37	
+Longkumer	33-dep-38	
+told	39	
+reporters	39-dobj-40	
+.	null	

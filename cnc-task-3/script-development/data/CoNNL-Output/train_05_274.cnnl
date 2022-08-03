@@ -1,0 +1,13 @@
+Heavy	2-amod-0	
+police	2-compound-1	
+presence	4-nsubjpass-2	
+was	4-auxpass-3	
+seen	4	
+in	7-case-5	
+the	7-det-6	
+area	4-nmod:in-7	
+due	11-case-8	
+to	11-case-9	
+the	11-det-10	
+protest	4-advcl:to-11	
+.	null	

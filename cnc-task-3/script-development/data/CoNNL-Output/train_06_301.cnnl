@@ -1,0 +1,17 @@
+The	2-det-0	
+30	2-nummod-1	
+students	3-nsubj-2	
+continued	3	
+their	6-nmod:poss-4	
+hunger	6-amod-5	
+strike	3-dobj-6	
+for	9-case-7	
+the	9-det-8	
+withdrawal	6-nmod:for-9	
+of	11-case-10	
+suspension	9-nmod:of-11	
+of	15-case-12	
+eight	15-nummod-13	
+student	15-compound-14	
+doctors	11-nmod:of-15	
+.	null	

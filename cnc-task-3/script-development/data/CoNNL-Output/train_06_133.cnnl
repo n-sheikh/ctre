@@ -1,0 +1,15 @@
+Mogale	1-nsubj-0	
+said	1	
+protesters	10-nsubj-2	
+were	4-aux-3	
+burning	1-ccomp-4	
+tree	6-compound-5	
+trunks	4-dobj-6	
+and	6-cc-7	
+tyres	6-conj:and-8	
+and	4-cc-9	
+throwing	4-conj:and-10	
+stones	10-dobj-11	
+at	13-case-12	
+vehicles	10-nmod:at-13	
+.	null	

@@ -1,0 +1,16 @@
+Her	1-nmod:poss-0	
+driver	6-nsubj-1	
+drove	2	
+the	4-det-3	
+SUV	2-dobj-4	
+and	2-cc-5	
+hit	2-conj:and-6	
+him	6-dobj-7	
+causing	6-xcomp-8	
+injuries	8-dobj-9	
+to	12-case-10	
+his	12-nmod:poss-11	
+hands	9-nmod:to-12	
+and	12-cc-13	
+legs	12-conj:and-14	
+.	null	

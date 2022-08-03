@@ -1,40 +1,40 @@
-TAMIL	0	0	0	0	0	NNP	0	
-NADU	0	0	0	0	0	NNP	0	
-Residents	0	0	0	0	0	VBD	0	
-up	khooTrig	0	0	0	0	RP	0	
-in	0	0	0	0	0	IN	0	
-arms	khooTrig	0	0	0	0	NNS	0	
-against	0	0	0	0	0	IN	implicit_negative	
-lift	khooTrig	0	0	0	0	NN	0	
-project	khooTrig	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-burial	0	0	0	0	0	NN	0	
-ground	khooTrig	0	0	0	0	NN	0	
-January	0	0	0	0	date	NNP	0	
-11	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2007	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-STRONG	0	0	0	0	0	NNP	0	
-REACTION	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Residents	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Keelkattalai	0	0	0	0	0	NNP	0	
-stage	khooTrig	0	0	0	0	VBP	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-to	0	0	0	0	0	TO	0	
-protest	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-construction	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-lift	khooTrig	0	0	0	0	NN	0	
-station	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+TAMIL	1-compound-0	
+NADU	2-nsubj-1	
+Residents	2	
+up	2-compound:prt-3	
+in	5-case-4	
+arms	2-nmod:in-5	
+against	8-case-6	
+lift	8-compound-7	
+project	5-nmod:against-8	
+on	11-case-9	
+burial	11-compound-10	
+ground	2-nmod:on-11	
+January	2-nmod:tmod-12	
+11	12-nummod-13	
+,	null	
+2007	12-nummod-15	
+00	26-nsubj-16	
+:	null	
+00	21-nummod-18	
+IST	21-compound-19	
+STRONG	21-compound-20	
+REACTION	16-dep-21	
+:	null	
+Residents	16-dep-23	
+of	25-case-24	
+Keelkattalai	16-nmod:of-25	
+stage	2-dep-26	
+a	28-det-27	
+demonstration	26-dobj-28	
+on	30-case-29	
+Tuesday	26-nmod:on-30	
+to	32-mark-31	
+protest	26-advcl-32	
+the	34-det-33	
+construction	32-dobj-34	
+of	38-case-35	
+a	38-det-36	
+lift	38-compound-37	
+station	34-nmod:of-38	
+.	null	

@@ -1,0 +1,15 @@
+He	1-nsubj-0	
+said	1	
+some	4-det-2	
+200	4-nummod-3	
+protesters	5-nsubj-4	
+became	1-dep-5	
+violent	5-xcomp-6	
+,	null	
+and	5-cc-8	
+traffic	10-nsubj-9	
+had	5-conj:and-10	
+to	13-mark-11	
+be	13-auxpass-12	
+diverted	10-xcomp-13	
+.	null	

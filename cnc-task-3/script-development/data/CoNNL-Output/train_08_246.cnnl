@@ -1,19 +1,19 @@
-Law	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	JJ	0	
-s	0	0	0	0	0	NNS	0	
-parents	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-initially	0	0	0	0	0	RB	0	
-opposed	0	0	0	0	0	VBD	0	
-her	0	0	0	0	0	PRP$	0	
-protesting	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-backed	khooTrig	0	0	0	0	VBD	0	
-her	0	0	0	0	0	PRP	0	
-after	0	0	0	0	0	IN	0	
-she	0	0	0	0	0	PRP	0	
-explained	mcmTrig	0	0	0	0	VBD	0	
-her	0	0	0	0	0	PRP$	0	
-views	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Law	3-compound-0	
+’	3-amod-1	
+s	3-compound-2	
+parents	11-nsubj-3	
+,	null	
+who	7-nsubj-5	
+initially	7-advmod-6	
+opposed	3-acl:relcl-7	
+her	9-nmod:poss-8	
+protesting	7-dobj-9	
+,	null	
+backed	11	
+her	11-dobj-12	
+after	15-mark-13	
+she	15-nsubj-14	
+explained	11-advcl-15	
+her	17-nmod:poss-16	
+views	15-dobj-17	
+.	null	

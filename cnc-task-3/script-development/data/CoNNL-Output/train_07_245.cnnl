@@ -1,29 +1,29 @@
-They	0	0	0	0	0	PRP	0	
-also	0	0	0	0	0	RB	0	
-wielded	0	0	0	0	0	VBD	0	
-placards	0	0	0	0	0	JJ	0	
-reading	0	0	0	0	0	NN	0	
-:	0	0	0	0	0	:	0	
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Angie	0	0	0	0	person	NNP	0	
-does	0	0	0	0	0	VBZ	0	
-n't	0	0	0	0	0	RB	explicit_negative	
-know	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-anything	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-,	0	0	0	0	0	,	0	
-and	0	0	0	0	0	CC	0	
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Away	0	0	0	0	0	VBZ	0	
-with	0	0	0	0	0	IN	0	
-declaring	0	0	0	0	0	VBG	0	
-education	0	0	0	0	0	NN	0	
-an	0	0	0	0	0	DT	0	
-essential	0	0	0	0	0	JJ	0	
-service	0	0	0	0	0	NN	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-.	0	0	0	0	0	.	0	
+They	19-nsubj-0	
+also	2-advmod-1	
+wielded	2	
+placards	4-amod-3	
+reading	2-dobj-4	
+:	null	
+`	null	
+`	null	
+Angie	11-nsubj-8	
+does	11-aux-9	
+n't	11-neg-10	
+know	2-dep-11	
+anything	11-dobj-12	
+'	null	
+'	null	
+,	null	
+and	2-cc-16	
+`	null	
+`	null	
+Away	2-conj:and-19	
+with	21-mark-20	
+declaring	19-advcl-21	
+education	21-iobj-22	
+an	25-det-23	
+essential	25-amod-24	
+service	21-dobj-25	
+'	null	
+'	null	
+.	null	

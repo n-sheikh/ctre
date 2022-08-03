@@ -1,49 +1,49 @@
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-While	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-electoral	0	0	0	0	0	JJ	0	
-commission	0	0	0	0	0	NN	0	
-had	0	0	0	0	0	VBD	0	
-anticipated	0	0	0	0	0	VBN	0	
-some	0	0	0	0	0	DT	0	
-disruptions	0	0	0	0	0	NNS	0	
-to	0	0	0	0	0	TO	0	
-registration	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-areas	0	0	0	0	0	NNS	0	
-due	0	0	0	0	0	JJ	0	
-to	0	0	0	0	0	TO	0	
-community	0	0	0	0	0	NN	0	
-activism	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-it	0	0	0	0	0	PRP	0	
-is	0	0	0	0	0	VBZ	0	
-saddened	khooTrig	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-note	0	0	0	0	0	VB	0	
-that	0	0	0	0	0	IN	0	
-in	0	0	0	0	0	IN	0	
-some	0	0	0	0	0	DT	0	
-instances	0	0	0	0	0	NNS	0	
-protesters	0	0	0	0	0	NNS	0	
-appear	0	0	0	0	0	VBP	0	
-to	0	0	0	0	0	TO	0	
-have	0	0	0	0	0	VB	0	
-targeted	mcmTrig	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-registration	0	0	0	0	0	NN	0	
-stations	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-threatened	0	0	0	0	0	VBN	0	
-IEC	0	0	0	0	0	NNP	0	
-officials	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-Moepya	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-time	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+`	null	
+`	null	
+While	7-mark-2	
+the	5-det-3	
+electoral	5-amod-4	
+commission	7-nsubj-5	
+had	7-aux-6	
+anticipated	21-advcl-7	
+some	9-det-8	
+disruptions	7-dobj-9	
+to	11-case-10	
+registration	9-nmod:to-11	
+in	13-case-12	
+areas	11-nmod:in-13	
+due	13-amod-14	
+to	17-case-15	
+community	17-compound-16	
+activism	14-nmod:to-17	
+,	null	
+it	21-nsubjpass-19	
+is	21-auxpass-20	
+saddened	44-ccomp-21	
+to	23-mark-22	
+note	21-xcomp-23	
+that	29-mark-24	
+in	27-case-25	
+some	27-det-26	
+instances	29-nmod:in-27	
+protesters	29-nsubj-28	
+appear	23-ccomp-29	
+to	32-mark-30	
+have	32-aux-31	
+targeted	29-xcomp-32	
+the	35-det-33	
+registration	35-compound-34	
+stations	32-dobj-35	
+and	32-cc-36	
+threatened	32-conj:and-37	
+IEC	39-compound-38	
+officials	37-dobj-39	
+,	null	
+'	null	
+'	null	
+Moepya	44-nsubj-43	
+said	44	
+at	47-case-45	
+the	47-det-46	
+time	44-nmod:at-47	
+.	null	

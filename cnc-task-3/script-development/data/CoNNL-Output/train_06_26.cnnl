@@ -1,38 +1,38 @@
-The	0	0	0	0	0	DT	0	
-Left	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-BJP	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-a	0	0	0	0	0	DT	0	
-few	0	0	0	0	0	JJ	0	
-other	0	0	0	0	0	JJ	0	
-parties	0	0	0	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-been	0	0	0	0	0	VBN	0	
-disrupting	khooTrig	0	0	0	0	VBG	0	
-Parliament	0	0	0	0	0	NNP	0	
-proceedings	0	0	0	0	0	NNS	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-past	0	0	0	0	date	JJ	0	
-two	0	0	0	0	date	CD	0	
-days	0	0	0	0	date	NNS	0	
-over	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-alleged	0	0	0	0	0	JJ	0	
-involvement	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Maoists	0	0	0	0	0	NNPS	0	
-in	0	0	0	0	0	IN	0	
-organising	0	0	0	0	0	VBG	0	
-Trinamool	0	0	0	0	0	NNP	0	
-Congress	0	0	0	0	0	NNP	0	
-rally	khooTrig	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Lalgarh	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-West	0	0	0	0	location	NNP	0	
-Bengal	0	0	0	0	location	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+Left	12-nsubj-1	
+,	null	
+the	4-det-3	
+BJP	12-nsubj-4	
+and	1-cc-5	
+a	9-det-6	
+few	9-amod-7	
+other	9-amod-8	
+parties	12-nsubj-9	
+have	12-aux-10	
+been	12-aux-11	
+disrupting	12	
+Parliament	14-compound-13	
+proceedings	12-dobj-14	
+for	19-case-15	
+the	19-det-16	
+past	19-amod-17	
+two	19-nummod-18	
+days	14-nmod:for-19	
+over	23-case-20	
+the	23-det-21	
+alleged	23-amod-22	
+involvement	12-nmod:over-23	
+of	26-case-24	
+the	26-det-25	
+Maoists	23-nmod:of-26	
+in	28-mark-27	
+organising	23-acl-28	
+Trinamool	31-compound-29	
+Congress	31-compound-30	
+rally	28-dobj-31	
+at	33-case-32	
+Lalgarh	31-nmod:at-33	
+in	36-case-34	
+West	36-compound-35	
+Bengal	28-nmod:in-36	
+.	null	

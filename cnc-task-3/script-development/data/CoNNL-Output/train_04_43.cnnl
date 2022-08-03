@@ -1,58 +1,58 @@
-In	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-letter	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-Chief	0	0	0	0	0	NNP	0	
-Justice	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Supreme	0	0	0	0	0	NNP	0	
-Court	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Justice	0	0	0	0	person	NNP	0	
-HL	0	0	0	0	person	NNP	0	
-Dattu	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-former	0	0	0	0	0	JJ	0	
-Member	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Parliament	0	0	0	0	0	NNP	0	
-said	0	0	0	0	0	VBD	0	
-when	0	0	0	0	0	WRB	0	
-CBI	0	0	0	0	0	NNP	0	
-arrested	khooTrig	0	0	0	0	VBN	0	
-Banki	0	0	0	0	0	NNP	0	
-MLA	0	0	0	0	person	NNP	0	
-Pravat	0	0	0	0	person	NNP	0	
-Tripathy	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-October	0	0	0	0	date	NNP	0	
-31	0	0	0	0	date	CD	0	
-and	0	0	0	0	0	CC	0	
-took	0	0	0	0	0	VBD	0	
-him	0	0	0	0	0	PRP	0	
-on	0	0	0	0	0	IN	0	
-remand	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-November	0	0	0	0	date	NNP	0	
-1	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-party	0	0	0	0	0	NN	0	
-supporters	0	0	0	0	0	NNS	0	
-gathered	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-CBI	0	0	0	0	0	NNP	0	
-office	0	0	0	0	0	NN	0	
-here	0	0	0	0	0	RB	0	
-and	0	0	0	0	0	CC	0	
-blocked	mcmTrig	0	0	0	0	VBD	implicit_negative	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-pathway	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-of	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-his	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
-car	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+In	2-case-0	
+a	2-det-1	
+letter	20-nmod:in-2	
+to	5-case-3	
+Chief	5-compound-4	
+Justice	2-nmod:to-5	
+of	9-case-6	
+the	9-det-7	
+Supreme	9-compound-8	
+Court	5-nmod:of-9	
+,	null	
+Justice	13-compound-11	
+HL	13-compound-12	
+Dattu	5-appos-13	
+,	null	
+the	17-det-15	
+former	17-amod-16	
+Member	20-nsubj-17	
+of	19-case-18	
+Parliament	17-nmod:of-19	
+said	20	
+when	23-advmod-21	
+CBI	32-nsubj-22	
+arrested	42-advcl-23	
+Banki	27-compound-24	
+MLA	27-compound-25	
+Pravat	27-compound-26	
+Tripathy	23-dobj-27	
+on	29-case-28	
+October	23-nmod:on-29	
+31	29-nummod-30	
+and	23-cc-31	
+took	42-advcl-32	
+him	32-dobj-33	
+on	35-case-34	
+remand	32-nmod:on-35	
+on	37-case-36	
+November	32-nmod:on-37	
+1	37-nummod-38	
+,	null	
+party	41-compound-40	
+supporters	51-nsubj-41	
+gathered	20-ccomp-42	
+in	48-case-43	
+front	43-mwe-44	
+of	43-mwe-45	
+the	48-det-46	
+CBI	48-compound-47	
+office	42-nmod:in_front_of-48	
+here	42-advmod-49	
+and	42-cc-50	
+blocked	42-conj:and-51	
+the	53-det-52	
+pathway	51-dobj-53	
+of	56-case-54	
+his	56-nmod:poss-55	
+car	53-nmod:of-56	
+.	null	

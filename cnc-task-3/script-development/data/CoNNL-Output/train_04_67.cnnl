@@ -1,68 +1,68 @@
-Andhra	0	0	0	0	0	NNP	0	
-cops	0	0	0	0	0	NNS	0	
-go	0	0	0	0	0	VBP	0	
-on	0	0	0	0	0	IN	0	
-rampage	0	0	0	0	0	NN	0	
-over	0	0	0	0	0	IN	0	
-SP	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-transfer	khooTrig	0	0	0	0	NN	0	
-Posted	0	0	0	0	0	VBN	0	
-:	0	0	0	0	0	:	0	
-Tue	0	0	0	0	date	VBN	0	
-Apr	0	0	0	0	date	NNP	0	
-21	0	0	0	0	date	CD	0	
-1998	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-KARIMNAGAR	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-April	0	0	0	0	date	NNP	0	
-20	0	0	0	0	date	CD	0	
-:	0	0	0	0	0	:	0	
-Armed	khooTrig	0	0	0	0	VBN	0	
-reserve	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-civil	0	0	0	0	0	JJ	0	
-policemen	0	0	0	0	0	NN	0	
-revolted	khooTrig	0	0	0	0	VBN	0	
-and	0	0	0	0	0	CC	0	
-unleashed	khooTrig	0	0	0	0	VBN	0	
-a	0	0	0	0	0	DT	0	
-reign	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-terror	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-town	0	0	0	0	0	NN	0	
-last	0	0	0	0	0	JJ	0	
-night	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-protest	0	0	0	0	0	VB	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-transfer	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-superintendent	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-police	0	0	0	0	0	NN	0	
-Umesh	0	0	0	0	person	NNP	0	
-Chandra	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-further	khooTrig	0	0	0	0	RB	0	
-eroding	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-image	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-which	0	0	0	0	0	WDT	0	
-touched	0	0	0	0	0	VBD	0	
-an	0	0	0	0	0	DT	0	
-all-time	0	0	0	0	0	JJ	0	
-low	0	0	0	0	0	NN	0	
-due	0	0	0	0	0	JJ	0	
-to	0	0	0	0	0	TO	0	
-several	0	0	0	0	0	JJ	0	
-incidents	0	0	0	0	0	NNS	0	
-recently	0	0	0	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+Andhra	1-compound-0	
+cops	2-nsubj-1	
+go	2	
+on	4-case-3	
+rampage	2-nmod:on-4	
+over	8-case-5	
+SP	8-nmod:poss-6	
+'s	6-case-7	
+transfer	2-nmod:over-8	
+Posted	8-dep-9	
+:	null	
+Tue	9-dep-11	
+Apr	16-compound-12	
+21	16-nummod-13	
+1998	16-nummod-14	
+IST	16-compound-15	
+KARIMNAGAR	11-dobj-16	
+,	null	
+April	16-appos-18	
+20	18-nummod-19	
+:	null	
+Armed	9-dep-21	
+reserve	25-compound-22	
+and	22-cc-23	
+civil	25-compound-24	
+policemen	21-dobj-25	
+revolted	25-acl-26	
+and	26-cc-27	
+unleashed	26-conj:and-28	
+a	30-det-29	
+reign	26-dobj-30	
+of	32-case-31	
+terror	30-nmod:of-32	
+in	35-case-33	
+the	35-det-34	
+town	26-nmod:in-35	
+last	37-amod-36	
+night	26-nmod:tmod-37	
+to	39-mark-38	
+protest	21-advcl-39	
+against	42-case-40	
+the	42-det-41	
+transfer	39-nmod:against-42	
+of	44-case-43	
+superintendent	42-nmod:of-44	
+of	48-case-45	
+police	48-compound-46	
+Umesh	48-compound-47	
+Chandra	44-nmod:of-48	
+,	null	
+further	51-advmod-50	
+eroding	9-advcl-51	
+the	53-det-52	
+image	51-dobj-53	
+of	56-case-54	
+the	56-det-55	
+police	53-nmod:of-56	
+which	58-nsubj-57	
+touched	56-acl:relcl-58	
+an	61-det-59	
+all-time	61-amod-60	
+low	58-dobj-61	
+due	61-amod-62	
+to	65-case-63	
+several	65-amod-64	
+incidents	62-nmod:to-65	
+recently	58-advmod-66	
+.	null	

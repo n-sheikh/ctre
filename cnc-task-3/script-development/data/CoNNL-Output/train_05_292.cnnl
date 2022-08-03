@@ -1,31 +1,31 @@
-Pu	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-took	0	0	0	0	0	VBD	0	
-part	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Tiananmen	0	0	0	0	0	NNP	0	
-pro-democracy	0	0	0	0	0	JJ	0	
-protests	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-1989	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-was	0	0	0	0	0	VBD	0	
-detained	khooTrig	0	0	0	0	VBN	0	
-for	0	0	0	0	0	IN	0	
-"	0	0	0	0	0	``	0	
-picking	0	0	0	0	0	VBG	0	
-quarrels	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-provoking	khooTrig	0	0	0	0	VBG	0	
-trouble	khooTrig	0	0	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-charge	0	0	0	0	0	NN	0	
-frequently	0	0	0	0	0	RB	0	
-used	0	0	0	0	0	VBN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-activists	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Pu	14-nsubjpass-0	
+,	null	
+who	3-nsubj-2	
+took	0-acl:relcl-3	
+part	3-dobj-4	
+in	9-case-5	
+the	9-det-6	
+Tiananmen	9-compound-7	
+pro-democracy	9-amod-8	
+protests	3-nmod:in-9	
+in	11-case-10	
+1989	9-nmod:in-11	
+,	null	
+was	14-auxpass-13	
+detained	14	
+for	17-mark-15	
+"	null	
+picking	14-advcl-17	
+quarrels	17-dobj-18	
+and	17-cc-19	
+provoking	17-conj:and-20	
+trouble	20-dobj-21	
+"	null	
+,	null	
+a	25-det-24	
+charge	17-dobj-25	
+frequently	27-advmod-26	
+used	25-acl-27	
+against	29-case-28	
+activists	27-nmod:against-29	
+.	null	

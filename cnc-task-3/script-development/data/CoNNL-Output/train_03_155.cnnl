@@ -1,30 +1,30 @@
-`	0	0	0	0	0	``	0	
-`	0	0	0	0	0	``	0	
-Our	0	0	0	0	0	PRP$	0	
-attorneys	0	0	0	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-written	0	0	0	0	0	VBN	0	
-a	0	0	0	0	0	DT	0	
-letter	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-union	0	0	0	0	0	NN	0	
-expressing	khooTrig	0	0	0	0	VBG	0	
-our	0	0	0	0	0	PRP$	0	
-concern	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-violence	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-site	0	0	0	0	0	NN	0	
-today	0	0	0	0	date	NN	0	
-(	0	0	0	0	0	(	0	
-Thursday	0	0	0	0	date	NNP	0	
-)	0	0	0	0	0	)	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-he	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+`	null	
+`	null	
+Our	3-nmod:poss-2	
+attorneys	5-nsubj-3	
+have	5-aux-4	
+written	28-ccomp-5	
+a	7-det-6	
+letter	5-dobj-7	
+to	10-case-8	
+the	10-det-9	
+union	5-nmod:to-10	
+expressing	10-acl-11	
+our	13-nmod:poss-12	
+concern	11-dobj-13	
+at	16-case-14	
+the	16-det-15	
+violence	13-nmod:at-16	
+at	19-case-17	
+the	19-det-18	
+site	16-nmod:at-19	
+today	11-nmod:tmod-20	
+(	null	
+Thursday	11-dep-22	
+)	null	
+,	null	
+'	null	
+'	null	
+he	28-nsubj-27	
+said	28	
+.	null	

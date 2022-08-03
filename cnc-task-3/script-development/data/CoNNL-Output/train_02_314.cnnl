@@ -1,23 +1,23 @@
-The	0	0	0	0	0	DT	0	
-murders	khooTrig	0	0	0	0	NNS	0	
-evoked	khooTrig	0	0	0	0	VBD	0	
-widespread	0	0	0	0	0	JJ	0	
-protest	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-people	0	0	0	0	0	NNS	0	
-speaking	0	0	0	0	0	VBG	0	
-out	khooTrig	0	0	0	0	RP	0	
-openly	0	0	0	0	0	RB	0	
-against	0	0	0	0	0	IN	implicit_negative	
-Baruah	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-demanding	0	0	0	0	0	VBG	0	
-stringent	0	0	0	0	0	JJ	0	
-action	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-perpetrators	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-crime	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+murders	2-nsubj-1	
+evoked	2	
+widespread	4-amod-3	
+protest	2-dobj-4	
+with	7-mark-5	
+people	13-nsubj-6	
+speaking	2-advcl-7	
+out	7-compound:prt-8	
+openly	7-advmod-9	
+against	11-case-10	
+Baruah	7-nmod:against-11	
+and	7-cc-12	
+demanding	7-conj:and-13	
+stringent	15-amod-14	
+action	13-dobj-15	
+against	18-case-16	
+the	18-det-17	
+perpetrators	15-nmod:against-18	
+of	21-case-19	
+the	21-det-20	
+crime	18-nmod:of-21	
+.	null	

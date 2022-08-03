@@ -1,36 +1,36 @@
-"	0	0	0	0	0	``	0	
-We	0	0	0	0	0	PRP	0	
-'d	0	0	0	1	0	MD	modal	
-often	0	1	in_modal_trig_domain	0	0	RB	0	
-come	0	1	in_modal_trig_domain	0	0	VB	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-an	0	1	in_modal_trig_domain	0	0	DT	0	
-understanding	0	1	in_modal_trig_domain	0	0	NN	0	
-with	0	1	in_modal_trig_domain	0	0	IN	0	
-protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
-willing	0	1	in_modal_trig_domain	0	0	JJ	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-open	0	1	in_modal_trig_domain	0	0	VB	0	
-up	khooTrig	1	in_modal_trig_domain	0	0	RP	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-part	khooTrig	1	in_modal_trig_domain	0	0	NN	0	
-of	0	1	in_modal_trig_domain	0	0	IN	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-road	0	1	in_modal_trig_domain	0	0	NN	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-only	0	1	in_modal_trig_domain	0	0	RB	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-have	0	1	in_modal_trig_domain	0	0	VB	0	
-it	0	1	null	0	0	PRP	0	
-blocked	mcmTrig	1	in_modal_trig_domain	0	0	VBN	implicit_negative	
-again	0	1	in_modal_trig_domain	0	0	RB	0	
-by	0	1	in_modal_trig_domain	0	0	IN	0	
-other	0	1	in_modal_trig_domain	0	0	JJ	0	
-protesters	0	1	in_modal_trig_domain	0	0	NNS	0	
-who	0	1	in_modal_trig_domain	0	0	WP	0	
-disagreed	0	1	in_modal_trig_domain	0	0	VBD	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	''	0	
-she	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+"	null	
+We	4-nsubj-1	
+'d	4-aux-2	
+often	4-advmod-3	
+come	34-ccomp-4	
+to	7-case-5	
+an	7-det-6	
+understanding	4-nmod:to-7	
+with	9-case-8	
+protesters	7-nmod:with-9	
+willing	9-amod-10	
+to	12-mark-11	
+open	10-xcomp-12	
+up	12-compound:prt-13	
+a	15-det-14	
+part	12-dobj-15	
+of	18-case-16	
+the	18-det-17	
+road	15-nmod:of-18	
+,	null	
+only	22-advmod-20	
+to	22-mark-21	
+have	12-advcl-22	
+it	24-nsubj-23	
+blocked	22-ccomp-24	
+again	24-advmod-25	
+by	28-case-26	
+other	28-amod-27	
+protesters	24-nmod:by-28	
+who	30-nsubj-29	
+disagreed	28-acl:relcl-30	
+,	null	
+"	null	
+she	34-nsubj-33	
+said	34	
+.	null	

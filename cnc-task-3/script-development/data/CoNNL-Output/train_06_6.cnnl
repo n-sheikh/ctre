@@ -1,20 +1,20 @@
-Many	0	0	0	0	0	JJ	0	
-senior	0	0	0	0	0	JJ	0	
-party	0	0	0	0	0	NN	0	
-leaders	0	0	0	0	0	NNS	0	
-joined	khooTrig	0	0	0	0	VBD	0	
-PCC	0	0	0	0	0	NNP	0	
-president	0	0	0	0	0	NN	0	
-Prasad	0	0	0	0	0	NNP	0	
-Harichandan	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-padyatra	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-addressed	mcmTrig	0	0	0	0	VBN	0	
-the	0	0	0	0	0	DT	0	
-gathering	0	0	0	0	0	NN	0	
-criticising	0	0	0	0	0	VBG	0	
-Chief	0	0	0	0	0	NNP	0	
-Minister	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+Many	3-amod-0	
+senior	3-amod-1	
+party	3-compound-2	
+leaders	13-nsubj-3	
+joined	4	
+PCC	8-compound-5	
+president	8-compound-6	
+Prasad	8-compound-7	
+Harichandan	4-dobj-8	
+in	11-case-9	
+the	11-det-10	
+padyatra	4-nmod:in-11	
+and	4-cc-12	
+addressed	4-conj:and-13	
+the	15-det-14	
+gathering	13-dobj-15	
+criticising	13-xcomp-16	
+Chief	18-compound-17	
+Minister	16-dobj-18	
+.	null	

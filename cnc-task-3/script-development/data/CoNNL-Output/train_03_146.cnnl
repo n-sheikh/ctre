@@ -1,0 +1,11 @@
+The	1-det-0	
+police	2-nsubj-1	
+questioned	2	
+Sanmugavel	2-dobj-3	
+regarding	7-case-4	
+the	7-det-5	
+threat	7-compound-6	
+call	2-nmod:regarding-7	
+to	9-case-8	
+Nehru	7-nmod:to-9	
+.	null	

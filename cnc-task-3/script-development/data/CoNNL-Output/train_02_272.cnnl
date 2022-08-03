@@ -1,0 +1,13 @@
+About	1-advmod-0	
+15	2-nummod-1	
+cars	4-nsubj-2	
+were	4-cop-3	
+burnt	4	
+and	4-cc-5	
+seven	4-conj:and-6	
+damaged	4-acl-7	
+by	11-case-8	
+the	11-det-9	
+angry	11-amod-10	
+protesters	7-nmod:by-11	
+.	null	

@@ -1,0 +1,15 @@
+Protests	2-nsubjpass-0	
+were	2-auxpass-1	
+held	2	
+across	5-case-3	
+Andhra	5-compound-4	
+Pradesh	2-nmod:across-5	
+criticising	2-xcomp-6	
+police	8-compound-7	
+action	6-dobj-8	
+on	10-case-9	
+Naidu	8-nmod:on-10	
+and	10-cc-11	
+his	13-nmod:poss-12	
+supporters	10-conj:and-13	
+.	null	

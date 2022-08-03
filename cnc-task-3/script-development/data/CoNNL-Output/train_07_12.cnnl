@@ -1,42 +1,42 @@
-James	0	0	0	0	person	NNP	0	
-Leibold	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-Xinjiang	0	0	0	0	location	NNP	0	
-expert	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-Australia	0	0	0	0	location	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	NNP	0	
-La	0	0	0	0	0	NNP	0	
-Trobe	0	0	0	0	0	NNP	0	
-university	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-ever	0	0	0	0	0	RB	0	
-since	0	0	0	0	0	IN	0	
-deadly	0	0	0	0	0	JJ	0	
-ethnic	0	0	0	0	0	JJ	0	
-rioting	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-2009	0	0	0	0	date	CD	0	
-authorities	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-gradually	0	0	0	0	0	RB	0	
-been	0	0	0	0	0	VBN	0	
-transforming	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-region	0	0	0	0	0	NN	0	
-into	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-state	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-bid	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-halt	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-killing	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+James	1-compound-0	
+Leibold	14-nsubj-1	
+,	null	
+a	5-det-3	
+Xinjiang	5-compound-4	
+expert	1-appos-5	
+from	12-case-6	
+Australia	12-compound-7	
+’	12-compound-8	
+s	12-compound-9	
+La	12-compound-10	
+Trobe	12-compound-11	
+university	5-nmod:from-12	
+,	null	
+said	14	
+that	27-mark-15	
+ever	27-nsubj-16	
+since	20-case-17	
+deadly	20-amod-18	
+ethnic	20-amod-19	
+rioting	16-nmod:since-20	
+in	23-case-21	
+2009	23-nummod-22	
+authorities	20-nmod:in-23	
+had	27-aux-24	
+gradually	27-advmod-25	
+been	27-aux-26	
+transforming	14-ccomp-27	
+the	29-det-28	
+region	27-dobj-29	
+into	33-case-30	
+a	33-det-31	
+police	33-compound-32	
+state	27-nmod:into-33	
+in	36-case-34	
+a	36-det-35	
+bid	27-nmod:in-36	
+to	38-mark-37	
+halt	36-acl-38	
+the	40-det-39	
+killing	38-dobj-40	
+.	null	

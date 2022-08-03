@@ -1,0 +1,17 @@
+The	2-det-0	
+Congress	2-compound-1	
+leader	6-nsubjpass-2	
+was	4-auxpass-3	
+kidnapped	4	
+and	4-cc-5	
+beheaded	4-conj:and-6	
+by	8-case-7	
+Lashkar	6-nmod:by-8	
+terrorists	4-dobj-9	
+on	12-case-10	
+the	12-det-11	
+night	4-nmod:on-12	
+of	14-case-13	
+May	12-nmod:of-14	
+16	14-nummod-15	
+.	null	

@@ -1,47 +1,47 @@
-B	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
-V	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
-Kakkillaya	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-former	0	0	0	0	0	JJ	0	
-MLA	0	0	0	0	person	NNS	0	
-and	0	0	0	0	0	CC	0	
-a	0	0	0	0	0	DT	0	
-senior	0	0	0	0	0	JJ	0	
-party	0	0	0	0	0	NN	0	
-leader	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-freedom	0	0	0	0	0	NN	0	
-fighter	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-addressed	mcmTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-gathering	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-said	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-Government	0	0	0	0	0	NN	0	
-should	0	0	0	1	0	MD	modal	
-release	khooTrig	1	in_modal_trig_domain	0	0	VB	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-student	0	1	in_modal_trig_domain	0	0	NN	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-along	0	1	in_modal_trig_domain	0	0	RB	0	
-with	0	1	in_modal_trig_domain	0	0	IN	0	
-his	0	1	in_modal_trig_domain	0	0	PRP$	0	
-father	0	1	in_modal_trig_domain	0	0	NN	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-Linganna	0	1	in_modal_trig_domain	0	0	NNP	0	
-Malekudiya	0	1	in_modal_trig_domain	0	0	NNP	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-immediately	0	1	in_modal_trig_domain	0	0	RB	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-ensure	0	1	in_modal_trig_domain	0	0	VB	0	
-that	0	1	in_modal_trig_domain	0	0	IN	0	
-his	0	1	in_modal_trig_domain	0	0	PRP$	0	
-education	0	1	in_modal_trig_domain	0	0	NN	0	
-was	0	1	in_modal_trig_domain	0	0	VBD	0	
-continued	0	1	in_modal_trig_domain	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+B	4-compound-0	
+.	null	
+V	4-compound-2	
+.	null	
+Kakkillaya	22-nsubj-4	
+,	null	
+former	7-amod-6	
+MLA	22-nsubj-7	
+and	7-cc-8	
+a	12-det-9	
+senior	12-amod-10	
+party	12-compound-11	
+leader	22-nsubj-12	
+and	12-cc-13	
+freedom	15-compound-14	
+fighter	12-conj:and-15	
+,	null	
+who	18-nsubj-17	
+addressed	7-acl:relcl-18	
+the	20-det-19	
+gathering	18-dobj-20	
+,	null	
+said	22	
+the	24-det-23	
+Government	40-nsubj-24	
+should	26-aux-25	
+release	22-ccomp-26	
+the	28-det-27	
+student	26-dobj-28	
+,	null	
+along	26-advmod-30	
+with	33-case-31	
+his	33-nmod:poss-32	
+father	30-nmod:with-33	
+,	null	
+Linganna	36-compound-35	
+Malekudiya	33-appos-36	
+,	null	
+immediately	26-advmod-38	
+and	26-cc-39	
+ensure	26-conj:and-40	
+that	45-mark-41	
+his	43-nmod:poss-42	
+education	45-nsubjpass-43	
+was	45-auxpass-44	
+continued	40-ccomp-45	
+.	null	

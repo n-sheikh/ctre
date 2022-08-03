@@ -1,37 +1,37 @@
-They	0	0	0	0	0	PRP	0	
-have	0	0	0	0	0	VBP	0	
-failed	0	0	0	0	0	VBN	implicit_negative	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-African	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-National	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-Congress	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-they	0	0	0	0	0	PRP	0	
-shame	0	0	0	0	0	VBZ	0	
-us	0	0	0	0	0	PRP	0	
-as	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-alliance	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-'	0	0	0	0	0	''	0	
-'	0	0	0	0	0	''	0	
-he	0	0	0	0	0	PRP	0	
-told	0	0	0	0	0	VBD	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-SA	0	0	0	0	0	NNP	0	
-Municipal	0	0	0	0	0	NNP	0	
-Workers	0	0	0	0	0	NNPS	0	
-'	0	0	0	0	0	POS	0	
-Union	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-Samwu	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-at	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-march	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Durban	0	0	0	0	location	NNP	0	
-.	0	0	0	0	0	.	0	
+They	2-nsubj-0	
+have	2-aux-1	
+failed	18-ccomp-2	
+the	6-det-3	
+African	6-compound-4	
+National	6-compound-5	
+Congress	2-xcomp-6	
+and	2-cc-7	
+they	9-nsubj-8	
+shame	18-ccomp-9	
+us	9-dobj-10	
+as	13-case-11	
+the	13-det-12	
+alliance	9-nmod:as-13	
+,	null	
+'	null	
+'	null	
+he	18-nsubj-17	
+told	18	
+members	18-dobj-19	
+of	26-case-20	
+the	24-det-21	
+SA	24-compound-22	
+Municipal	24-compound-23	
+Workers	26-nmod:poss-24	
+'	24-case-25	
+Union	19-nmod:of-26	
+(	null	
+Samwu	26-appos-28	
+)	null	
+at	33-case-30	
+a	33-det-31	
+protest	33-compound-32	
+march	18-nmod:at-33	
+in	35-case-34	
+Durban	33-nmod:in-35	
+.	null	

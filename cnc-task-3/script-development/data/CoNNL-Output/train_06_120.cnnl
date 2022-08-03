@@ -1,0 +1,14 @@
+Lack	0	
+of	3-case-1	
+medical	3-amod-2	
+services	0-nmod:of-3	
+because	7-case-4	
+of	4-mwe-5	
+the	7-det-6	
+strike	0-nmod:because_of-7	
+left	7-acl-8	
+several	10-amod-9	
+patients	8-dobj-10	
+in	12-case-11	
+agony	8-nmod:in-12	
+.	null	

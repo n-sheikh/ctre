@@ -1,21 +1,21 @@
-During	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-riots	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-as	0	0	0	0	0	RB	0	
-many	0	0	0	0	0	JJ	0	
-as	0	0	0	0	0	IN	0	
-nine	0	0	0	0	0	CD	0	
-policemen	0	0	0	0	0	NNS	0	
-sustained	mcmTrig	0	0	0	0	VBD	0	
-injuries	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-petrol	0	0	0	0	0	JJ	0	
-bomb	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-stone-hurling	0	0	0	0	0	JJ	0	
-attack	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-Vanniyars	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+During	2-case-0	
+the	2-det-1	
+riots	9-nmod:during-2	
+,	null	
+as	7-advmod-4	
+many	7-advmod-5	
+as	7-advmod-6	
+nine	8-nummod-7	
+policemen	9-nsubj-8	
+sustained	9	
+injuries	9-dobj-10	
+in	14-case-11	
+the	14-det-12	
+petrol	14-amod-13	
+bomb	10-nmod:in-14	
+and	14-cc-15	
+stone-hurling	17-amod-16	
+attack	14-conj:and-17	
+by	19-case-18	
+Vanniyars	14-nmod:by-19	
+.	null	

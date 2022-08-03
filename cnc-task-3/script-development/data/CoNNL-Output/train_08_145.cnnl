@@ -1,38 +1,38 @@
-The	0	0	0	0	0	DT	0	
-teachers	0	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-well-versed	0	0	0	0	0	JJ	0	
-in	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-subjects	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-have	0	0	0	0	0	VB	0	
-been	0	0	0	0	0	VBN	0	
-more	0	0	0	0	0	JJR	0	
-than	0	0	0	0	0	IN	0	
-four	0	0	0	0	0	CD	0	
-years	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-experience	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
-”	0	0	0	0	0	CD	0	
-Other	0	0	0	0	0	JJ	0	
-teachers	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-college	0	0	0	0	0	NN	0	
-expressed	khooTrig	0	0	0	0	VBD	0	
-their	0	0	0	0	0	PRP$	0	
-concern	0	0	0	0	0	NN	0	
-about	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-issue	0	0	0	0	0	NN	0	
-but	0	0	0	0	0	CC	0	
-did	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-take	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-part	khooTrig	0	in_explicit_neg_trig_domain	0	0	NN	0	
-in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-protests	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+teachers	3-nsubj-1	
+are	3-cop-2	
+well-versed	3	
+in	6-case-4	
+their	6-nmod:poss-5	
+subjects	3-nmod:in-6	
+and	3-cc-7	
+have	13-aux-8	
+been	13-cop-9	
+more	12-advmod-10	
+than	10-mwe-11	
+four	13-nummod-12	
+years	3-conj:and-13	
+of	15-case-14	
+experience	13-nmod:of-15	
+.	null	
+”	2-nummod-0	
+Other	2-amod-1	
+teachers	15-nsubj-2	
+of	5-case-3	
+the	5-det-4	
+college	2-nmod:of-5	
+expressed	6	
+their	8-nmod:poss-7	
+concern	6-dobj-8	
+about	11-case-9	
+the	11-det-10	
+issue	8-nmod:about-11	
+but	6-cc-12	
+did	15-aux-13	
+not	15-neg-14	
+take	6-conj:but-15	
+part	15-dobj-16	
+in	19-case-17	
+the	19-det-18	
+protests	15-nmod:in-19	
+.	null	

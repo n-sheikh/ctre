@@ -1,0 +1,12 @@
+A	1-det-0	
+majority	8-nsubj-1	
+of	4-case-2	
+the	4-det-3	
+employees	1-nmod:of-4	
+and	4-cc-5	
+teachers	7-compound-6	
+unions	4-conj:and-7	
+supported	8	
+the	10-det-9	
+strike	8-dobj-10	
+.	null	

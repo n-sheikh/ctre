@@ -1,17 +1,17 @@
-Ultras	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-accurate	0	0	0	0	0	JJ	0	
-intelligence	0	0	0	0	0	NN	0	
-input	0	0	0	0	0	NN	0	
-regarding	0	0	0	0	0	VBG	0	
-his	0	0	0	0	0	PRP$	0	
-SUV	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-IED	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-triggered	mcmTrig	0	0	0	0	VBN	0	
-targeting	mcmTrig	0	0	0	0	VBG	0	
-his	0	0	0	0	0	PRP$	0	
-vehicle	0	0	0	0	0	NN	0	
-only	0	0	0	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+Ultras	1-nsubj-0	
+had	1	
+accurate	4-amod-2	
+intelligence	4-compound-3	
+input	1-dobj-4	
+regarding	4-acl-5	
+his	7-nmod:poss-6	
+SUV	5-dobj-7	
+and	1-cc-8	
+IED	11-nsubjpass-9	
+was	11-auxpass-10	
+triggered	1-conj:and-11	
+targeting	11-xcomp-12	
+his	14-nmod:poss-13	
+vehicle	12-dobj-14	
+only	12-advmod-15	
+.	null	

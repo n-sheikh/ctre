@@ -1,0 +1,14 @@
+Earlier	3-advmod-0	
+,	null	
+residents	3-nsubj-2	
+gathered	3	
+outside	7-case-4	
+the	7-det-5	
+police	7-compound-6	
+station	3-nmod:outside-7	
+to	9-mark-8	
+protest	3-xcomp-9	
+about	12-case-10	
+the	12-det-11	
+murders	9-nmod:about-12	
+.	null	

@@ -1,26 +1,26 @@
-This	0	0	0	0	0	DT	0	
-was	0	0	0	0	0	VBD	0	
-Thackeray	0	0	0	0	0	NNP	0	
-'s	0	0	0	0	0	POS	0	
-first	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-keenly	0	0	0	0	0	RB	0	
-watched	0	0	0	0	0	VBN	0	
-public	0	0	0	0	0	JJ	0	
-rally	khooTrig	0	0	0	0	NN	0	
-after	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-Aurangabad	0	0	0	0	0	NNP	0	
-rally	khooTrig	0	0	0	0	NN	0	
-last	0	0	0	0	date	JJ	0	
-Tuesday	0	0	0	0	date	NNP	0	
-when	0	0	0	0	0	WRB	0	
-his	0	0	0	0	0	PRP$	0	
-convoy	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-attacked	0	0	0	0	0	VBN	0	
-allegedly	0	0	0	0	0	RB	0	
-by	0	0	0	0	0	IN	0	
-NCP	0	0	0	0	0	NNP	0	
-workers	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+This	9-nsubj-0	
+was	9-cop-1	
+Thackeray	9-nmod:poss-2	
+'s	2-case-3	
+first	9-amod-4	
+and	4-cc-5	
+keenly	7-advmod-6	
+watched	9-amod-7	
+public	9-amod-8	
+rally	9	
+after	13-case-10	
+his	13-nmod:poss-11	
+Aurangabad	13-compound-12	
+rally	9-nmod:after-13	
+last	15-amod-14	
+Tuesday	13-dep-15	
+when	20-advmod-16	
+his	18-nmod:poss-17	
+convoy	20-nsubjpass-18	
+was	20-auxpass-19	
+attacked	13-acl:relcl-20	
+allegedly	20-advmod-21	
+by	24-case-22	
+NCP	24-compound-23	
+workers	20-nmod:agent-24	
+.	null	

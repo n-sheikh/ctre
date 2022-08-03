@@ -1,10 +1,10 @@
-Many	0	0	0	0	0	JJ	0	
-schoolchildren	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-seen	0	0	0	0	0	VBN	0	
-protesting	0	0	0	0	0	VBG	0	
-along	0	0	0	0	0	RP	0	
-with	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-parents	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Many	1-amod-0	
+schoolchildren	3-nsubjpass-1	
+were	3-auxpass-2	
+seen	3	
+protesting	3-xcomp-4	
+along	4-compound:prt-5	
+with	8-case-6	
+their	8-nmod:poss-7	
+parents	4-nmod:with-8	
+.	null	

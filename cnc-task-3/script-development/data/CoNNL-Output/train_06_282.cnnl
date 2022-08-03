@@ -1,26 +1,26 @@
-Two	0	0	0	0	0	CD	0	
-persons	0	0	0	0	0	NNS	0	
-had	0	0	0	0	0	VBD	0	
-been	0	0	0	0	0	VBN	0	
-killed	0	0	0	0	0	VBN	0	
-and	0	0	0	0	0	CC	0	
-over	0	0	0	0	0	IN	0	
-90	0	0	0	0	0	CD	0	
-injured	khooTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-communal	0	0	0	0	0	JJ	0	
-clashes	khooTrig	0	0	0	0	NNS	0	
-that	0	0	0	0	0	WDT	0	
-began	khooTrig	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-last	0	0	0	0	0	RB	0	
-over	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-issue	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-putting	0	0	0	0	0	VBG	0	
-up	khooTrig	0	0	0	0	RP	0	
-religious	0	0	0	0	0	JJ	0	
-flags	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Two	1-nummod-0	
+persons	8-nsubjpass-1	
+had	4-aux-2	
+been	4-auxpass-3	
+killed	4	
+and	4-cc-5	
+over	7-case-6	
+90	4-advmod-7	
+injured	4-conj:and-8	
+in	11-case-9	
+communal	11-amod-10	
+clashes	8-nmod:in-11	
+that	13-nsubj-12	
+began	11-acl:relcl-13	
+on	15-case-14	
+Saturday	13-nmod:on-15	
+last	19-advmod-16	
+over	19-case-17	
+the	19-det-18	
+issue	13-nmod:over-19	
+of	21-mark-20	
+putting	19-acl-21	
+up	21-compound:prt-22	
+religious	24-amod-23	
+flags	21-dobj-24	
+.	null	

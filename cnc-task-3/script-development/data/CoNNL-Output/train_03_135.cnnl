@@ -1,15 +1,15 @@
-The	0	0	0	0	0	DT	0	
-fast	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-BJP	0	0	0	0	0	JJ	0	
-leaders	0	0	0	0	0	NNS	0	
-was	0	0	0	0	0	VBD	0	
-inaugurated	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-NSS	0	0	0	0	0	NNP	0	
-Taluk	0	0	0	0	0	NNP	0	
-Union	0	0	0	0	0	NNP	0	
-president	0	0	0	0	0	NN	0	
-Sangeeth	0	0	0	0	person	NNP	0	
-Kumar	0	0	0	0	person	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+fast	6-nsubjpass-1	
+of	4-case-2	
+BJP	4-amod-3	
+leaders	1-nmod:of-4	
+was	6-auxpass-5	
+inaugurated	6	
+by	13-case-7	
+NSS	13-compound-8	
+Taluk	13-compound-9	
+Union	13-compound-10	
+president	13-compound-11	
+Sangeeth	13-compound-12	
+Kumar	6-nmod:agent-13	
+.	null	

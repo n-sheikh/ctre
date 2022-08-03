@@ -1,53 +1,53 @@
-TAMIL	0	0	0	0	0	NNP	0	
-NADU	0	0	0	0	0	NNP	0	
-TNGEA	0	0	0	0	0	NNP	0	
-members	0	0	0	0	0	NNS	0	
-stage	khooTrig	0	0	0	0	VBP	0	
-demonstration	0	0	0	0	0	NN	0	
-April	0	0	0	0	date	NNP	0	
-29	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2010	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	NNP	0	
-IST	0	0	0	0	person	NNP	0	
-Staff	0	0	0	0	person	NNP	0	
-Reporter	0	0	0	0	0	NNP	0	
-Tirupur	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-The	0	0	0	0	0	DT	0	
-Tamil	0	0	0	0	0	NNP	0	
-Nadu	0	0	0	0	0	NNP	0	
-Government	0	0	0	0	0	NNP	0	
-Employees	0	0	0	0	0	NNPS	0	
-Association	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-TNGEA	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-members	0	0	0	0	0	NNS	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Collectorate	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-evening	0	0	0	0	0	NN	0	
-asking	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-government	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-scrap	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-contributory	0	0	0	0	0	JJ	0	
-pension	0	0	0	0	0	NN	0	
-scheme	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-among	0	0	0	0	0	IN	0	
-other	0	0	0	0	0	JJ	0	
-demands	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+TAMIL	3-compound-0	
+NADU	3-compound-1	
+TNGEA	3-compound-2	
+members	4-nsubj-3	
+stage	28-ccomp-4	
+demonstration	4-dobj-5	
+April	4-nmod:tmod-6	
+29	6-nummod-7	
+,	null	
+2010	10-nummod-9	
+00	27-compound-10	
+:	null	
+00	16-compound-12	
+IST	16-compound-13	
+Staff	16-compound-14	
+Reporter	16-compound-15	
+Tirupur	10-dep-16	
+:	null	
+The	23-det-18	
+Tamil	23-compound-19	
+Nadu	23-compound-20	
+Government	23-compound-21	
+Employees	23-compound-22	
+Association	10-dep-23	
+(	null	
+TNGEA	27-appos-25	
+)	null	
+members	28-nsubj-27	
+staged	28	
+a	30-det-29	
+demonstration	28-dobj-30	
+in	35-case-31	
+front	31-mwe-32	
+of	31-mwe-33	
+the	35-det-34	
+Collectorate	30-nmod:in_front_of-35	
+on	38-case-36	
+Tuesday	38-compound-37	
+evening	28-nmod:on-38	
+asking	28-xcomp-39	
+the	41-det-40	
+government	39-dobj-41	
+to	43-mark-42	
+scrap	39-xcomp-43	
+the	47-det-44	
+contributory	47-amod-45	
+pension	47-compound-46	
+scheme	43-dobj-47	
+,	null	
+among	51-case-49	
+other	51-amod-50	
+demands	28-nmod:among-51	
+.	null	

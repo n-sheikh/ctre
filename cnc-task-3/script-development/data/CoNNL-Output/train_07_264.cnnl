@@ -1,28 +1,28 @@
-“	0	0	0	0	0	NNP	0	
-The	0	0	0	0	0	DT	0	
-JAC	0	0	0	0	0	NNP	0	
-has	0	0	0	0	0	VBZ	0	
-decided	khooTrig	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-go	0	0	0	0	0	VB	0	
-on	0	0	0	0	0	IN	0	
-work	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-rule	0	0	0	0	0	VB	0	
-in	0	0	0	0	0	IN	0	
-any	0	0	0	0	0	DT	0	
-given	0	0	0	0	0	VBN	0	
-month	0	0	0	0	0	NN	0	
-if	0	0	0	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-salaries	0	0	in_explicit_neg_trig_domain	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-not	0	0	0	0	0	RB	explicit_negative	
-paid	0	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-on	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-first	0	0	in_explicit_neg_trig_domain	0	date	JJ	0	
-day	0	0	in_explicit_neg_trig_domain	0	date	NN	0	
-of	0	0	in_explicit_neg_trig_domain	0	date	IN	0	
-that	0	0	in_explicit_neg_trig_domain	0	date	DT	0	
-month	0	0	in_explicit_neg_trig_domain	0	date	NN	0	
-.	0	0	0	0	0	.	0	
+“	2-compound-0	
+The	2-det-1	
+JAC	4-nsubj-2	
+has	4-aux-3	
+decided	4	
+to	6-mark-5	
+go	4-xcomp-6	
+on	8-case-7	
+work	6-nmod:on-8	
+to	10-mark-9	
+rule	6-xcomp-10	
+in	14-case-11	
+any	14-det-12	
+given	14-amod-13	
+month	10-nmod:in-14	
+if	20-mark-15	
+the	17-det-16	
+salaries	20-nsubjpass-17	
+were	20-auxpass-18	
+not	20-neg-19	
+paid	10-advcl-20	
+on	23-case-21	
+first	23-amod-22	
+day	20-nmod:on-23	
+of	26-case-24	
+that	26-det-25	
+month	23-nmod:of-26	
+.	null	

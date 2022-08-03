@@ -1,70 +1,70 @@
-Truckers	0	0	0	0	0	NNS	0	
-put	0	0	0	0	0	VBD	0	
-govt	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-notice	0	0	0	0	0	NN	0	
-08th	0	0	0	0	date	NNS	0	
-January	0	0	0	0	date	NNP	0	
-2009	0	0	0	0	date	CD	0	
-03	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-57	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNP	0	
-CHENNAI	0	0	0	0	location	NNP	0	
-:	0	0	0	0	0	:	0	
-With	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-national-level	khooTrig	0	0	0	0	JJ	0	
-truckers	0	0	0	0	0	JJ	0	
-’	0	0	0	0	0	NN	0	
-strike	0	0	0	0	0	NN	0	
-called	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-All-	0	0	0	0	0	NNP	0	
-India	0	0	0	0	0	NNP	0	
-Motor	0	0	0	0	0	NNP	0	
-Transport	khooTrig	0	0	0	0	NNP	0	
-Congress	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-AIMTC	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-demanding	0	0	0	0	0	VBG	0	
-immediate	0	0	0	0	0	JJ	0	
-reduction	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-diesel	0	0	0	0	0	JJ	0	
-prices	0	0	0	0	0	NNS	0	
-entering	0	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-third	0	0	0	0	0	JJ	0	
-day	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-representatives	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-striking	0	0	0	0	0	JJ	0	
-truckers	0	0	0	0	0	NNS	0	
-have	0	0	0	0	0	VBP	0	
-issued	0	0	0	0	0	VBN	0	
-an	0	0	0	0	0	DT	0	
-ultimatum	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-government	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-act	mcmTrig	0	0	0	0	VB	0	
-before	0	0	0	0	0	IN	0	
-Thursday	0	0	0	0	date	NNP	0	
-midnight	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-resolve	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-issue	0	0	0	0	0	NN	0	
-or	0	0	0	0	0	CC	0	
-face	0	0	0	0	0	VB	0	
-severe	0	0	0	0	0	JJ	0	
-consequences	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Truckers	1-nsubj-0	
+put	1	
+govt	1-iobj-2	
+on	5-case-3	
+notice	5-compound-4	
+08th	2-nmod:on-5	
+January	5-dep-6	
+2009	6-nummod-7	
+03	1-dobj-8	
+:	null	
+57	12-nummod-10	
+AM	12-compound-11	
+CHENNAI	8-dep-12	
+:	null	
+With	31-mark-14	
+the	19-det-15	
+national-level	19-amod-16	
+truckers	19-amod-17	
+’	19-compound-18	
+strike	31-nsubj-19	
+called	19-acl-20	
+by	27-case-21	
+the	27-det-22	
+All-	27-compound-23	
+India	27-compound-24	
+Motor	27-compound-25	
+Transport	27-compound-26	
+Congress	20-nmod:by-27	
+(	null	
+AIMTC	19-appos-29	
+)	null	
+demanding	50-advcl-31	
+immediate	33-amod-32	
+reduction	31-dobj-33	
+of	36-case-34	
+diesel	36-amod-35	
+prices	33-nmod:of-36	
+entering	31-advcl-37	
+the	40-det-38	
+third	40-amod-39	
+day	37-nmod:tmod-40	
+on	42-case-41	
+Wednesday	37-nmod:on-42	
+,	null	
+representatives	50-nsubj-44	
+of	48-case-45	
+the	48-det-46	
+striking	48-amod-47	
+truckers	44-nmod:of-48	
+have	50-aux-49	
+issued	1-parataxis-50	
+an	52-det-51	
+ultimatum	50-dobj-52	
+to	55-case-53	
+the	55-det-54	
+government	50-nmod:to-55	
+to	57-mark-56	
+act	50-advcl-57	
+before	60-case-58	
+Thursday	60-compound-59	
+midnight	57-nmod:before-60	
+to	62-mark-61	
+resolve	57-xcomp-62	
+the	64-det-63	
+issue	62-dobj-64	
+or	62-cc-65	
+face	62-conj:or-66	
+severe	68-amod-67	
+consequences	66-dobj-68	
+.	null	

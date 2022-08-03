@@ -1,17 +1,17 @@
-The	0	0	0	0	0	DT	0	
-workers	0	0	0	0	0	NNS	0	
-lifted	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-road	0	0	0	0	0	NN	0	
-blockade	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-continued	0	0	0	0	0	VBN	0	
-with	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-agitation	0	0	0	0	0	NNS	0	
-near	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-factory	0	0	0	0	0	NN	0	
-premises	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+workers	8-nsubj-1	
+lifted	2	
+the	5-det-3	
+road	5-compound-4	
+blockade	2-dobj-5	
+,	null	
+but	2-cc-7	
+continued	2-conj:but-8	
+with	11-case-9	
+their	11-nmod:poss-10	
+agitation	8-nmod:with-11	
+near	15-case-12	
+the	15-det-13	
+factory	15-compound-14	
+premises	11-nmod:near-15	
+.	null	

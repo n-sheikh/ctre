@@ -1,12 +1,12 @@
-The	0	0	0	0	0	DT	0	
-threat	0	0	0	0	0	NN	0	
-came	0	0	0	0	0	VBD	0	
-just	0	0	0	0	0	RB	0	
-two	0	0	0	0	0	CD	0	
-days	0	0	0	0	0	NNS	0	
-after	0	0	0	0	0	IN	0	
-Ramajayam	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	VBZ	0	
-murder	khooTrig	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+threat	2-nsubj-1	
+came	2	
+just	4-advmod-3	
+two	5-nummod-4	
+days	10-dep-5	
+after	10-mark-6	
+Ramajayam	8-compound-7	
+’	10-nsubj-8	
+s	10-cop-9	
+murder	2-advcl-10	
+.	null	

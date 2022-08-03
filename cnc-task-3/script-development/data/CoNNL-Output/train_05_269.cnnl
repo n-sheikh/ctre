@@ -1,33 +1,33 @@
-However	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-on	0	0	0	0	0	IN	0	
-Friday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-Rajagopalan	0	0	0	0	0	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	NN	0	
-wife	0	0	0	0	0	NN	0	
-Jaya	0	0	0	0	person	NNP	0	
-,	0	0	0	0	0	,	0	
-also	0	0	0	0	0	RB	0	
-an	0	0	0	0	0	DT	0	
-AIADMK	0	0	0	0	0	NNP	0	
-functionary	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-alleged	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-except	0	0	0	0	0	IN	explicit_negative	
-one	0	0	0	0	0	CD	0	
-person	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-none	0	0	0	0	0	NN	explicit_negative	
-of	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-those	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-arrested	khooTrig	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-were	0	0	in_explicit_neg_trig_domain	0	0	VBD	0	
-actually	0	0	in_explicit_neg_trig_domain	0	0	RB	0	
-involved	mcmTrig	0	in_explicit_neg_trig_domain	0	0	VBN	0	
-in	0	0	in_explicit_neg_trig_domain	0	0	IN	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-murder	khooTrig	0	in_explicit_neg_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+However	16-advmod-0	
+,	null	
+on	3-case-2	
+Friday	16-nmod:on-3	
+,	null	
+Rajagopalan	9-compound-5	
+’	9-compound-6	
+s	9-compound-7	
+wife	9-compound-8	
+Jaya	16-nsubj-9	
+,	null	
+also	14-advmod-11	
+an	14-det-12	
+AIADMK	14-compound-13	
+functionary	9-appos-14	
+,	null	
+alleged	16	
+that	28-mark-17	
+except	20-case-18	
+one	20-nummod-19	
+person	28-nmod:except-20	
+,	null	
+none	28-nsubjpass-22	
+of	24-case-23	
+those	22-nmod:of-24	
+arrested	24-acl-25	
+were	28-auxpass-26	
+actually	28-advmod-27	
+involved	16-ccomp-28	
+in	31-case-29	
+the	31-det-30	
+murder	28-nmod:in-31	
+.	null	

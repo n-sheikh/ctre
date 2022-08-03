@@ -1,0 +1,17 @@
+Tension	1-nsubj-0	
+gripped	1	
+the	3-det-2	
+city	1-dobj-3	
+following	6-case-4	
+the	6-det-5	
+blasts	1-nmod:following-6	
+and	1-cc-7	
+a	10-det-8	
+red	10-amod-9	
+alert	12-nsubjpass-10	
+was	12-auxpass-11	
+sounded	1-conj:and-12	
+at	15-case-13	
+all	15-det-14	
+installations	12-nmod:at-15	
+.	null	

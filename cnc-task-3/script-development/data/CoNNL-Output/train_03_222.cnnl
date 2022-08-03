@@ -1,36 +1,36 @@
-The	0	0	0	0	0	DT	0	
-parades	khooTrig	0	0	0	0	NNS	0	
-come	0	0	0	0	0	VBP	0	
-after	0	0	0	0	0	IN	0	
-two	0	0	0	0	0	CD	0	
-separate	0	0	0	0	0	JJ	0	
-eruptions	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-bloodletting	0	0	0	0	0	VBG	0	
-claimed	0	0	0	0	0	VBD	0	
-more	0	0	0	0	0	JJR	0	
-than	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-dozen	0	0	0	0	0	NN	0	
-lives	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Xinjiang	0	0	0	0	location	NNP	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-sprawling	0	0	0	0	0	JJ	0	
-border	0	0	0	0	0	NN	0	
-region	0	0	0	0	0	NN	0	
-which	0	0	0	0	0	WDT	0	
-has	0	0	0	0	0	VBZ	0	
-been	0	0	0	0	0	VBN	0	
-blighted	khooTrig	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-repeated	0	0	0	0	0	VBN	0	
-outbreaks	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-ethnic	0	0	0	0	0	JJ	0	
-violence	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-terrorist	0	0	0	0	0	JJ	0	
-attacks	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+parades	2-nsubj-1	
+come	2	
+after	9-mark-3	
+two	6-nummod-4	
+separate	6-amod-5	
+eruptions	9-nsubj-6	
+of	8-case-7	
+bloodletting	6-nmod:of-8	
+claimed	2-advcl-9	
+more	13-advmod-10	
+than	10-mwe-11	
+a	13-advmod-12	
+dozen	14-nummod-13	
+lives	9-dobj-14	
+in	16-case-15	
+Xinjiang	14-nmod:in-16	
+,	null	
+a	21-det-18	
+sprawling	21-amod-19	
+border	21-compound-20	
+region	16-appos-21	
+which	25-nsubjpass-22	
+has	25-aux-23	
+been	25-auxpass-24	
+blighted	21-acl:relcl-25	
+by	28-case-26	
+repeated	28-amod-27	
+outbreaks	25-nmod:agent-28	
+of	31-case-29	
+ethnic	31-amod-30	
+violence	28-nmod:of-31	
+and	31-cc-32	
+terrorist	34-amod-33	
+attacks	31-conj:and-34	
+.	null	

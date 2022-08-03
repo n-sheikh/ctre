@@ -1,19 +1,19 @@
-The	0	0	0	0	0	DT	0	
-seven-km	0	0	0	0	0	JJ	0	
-long	0	0	0	0	0	JJ	0	
-padyatra	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Congress	0	0	0	0	0	NNP	0	
-from	0	0	0	0	0	IN	0	
-Manoharpur	0	0	0	0	0	NNP	0	
-to	0	0	0	0	0	TO	0	
-Salipur	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-attended	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-party	0	0	0	0	0	NN	0	
-supporters	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-farmers	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+The	3-det-0	
+seven-km	3-amod-1	
+long	3-amod-2	
+padyatra	12-nsubjpass-3	
+by	6-case-4	
+the	6-det-5	
+Congress	3-nmod:by-6	
+from	8-case-7	
+Manoharpur	6-nmod:from-8	
+to	10-case-9	
+Salipur	8-nmod:to-10	
+was	12-auxpass-11	
+attended	12	
+by	15-case-13	
+party	15-compound-14	
+supporters	12-nmod:agent-15	
+and	15-cc-16	
+farmers	15-conj:and-17	
+.	null	

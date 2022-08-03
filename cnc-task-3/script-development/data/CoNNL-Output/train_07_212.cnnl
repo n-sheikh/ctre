@@ -1,28 +1,28 @@
-The	0	0	0	0	0	DT	0	
-organisers	0	0	0	0	0	NNS	0	
-then	0	0	0	0	0	RB	0	
-signed	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-petition	0	0	0	0	0	NN	0	
-demanding	0	0	0	0	0	VBG	0	
-strict	0	0	0	0	0	JJ	0	
-legal	0	0	0	0	0	JJ	0	
-action	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-accused	0	0	0	0	0	NN	0	
-which	0	0	0	0	0	WDT	0	
-would	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-sent	0	1	in_modal_trig_domain	0	0	VBN	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-Delhi	0	1	in_modal_trig_domain	0	location	NNP	0	
-CM	0	1	in_modal_trig_domain	0	0	NNP	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-PM	0	1	in_modal_trig_domain	0	0	NNP	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-Home	0	1	in_modal_trig_domain	0	0	NNP	0	
-Minister	0	1	in_modal_trig_domain	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+organisers	3-nsubj-1	
+then	3-advmod-2	
+signed	3	
+a	5-det-4	
+petition	3-dobj-5	
+demanding	5-acl-6	
+strict	9-amod-7	
+legal	9-amod-8	
+action	6-dobj-9	
+against	12-case-10	
+the	12-det-11	
+accused	9-nmod:against-12	
+which	16-nsubjpass-13	
+would	16-aux-14	
+be	16-auxpass-15	
+sent	12-acl:relcl-16	
+to	20-case-17	
+the	20-det-18	
+Delhi	20-compound-19	
+CM	16-nmod:to-20	
+,	null	
+PM	20-conj:and-22	
+,	null	
+and	20-cc-24	
+Home	26-compound-25	
+Minister	20-conj:and-26	
+.	null	

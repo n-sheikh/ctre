@@ -1,0 +1,14 @@
+Terrorist	1-amod-0	
+attack	6-nsubj-1	
+on	5-case-2	
+the	5-det-3	
+Pathankot	5-compound-4	
+airbase	1-nmod:on-5	
+exposed	6	
+another	8-det-7	
+chink	6-dobj-8	
+in	12-case-9	
+our	12-nmod:poss-10	
+media	12-compound-11	
+armour	6-nmod:in-12	
+.	null	

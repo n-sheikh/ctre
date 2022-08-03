@@ -1,0 +1,17 @@
+The	1-det-0	
+incident	3-nsubj-1	
+has	3-aux-2	
+sparked	3	
+protests	3-dobj-4	
+across	7-case-5	
+New	7-compound-6	
+Delhi	4-nmod:across-7	
+over	10-case-8	
+the	10-det-9	
+security	4-nmod:over-10	
+of	12-case-11	
+students	10-nmod:of-12	
+from	15-case-13	
+the	15-det-14	
+north-east	12-nmod:from-15	
+.	null	

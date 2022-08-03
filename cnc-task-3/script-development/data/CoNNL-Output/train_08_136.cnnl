@@ -1,31 +1,31 @@
-The	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-popular	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
-social	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
-network	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
-has	0	0	in_implicit_neg_trig_domain	0	0	VBZ	0	
-been	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-blocked	mcmTrig	0	0	0	0	VBN	implicit_negative	
-since	0	0	0	0	0	IN	0	
-ethnic	0	0	0	0	0	JJ	0	
-riots	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-China	0	0	0	0	location	NNP	0	
-’	0	0	0	0	0	NNP	0	
-s	0	0	0	0	0	VBZ	0	
-far	0	0	0	0	0	RB	0	
-west	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-2009	0	0	0	0	date	CD	0	
-and	0	0	0	0	0	CC	0	
-Instagram	0	0	in_implicit_neg_trig_domain	0	0	NNP	0	
-was	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
-banned	0	0	0	0	0	VBN	implicit_negative	
-during	0	0	0	0	0	IN	0	
-pro-democracy	0	0	0	0	0	JJ	0	
-protests	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Hong	0	0	0	0	location	NNP	0	
-Kong	0	0	0	0	location	NNP	0	
-in	0	0	0	0	0	IN	0	
-2014	0	0	0	0	date	CD	0	
-.	0	0	0	0	0	.	0	
+The	3-det-0	
+popular	3-amod-1	
+social	3-amod-2	
+network	6-nsubjpass-3	
+has	6-aux-4	
+been	6-auxpass-5	
+blocked	6	
+since	9-case-7	
+ethnic	9-amod-8	
+riots	6-nmod:since-9	
+in	17-mark-10	
+China	12-compound-11	
+’	17-nsubj-12	
+s	17-cop-13	
+far	17-advmod-14	
+west	14-dep-15	
+in	17-case-16	
+2009	6-advcl:in-17	
+and	17-cc-18	
+Instagram	21-nsubjpass-19	
+was	21-auxpass-20	
+banned	17-conj:and-21	
+during	24-case-22	
+pro-democracy	24-amod-23	
+protests	21-nmod:during-24	
+in	27-case-25	
+Hong	27-compound-26	
+Kong	24-nmod:in-27	
+in	29-case-28	
+2014	21-nmod:in-29	
+.	null	

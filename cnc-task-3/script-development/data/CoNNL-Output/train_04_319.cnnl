@@ -1,41 +1,41 @@
-To	0	0	0	0	0	TO	0	
-avoid	khooTrig	0	0	0	0	VB	implicit_negative	
-trouble	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-Arunthathiyars	0	0	0	0	0	NNPS	0	
-attempted	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-conduct	0	0	0	0	0	VB	0	
-rituals	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Kalliamman	0	0	0	0	0	NNP	0	
-temple	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-street	0	0	0	0	0	NN	0	
-with	0	0	0	0	0	IN	0	
-loud	0	0	0	0	0	JJ	0	
-speakers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-Caste	0	0	0	0	0	NNP	0	
-Hindus	0	0	0	0	0	NNPS	0	
-prevented	0	0	0	0	0	VBD	implicit_negative	
-their	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
-efforts	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-on	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-Sunday	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
-in	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-which	0	0	in_implicit_neg_trig_domain	0	0	WDT	0	
-the	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-tile	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
-roof	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
-of	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-a	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-nearby	0	0	in_implicit_neg_trig_domain	0	0	JJ	0	
-shed	khooTrig	0	in_implicit_neg_trig_domain	0	0	NN	0	
-was	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
-damaged	khooTrig	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-.	0	0	0	0	0	.	0	
+To	1-mark-0	
+avoid	6-advcl-1	
+trouble	1-dobj-2	
+,	null	
+the	5-det-4	
+Arunthathiyars	6-nsubj-5	
+attempted	6	
+to	8-mark-7	
+conduct	6-xcomp-8	
+rituals	8-dobj-9	
+at	12-case-10	
+Kalliamman	12-compound-11	
+temple	8-nmod:at-12	
+on	15-case-13	
+their	15-nmod:poss-14	
+street	8-nmod:on-15	
+with	18-case-16	
+loud	18-amod-17	
+speakers	15-nmod:with-18	
+,	null	
+but	6-cc-20	
+the	23-det-21	
+Caste	23-compound-22	
+Hindus	24-nsubj-23	
+prevented	6-conj:but-24	
+their	26-nmod:poss-25	
+efforts	24-dobj-26	
+on	28-case-27	
+Sunday	24-nmod:on-28	
+in	30-case-29	
+which	39-nmod:in-30	
+the	33-det-31	
+tile	33-compound-32	
+roof	39-nsubjpass-33	
+of	37-case-34	
+a	37-det-35	
+nearby	37-amod-36	
+shed	33-nmod:of-37	
+was	39-auxpass-38	
+damaged	28-acl:relcl-39	
+.	null	

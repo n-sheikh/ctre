@@ -1,22 +1,22 @@
-He	0	0	0	0	0	PRP	0	
-also	0	0	0	0	0	RB	0	
-said	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Aam	0	0	0	0	0	NNP	0	
-Aadmi	0	0	0	0	0	NNP	0	
-Party	0	0	0	0	0	NNP	0	
-were	0	0	0	0	0	VBD	0	
-staging	khooTrig	0	0	0	0	VBG	0	
-an	0	0	0	0	0	DT	0	
-agitation	0	0	0	0	0	NNS	0	
-when	0	0	0	0	0	WRB	0	
-Louise	0	0	0	0	person	NNP	0	
-Khurshid	0	0	0	0	person	NNP	0	
-was	0	0	0	0	0	VBD	0	
-attending	0	0	0	0	0	VBG	0	
-an	0	0	0	0	0	DT	0	
-event	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+He	2-nsubj-0	
+also	2-advmod-1	
+said	2	
+that	11-mark-3	
+the	5-det-4	
+members	11-nsubj-5	
+of	9-case-6	
+Aam	9-compound-7	
+Aadmi	9-compound-8	
+Party	5-nmod:of-9	
+were	11-aux-10	
+staging	2-ccomp-11	
+an	13-det-12	
+agitation	11-dobj-13	
+when	18-advmod-14	
+Louise	16-compound-15	
+Khurshid	18-nsubj-16	
+was	18-aux-17	
+attending	13-acl:relcl-18	
+an	20-det-19	
+event	18-dobj-20	
+.	null	

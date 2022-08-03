@@ -1,32 +1,32 @@
-Meanwhile	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-a	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-about	0	0	0	0	0	RB	0	
-100	0	0	0	0	0	CD	0	
-people	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-had	0	0	0	0	0	VBD	0	
-just	0	0	0	0	0	RB	0	
-come	0	0	0	0	0	VBN	0	
-out	khooTrig	0	0	0	0	RP	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-mosque	0	0	0	0	0	NN	0	
-after	0	0	0	0	0	IN	0	
-offering	0	0	0	0	0	VBG	0	
-Id	0	0	0	0	0	NN	0	
-prayers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-also	0	0	0	0	0	RB	0	
-started	khooTrig	0	0	0	0	VBD	0	
-throwing	0	0	0	0	0	VBG	0	
-stones	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Armymen	0	0	0	0	0	NNP	0	
-from	0	0	0	0	0	IN	0	
-behind	0	0	0	0	0	RB	0	
-.	0	0	0	0	0	.	0	
+Meanwhile	23-advmod-0	
+,	null	
+a	3-det-2	
+group	23-nsubj-3	
+of	7-case-4	
+about	6-advmod-5	
+100	7-nummod-6	
+people	3-nmod:of-7	
+,	null	
+who	12-nsubj-9	
+had	12-aux-10	
+just	12-advmod-11	
+come	3-acl:relcl-12	
+out	12-compound:prt-13	
+of	16-case-14	
+a	16-det-15	
+mosque	12-nmod:of-16	
+after	18-mark-17	
+offering	12-advcl-18	
+Id	20-compound-19	
+prayers	18-dobj-20	
+,	null	
+also	23-advmod-22	
+started	23	
+throwing	23-xcomp-24	
+stones	24-dobj-25	
+at	28-case-26	
+the	28-det-27	
+Armymen	24-nmod:at-28	
+from	30-case-29	
+behind	24-advcl:from-30	
+.	null	

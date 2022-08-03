@@ -1,41 +1,41 @@
-The	0	0	0	0	0	DT	0	
-stir	0	0	0	0	0	NN	0	
-intensified	khooTrig	0	0	0	0	VBD	0	
-when	0	0	0	0	0	WRB	0	
-women	0	0	0	0	0	NNS	0	
-activists	0	0	0	0	0	NNS	0	
-on	0	0	0	0	0	IN	0	
-Tuesday	0	0	0	0	date	NNP	0	
-voiced	0	0	0	0	0	VBD	0	
-their	0	0	0	0	0	PRP$	0	
-support	mcmTrig	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-those	0	0	0	0	0	DT	0	
-women	0	0	0	0	0	NNS	0	
-set	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-march	0	0	0	0	0	VB	0	
-towards	0	0	0	0	0	IN	0	
-Shani	0	0	0	0	person	NNP	0	
-Shingnapur	0	0	0	0	person	NNP	0	
-temple	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Maharashtra	0	0	0	0	location	NNP	0	
-to	0	0	0	0	0	TO	0	
-break	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-centuries	0	0	0	0	0	JJ	0	
-old	0	0	0	0	0	JJ	0	
-tradition	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-not	0	0	0	0	0	RB	explicit_negative	
-allowing	0	0	in_explicit_neg_trig_domain	0	0	VBG	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-feminine	0	0	in_explicit_neg_trig_domain	0	0	JJ	0	
-gender	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-to	0	0	in_explicit_neg_trig_domain	0	0	TO	0	
-enter	0	0	in_explicit_neg_trig_domain	0	0	VB	0	
-the	0	0	in_explicit_neg_trig_domain	0	0	DT	0	
-sanctum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-sanctorum	0	0	in_explicit_neg_trig_domain	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+stir	2-nsubj-1	
+intensified	2	
+when	8-advmod-3	
+women	5-compound-4	
+activists	8-nsubj-5	
+on	7-case-6	
+Tuesday	5-nmod:on-7	
+voiced	2-advcl-8	
+their	10-nmod:poss-9	
+support	8-dobj-10	
+for	13-case-11	
+those	13-det-12	
+women	8-nmod:for-13	
+set	13-acl-14	
+to	16-mark-15	
+march	14-xcomp-16	
+towards	20-case-17	
+Shani	20-compound-18	
+Shingnapur	20-compound-19	
+temple	16-nmod:towards-20	
+in	22-case-21	
+Maharashtra	16-nmod:in-22	
+to	24-mark-23	
+break	16-xcomp-24	
+the	28-det-25	
+centuries	28-amod-26	
+old	28-amod-27	
+tradition	24-dobj-28	
+of	31-mark-29	
+not	31-neg-30	
+allowing	28-acl-31	
+the	34-det-32	
+feminine	34-amod-33	
+gender	31-dobj-34	
+to	36-mark-35	
+enter	34-acl-36	
+the	39-det-37	
+sanctum	39-compound-38	
+sanctorum	36-dobj-39	
+.	null	

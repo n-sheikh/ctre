@@ -1,49 +1,49 @@
-TAMIL	0	0	0	0	0	NNP	0	
-NADU	0	0	0	0	0	NNP	0	
-Strike	0	0	0	0	0	NN	0	
-hits	0	0	0	0	0	NNS	0	
-work	0	0	0	0	0	VBP	0	
-in	0	0	0	0	0	IN	0	
-many	0	0	0	0	0	JJ	0	
-offices	0	0	0	0	0	NNS	0	
-October	0	0	0	0	date	NNP	0	
-31	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2007	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	NNP	0	
-IST	0	0	0	0	person	NNP	0	
-MADURAI	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Normal	0	0	0	0	0	JJ	0	
-work	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-affected	mcmTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-many	0	0	0	0	0	JJ	0	
-Central	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-State	0	0	0	0	0	NNP	0	
-Government	0	0	0	0	0	NNP	0	
-offices	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Madurai	0	0	0	0	0	NNP	0	
-as	0	0	0	0	0	IN	0	
-employees	0	0	0	0	0	NNS	0	
-belonging	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-various	0	0	0	0	0	JJ	0	
-unions	0	0	0	0	0	NNS	0	
-struck	0	0	0	0	0	VBD	0	
-work	0	0	0	0	0	NN	0	
-as	0	0	0	0	0	IN	0	
-part	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-nationwide	0	0	0	0	0	JJ	0	
-strike	0	0	0	0	0	NN	0	
-demanding	0	0	0	0	0	VBG	0	
-interim	0	0	0	0	0	JJ	0	
-relief	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+TAMIL	3-compound-0	
+NADU	3-compound-1	
+Strike	3-compound-2	
+hits	4-nsubj-3	
+work	4	
+in	7-case-5	
+many	7-amod-6	
+offices	4-nmod:in-7	
+October	7-dep-8	
+31	8-nummod-9	
+,	null	
+2007	8-nummod-11	
+00	4-dobj-12	
+:	null	
+00	16-compound-14	
+IST	16-compound-15	
+MADURAI	12-dep-16	
+:	null	
+Normal	19-amod-18	
+work	21-nsubjpass-19	
+was	21-auxpass-20	
+affected	12-acl:relcl-21	
+in	24-case-22	
+many	24-amod-23	
+Central	21-nmod:in-24	
+and	24-cc-25	
+State	28-compound-26	
+Government	28-compound-27	
+offices	24-conj:and-28	
+in	30-case-29	
+Madurai	21-nmod:in-30	
+as	37-mark-31	
+employees	37-nsubj-32	
+belonging	32-acl-33	
+to	36-case-34	
+various	36-amod-35	
+unions	33-nmod:to-36	
+struck	21-advcl-37	
+work	37-dobj-38	
+as	40-case-39	
+part	37-nmod:as-40	
+of	44-case-41	
+the	44-det-42	
+nationwide	44-amod-43	
+strike	40-nmod:of-44	
+demanding	44-acl-45	
+interim	47-amod-46	
+relief	45-dobj-47	
+.	null	

@@ -94,3 +94,26 @@ def one_hot_embedding(kwargs):
             sample_embedding.append(token_embedding)
         embeddings.append(torch.LongTensor(sample_embedding))
     return embeddings
+
+
+def dependency_syntactic_positional_encoding(kwargs):
+    embeddings = []
+    for sample_id in kwargs["ids"]:
+        sample_embedding = [[]]
+        root_index = 0
+        column = return_col_from_connl_file(sample_id, kwargs["ft_name"], kwargs["connl_folder_path"])
+        for el in column:
+            el_list = el.split("-")
+            if len(el_list) == 1:
+                if el_list[0] == 'null':
+                    continue
+                else:
+                    root_index = int(el_list[0])
+            else:
+                el_list[0] = int(el_list[0])
+                el_list[2] = int(el_list[2])
+                sample_embedding[0].append(tuple(el_list))
+        sample_embedding.append(root_index)
+        embeddings.append(sample_embedding)
+    return embeddings
+

@@ -1,43 +1,43 @@
-“	0	0	0	0	0	RB	0	
-He	0	0	0	0	0	PRP	0	
-(	0	0	0	0	0	(	0	
-Shahzad	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-is	0	0	0	0	0	VBZ	0	
-held	0	0	0	0	0	VBN	0	
-guilty	0	0	0	0	0	JJ	0	
-of	0	0	0	0	0	IN	0	
-attempting	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-cause	mcmTrig	0	0	0	0	VB	0	
-death	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Head	0	0	0	0	0	NNP	0	
-Constables	0	0	0	0	0	NNP	0	
-Balwant	0	0	0	0	person	NNP	0	
-Singh	0	0	0	0	person	NNP	0	
-and	0	0	0	0	0	CC	0	
-Rajbir	0	0	0	0	person	NNP	0	
-Singh	0	0	0	0	person	NNP	0	
-and	0	0	0	0	0	CC	0	
-causing	mcmTrig	0	0	0	0	VBG	0	
-death	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Inspector	0	0	0	0	person	NNP	0	
-M	0	0	0	0	person	NNP	0	
-C	0	0	0	0	0	NNP	0	
-Sharma	0	0	0	0	0	NNP	0	
-by	0	0	0	0	0	IN	0	
-firing	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-them	0	0	0	0	0	PRP	0	
-,	0	0	0	0	0	,	0	
-”	0	0	0	0	0	NNP	0	
-Additional	0	0	0	0	0	JJ	0	
-Sessions	0	0	0	0	0	NNP	0	
-Judge	0	0	0	0	person	NNP	0	
-Rajender	0	0	0	0	person	NNP	0	
-Kumar	0	0	0	0	person	NNP	0	
-Shastri	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+“	6-advmod-0	
+He	6-nsubjpass-1	
+(	null	
+Shahzad	1-appos-3	
+)	null	
+is	6-auxpass-5	
+held	41-ccomp-6	
+guilty	6-xcomp-7	
+of	9-mark-8	
+attempting	7-advcl-9	
+to	11-mark-10	
+cause	9-xcomp-11	
+death	11-dobj-12	
+of	17-case-13	
+Head	17-compound-14	
+Constables	17-compound-15	
+Balwant	17-compound-16	
+Singh	12-nmod:of-17	
+and	17-cc-18	
+Rajbir	20-compound-19	
+Singh	17-conj:and-20	
+and	9-cc-21	
+causing	9-conj:and-22	
+death	22-dobj-23	
+of	28-case-24	
+Inspector	28-compound-25	
+M	28-compound-26	
+C	28-compound-27	
+Sharma	23-nmod:of-28	
+by	30-case-29	
+firing	22-nmod:by-30	
+on	32-case-31	
+them	30-nmod:on-32	
+,	null	
+”	40-compound-34	
+Additional	40-amod-35	
+Sessions	40-compound-36	
+Judge	40-compound-37	
+Rajender	40-compound-38	
+Kumar	40-compound-39	
+Shastri	41-nsubj-40	
+said	41	
+.	null	

@@ -1,21 +1,21 @@
-The	0	0	0	0	0	DT	0	
-hike	khooTrig	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-withdrawn	khooTrig	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-following	0	0	0	0	0	VBG	0	
-protests	0	0	0	0	0	NNS	0	
-by	0	0	0	0	0	IN	0	
-activists	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Youth	0	0	0	0	0	NNP	0	
-Congress	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-BJP	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-DYFI	0	0	0	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+hike	3-nsubjpass-1	
+was	3-auxpass-2	
+withdrawn	3	
+on	5-case-4	
+Wednesday	3-nmod:on-5	
+following	7-case-6	
+protests	3-nmod:following-7	
+by	9-case-8	
+activists	7-nmod:by-9	
+of	13-case-10	
+the	13-det-11	
+Youth	13-compound-12	
+Congress	9-nmod:of-13	
+,	null	
+the	16-det-15	
+BJP	13-conj:and-16	
+and	13-cc-17	
+the	19-det-18	
+DYFI	13-conj:and-19	
+.	null	

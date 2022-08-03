@@ -1,43 +1,43 @@
-|	0	0	0	0	0	NNP	0	
-PTI	0	0	0	0	0	NNP	0	
-GAYA	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-A	0	0	0	0	0	DT	0	
-20	0	0	0	0	0	CD	0	
--	0	0	0	0	0	:	0	
-year-old	0	0	0	0	0	JJ	0	
-youth	0	0	0	0	0	NN	0	
-was	0	0	0	0	0	VBD	0	
-shot	0	0	0	0	0	VBN	0	
-dead	0	0	0	0	0	RP	0	
-allegedly	0	0	0	0	0	RB	0	
-by	0	0	0	0	0	IN	0	
-JD	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-U	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-MLC	0	0	0	0	person	NNP	0	
-Manorama	0	0	0	0	person	NNP	0	
-Devi	0	0	0	0	person	NNP	0	
-'s	0	0	0	0	0	POS	0	
-son	0	0	0	0	0	NN	0	
-Rocky	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-overtaking	0	0	0	0	0	VBG	0	
-his	0	0	0	0	0	PRP$	0	
-vehicle	0	0	0	0	0	NN	0	
-near	0	0	0	0	0	IN	0	
-police	0	0	0	0	0	NN	0	
-line	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Bihar	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-Gaya	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-triggering	mcmTrig	0	0	0	0	VBG	0	
-protests	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-area	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+|	2-compound-0	
+PTI	2-compound-1	
+GAYA	2	
+:	null	
+A	5-det-4	
+20	2-dep-5	
+-	null	
+year-old	8-amod-7	
+youth	10-nsubjpass-8	
+was	10-auxpass-9	
+shot	2-parataxis-10	
+dead	10-compound:prt-11	
+allegedly	10-advmod-12	
+by	14-case-13	
+JD	10-nmod:agent-14	
+(	null	
+U	14-appos-16	
+)	null	
+MLC	20-compound-18	
+Manorama	20-compound-19	
+Devi	23-nmod:poss-20	
+'s	20-case-21	
+son	23-compound-22	
+Rocky	14-dep-23	
+for	25-mark-24	
+overtaking	10-advcl-25	
+his	27-nmod:poss-26	
+vehicle	25-dobj-27	
+near	30-case-28	
+police	30-compound-29	
+line	25-nmod:near-30	
+in	35-case-31	
+Bihar	35-nmod:poss-32	
+'s	32-case-33	
+Gaya	35-compound-34	
+district	30-nmod:in-35	
+,	null	
+triggering	10-xcomp-37	
+protests	37-dobj-38	
+in	41-case-39	
+the	41-det-40	
+area	38-nmod:in-41	
+.	null	

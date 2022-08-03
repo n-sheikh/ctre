@@ -1,0 +1,16 @@
+Implats	1-nsubj-0	
+fired	1	
+17	5-nummod-2	
+,	null	
+200	5-nummod-4	
+workers	1-dobj-5	
+after	8-mark-6	
+they	8-nsubj-7	
+refused	5-acl-8	
+to	10-mark-9	
+go	8-xcomp-10	
+back	10-advmod-11	
+to	14-case-12	
+their	14-nmod:poss-13	
+jobs	10-nmod:to-14	
+.	null	

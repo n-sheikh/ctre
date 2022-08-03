@@ -1,33 +1,33 @@
-Hong	0	0	0	0	location	NNP	0	
-Kong	0	0	0	0	location	NNP	0	
-is	0	0	0	0	0	VBZ	0	
-not	0	0	0	0	0	RB	explicit_negative	
-China	0	0	in_explicit_neg_trig_domain	0	0	NNP	0	
-.	0	0	0	0	0	.	0	
-”	0	0	0	0	0	NNP	0	
-Xi	0	0	0	0	0	NNP	0	
-Jinping	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-hundreds	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-kilometres	0	0	0	0	0	NNS	0	
-away	0	0	0	0	0	RB	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-time	0	0	0	0	0	NN	0	
-Saturday	0	0	0	0	date	NNP	0	
-’	0	0	0	0	0	CD	0	
-s	0	0	0	0	0	JJ	0	
-protest	0	0	0	0	0	NN	0	
-began	khooTrig	0	0	0	0	VBD	0	
-but	0	0	0	0	0	CC	0	
-he	0	0	0	0	0	PRP	0	
-left	0	0	0	0	0	VBD	0	
-demonstrators	0	0	0	0	0	NNS	0	
-a	0	0	0	0	0	DT	0	
-clear	khooTrig	0	0	0	0	JJ	0	
-message	0	0	0	0	0	NN	0	
-before	0	0	0	0	0	IN	0	
-his	0	0	0	0	0	PRP$	0	
-departure	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Hong	1-compound-0	
+Kong	4-nsubj-1	
+is	4-cop-2	
+not	4-neg-3	
+China	4	
+.	null	
+”	2-compound-0	
+Xi	2-compound-1	
+Jinping	4-nsubj-2	
+was	4-cop-3	
+hundreds	4	
+of	6-case-5	
+kilometres	4-nmod:of-6	
+away	4-advmod-7	
+by	10-case-8	
+the	10-det-9	
+time	7-nmod:by-10	
+Saturday	10-nmod:tmod-11	
+’	11-nummod-12	
+s	14-amod-13	
+protest	15-nsubj-14	
+began	4-dep-15	
+but	4-cc-16	
+he	18-nsubj-17	
+left	4-conj:but-18	
+demonstrators	18-dobj-19	
+a	22-det-20	
+clear	22-amod-21	
+message	19-dep-22	
+before	25-case-23	
+his	25-nmod:poss-24	
+departure	18-nmod:before-25	
+.	null	

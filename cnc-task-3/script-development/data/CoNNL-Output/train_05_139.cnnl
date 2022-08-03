@@ -1,20 +1,20 @@
-The	0	0	0	0	0	DT	0	
-trade	0	0	0	0	0	NN	0	
-unions	0	0	0	0	0	NNS	0	
-requested	0	0	0	0	0	VBD	0	
-Karunanidhi	0	0	0	0	person	NNP	0	
-to	0	0	0	0	0	TO	0	
-urge	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-central	0	0	0	0	0	JJ	0	
-government	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-take	0	0	0	0	0	VB	0	
-necessary	0	0	0	0	0	JJ	0	
-action	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-help	0	0	0	0	0	VB	0	
-end	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-strike	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	2-det-0	
+trade	2-compound-1	
+unions	3-nsubj-2	
+requested	3	
+Karunanidhi	3-dobj-4	
+to	6-mark-5	
+urge	3-advcl-6	
+the	9-det-7	
+central	9-amod-8	
+government	6-dobj-9	
+to	11-mark-10	
+take	6-xcomp-11	
+necessary	13-amod-12	
+action	11-dobj-13	
+to	15-mark-14	
+help	11-advcl-15	
+end	15-xcomp-16	
+the	18-det-17	
+strike	16-dobj-18	
+.	null	

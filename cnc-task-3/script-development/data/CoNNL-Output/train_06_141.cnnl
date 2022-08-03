@@ -1,36 +1,36 @@
-Meanwhile	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-political	0	0	0	0	0	JJ	0	
-activists	0	0	0	0	0	NNS	0	
-continued	0	0	0	0	0	VBD	0	
-their	0	0	0	0	0	PRP$	0	
-protest	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-several	0	0	0	0	0	JJ	0	
-places	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-Tamil	0	0	0	0	0	NNP	0	
-Nadu	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-particularly	0	0	0	0	0	RB	0	
-districts	0	0	0	0	0	NNS	0	
-fed	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Mullaperiyar	0	0	0	0	0	NNP	0	
-waters	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-to	0	0	0	0	0	TO	0	
-protest	0	0	0	0	0	VB	0	
-Kerala	0	0	0	0	location	NNP	0	
-'s	0	0	0	0	0	POS	0	
-refusal	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-raise	khooTrig	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-storage	0	0	0	0	0	NN	0	
-level	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-dam	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Meanwhile	4-advmod-0	
+,	null	
+political	3-amod-2	
+activists	4-nsubj-3	
+continued	4	
+their	6-nmod:poss-5	
+protest	4-dobj-6	
+in	9-case-7	
+several	9-amod-8	
+places	4-nmod:in-9	
+in	12-case-10	
+Tamil	12-compound-11	
+Nadu	9-nmod:in-12	
+,	null	
+particularly	15-advmod-14	
+districts	12-appos-15	
+fed	15-acl-16	
+by	20-case-17	
+the	20-det-18	
+Mullaperiyar	20-compound-19	
+waters	16-nmod:by-20	
+,	null	
+to	23-mark-22	
+protest	4-advcl-23	
+Kerala	26-nmod:poss-24	
+'s	24-case-25	
+refusal	23-dobj-26	
+to	28-mark-27	
+raise	26-acl-28	
+the	31-det-29	
+storage	31-compound-30	
+level	28-dobj-31	
+in	34-case-32	
+the	34-det-33	
+dam	31-nmod:in-34	
+.	null	

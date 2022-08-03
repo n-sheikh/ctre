@@ -1,42 +1,42 @@
-(	0	0	0	0	0	(	0	
-Photo	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Reuters	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-MUMBAI	0	0	0	0	location	NNP	0	
-(	0	0	0	0	0	(	0	
-Reuters	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-:	0	0	0	0	0	:	0	
-State-run	khooTrig	0	0	0	0	JJ	0	
-banks	khooTrig	0	0	0	0	NNS	0	
-remained	0	0	0	0	0	VBD	0	
-shut	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-Friday	0	0	0	0	date	NNP	0	
-as	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-nationwide	0	0	0	0	0	JJ	0	
-strike	0	0	0	0	0	NN	0	
-by	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-employees	0	0	0	0	0	NNS	0	
-demanding	0	0	0	0	0	VBG	0	
-higher	0	0	0	0	0	JJR	0	
-wages	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-pensions	0	0	0	0	0	NNS	0	
-entered	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-second	0	0	0	0	0	JJ	0	
-day	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-hurting	khooTrig	0	0	0	0	VBG	0	
-volumes	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-currency	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-bond	khooTrig	0	0	0	0	NN	0	
-markets	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+(	null	
+Photo	12-dep-1	
+:	null	
+Reuters	1-dep-3	
+)	null	
+MUMBAI	12-nsubj-5	
+(	null	
+Reuters	5-appos-7	
+)	null	
+:	null	
+State-run	11-amod-10	
+banks	5-dep-11	
+remained	12	
+shut	12-xcomp-13	
+on	15-case-14	
+Friday	13-nmod:on-15	
+as	19-case-16	
+a	19-det-17	
+nationwide	19-amod-18	
+strike	13-nmod:as-19	
+by	22-case-20	
+their	22-nmod:poss-21	
+employees	19-nmod:by-22	
+demanding	19-acl-23	
+higher	25-amod-24	
+wages	23-dobj-25	
+and	12-cc-26	
+pensions	28-nsubj-27	
+entered	12-conj:and-28	
+the	31-det-29	
+second	31-amod-30	
+day	28-nmod:tmod-31	
+,	null	
+hurting	28-advcl-33	
+volumes	33-dobj-34	
+in	40-case-35	
+the	40-det-36	
+currency	40-compound-37	
+and	37-cc-38	
+bond	40-compound-39	
+markets	34-nmod:in-40	
+.	null	

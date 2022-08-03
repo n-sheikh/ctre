@@ -1,21 +1,21 @@
-Later	0	0	0	0	0	RB	0	
-he	0	0	0	0	0	PRP	0	
-left	0	0	0	0	0	VBD	0	
-for	0	0	0	0	0	IN	0	
-Bhatli	0	0	0	0	0	NNP	0	
-assembly	0	0	0	0	0	NN	0	
-segment	khooTrig	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Bargarh	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-where	0	0	0	0	0	WRB	0	
-he	0	0	0	0	0	PRP	0	
-addressed	mcmTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-gathering	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Bargarh	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Attabira	0	0	0	0	0	NNP	0	
-constituencies	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Later	2-advmod-0	
+he	2-nsubj-1	
+left	2	
+for	6-case-3	
+Bhatli	6-compound-4	
+assembly	6-compound-5	
+segment	2-nmod:for-6	
+in	9-case-7	
+Bargarh	9-compound-8	
+district	6-nmod:in-9	
+where	12-advmod-10	
+he	12-nsubj-11	
+addressed	6-acl:relcl-12	
+a	14-det-13	
+gathering	12-dobj-14	
+at	19-case-15	
+Bargarh	19-compound-16	
+and	16-cc-17	
+Attabira	19-compound-18	
+constituencies	14-nmod:at-19	
+.	null	

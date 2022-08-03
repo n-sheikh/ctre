@@ -1,55 +1,55 @@
-Shops	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-business	0	0	0	0	0	NN	0	
-establishments	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-educational	0	0	0	0	0	JJ	0	
-institutions	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-banks	khooTrig	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-private	0	0	0	0	0	JJ	0	
-offices	0	0	0	0	0	NNS	0	
-remained	0	0	0	0	0	VBD	0	
-closed	0	0	0	0	0	JJ	0	
-in	0	0	0	0	0	IN	0	
-Morigaon	0	0	0	0	0	NNP	0	
-district	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-parts	khooTrig	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Nagaon	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-Kamrup	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-East	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-districts	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-response	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-the	0	0	0	0	0	DT	0	
-bandh	0	0	0	0	0	NN	0	
-from	0	0	0	0	0	IN	0	
-5	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	NNS	0	
-called	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-All	0	0	0	0	0	DT	0	
-Tiwa	0	0	0	0	0	NNP	0	
-Students	0	0	0	0	0	NNP	0	
-Union	0	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-ATSU	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-and	0	0	0	0	0	CC	0	
-three	0	0	0	0	0	CD	0	
-other	0	0	0	0	0	JJ	0	
-organisations	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-support	mcmTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-their	0	0	0	0	0	PRP$	0	
-demands	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Shops	12-nsubj-0	
+and	0-cc-1	
+business	3-compound-2	
+establishments	12-nsubj-3	
+,	null	
+educational	6-amod-5	
+institutions	12-nsubj-6	
+,	null	
+banks	12-nsubj-8	
+and	0-cc-9	
+private	11-amod-10	
+offices	12-nsubj-11	
+remained	12	
+closed	26-amod-13	
+in	16-case-14	
+Morigaon	16-compound-15	
+district	13-nmod:in-16	
+and	16-cc-17	
+parts	16-conj:and-18	
+of	20-case-19	
+Nagaon	16-nmod:of-20	
+and	20-cc-21	
+Kamrup	20-conj:and-22	
+(	null	
+East	16-dep-24	
+)	null	
+districts	12-xcomp-26	
+in	28-case-27	
+response	12-nmod:in-28	
+to	31-case-29	
+the	31-det-30	
+bandh	12-nmod:to-31	
+from	34-case-32	
+5	34-nummod-33	
+AM	12-nmod:from-34	
+called	34-acl-35	
+by	41-case-36	
+the	41-dep-37	
+All	41-det-38	
+Tiwa	41-compound-39	
+Students	41-compound-40	
+Union	35-nmod:by-41	
+(	null	
+ATSU	41-appos-43	
+)	null	
+and	41-cc-45	
+three	48-nummod-46	
+other	48-amod-47	
+organisations	41-conj:and-48	
+in	50-case-49	
+support	35-nmod:in-50	
+of	53-case-51	
+their	53-nmod:poss-52	
+demands	50-nmod:of-53	
+.	null	

@@ -1,0 +1,16 @@
+The	1-det-0	
+protestors	2-nsubj-1	
+came	2	
+out	2-advmod-3	
+on	6-case-4	
+the	6-det-5	
+highway	3-nmod:on-6	
+with	9-case-7	
+bullock	9-amod-8	
+carts	2-nmod:with-9	
+to	11-mark-10	
+stop	2-xcomp-11	
+the	14-det-12	
+vehicular	14-compound-13	
+traffic	11-dobj-14	
+.	null	

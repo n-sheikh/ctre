@@ -1,0 +1,17 @@
+The	2-det-0	
+Palode	2-compound-1	
+police	4-nsubj-2	
+have	4-aux-3	
+registered	4	
+a	6-det-5	
+case	4-dobj-6	
+against	10-case-7	
+about	9-advmod-8	
+300	10-nummod-9	
+persons	4-nmod:against-10	
+in	12-case-11	
+connection	4-nmod:in-12	
+with	15-case-13	
+the	15-det-14	
+incident	12-nmod:with-15	
+.	null	

@@ -1,0 +1,12 @@
+They	1-nsubj-0	
+beat	1	
+up	1-compound:prt-2	
+passersby	1-dobj-3	
+and	3-cc-4	
+damaged	10-amod-5	
+state	10-compound-6	
+Road	10-compound-7	
+Transport	10-compound-8	
+Corporation	10-compound-9	
+buses	3-conj:and-10	
+.	null	

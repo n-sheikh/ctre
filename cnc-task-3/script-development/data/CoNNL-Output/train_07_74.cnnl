@@ -1,0 +1,17 @@
+A	2-det-0	
+judicial	2-amod-1	
+probe	4-nsubjpass-2	
+was	4-auxpass-3	
+ordered	4	
+by	8-case-5	
+the	8-det-6	
+state	8-compound-7	
+government	4-nmod:agent-8	
+after	12-case-9	
+vehement	12-amod-10	
+media	12-compound-11	
+protests	4-nmod:after-12	
+over	15-case-13	
+the	15-det-14	
+incident	12-nmod:over-15	
+.	null	

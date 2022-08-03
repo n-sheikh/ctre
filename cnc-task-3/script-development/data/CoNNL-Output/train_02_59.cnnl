@@ -1,0 +1,15 @@
+Thackeray	1-nsubj-0	
+led	1	
+a	3-det-2	
+morcha	1-dobj-3	
+of	6-case-4	
+the	6-det-5	
+unions	3-nmod:of-6	
+from	10-case-7	
+Veer	10-compound-8	
+Jijamata	10-compound-9	
+Udyan	1-nmod:from-10	
+to	13-case-11	
+Azad	13-compound-12	
+Maidan	10-nmod:to-13	
+.	null	

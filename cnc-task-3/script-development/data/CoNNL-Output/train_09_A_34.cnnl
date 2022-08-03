@@ -1,0 +1,14 @@
+We	1-nsubj-0	
+learned	1	
+that	5-mark-2	
+the	4-det-3	
+miscreants	5-nsubj-4	
+vandalized	1-ccomp-5	
+the	8-det-6	
+ticket	8-compound-7	
+windows	5-dobj-8	
+of	12-case-9	
+both	12-det:predet-10	
+these	12-det-11	
+theatres	8-nmod:of-12	
+.	null	

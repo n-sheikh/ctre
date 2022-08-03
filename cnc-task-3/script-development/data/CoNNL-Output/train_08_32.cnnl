@@ -1,32 +1,32 @@
-ANDHRA	0	0	0	0	0	NNP	0	
-PRADESH	0	0	0	0	0	NNP	0	
-Nannapaneni	0	0	0	0	0	NNP	0	
-injured	khooTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-‘	0	0	0	0	0	JJ	0	
-attack	0	0	0	0	0	NN	0	
-’	0	0	0	0	0	NNP	0	
-Mobbed	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-District	0	0	0	0	0	NNP	0	
-TDP	0	0	0	0	0	NNP	0	
-president	0	0	0	0	0	NN	0	
-Karanam	0	0	0	0	0	NNP	0	
-Balaramakrishna	0	0	0	0	0	NNP	0	
-Murthi	0	0	0	0	0	NNP	0	
-trying	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-shield	0	0	0	0	0	VB	0	
-Nannapaneni	0	0	0	0	0	NNP	0	
-Rajakumari	0	0	0	0	null	NNP	0	
-from	0	0	0	0	0	IN	0	
-Congress	0	0	0	0	0	NNP	0	
-workers	0	0	0	0	0	NNS	0	
-at	0	0	0	0	0	IN	0	
-Karamchedu	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Ongole	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+ANDHRA	2-compound-0	
+PRADESH	2-compound-1	
+Nannapaneni	2	
+injured	2-acl-3	
+in	8-case-4	
+‘	8-amod-5	
+attack	8-compound-6	
+’	8-compound-7	
+Mobbed	3-nmod:in-8	
+:	null	
+District	15-compound-10	
+TDP	15-compound-11	
+president	15-compound-12	
+Karanam	15-compound-13	
+Balaramakrishna	15-compound-14	
+Murthi	2-dep-15	
+trying	15-acl-16	
+to	18-mark-17	
+shield	16-xcomp-18	
+Nannapaneni	20-compound-19	
+Rajakumari	18-dobj-20	
+from	23-case-21	
+Congress	23-compound-22	
+workers	18-nmod:from-23	
+at	25-case-24	
+Karamchedu	18-nmod:at-25	
+,	null	
+Ongole	2-appos-27	
+,	null	
+on	30-case-29	
+Monday	2-nmod:on-30	
+.	null	

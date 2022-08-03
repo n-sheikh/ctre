@@ -1,0 +1,13 @@
+TDP	1-amod-0	
+leaders	2-nsubj-1	
+blocked	2	
+the	4-det-3	
+roads	2-dobj-4	
+at	7-case-5	
+various	7-amod-6	
+places	2-nmod:at-7	
+in	11-case-8	
+the	11-det-9	
+Krishna	11-compound-10	
+district	7-nmod:in-11	
+.	null	

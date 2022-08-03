@@ -1,0 +1,17 @@
+City	1-compound-0	
+police	4-nsubj-1	
+have	4-aux-2	
+now	4-advmod-3	
+constituted	4	
+teams	4-dobj-5	
+to	7-mark-6	
+carry	4-xcomp-7	
+out	7-compound:prt-8	
+regular	10-amod-9	
+inspection	7-dobj-10	
+at	12-case-11	
+malls	7-nmod:at-12	
+following	15-case-13	
+the	15-det-14	
+blasts	7-nmod:following-15	
+.	null	

@@ -1,26 +1,26 @@
-Hundreds	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Economic	0	0	0	0	0	JJ	0	
-Freedom	0	0	0	0	0	NNP	0	
-Fighters	0	0	0	0	0	NNP	0	
-supporters	0	0	0	0	0	NNS	0	
-sang	0	0	0	0	0	VBD	0	
-and	0	0	0	0	0	CC	0	
-danced	0	0	0	0	0	VBN	0	
-ahead	0	0	0	0	0	RB	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-party	0	0	0	0	0	NN	0	
-'s	0	0	0	0	0	POS	0	
-election	0	0	0	0	0	NN	0	
-campaign	0	0	0	0	0	NN	0	
-event	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Sinaba	0	0	0	0	0	NNP	0	
-stadium	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Daveyton	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Sunday	0	0	0	0	date	NNP	0	
-.	0	0	0	0	0	.	0	
+Hundreds	8-nsubj-0	
+of	5-case-1	
+Economic	5-amod-2	
+Freedom	5-compound-3	
+Fighters	5-compound-4	
+supporters	0-nmod:of-5	
+sang	6	
+and	6-cc-7	
+danced	6-conj:and-8	
+ahead	8-advmod-9	
+of	16-case-10	
+the	12-det-11	
+party	16-nmod:poss-12	
+'s	12-case-13	
+election	16-compound-14	
+campaign	16-compound-15	
+event	9-nmod:of-16	
+at	20-case-17	
+the	20-det-18	
+Sinaba	20-compound-19	
+stadium	8-nmod:at-20	
+in	22-case-21	
+Daveyton	8-nmod:in-22	
+on	24-case-23	
+Sunday	8-nmod:on-24	
+.	null	

@@ -1,13 +1,13 @@
-The	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-over	0	0	0	0	0	IN	0	
-housing	0	0	0	0	0	NN	0	
-started	khooTrig	0	0	0	0	VBD	0	
-around	0	0	0	0	0	IN	0	
-6	0	0	0	0	0	CD	0	
-am	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Main	0	0	0	0	0	NNP	0	
-Reef	0	0	0	0	0	NNP	0	
-road	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+The	1-det-0	
+protest	4-nsubj-1	
+over	3-case-2	
+housing	1-nmod:over-3	
+started	4	
+around	6-advmod-5	
+6	4-dobj-6	
+am	6-advmod-7	
+on	11-case-8	
+Main	11-compound-9	
+Reef	11-compound-10	
+road	4-nmod:on-11	
+.	null	

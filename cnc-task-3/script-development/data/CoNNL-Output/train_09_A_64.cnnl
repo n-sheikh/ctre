@@ -1,0 +1,12 @@
+Shankar	1-nsubj-0	
+died	1	
+in	4-case-2	
+the	4-det-3	
+attack	1-nmod:in-4	
+while	7-mark-5	
+Kausalya	7-nsubj-6	
+escaped	1-advcl-7	
+with	10-case-8	
+severe	10-amod-9	
+injuries	7-nmod:with-10	
+.	null	

@@ -1,95 +1,95 @@
-Tension	0	0	0	0	0	VBN	0	
-on	0	0	0	0	0	IN	0	
-;	0	0	0	0	0	:	0	
-Outstation	0	0	0	0	0	NNP	0	
-Students	0	0	0	0	0	NNS	0	
-Seek	0	0	0	0	0	VBP	0	
-Shifting	khooTrig	0	0	0	0	VBG	0	
-Out	khooTrig	0	0	0	0	RB	0	
-of	0	0	0	0	0	IN	0	
-NIT	0	0	0	0	person	NNP	0	
-07th	0	0	0	0	date	JJ	0	
-April	0	0	0	0	date	NNP	0	
-2016	0	0	0	0	date	CD	0	
-12	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-37	0	0	0	0	date	CD	0	
-AM	0	0	0	0	date	JJ	0	
-Students	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Jammu	0	0	0	0	0	NNP	0	
-University	0	0	0	0	0	NNP	0	
-shout	0	0	0	0	0	VBP	0	
-slogans	0	0	0	0	0	NNS	0	
-during	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-protest	0	0	0	0	0	NN	0	
-rally	khooTrig	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-action	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-non-	0	0	0	0	0	NNP	explicit_negative	
-Kashmiri	0	0	0	0	0	NNP	0	
-students	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-NIT	0	0	0	0	person	NNP	0	
-Srinagar	0	0	0	0	person	NNP	0	
-in	0	0	0	0	0	IN	0	
-Jammu	0	0	0	0	0	NNP	0	
-|	0	0	0	0	0	NNP	0	
-PTI	0	0	0	0	0	NNP	0	
-SRINAGAR	0	0	0	0	person	NNP	0	
-:	0	0	0	0	0	:	0	
-Tension	0	0	0	0	0	NNP	0	
-prevailed	0	0	0	0	0	VBD	0	
-at	0	0	0	0	0	IN	0	
-NIT	0	0	0	0	person	NNP	0	
-here	0	0	0	0	0	RB	0	
-with	0	0	0	0	0	IN	0	
-outstation	0	0	0	0	0	NN	0	
-students	0	0	0	0	0	NNS	0	
-today	0	0	0	0	date	NN	0	
-making	khooTrig	0	0	0	0	VBG	0	
-a	0	0	0	0	0	DT	0	
-slew	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-demands	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-including	0	0	0	0	0	VBG	0	
-shifting	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-institute	khooTrig	0	0	0	0	NN	0	
-out	khooTrig	0	0	0	0	RP	0	
-of	0	0	0	0	0	IN	0	
-Kashmir	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-action	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-the	0	0	0	0	0	DT	0	
-policemen	0	0	0	0	0	NN	0	
-involved	mcmTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-lathicharge	0	0	0	0	0	NN	0	
-yesterday	0	0	0	0	date	NN	0	
-,	0	0	0	0	0	,	0	
-as	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-HRD	0	0	0	0	0	NNP	0	
-team	0	0	0	0	0	NN	0	
-rushed	0	0	0	0	0	VBD	0	
-here	0	0	0	0	0	RB	0	
-from	0	0	0	0	0	IN	0	
-Delhi	0	0	0	0	location	NNP	0	
-to	0	0	0	0	0	TO	0	
-resolve	0	0	0	0	0	VB	0	
-the	0	0	0	0	0	DT	0	
-crisis	0	0	0	0	0	NN	0	
-being	0	0	0	0	0	VBG	0	
-witnessed	0	0	0	0	0	VBN	0	
-since	0	0	0	0	0	IN	0	
-last	0	0	0	0	date	JJ	0	
-six	0	0	0	0	date	CD	0	
-days	0	0	0	0	date	NNS	0	
-.	0	0	0	0	0	.	0	
+Tension	0	
+on	0-nmod-1	
+;	null	
+Outstation	4-compound-3	
+Students	5-nsubj-4	
+Seek	0-parataxis-5	
+Shifting	5-xcomp-6	
+Out	9-case-7	
+of	7-mwe-8	
+NIT	6-nmod:out_of-9	
+07th	11-amod-10	
+April	9-nmod:tmod-11	
+2016	13-nummod-12	
+12	6-dobj-13	
+:	null	
+37	17-nummod-15	
+AM	17-amod-16	
+Students	21-nsubj-17	
+of	20-case-18	
+Jammu	20-compound-19	
+University	17-nmod:of-20	
+shout	0-parataxis-21	
+slogans	21-dobj-22	
+during	26-case-23	
+a	26-det-24	
+protest	26-compound-25	
+rally	21-nmod:during-26	
+against	30-case-27	
+the	30-det-28	
+police	30-compound-29	
+action	26-nmod:against-30	
+on	34-case-31	
+non-	34-compound-32	
+Kashmiri	34-compound-33	
+students	30-nmod:on-34	
+in	37-case-35	
+NIT	37-compound-36	
+Srinagar	34-nmod:in-37	
+in	42-case-38	
+Jammu	42-compound-39	
+|	42-compound-40	
+PTI	42-compound-41	
+SRINAGAR	37-nmod:in-42	
+:	null	
+Tension	45-nsubj-44	
+prevailed	0-parataxis-45	
+at	47-case-46	
+NIT	45-nmod:at-47	
+here	51-advmod-48	
+with	51-case-49	
+outstation	51-compound-50	
+students	45-nmod:with-51	
+today	45-nmod:tmod-52	
+making	45-xcomp-53	
+a	55-det-54	
+slew	53-dobj-55	
+of	57-case-56	
+demands	55-nmod:of-57	
+,	null	
+including	60-case-59	
+shifting	55-acl:including-60	
+the	62-det-61	
+institute	60-dobj-62	
+out	60-compound:prt-63	
+of	65-case-64	
+Kashmir	60-nmod:of-65	
+and	65-cc-66	
+action	65-conj:and-67	
+against	70-case-68	
+the	70-det-69	
+policemen	53-nmod:against-70	
+involved	70-acl-71	
+in	73-case-72	
+lathicharge	71-nmod:in-73	
+yesterday	53-nmod:tmod-74	
+,	null	
+as	80-mark-76	
+an	79-det-77	
+HRD	79-compound-78	
+team	80-nsubj-79	
+rushed	53-advcl-80	
+here	80-advmod-81	
+from	83-case-82	
+Delhi	80-nmod:from-83	
+to	85-mark-84	
+resolve	80-xcomp-85	
+the	87-det-86	
+crisis	85-dobj-87	
+being	89-auxpass-88	
+witnessed	87-acl-89	
+since	93-case-90	
+last	93-amod-91	
+six	93-nummod-92	
+days	89-nmod:since-93	
+.	null	

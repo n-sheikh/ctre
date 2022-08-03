@@ -1,14 +1,14 @@
-Similar	0	0	0	0	0	JJ	0	
-protests	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-held	0	0	0	0	0	VBN	0	
-at	0	0	0	0	0	IN	0	
-Narsapur	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Sadasivapet	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Toguta	0	0	0	0	0	NNP	0	
-and	0	0	0	0	0	CC	0	
-other	0	0	0	0	0	JJ	0	
-places	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+Similar	1-amod-0	
+protests	3-nsubjpass-1	
+were	3-auxpass-2	
+held	3	
+at	5-case-4	
+Narsapur	3-nmod:at-5	
+,	null	
+Sadasivapet	5-conj:and-7	
+,	null	
+Toguta	5-conj:and-9	
+and	5-cc-10	
+other	12-amod-11	
+places	5-conj:and-12	
+.	null	

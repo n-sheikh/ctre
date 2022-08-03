@@ -1,41 +1,41 @@
-Tiruvannamalai	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Cab	0	0	0	0	0	NNP	0	
-drivers	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-owners	0	0	0	0	0	NNS	0	
-take	0	0	0	0	0	VBP	0	
-out	khooTrig	0	0	0	0	RP	0	
-rally	khooTrig	0	0	0	0	NN	0	
-May	0	0	0	0	date	NNP	0	
-22	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2012	0	0	0	0	date	CD	0	
-00	0	0	0	0	date	CD	0	
-:	0	0	0	0	date	:	0	
-00	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-Tourist	0	0	0	0	person	NNP	0	
-cab	0	0	0	0	0	NN	0	
-drivers	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-owners	0	0	0	0	0	NNS	0	
-took	0	0	0	0	0	VBD	0	
-out	khooTrig	0	0	0	0	RP	0	
-a	0	0	0	0	0	DT	0	
-rally	khooTrig	0	0	0	0	NN	0	
-here	0	0	0	0	0	RB	0	
-on	0	0	0	0	0	IN	0	
-Monday	0	0	0	0	date	NNP	0	
-demanding	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-scrap	0	0	0	0	0	VB	0	
-lifetime	0	0	0	0	0	NN	0	
-tax	0	0	0	0	0	NN	0	
-system	0	0	0	0	0	NN	0	
-introduced	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-Tamil	0	0	0	0	0	NNP	0	
-Nadu	0	0	0	0	0	NNP	0	
-government	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Tiruvannamalai	6-dep-0	
+:	null	
+Cab	3-compound-2	
+drivers	0-dep-3	
+,	null	
+owners	6-nsubj-5	
+take	6	
+out	6-compound:prt-7	
+rally	6-dobj-8	
+May	6-nmod:tmod-9	
+22	9-nummod-10	
+,	null	
+2012	13-nummod-12	
+00	6-parataxis-13	
+:	null	
+00	19-nummod-15	
+IST	19-compound-16	
+Tourist	19-compound-17	
+cab	19-compound-18	
+drivers	22-nsubj-19	
+and	19-cc-20	
+owners	22-nsubj-21	
+took	13-parataxis-22	
+out	22-compound:prt-23	
+a	25-det-24	
+rally	22-dobj-25	
+here	22-advmod-26	
+on	29-mark-27	
+Monday	29-nsubj-28	
+demanding	22-advcl-29	
+to	31-mark-30	
+scrap	29-xcomp-31	
+lifetime	34-compound-32	
+tax	34-compound-33	
+system	31-dobj-34	
+introduced	34-acl-35	
+by	39-case-36	
+Tamil	39-compound-37	
+Nadu	39-compound-38	
+government	35-nmod:by-39	
+.	null	

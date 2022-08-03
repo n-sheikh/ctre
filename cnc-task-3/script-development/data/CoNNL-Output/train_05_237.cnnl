@@ -1,21 +1,21 @@
-If	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-police	0	0	0	0	0	NN	0	
-drive	mcmTrig	0	0	0	0	NN	0	
-continues	0	0	0	0	0	VBZ	0	
-,	0	0	0	0	0	,	0	
-we	0	0	0	0	0	PRP	0	
-will	0	0	0	1	0	MD	modal	
-have	0	1	in_modal_trig_domain	0	0	VB	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-go	0	1	in_modal_trig_domain	0	0	VB	0	
-on	0	1	in_modal_trig_domain	0	0	IN	0	
-a	0	1	in_modal_trig_domain	0	0	DT	0	
-strike	0	1	in_modal_trig_domain	0	0	NN	0	
-on	0	1	in_modal_trig_domain	0	0	IN	0	
-Monday	0	1	in_modal_trig_domain	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-"	0	0	0	0	0	''	0	
-Kshirsagar	0	0	0	0	person	NNP	0	
-said	0	0	0	0	0	VBD	0	
-.	0	0	0	0	0	.	0	
+If	4-mark-0	
+the	3-det-1	
+police	3-compound-2	
+drive	4-nsubj-3	
+continues	8-advcl-4	
+,	null	
+we	8-nsubj-6	
+will	8-aux-7	
+have	19-ccomp-8	
+to	10-mark-9	
+go	8-xcomp-10	
+on	13-case-11	
+a	13-det-12	
+strike	10-nmod:on-13	
+on	15-case-14	
+Monday	13-nmod:on-15	
+,	null	
+"	null	
+Kshirsagar	19-nsubj-18	
+said	19	
+.	null	

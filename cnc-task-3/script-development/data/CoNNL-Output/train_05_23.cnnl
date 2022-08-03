@@ -1,37 +1,37 @@
-It	0	0	0	0	0	PRP	0	
-has	0	0	0	0	0	VBZ	0	
-also	0	0	0	0	0	RB	0	
-sought	0	0	0	0	0	VBN	0	
-a	0	0	0	0	0	DT	0	
-judicial	0	0	0	0	0	JJ	0	
-inquiry	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-entire	0	0	0	0	0	JJ	0	
-case	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-soon	0	0	0	0	0	RB	0	
-after	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-group	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-men	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-lawyers	0	0	0	0	0	NNS	0	
-'	0	0	0	0	0	POS	0	
-robes	khooTrig	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-seen	0	0	0	0	0	VBN	0	
-thrashing	0	0	0	0	0	VBG	0	
-students	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-journalists	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-nearby	0	0	0	0	0	JJ	0	
-Patiala	0	0	0	0	0	NNP	0	
-House	0	0	0	0	0	NNP	0	
-court	0	0	0	0	0	NN	0	
-complex	0	0	0	0	0	NN	0	
-yesterday	0	0	0	0	date	NN	0	
-.	0	0	0	0	0	.	0	
+It	3-nsubj-0	
+has	3-aux-1	
+also	3-advmod-2	
+sought	3	
+a	6-det-4	
+judicial	6-amod-5	
+inquiry	3-dobj-6	
+in	10-case-7	
+the	10-det-8	
+entire	10-amod-9	
+case	6-nmod:in-10	
+,	null	
+soon	23-advmod-12	
+after	23-mark-13	
+a	15-det-14	
+group	23-nsubjpass-15	
+of	17-case-16	
+men	15-nmod:of-17	
+in	21-case-18	
+lawyers	21-nmod:poss-19	
+'	19-case-20	
+robes	17-nmod:in-21	
+were	23-auxpass-22	
+seen	3-advcl-23	
+thrashing	23-xcomp-24	
+students	24-dobj-25	
+and	25-cc-26	
+journalists	25-conj:and-27	
+in	34-case-28	
+the	34-det-29	
+nearby	34-amod-30	
+Patiala	34-compound-31	
+House	34-compound-32	
+court	34-compound-33	
+complex	25-nmod:in-34	
+yesterday	24-nmod:tmod-35	
+.	null	

@@ -1,30 +1,30 @@
-Khanyile	0	0	0	0	0	NNP	0	
-was	0	0	0	0	0	VBD	0	
-last	0	0	0	0	date	JJ	0	
-year	0	0	0	0	date	NN	0	
-denied	0	0	0	0	0	VBN	implicit_negative	
-bail	0	0	in_implicit_neg_trig_domain	0	0	VB	0	
-as	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-he	0	0	in_implicit_neg_trig_domain	0	0	PRP	0	
-had	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
-violated	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-his	0	0	in_implicit_neg_trig_domain	0	0	PRP$	0	
-bail	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-conditions	khooTrig	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-related	0	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-to	0	0	in_implicit_neg_trig_domain	0	0	TO	0	
-an	0	0	in_implicit_neg_trig_domain	0	0	DT	0	
-earlier	0	0	in_implicit_neg_trig_domain	0	0	JJR	0	
-case	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-when	0	0	in_implicit_neg_trig_domain	0	0	WRB	0	
-he	0	0	in_implicit_neg_trig_domain	0	0	PRP	0	
-was	0	0	in_implicit_neg_trig_domain	0	0	VBD	0	
-arrested	khooTrig	0	in_implicit_neg_trig_domain	0	0	VBN	0	
-during	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-student	0	0	in_implicit_neg_trig_domain	0	0	NN	0	
-protests	0	0	in_implicit_neg_trig_domain	0	0	NNS	0	
-in	0	0	in_implicit_neg_trig_domain	0	0	IN	0	
-February	0	0	in_implicit_neg_trig_domain	0	date	NNP	0	
-last	0	0	in_implicit_neg_trig_domain	0	date	JJ	0	
-year	0	0	in_implicit_neg_trig_domain	0	date	NN	0	
-.	0	0	0	0	0	.	0	
+Khanyile	3-nsubj-0	
+was	3-cop-1	
+last	3-amod-2	
+year	3	
+denied	3-acl-4	
+bail	4-ccomp-5	
+as	9-mark-6	
+he	9-nsubj-7	
+had	9-aux-8	
+violated	5-advcl-9	
+his	12-nmod:poss-10	
+bail	12-compound-11	
+conditions	9-dobj-12	
+related	9-advmod-13	
+to	17-case-14	
+an	17-det-15	
+earlier	17-amod-16	
+case	13-nmod:to-17	
+when	21-advmod-18	
+he	21-nsubjpass-19	
+was	21-auxpass-20	
+arrested	9-advcl-21	
+during	24-case-22	
+student	24-compound-23	
+protests	21-nmod:during-24	
+in	26-case-25	
+February	21-nmod:in-26	
+last	28-amod-27	
+year	21-nmod:tmod-28	
+.	null	

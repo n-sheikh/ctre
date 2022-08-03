@@ -1,19 +1,19 @@
-Meanwhile	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-10	0	0	0	0	0	CD	0	
-other	0	0	0	0	0	JJ	0	
-batches	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-policemen	0	0	0	0	0	NNS	0	
-damaged	khooTrig	0	0	0	0	VBD	0	
-public	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-private	0	0	0	0	0	JJ	0	
-property	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-other	0	0	0	0	0	JJ	0	
-places	0	0	0	0	0	NNS	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-town	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Meanwhile	7-advmod-0	
+,	null	
+10	4-nummod-2	
+other	4-amod-3	
+batches	7-nsubj-4	
+of	6-case-5	
+policemen	4-nmod:of-6	
+damaged	7	
+public	11-amod-8	
+and	8-cc-9	
+private	11-amod-10	
+property	7-dobj-11	
+in	14-case-12	
+other	14-amod-13	
+places	7-nmod:in-14	
+in	17-case-15	
+the	17-det-16	
+town	14-nmod:in-17	
+.	null	

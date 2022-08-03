@@ -1,45 +1,45 @@
-Our	0	0	0	0	0	PRP$	0	
-Universities	0	0	0	0	0	NNS	0	
-are	0	0	0	0	0	VBP	0	
-already	0	0	0	0	0	RB	0	
-cash-strapped	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-inevitably	0	0	0	0	0	RB	0	
-the	0	0	0	0	0	DT	0	
-burden	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-paying	0	0	0	0	0	VBG	0	
-for	0	0	0	0	0	IN	0	
-this	0	0	0	0	0	DT	0	
-brazen	0	0	0	0	0	JJ	0	
-right	khooTrig	0	0	0	0	JJ	0	
-wing	khooTrig	0	0	0	0	NN	0	
-vandalism	0	0	0	0	0	NN	0	
-will	0	0	0	1	0	MD	modal	
-be	0	1	in_modal_trig_domain	0	0	VB	0	
-carried	0	1	in_modal_trig_domain	0	0	VBN	0	
-by	0	1	in_modal_trig_domain	0	0	IN	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-poorest	0	1	in_modal_trig_domain	0	0	JJS	0	
-of	0	1	in_modal_trig_domain	0	0	IN	0	
-students	0	1	in_modal_trig_domain	0	0	NNS	0	
-,	0	1	in_modal_trig_domain	0	0	,	0	
-who	0	1	in_modal_trig_domain	0	0	WP	0	
-are	0	1	in_modal_trig_domain	0	0	VBP	0	
-desperate	0	1	in_modal_trig_domain	0	0	JJ	0	
-to	0	1	in_modal_trig_domain	0	0	TO	0	
-access	0	1	in_modal_trig_domain	0	0	VB	0	
-higher	0	1	in_modal_trig_domain	0	0	JJR	0	
-education	0	1	in_modal_trig_domain	0	0	NN	0	
-so	0	1	in_modal_trig_domain	0	0	RB	0	
-that	0	1	in_modal_trig_domain	0	0	IN	0	
-they	0	1	in_modal_trig_domain	0	0	PRP	0	
-can	khooTrig	1	in_modal_trig_domain	1	0	MD	modal	
-one	0	null	null	0	0	CD	0	
-day	0	null	null	0	0	NN	0	
-get	khooTrig	null	null	0	0	VB	0	
-a	0	null	null	0	0	DT	0	
-job	0	null	null	0	0	NN	0	
-.	0	0	0	0	0	.	0	
-'	0	0	0	0	0	RB	0	
-'	0	0	0	0	0	VB	0	
+Our	1-nmod:poss-0	
+Universities	4-nsubj-1	
+are	4-cop-2	
+already	4-advmod-3	
+cash-strapped	4	
+and	4-cc-5	
+inevitably	19-advmod-6	
+the	8-det-7	
+burden	19-nsubjpass-8	
+of	10-mark-9	
+paying	8-acl-10	
+for	16-case-11	
+this	16-det-12	
+brazen	16-amod-13	
+right	16-amod-14	
+wing	16-compound-15	
+vandalism	10-nmod:for-16	
+will	19-aux-17	
+be	19-auxpass-18	
+carried	4-conj:and-19	
+by	22-case-20	
+the	22-det-21	
+poorest	19-nmod:agent-22	
+of	24-case-23	
+students	22-nmod:of-24	
+,	null	
+who	28-nsubj-26	
+are	28-cop-27	
+desperate	22-acl:relcl-28	
+to	30-mark-29	
+access	28-xcomp-30	
+higher	32-amod-31	
+education	30-dobj-32	
+so	39-mark-33	
+that	33-mwe-34	
+they	39-nsubj-35	
+can	39-aux-36	
+one	38-nummod-37	
+day	39-nmod:tmod-38	
+get	30-advcl-39	
+a	41-det-40	
+job	39-dobj-41	
+.	null	
+'	0	
+'	0-dep-1	

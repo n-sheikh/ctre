@@ -1,22 +1,22 @@
-It	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-surcharged	0	0	0	0	0	NN	0	
-atmosphere	0	0	0	0	0	NN	0	
-as	0	0	0	0	0	IN	0	
-some	0	0	0	0	0	DT	0	
-lawyers	0	0	0	0	0	NNS	0	
-went	0	0	0	0	0	VBD	0	
-on	0	0	0	0	0	IN	0	
-an	0	0	0	0	0	DT	0	
-attacking	0	0	0	0	0	VBG	0	
-spree	0	0	0	0	0	NN	0	
-without	0	0	0	0	0	IN	explicit_negative	
-any	0	0	0	0	0	DT	0	
-provocation	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-identifying	0	0	0	0	0	VBG	0	
-visual	0	0	0	0	0	JJ	0	
-media	0	0	0	0	0	NNS	0	
-personnel	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+It	4-nsubj-0	
+was	4-cop-1	
+a	4-det-2	
+surcharged	4-compound-3	
+atmosphere	4	
+as	8-mark-5	
+some	7-det-6	
+lawyers	8-nsubj-7	
+went	4-advcl-8	
+on	12-case-9	
+an	12-det-10	
+attacking	12-amod-11	
+spree	8-nmod:on-12	
+without	15-case-13	
+any	15-det-14	
+provocation	8-nmod:without-15	
+,	null	
+identifying	8-xcomp-17	
+visual	20-amod-18	
+media	20-compound-19	
+personnel	17-dobj-20	
+.	null	

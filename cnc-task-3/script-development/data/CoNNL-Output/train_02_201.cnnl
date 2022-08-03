@@ -1,29 +1,29 @@
-Referring	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-today	0	0	0	0	date	NN	0	
-'s	0	0	0	0	0	POS	0	
-Congress	0	0	0	0	0	NNP	0	
-rally	khooTrig	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Ramlila	0	0	0	0	0	NNP	0	
-Maidan	0	0	0	0	0	NNP	0	
-here	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-he	0	0	0	0	0	PRP	0	
-said	0	0	0	0	0	VBD	0	
-Congress	0	0	0	0	0	NNP	0	
-just	0	0	0	0	0	RB	0	
-wants	0	0	0	0	0	VBZ	0	
-to	0	0	0	0	0	TO	0	
-show	0	0	0	0	0	VB	0	
-they	0	0	0	0	0	PRP	0	
-have	0	0	0	0	0	VBP	0	
-"	0	0	0	0	0	``	0	
-some	0	0	0	0	0	DT	0	
-support	mcmTrig	0	0	0	0	NN	0	
-"	0	0	0	0	0	''	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-country	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Referring	13-advcl-0	
+to	5-case-1	
+today	5-nmod:poss-2	
+'s	2-case-3	
+Congress	5-compound-4	
+rally	0-nmod:to-5	
+at	9-case-6	
+the	9-det-7	
+Ramlila	9-compound-8	
+Maidan	5-nmod:at-9	
+here	9-advmod-10	
+,	null	
+he	13-nsubj-12	
+said	13	
+Congress	16-nsubj-14	
+just	16-advmod-15	
+wants	13-ccomp-16	
+to	18-mark-17	
+show	16-xcomp-18	
+they	20-nsubj-19	
+have	18-ccomp-20	
+"	null	
+some	23-det-22	
+support	20-dobj-23	
+"	null	
+in	27-case-25	
+the	27-det-26	
+country	23-nmod:in-27	
+.	null	

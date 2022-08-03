@@ -1,27 +1,27 @@
-Back	khooTrig	0	0	0	0	RB	0	
-then	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-the	0	0	0	0	0	DT	0	
-demonstrations	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-largely	0	0	0	0	0	RB	0	
-motivated	0	0	0	0	0	VBN	0	
-by	0	0	0	0	0	IN	0	
-concern	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-fate	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-nation	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-a	0	0	0	0	0	DT	0	
-desire	0	0	0	0	0	NN	0	
-to	0	0	0	0	0	TO	0	
-see	0	0	0	0	0	VB	0	
-democratic	0	0	0	0	0	JJ	0	
-freedoms	0	0	0	0	0	NNS	0	
-put	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-place	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Back	1-advmod-0	
+then	7-advmod-1	
+,	null	
+the	4-det-3	
+demonstrations	7-nsubjpass-4	
+were	7-auxpass-5	
+largely	7-advmod-6	
+motivated	7	
+by	9-case-8	
+concern	7-nmod:agent-9	
+for	12-case-10	
+the	12-det-11	
+fate	9-nmod:for-12	
+of	15-case-13	
+the	15-det-14	
+nation	12-nmod:of-15	
+and	15-cc-16	
+a	18-det-17	
+desire	15-conj:and-18	
+to	20-mark-19	
+see	18-acl-20	
+democratic	22-amod-21	
+freedoms	20-dobj-22	
+put	22-acl-23	
+in	25-case-24	
+place	23-nmod:in-25	
+.	null	

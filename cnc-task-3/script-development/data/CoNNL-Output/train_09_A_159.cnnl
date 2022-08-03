@@ -1,25 +1,25 @@
-A	0	0	0	0	0	DT	0	
-section	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-people	0	0	0	0	0	NNS	0	
-resorted	0	0	0	0	0	VBD	0	
-to	0	0	0	0	0	TO	0	
-road	0	0	0	0	0	NN	0	
-blockade	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-the	0	0	0	0	0	DT	0	
-timely	0	0	0	0	0	JJ	0	
-intervention	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-Central	0	0	0	0	location	NNP	0	
-Armed	0	0	0	0	location	NNP	0	
-Police	0	0	0	0	0	NNP	0	
-Force	khooTrig	0	0	0	0	NNP	0	
-(	0	0	0	0	0	(	0	
-CAPF	0	0	0	0	0	NNP	0	
-)	0	0	0	0	0	)	0	
-defused	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-situation	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+A	1-det-0	
+section	4-nsubj-1	
+of	3-case-2	
+people	1-nmod:of-3	
+resorted	4	
+to	7-case-5	
+road	7-compound-6	
+blockade	4-nmod:to-7	
+,	null	
+but	4-cc-9	
+the	12-det-10	
+timely	12-amod-11	
+intervention	21-nsubj-12	
+of	17-case-13	
+Central	17-compound-14	
+Armed	17-compound-15	
+Police	17-compound-16	
+Force	12-nmod:of-17	
+(	null	
+CAPF	12-appos-19	
+)	null	
+defused	4-conj:but-21	
+the	23-det-22	
+situation	21-dobj-23	
+.	null	

@@ -1,4 +1,4 @@
-collate_fn_name: TransformerCollateFn
+collate_fn_name: CNCCollateFn
 llm_name:bert-base-uncased
 connl_folder_path: /home/nadia/Documents/CLaC-Lab/ctre/cnc-task-3/script-development/data/CoNNL-Output
-feature_name_embedding_fn: tokenString-mirim_llm_token_embedding,  pos-one_hot_embedding, is_modal_trigger?-binary_embedding
+feature_name_embedding_fn: tokenString-llm_token_embedding,  dependency-dependency_syntactic_positional_encoding

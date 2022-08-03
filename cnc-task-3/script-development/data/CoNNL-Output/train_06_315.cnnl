@@ -1,28 +1,28 @@
-59	0	0	0	0	0	CD	0	
-persons	0	0	0	0	0	NNS	0	
-died	0	0	0	0	0	VBD	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Sabarmati	0	0	0	0	0	NNP	0	
-express	khooTrig	0	0	0	0	NN	0	
-attack	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-Godhra	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-February	0	0	0	0	date	NNP	0	
-27	0	0	0	0	date	CD	0	
-,	0	0	0	0	date	,	0	
-2002	0	0	0	0	date	CD	0	
-while	0	0	0	0	0	IN	0	
-around	0	0	0	0	0	IN	0	
-1	0	0	0	0	0	CD	0	
-,	0	0	0	0	0	,	0	
-000	0	0	0	0	0	CD	0	
-persons	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-killed	0	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-resultant	0	0	0	0	0	JJ	0	
-riots	0	0	0	0	0	NNS	0	
-.	0	0	0	0	0	.	0	
+59	1-nummod-0	
+persons	2-nsubj-1	
+died	2	
+in	7-case-3	
+the	7-det-4	
+Sabarmati	7-compound-5	
+express	7-compound-6	
+attack	2-nmod:in-7	
+in	9-case-8	
+Godhra	2-nmod:in-9	
+on	11-case-10	
+February	2-nmod:on-11	
+27	11-nummod-12	
+,	null	
+2002	11-nummod-14	
+while	22-mark-15	
+around	17-case-16	
+1	22-nmod:around-17	
+,	null	
+000	20-nummod-19	
+persons	22-nsubjpass-20	
+were	22-auxpass-21	
+killed	2-advcl-22	
+in	26-case-23	
+the	26-det-24	
+resultant	26-amod-25	
+riots	22-nmod:in-26	
+.	null	

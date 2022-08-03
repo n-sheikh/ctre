@@ -1,43 +1,43 @@
-“	0	0	0	0	0	VBG	0	
-It	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-planned	0	0	0	0	0	JJ	0	
-attack	0	0	0	0	0	NN	0	
-instigated	khooTrig	0	0	0	0	VBD	0	
-by	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-PMK	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-are	0	0	0	0	0	VBP	0	
-trying	0	0	0	0	0	VBG	0	
-to	0	0	0	0	0	TO	0	
-gain	0	0	0	0	0	VB	0	
-political	0	0	0	0	0	JJ	0	
-mileage	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-”	0	0	0	0	0	VBD	0	
-he	0	0	0	0	0	PRP	0	
-charged	0	0	0	0	0	VBD	0	
-and	0	0	0	0	0	CC	0	
-added	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-members	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-a	0	0	0	0	0	DT	0	
-community	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-30	0	0	0	0	date	CD	0	
-villages	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-spread	khooTrig	0	0	0	0	VBN	0	
-across	0	0	0	0	0	IN	0	
-political	0	0	0	0	0	JJ	0	
-parties	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-joined	khooTrig	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-PMK-led	0	0	0	0	0	JJ	0	
-assault	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+“	23-csubj-0	
+It	5-nsubj-1	
+was	5-cop-2	
+a	5-det-3	
+planned	5-amod-4	
+attack	0-ccomp-5	
+instigated	6	
+by	9-case-7	
+the	9-det-8	
+PMK	6-nmod:by-9	
+,	null	
+who	13-nsubj-11	
+are	13-aux-12	
+trying	9-acl:relcl-13	
+to	15-mark-14	
+gain	13-xcomp-15	
+political	17-amod-16	
+mileage	15-dobj-17	
+,	null	
+”	6-conj:and-19	
+he	21-nsubj-20	
+charged	19-ccomp-21	
+and	6-cc-22	
+added	6-conj:and-23	
+that	38-mark-24	
+members	38-nsubj-25	
+of	28-case-26	
+a	28-det-27	
+community	25-nmod:of-28	
+in	31-case-29	
+30	31-nummod-30	
+villages	28-nmod:in-31	
+,	null	
+spread	25-acl-33	
+across	36-case-34	
+political	36-amod-35	
+parties	33-nmod:across-36	
+,	null	
+joined	23-ccomp-38	
+the	41-det-39	
+PMK-led	41-amod-40	
+assault	38-dobj-41	
+.	null	

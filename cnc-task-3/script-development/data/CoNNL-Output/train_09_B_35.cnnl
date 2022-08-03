@@ -1,40 +1,40 @@
-We	0	0	0	0	0	PRP	0	
-have	0	0	0	0	0	VBP	0	
-been	0	0	0	0	0	VBN	0	
-together	0	0	0	0	0	RB	0	
-in	0	0	0	0	0	IN	0	
-each	0	0	0	0	0	DT	0	
-other	0	0	0	0	0	JJ	0	
-'s	0	0	0	0	0	POS	0	
-hour	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-grief	0	0	0	0	0	NN	0	
-and	0	0	0	0	0	CC	0	
-joy	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-but	0	0	0	0	0	CC	0	
-to	0	0	0	0	0	TO	0	
-allege	0	0	0	0	0	VB	0	
-that	0	0	0	0	0	IN	0	
-I	0	0	0	0	0	PRP	0	
-was	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-part	khooTrig	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-crowd	0	0	0	0	0	NN	0	
-that	0	0	0	0	0	WDT	0	
-incited	0	0	0	0	0	VBD	0	
-them	0	0	0	0	0	PRP	0	
-to	0	0	0	0	0	TO	0	
-raise	khooTrig	0	0	0	0	VB	0	
-anti-	0	0	0	0	0	JJ	0	
-Sikh	0	0	0	0	0	JJ	0	
-slogans	0	0	0	0	0	NNS	0	
-is	0	0	0	0	0	VBZ	0	
-a	0	0	0	0	0	DT	0	
-preposterous	0	0	0	0	0	JJ	0	
-and	0	0	0	0	0	CC	0	
-blatant	0	0	0	0	0	JJ	0	
-lie	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+We	8-nsubj-0	
+have	8-aux-1	
+been	8-cop-2	
+together	8-advmod-3	
+in	8-case-4	
+each	6-det-5	
+other	8-nmod:poss-6	
+'s	6-case-7	
+hour	8	
+of	10-case-9	
+grief	8-nmod:of-10	
+and	10-cc-11	
+joy	10-conj:and-12	
+,	null	
+but	8-cc-14	
+to	16-mark-15	
+allege	38-csubj-16	
+that	21-mark-17	
+I	21-nsubj-18	
+was	21-cop-19	
+a	21-det-20	
+part	16-ccomp-21	
+of	24-case-22	
+the	24-det-23	
+crowd	21-nmod:of-24	
+that	26-nsubj-25	
+incited	24-acl:relcl-26	
+them	26-dobj-27	
+to	29-mark-28	
+raise	26-advcl-29	
+anti-	32-amod-30	
+Sikh	32-amod-31	
+slogans	29-dobj-32	
+is	38-cop-33	
+a	38-det-34	
+preposterous	38-amod-35	
+and	35-cc-36	
+blatant	38-amod-37	
+lie	8-conj:but-38	
+.	null	

@@ -1,0 +1,15 @@
+The	1-det-0	
+attacks	2-nsubj-1	
+resulted	2	
+in	6-case-3	
+over	5-advmod-4	
+250	6-nummod-5	
+deaths	2-nmod:in-6	
+and	6-cc-7	
+injuries	6-conj:and-8	
+to	13-case-9	
+more	12-advmod-10	
+than	10-mwe-11	
+700	13-nummod-12	
+people	8-nmod:to-13	
+.	null	

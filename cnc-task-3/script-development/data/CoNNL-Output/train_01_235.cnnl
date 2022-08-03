@@ -1,67 +1,67 @@
-Secretary	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Insurance	0	0	0	0	0	NNP	0	
-Corporation	0	0	0	0	0	NNP	0	
-Employees	0	0	0	0	0	NNPS	0	
-’	0	0	0	0	0	NNP	0	
-Union	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-Nellore	0	0	0	0	0	NNP	0	
-Division	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-K	0	0	0	0	person	NNP	0	
-.	0	0	0	0	person	.	0	
-Gopalakrishnaiah	0	0	0	0	person	NN	0	
-and	0	0	0	0	0	CC	0	
-other	0	0	0	0	0	JJ	0	
-leaders	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-who	0	0	0	0	0	WP	0	
-held	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-in	0	0	0	0	0	IN	0	
-front	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-United	0	0	0	0	0	NNP	0	
-India	0	0	0	0	0	NNP	0	
-Insurance	0	0	0	0	0	NNP	0	
-Company	0	0	0	0	0	NNP	0	
-here	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-criticised	0	0	0	0	0	VBD	0	
-the	0	0	0	0	0	DT	0	
-UPA	0	0	0	0	0	NN	0	
-that	0	0	0	0	0	WDT	0	
-had	0	0	0	0	0	VBD	0	
-categorically	0	0	0	0	0	RB	0	
-said	0	0	0	0	0	VBN	0	
-it	0	0	0	0	0	PRP	0	
-would	0	0	0	1	0	MD	modal	
-strengthen	khooTrig	1	in_modal_trig_domain	0	0	VB	0	
-the	0	1	in_modal_trig_domain	0	0	DT	0	
-LIC	0	1	in_modal_trig_domain	0	0	NNP	0	
-and	0	1	in_modal_trig_domain	0	0	CC	0	
-GICs	0	1	in_modal_trig_domain	0	0	NNP	0	
-but	0	0	0	0	0	CC	0	
-was	0	0	0	0	0	VBD	0	
-doing	0	0	0	0	0	VBG	0	
-just	0	0	0	0	0	RB	0	
-the	0	0	0	0	0	DT	0	
-opposite	0	0	0	0	0	JJ	0	
-by	0	0	0	0	0	IN	0	
-hiking	khooTrig	0	0	0	0	VBG	0	
-the	0	0	0	0	0	DT	0	
-cap	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-Foreign	0	0	0	0	0	NNP	0	
-Direct	0	0	0	0	0	NNP	0	
-Investment	0	0	0	0	0	NNP	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-insurance	0	0	0	0	0	NN	0	
-sector	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Secretary	49-nsubj-0	
+of	7-case-1	
+the	7-det-2	
+Insurance	7-compound-3	
+Corporation	7-compound-4	
+Employees	7-compound-5	
+’	7-compound-6	
+Union	0-nmod:of-7	
+,	null	
+Nellore	10-compound-9	
+Division	7-conj:and-10	
+,	null	
+K	14-compound-12	
+.	null	
+Gopalakrishnaiah	7-conj:and-14	
+and	7-cc-15	
+other	17-amod-16	
+leaders	7-conj:and-17	
+,	null	
+who	20-nsubj-19	
+held	0-acl:relcl-20	
+a	22-det-21	
+demonstration	20-dobj-22	
+in	30-case-23	
+front	23-mwe-24	
+of	23-mwe-25	
+the	30-det-26	
+United	30-compound-27	
+India	30-compound-28	
+Insurance	30-compound-29	
+Company	22-nmod:in_front_of-30	
+here	20-advmod-31	
+,	null	
+criticised	33	
+the	35-det-34	
+UPA	33-dobj-35	
+that	39-nsubj-36	
+had	39-aux-37	
+categorically	39-advmod-38	
+said	35-acl:relcl-39	
+it	42-nsubj-40	
+would	42-aux-41	
+strengthen	39-ccomp-42	
+the	44-det-43	
+LIC	42-dobj-44	
+and	44-cc-45	
+GICs	44-conj:and-46	
+but	33-cc-47	
+was	49-aux-48	
+doing	33-conj:but-49	
+just	49-advmod-50	
+the	52-det-51	
+opposite	49-nmod-52	
+by	52-mark-53	
+hiking	52-dep-54	
+the	56-det-55	
+cap	54-dobj-56	
+on	61-case-57	
+the	61-det-58	
+Foreign	61-compound-59	
+Direct	61-compound-60	
+Investment	56-nmod:on-61	
+in	65-case-62	
+the	65-det-63	
+insurance	65-compound-64	
+sector	54-nmod:in-65	
+.	null	

@@ -1,48 +1,48 @@
-Engg	0	0	0	0	0	VBG	0	
-students	0	0	0	0	0	NNS	0	
-demand	0	0	0	0	0	VBP	0	
-uniform	0	0	0	0	0	JJ	0	
-rule	0	0	0	0	0	NN	0	
-on	0	0	0	0	0	IN	0	
-ATKT	0	0	0	0	0	NNP	0	
-Posted	0	0	0	0	0	NNP	0	
-:	0	0	0	0	0	:	0	
-Fri	0	0	0	0	date	NNP	0	
-Jan	0	0	0	0	date	NNP	0	
-15	0	0	0	0	date	CD	0	
-1999	0	0	0	0	date	CD	0	
-IST	0	0	0	0	person	NNP	0	
-MUMBAI	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-JANUARY	0	0	0	0	date	NNP	0	
-14	0	0	0	0	date	CD	0	
-:	0	0	0	0	0	:	0	
-Engineering	0	0	0	0	0	NNP	0	
-students	0	0	0	0	0	NNS	0	
-held	0	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-demonstration	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-University	0	0	0	0	0	NNP	0	
-of	0	0	0	0	0	IN	0	
-Mumbai	0	0	0	0	0	NNP	0	
-campus	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-Fort	0	0	0	0	0	NNP	0	
-on	0	0	0	0	0	IN	0	
-Wednesday	0	0	0	0	date	NNP	0	
-,	0	0	0	0	0	,	0	
-demanding	0	0	0	0	0	VBG	0	
-that	0	0	0	0	0	IN	0	
-they	0	0	0	0	0	PRP	0	
-be	0	0	0	0	0	VB	0	
-allowed	0	0	0	0	0	VBN	0	
-to	0	0	0	0	0	TO	0	
-keep	0	0	0	0	0	VB	0	
-term	0	0	0	0	0	NN	0	
-grant	0	0	0	0	0	NN	0	
-for	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-year	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Engg	21-dep-0	
+students	0-dobj-1	
+demand	0-dep-2	
+uniform	4-amod-3	
+rule	2-dobj-4	
+on	10-case-5	
+ATKT	10-compound-6	
+Posted	10-compound-7	
+:	null	
+Fri	10-compound-9	
+Jan	2-nmod:on-10	
+15	14-nummod-11	
+1999	14-nummod-12	
+IST	14-compound-13	
+MUMBAI	0-nsubj-14	
+,	null	
+JANUARY	14-appos-16	
+14	16-nummod-17	
+:	null	
+Engineering	20-compound-19	
+students	21-nsubj-20	
+held	21	
+a	23-det-22	
+demonstration	21-dobj-23	
+at	29-case-24	
+the	29-det-25	
+University	29-dep-26	
+of	28-case-27	
+Mumbai	26-nmod:of-28	
+campus	21-nmod:at-29	
+at	31-case-30	
+Fort	29-nmod:at-31	
+on	33-case-32	
+Wednesday	21-nmod:on-33	
+,	null	
+demanding	21-advcl-35	
+that	39-mark-36	
+they	39-nsubjpass-37	
+be	39-auxpass-38	
+allowed	35-ccomp-39	
+to	41-mark-40	
+keep	39-xcomp-41	
+term	43-compound-42	
+grant	41-dobj-43	
+for	46-case-44	
+the	46-det-45	
+year	41-nmod:for-46	
+.	null	

@@ -1,35 +1,35 @@
-Then	0	0	0	0	0	RB	0	
-,	0	0	0	0	0	,	0	
-Roja	0	0	0	0	0	NNP	0	
-,	0	0	0	0	0	,	0	
-along	0	0	0	0	0	IN	0	
-with	0	0	0	0	0	IN	0	
-other	0	0	0	0	0	JJ	0	
-YSRC	0	0	0	0	0	NNP	0	
-leaders	0	0	0	0	0	NNS	0	
-and	0	0	0	0	0	CC	0	
-activists	0	0	0	0	0	NNS	0	
-,	0	0	0	0	0	,	0	
-immediately	0	0	0	0	0	RB	0	
-staged	khooTrig	0	0	0	0	VBD	0	
-a	0	0	0	0	0	DT	0	
-dharna	0	0	0	0	0	NN	0	
-at	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-temple	0	0	0	0	0	NN	0	
-itself	0	0	0	0	0	PRP	0	
-until	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-early	0	0	0	0	0	JJ	0	
-hours	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-Saturday	0	0	0	0	date	NNP	0	
-seeking	0	0	0	0	0	VBG	0	
-action	0	0	0	0	0	NN	0	
-against	0	0	0	0	0	IN	implicit_negative	
-those	0	0	0	0	0	DT	0	
-involved	mcmTrig	0	0	0	0	VBN	0	
-in	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-incident	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+Then	13-advmod-0	
+,	null	
+Roja	13-nsubj-2	
+,	null	
+along	2-advmod-4	
+with	8-case-5	
+other	8-amod-6	
+YSRC	8-compound-7	
+leaders	4-nmod:with-8	
+and	8-cc-9	
+activists	8-conj:and-10	
+,	null	
+immediately	13-advmod-12	
+staged	13	
+a	15-det-14	
+dharna	13-dobj-15	
+at	18-case-16	
+the	18-det-17	
+temple	13-nmod:at-18	
+itself	18-nmod:npmod-19	
+until	23-case-20	
+the	23-det-21	
+early	23-amod-22	
+hours	13-nmod:until-23	
+of	25-case-24	
+Saturday	23-nmod:of-25	
+seeking	23-acl-26	
+action	26-dobj-27	
+against	29-case-28	
+those	27-nmod:against-29	
+involved	29-acl-30	
+in	33-case-31	
+the	33-det-32	
+incident	30-nmod:in-33	
+.	null	

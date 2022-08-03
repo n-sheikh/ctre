@@ -1,18 +1,18 @@
-On	0	0	0	0	0	IN	0	
-August	0	0	0	0	date	NNP	0	
-8	0	0	0	0	date	CD	0	
-,	0	0	0	0	0	,	0	
-about	0	0	0	0	0	RB	0	
-15	0	0	0	0	0	CD	0	
-armed	0	0	0	0	0	JJ	0	
-goons	0	0	0	0	0	NNS	0	
-beat	0	0	0	0	0	VBP	0	
-me	0	0	0	0	0	PRP	0	
-and	0	0	0	0	0	CC	0	
-my	0	0	0	0	0	PRP$	0	
-wife	0	0	0	0	0	NN	0	
-mercilessly	0	0	0	0	0	VBP	0	
-at	0	0	0	0	0	IN	0	
-my	0	0	0	0	0	PRP$	0	
-home	0	0	0	0	0	NN	0	
-.	0	0	0	0	0	.	0	
+On	1-case-0	
+August	8-nmod:on-1	
+8	1-nummod-2	
+,	null	
+about	5-advmod-4	
+15	7-nummod-5	
+armed	7-amod-6	
+goons	8-nsubj-7	
+beat	8	
+me	8-dobj-9	
+and	8-cc-10	
+my	12-nmod:poss-11	
+wife	13-nsubj-12	
+mercilessly	8-conj:and-13	
+at	16-case-14	
+my	16-nmod:poss-15	
+home	13-nmod:at-16	
+.	null	

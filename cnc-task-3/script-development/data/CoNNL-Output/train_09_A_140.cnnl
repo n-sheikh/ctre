@@ -1,0 +1,17 @@
+"	null	
+When	5-advmod-1	
+the	4-det-2	
+security	4-compound-3	
+forces	5-nsubj-4	
+surrounded	10-advcl-5	
+the	7-det-6	
+house	5-dobj-7	
+,	null	
+they	10-nsubj-9	
+came	10	
+under	13-case-11	
+heavy	13-amod-12	
+gunfire	10-nmod:under-13	
+from	15-case-14	
+inside	13-nmod:from-15	
+.	null	

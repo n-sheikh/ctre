@@ -1,0 +1,17 @@
+Modiba	1-nsubj-0	
+said	1	
+he	3-nsubj-2	
+saw	1-ccomp-3	
+the	6-det-4	
+aggressive	6-amod-5	
+strikers	7-nsubj-6	
+running	3-dep-7	
+alongside	11-case-8	
+a	11-det-9	
+police	11-compound-10	
+Nyala	7-nmod:alongside-11	
+,	null	
+charging	3-xcomp-13	
+at	15-case-14	
+police	13-nmod:at-15	
+.	null	

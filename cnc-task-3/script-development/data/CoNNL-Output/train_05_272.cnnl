@@ -1,0 +1,17 @@
+Police	1-compound-0	
+officers	7-nsubj-1	
+arrived	2	
+on	5-case-3	
+the	5-det-4	
+spot	2-nmod:on-5	
+and	2-cc-6	
+promised	2-conj:and-7	
+action	7-dobj-8	
+and	7-cc-9	
+convinced	7-conj:and-10	
+Jaya	10-dobj-11	
+to	13-mark-12	
+stop	10-xcomp-13	
+the	15-det-14	
+protest	13-dobj-15	
+.	null	

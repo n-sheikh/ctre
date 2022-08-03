@@ -1,24 +1,24 @@
-What	0	0	0	0	0	WP	0	
-was	0	0	0	0	0	VBD	0	
-interesting	0	0	0	0	0	JJ	0	
-was	0	0	0	0	0	VBD	0	
-that	0	0	0	0	0	IN	0	
-on	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-other	0	0	0	0	0	JJ	0	
-side	0	0	0	0	0	NN	0	
-of	0	0	0	0	0	IN	0	
-the	0	0	0	0	0	DT	0	
-road	0	0	0	0	0	NN	0	
-,	0	0	0	0	0	,	0	
-scores	0	0	0	0	0	NNS	0	
-of	0	0	0	0	0	IN	0	
-residents	0	0	0	0	0	NNS	0	
-were	0	0	0	0	0	VBD	0	
-again	0	0	0	0	0	RB	0	
-ululating	0	0	0	0	0	VBG	0	
-and	0	0	0	0	0	CC	0	
-chanting	0	0	0	0	0	VBG	0	
-ANC	0	0	0	0	0	NNP	0	
-!	0	0	0	0	0	.	0	
-!	0	0	0	0	0	VBN	0	
+What	2-nsubj-0	
+was	2-cop-1	
+interesting	3-nsubj-2	
+was	3	
+that	18-mark-4	
+on	8-case-5	
+the	8-det-6	
+other	8-amod-7	
+side	18-nmod:on-8	
+of	11-case-9	
+the	11-det-10	
+road	8-nmod:of-11	
+,	null	
+scores	20-nsubj-13	
+of	15-case-14	
+residents	13-nmod:of-15	
+were	18-aux-16	
+again	18-advmod-17	
+ululating	3-ccomp-18	
+and	18-cc-19	
+chanting	18-conj:and-20	
+ANC	18-dobj-21	
+!	null	
+!	0	

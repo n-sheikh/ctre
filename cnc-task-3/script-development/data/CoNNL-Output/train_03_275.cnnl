@@ -1,0 +1,13 @@
+Police	1-nsubj-0	
+took	1	
+into	3-case-2	
+custody	1-nmod:into-3	
+fifteen	5-compound-4	
+activists	1-dobj-5	
+for	7-mark-6	
+blocking	5-acl-7	
+the	9-det-8	
+traffic	7-dobj-9	
+in	11-case-10	
+Visakhapatnam	9-nmod:in-11	
+.	null	
